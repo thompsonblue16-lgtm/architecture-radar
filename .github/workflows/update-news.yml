@@ -1,0 +1,44 @@
+name: Daily Architecture News Update
+
+on:
+  schedule:
+    # Every morning at 08:20 Chicago time, including DST changes.
+    - cron: '20 8 * * *'
+      timezone: 'America/Chicago'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/update_news.py'
+      - '.github/workflows/update-news.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: architecture-news-data
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Collect architecture headlines
+        run: python scripts/update_news.py
+      - name: Commit updated articles only when changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json data/news.js
+          if ! git diff --cached --quiet; then
+            git commit -m "data: refresh architecture headlines"
+            git push
+          else
+            echo "No new data to commit"
+          fi
