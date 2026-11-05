@@ -21,6 +21,8 @@ from urllib.parse import quote_plus, urlsplit, urlunsplit, parse_qsl, urlencode
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
 
+from image_enrich import enrich
+
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "news.json"
 OUT_JS = ROOT / "data" / "news.js"
@@ -325,6 +327,8 @@ def main():
         logging.error('All sources failed. Leaving previous dataset untouched.')
         raise SystemExit(1)
 
+    # Keep images and image-check timestamps from earlier successful runs.
+    previous_by_url = {normalize_url(a.get('url', '')): a for a in previous if a.get('url')}
     seen = set()
     rows = []
     # New data first, keeping the existing curated data from previous runs.
@@ -338,6 +342,11 @@ def main():
         if not pub or pub < NOW - timedelta(days=MAX_AGE_DAYS): continue
         seen.add(key)
         seen.add(norm_title)
+        cached = previous_by_url.get(url, {})
+        if not row.get('image') and cached.get('image'):
+            row['image'] = cached['image']
+        if cached.get('image_checked_at') and not row.get('image_checked_at'):
+            row['image_checked_at'] = cached['image_checked_at']
         rows.append(row)
         if len(rows) >= MAX_ITEMS: break
 
@@ -345,6 +354,9 @@ def main():
     if not rows and previous:
         logging.warning('No matching articles; preserving previous file.')
         return
+    # Extract publisher cover image metadata for a bounded number of cards.
+    # Missing image URLs from older articles are backfilled over later runs.
+    enrich(rows, NOW)
     payload = {
         'updated_at': NOW.isoformat(timespec='seconds'),
         'total': len(rows),
