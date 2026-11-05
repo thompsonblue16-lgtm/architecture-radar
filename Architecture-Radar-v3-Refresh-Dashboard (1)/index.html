@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#17221e" />
+  <meta name="description" content="Architecture Radar — 每日建筑项目动态，跟踪设计公布、规划审批、施工开工和项目竣工。" />
+  <title>Architecture Radar — 建筑行业情报站</title>
+  <link rel="stylesheet" href="./assets/styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="rail">
+      <a class="brand" href="./" aria-label="Architecture Radar 首页">
+        <span class="brand-mark"><span></span><span></span><span></span></span>
+        <span class="brand-name">ARCHITECTURE<span>RADAR</span></span>
+      </a>
+      <p class="rail-kicker">BUILT ENVIRONMENT INTELLIGENCE</p>
+      <div class="rail-divider"></div>
+      <p class="rail-label">WORKSPACE</p>
+      <nav aria-label="站点视图" class="nav-group" id="nav-view">
+        <button class="nav-link active" data-view="overview" type="button"><span class="nav-icon">◈</span><span>情报总览</span><span class="nav-tail">↗</span></button>
+        <button class="nav-link" data-view="all" type="button"><span class="nav-icon">▦</span><span>全部新闻</span></button>
+        <button class="nav-link" data-view="recent" type="button"><span class="nav-icon">◷</span><span>最近 7 天</span></button>
+        <button class="nav-link" data-view="saved" type="button"><span class="nav-icon">♡</span><span>我的私密收藏</span><span id="saved-count" class="nav-count">0</span></button>
+        <button class="nav-link" data-view="projects" type="button"><span class="nav-icon">▤</span><span>共享项目</span></button>
+      </nav>
+      <p class="rail-label rail-label-spaced">PROJECT STATUS</p>
+      <nav aria-label="项目状态" class="status-group" id="nav-status"></nav>
+      <div class="rail-bottom">
+        <div class="rail-note">
+          <span class="tiny-status-dot"></span><span>DAILY SYNC · 08:20 CT</span>
+          <p>每天捕捉建筑项目的新动向，从构想到真正建成。</p>
+        </div>
+        <span class="rail-footer">INDEPENDENT NEWS AGGREGATOR · V3.0</span>
+      </div>
+    </aside>
+
+    <div class="workspace">
+      <header class="topbar">
+        <div class="breadcrumb">INTELLIGENCE <span>/</span> <strong>PROJECT WATCH</strong></div>
+        <div class="top-actions"><button type="button" class="login-button" id="auth-button">登录 / 注册</button><button type="button" class="logout-button" id="logout-button" hidden>退出</button><span id="today-label">—</span><span class="top-separator"></span><span id="sync-indicator" class="sync-indicator"><i></i> 检查数据中</span><button type="button" id="refresh-button" title="检查并重新读取最新发布的新闻数据（不会在网页中直接运行抓取程序）" class="refresh-primary" aria-label="检查新闻更新">↻ 刷新新闻</button></div>
+      </header>
+
+      <main class="main-content">
+        <div class="eyebrow"><span class="eyebrow-line"></span> YOUR DAILY ARCHITECTURE BRIEFING <span class="edition">/ EDITION 001</span></div>
+        <section class="hero" id="overview-hero">
+          <div class="hero-content">
+            <div class="hero-chip"><span class="pulse-dot"></span> LIVE PROJECT TRACKER</div>
+            <h1>世界在建造。<br/><em>你先知道。</em></h1>
+            <p>从建筑方案发布，到审批获准、破土动工与正式落成。<br class="desktop-only"/>把全球建筑资讯变成一份每天更新的项目清单。</p>
+            <button type="button" data-view="all" class="hero-link">探索全部新闻 <span>↗</span></button>
+          </div>
+          <div class="hero-art" aria-hidden="true">
+            <svg viewBox="0 0 490 410" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <defs><pattern id="grid" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M31 0H0V31" stroke="#93a99a" stroke-opacity=".12" stroke-width=".7"/></pattern></defs>
+              <rect width="490" height="410" fill="url(#grid)"/>
+              <circle cx="273" cy="197" r="164" stroke="#bbd2b8" stroke-opacity=".15"/><circle cx="273" cy="197" r="112" stroke="#bbd2b8" stroke-opacity=".2"/>
+              <path d="M86 336V180L163 132V336M163 336V94L260 43V336M260 336V150L330 116V336M330 336V71L405 104V336" stroke="#bed3c3" stroke-width="1.7" stroke-opacity=".77"/>
+              <path d="M86 180L163 215L260 150L330 184L405 104M163 94L233 130M260 43L330 71M163 215V336M330 184V336" stroke="#bed3c3" stroke-width="1.2" stroke-opacity=".53"/>
+              <path d="M103 204V316M123 213V316M145 223V316M185 126V319M205 117V319M227 105V319M284 163V319M306 177V319M348 107V319M371 94V319M389 100V319" stroke="#bed3c3" stroke-opacity=".28"/>
+              <path d="M65 337H441M69 357H432M163 336L145 358M260 336L260 358M330 336L346 358" stroke="#bed3c3" stroke-opacity=".42"/>
+              <path d="M411 30V80M386 55H436" stroke="#d7e39c" stroke-width="1.2"/><circle cx="411" cy="55" r="16" stroke="#d7e39c" stroke-opacity=".6"/>
+              <circle cx="260" cy="150" r="6" fill="#d0e59a"/><path d="M260 150L406 30" stroke="#d0e59a" stroke-dasharray="4 6" stroke-opacity=".6"/><text x="348" y="22" fill="#d0e59a" font-size="10" letter-spacing="2">01 / LIVE</text>
+              <text x="81" y="392" fill="#9ea9a1" font-size="9" letter-spacing="3">ELEVATION / 001</text>
+            </svg>
+          </div>
+          <span class="hero-corner">AR / 26</span>
+        </section>
+
+        <section class="stats" id="overview-stats" aria-label="资讯统计">
+          <div class="stat"><span class="stat-top">TOTAL INTELLIGENCE</span><div class="stat-value" id="stat-total">—</div><span class="stat-foot">已收录资讯</span></div>
+          <div class="stat"><span class="stat-top">PAST 7 DAYS</span><div class="stat-value" id="stat-week">—</div><span class="stat-foot">最近一周动态</span></div>
+          <div class="stat"><span class="stat-top">GROUNDED PROJECTS</span><div class="stat-value" id="stat-progress">—</div><span class="stat-foot">审批 / 开工 / 竣工</span></div>
+          <div class="stat stat-update"><span class="stat-top">DATA LAST UPDATED</span><div class="stat-date" id="stat-updated">—</div><span class="stat-foot" id="stat-status">数据状态检查中</span></div>
+        </section>
+
+        <div id="sync-feedback" class="sync-feedback" role="status" aria-live="polite" hidden></div>
+
+        <section class="dashboard-section" id="overview-section" aria-label="每日情报总览">
+          <div class="section-head dashboard-head">
+            <div><div class="section-index">01 / DAILY INTELLIGENCE DIGEST</div><h2>今日建筑情报 <span>Executive Overview</span></h2></div>
+            <p>新闻量、项目阶段、地区热点、专题和媒体来源一页掌握。</p>
+          </div>
+          <div class="briefing-strip" id="briefing-strip"></div>
+          <div class="dashboard-grid">
+            <article class="dash-panel lead-panel"><div class="dash-title"><h3>最新重点报道</h3><span>TOP STORIES</span></div><div id="overview-top-news" class="overview-headlines"></div><button type="button" class="dash-link" data-view="all">浏览全部资讯 ↗</button></article>
+            <article class="dash-panel"><div class="dash-title"><h3>项目进度分布</h3><span>STAGE PIPELINE</span></div><div id="overview-stages" class="breakdown-list"></div></article>
+            <article class="dash-panel"><div class="dash-title"><h3>地区动态</h3><span>REGION WATCH</span></div><div id="overview-regions" class="breakdown-list"></div></article>
+            <article class="dash-panel"><div class="dash-title"><h3>建筑项目类型</h3><span>SECTOR MIX</span></div><div id="overview-sectors" class="breakdown-list"></div></article>
+            <article class="dash-panel"><div class="dash-title"><h3>14 天资讯走势</h3><span>NEWS ACTIVITY</span></div><div id="overview-trend" class="trend-chart"></div></article>
+            <article class="dash-panel"><div class="dash-title"><h3>媒体覆盖与采集</h3><span>SOURCE COVERAGE</span></div><div id="overview-sources" class="sources-overview"></div></article>
+          </div>
+          <div class="section-head source-head"><div><div class="section-index">02 / FOLLOWED PUBLISHERS</div><h2>新闻来源库 <span>Source Directory</span></h2></div><p>不同媒体内容视实际抓取结果而定；下方可以直达媒体网站。</p></div>
+          <div id="source-directory" class="source-directory"></div>
+          <div class="refresh-explainer"><div><strong>刷新新闻 ≠ 从源站重新采集</strong><p>左上角“刷新新闻”会检查网站是否发布了新的数据；真正采集由每天的 GitHub Actions 任务执行。站长可以手动运行采集任务后，再回网站点刷新查看变化。</p></div><a id="actions-url" href="https://github.com" target="_blank" rel="noopener noreferrer">打开 GitHub Actions ↗</a></div>
+        </section>
+
+        <section class="digest-section" id="latest" hidden>
+          <div class="section-head">
+            <div><div class="section-index">03 / THE NEWSWIRE</div><h2>项目动态 <span>Project Feed</span></h2></div>
+            <p>来自建筑媒体与公开新闻订阅源，自动聚合与归类。</p>
+          </div>
+
+          <div class="filter-panel">
+            <div class="filter-toprow">
+              <label class="search-field" for="news-search"><span class="search-icon">⌕</span><input id="news-search" type="search" placeholder="搜索项目、事务所、城市、关键词…" autocomplete="off" /><kbd>⌕</kbd></label>
+              <label class="select-wrapper"><span>地区</span><select id="filter-region"><option value="all">所有地区</option><option value="爱荷华">爱荷华</option><option value="美国中西部">美国中西部</option><option value="美国其他">美国其他</option><option value="国际 / 未识别">国际 / 未识别</option></select></label>
+              <label class="select-wrapper"><span>排序</span><select id="sort-by"><option value="newest">最新发布</option><option value="oldest">最早发布</option></select></label>
+            </div>
+            <div class="filter-bottomrow"><div class="category-filters" id="category-filters"></div><button type="button" class="reset-filters" id="clear-filters">重置 ↺</button></div>
+          </div>
+          <div class="results-bar"><div><span class="tiny-status-dot dark"></span><strong id="result-total">—</strong> 条资讯 <span id="result-context" class="results-hint">/ 已按发布时间排序</span></div><div class="view-label">CURATED NEWS FEED · <span id="result-page">01</span></div></div>
+          <div id="news-grid" class="news-grid" aria-live="polite"></div>
+          <div id="empty-state" class="empty-state" hidden><div class="empty-symbol">⌕</div><h3>暂时没有匹配的建筑资讯</h3><p>试试取消地区或项目阶段筛选，或者换个关键词。</p><button type="button" id="empty-reset">显示全部新闻 ↗</button></div>
+          <div class="load-more-wrap"><button id="load-more" class="load-more" type="button">加载更多新闻 <span>↓</span></button></div>
+        </section>
+
+        <section class="collab-section" id="projects-section" hidden>
+          <div class="section-head">
+            <div><div class="section-index">04 / COLLABORATION</div><h2>共享项目 <span>Project Boards</span></h2></div>
+            <p>与朋友共享特定项目清单，不共享彼此的个人收藏。</p>
+          </div>
+          <div class="privacy-note">🔒 个人收藏库仅自己可见。共享项目由你选择加入的成员共同查看、编辑。</div>
+          <div id="collab-setup" class="collab-status" hidden>多人协作功能尚未配置。网站管理员需要先填写 Supabase 配置并运行数据库初始化脚本。</div>
+          <div id="collab-login" class="collab-status" hidden>登录后可以创建项目空间、邀请朋友、共同记录建筑项目。 <button type="button" class="secondary-button" id="collab-login-button">邮箱登录</button></div>
+          <div id="collab-content" hidden>
+            <div class="board-toolbar">
+              <label class="select-wrapper"><span>当前共享空间</span><select id="workspace-select"><option value="">选择项目空间</option></select></label>
+              <button id="workspace-new-button" type="button" class="primary-button">+ 新建空间</button>
+              <button id="workspace-join-button" type="button" class="secondary-button">加入朋友的空间</button>
+            </div>
+            <form id="workspace-new-form" class="mini-form" hidden><label>空间名称 <input id="workspace-new-name" maxlength="100" required placeholder="例如：2026 建筑项目研究" /></label><button class="primary-button" type="submit">创建</button><button class="secondary-button" type="button" data-close-form>取消</button></form>
+            <form id="workspace-join-form" class="mini-form" hidden><label>邀请链接或邀请码 <input id="workspace-invite-code" required placeholder="粘贴朋友发来的邀请链接" /></label><button class="primary-button" type="submit">加入</button><button class="secondary-button" type="button" data-close-form>取消</button></form>
+            <div id="workspace-detail" hidden>
+              <div class="workspace-summary"><div><h3 id="workspace-title">项目空间</h3><p>只有加入此空间的朋友能查看共享项目。个人收藏不在这里显示。</p></div><div class="workspace-buttons"><button id="invite-copy" type="button" class="secondary-button">复制邀请链接</button><button id="invite-rotate" type="button" class="secondary-button" hidden>更换邀请链接</button></div></div>
+              <form id="project-add-form" class="project-form">
+                <h3>添加项目</h3>
+                <div class="project-fields"><label>项目名称 <input id="project-title" maxlength="250" required placeholder="项目名称 / Headline" /></label><label>来源链接（可选）<input id="project-url" type="url" placeholder="https://..." /></label><label>地区（可选）<input id="project-region" maxlength="100" placeholder="Iowa / USA" /></label></div>
+                <label>研究笔记（可选）<textarea id="project-notes" rows="2" maxlength="5000" placeholder="记录设计团队、规模、项目进度或研究结论…"></textarea></label>
+                <button type="submit" class="primary-button">加入共享清单</button>
+              </form>
+              <div class="project-list-head"><h3>团队项目 <span id="project-count">0</span></h3><button id="project-refresh" class="secondary-button" type="button">刷新列表 ↻</button></div>
+              <div id="project-list" class="project-list" aria-live="polite"></div>
+            </div>
+          </div>
+          <p id="collab-feedback" class="collab-feedback" role="status" aria-live="polite"></p>
+        </section>
+
+        <footer class="footer"><div><span class="footer-name">A / R</span><span>ARCHITECTURE RADAR</span><p>为建筑设计师准备的每日项目情报台。</p></div><div class="footer-right"><span>PUBLIC RSS & NEWS HEADLINES</span><p>内容、配图与版权归原作者；点击文章前往原站阅读。分类由关键词自动推断，并非官方项目状态认定。</p></div></footer>
+      </main>
+    </div>
+  </div>
+  <div id="auth-dialog" class="auth-backdrop" hidden>
+    <div class="auth-modal" role="dialog" aria-modal="true" aria-labelledby="auth-title">
+      <button id="auth-close" class="auth-close" type="button" aria-label="关闭">✕</button>
+      <div class="section-index">ARCHITECTURE RADAR / ACCOUNT</div>
+      <h2 id="auth-title">登录你的建筑情报站</h2>
+      <p>使用邮箱接收一次性登录链接。不需要设置密码，个人收藏仅对你本人可见。</p>
+      <form id="auth-form"><label>邮箱地址 <input id="auth-email" name="email" type="email" autocomplete="email" placeholder="you@example.com" required /></label><button class="primary-button" type="submit">发送登录链接</button></form>
+      <p id="auth-feedback" class="collab-feedback" role="status" aria-live="polite"></p>
+    </div>
+  </div>
+  <script src="./data/news.js"></script>
+  <script src="./assets/config.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+  <script src="./assets/app.js"></script>
+  <script src="./assets/collab.js"></script>
+</body>
+</html>
