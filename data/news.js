@@ -1,10 +1,1386 @@
 window.ARCH_RADAR_DATA = {
-  "updated_at": "2026-11-11T15:01:48+00:00",
+  "updated_at": "2026-11-12T15:05:57+00:00",
   "total": 1800,
   "feed_count": 43,
   "feed_attempted": 44,
-  "source_count": 794,
+  "source_count": 809,
   "articles": [
+    {
+      "id": "15107f3ab411de9d",
+      "title": "Construction begins on Frankfurt's Palais Rossmarkt",
+      "summary": "Construction begins on Frankfurt's Palais Rossmarkt Immobilien Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZVF3LXozUjhDQmVTa0VLaVNObXlCOHhSTE0taFdrenllQVgzdWg5VEhmOFB4TjdyNE9uQ2hXMG55YU1xSGtwZVZrLTNNRlZUb1Zfc1NOWVVnTTVpNkFwWXlBNjdDUXV4WXRqSmdVa21RdzBjcHJiYk5TazJBTFVjTGJ2REk1Q0V3alNmOUJuVERtQWVNdlM4dER0dw?oc=5",
+      "source": "Immobilien Zeitung",
+      "feed": "Google News",
+      "published": "2026-11-12T14:48:55+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "a37eb803d335984d",
+      "title": "Portland hopes Waterfront Park design competition will rejuvenate downtown",
+      "summary": "Portland hopes Waterfront Park design competition will rejuvenate downtown Oregon Public Broadcasting - OPB",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMnNJTjloZEk2R3djNjBjYVFYYnpVZlFuNWpLZ1BtelZveUliVTdJaXZVREM1d0Q1N05BSmtGUmtITk5tbG9MNHJLWGRPbGM3d3VBc2paNGxWYmpGUzd6cTFfZk9tTGFqaGtqZUYxWEd3LXZVMENZXzB1TzFvZl9oajBScWZPenI4Z3hZ?oc=5",
+      "source": "Oregon Public Broadcasting - OPB",
+      "feed": "Google News",
+      "published": "2026-11-12T14:03:05+00:00",
+      "category": "竞赛招标",
+      "region": "美国其他",
+      "sector": "综合项目",
+      "image": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/6ZK5Q5DZGFEYZPC6MK5TN6HWKY.jpg?auth=bfa5502d1ad622184d8ace416775ab1fa1f8ab56b5d951425432f2ff0ee11994&width=1200&height=675&smart=true",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "8bba395b67389ad4",
+      "title": "Kansas City Chiefs pick construction team for new stadium build",
+      "summary": "Kansas City Chiefs pick construction team for new stadium build Sports Business Journal",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTjlmTWNQcHhEM1NoNE5nQzRyT0xsMFNESUpnbWlOeXpVUmhtQXBhWGYzQVBvUnAtVV9xamJwTlF2YzdrM1EyT1pYUEFLbjVCZDZkQXhMVkRFd2h4THUxRzJsYUZlQmZHNWY1ZkJjTXlsQXVTaC1OVXZCTnNEaHg3M0dXNWhVazNILXVQd0M5SlVMbXFSSkExSWVad0pnMk5EOEN3S0tfTm10VEMyZVM4?oc=5",
+      "source": "Sports Business Journal",
+      "feed": "Google News",
+      "published": "2026-11-12T13:04:46+00:00",
+      "category": "行业动态",
+      "region": "美国中西部",
+      "sector": "体育",
+      "image": "https://leadersgroup-sbj-prod.web.arc-cdn.net/resizer/v2/OUTWUCMGKRDDDOFQBA6OKYP4N4.jpg?smart=true&auth=c93e97d142d111619d33c06abc9b364c52fb53101f89540257053eff3cc10619&width=1200&height=630",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "501599dfeabd7f7a",
+      "title": "Amy Kulper Named Next Dean of the University of Virginia’s School of Architecture",
+      "summary": "Amy Kulper Named Next Dean of the University of Virginia’s School of Architecture Architectural Record",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcklscXpqRG9lWE5XcGxYVEJueFFCbzBMZnN3VE5mREx0bmQ0SjNiZGJCOENqTHVwQ3NaT1pQY3lwbXVURS05UVZGZVE4Tk01dUQxdWdoYUFVT0hvSk1hcl9xSkJYNFdNcjM0ajZUU0JQMHZwaVJEandhTS1abWF2OWJvbDYtMUdIMFV4YVBRb0RVSlhaMzRReDNMQTFHSDN6dlBwWXBoUF9oN0Q1U3NkZTJJVUlyWWlBNTRLRko5STdYMjRkXzI1T3Q5Zw?oc=5",
+      "source": "Architectural Record",
+      "feed": "Google News",
+      "published": "2026-11-12T12:35:39+00:00",
+      "category": "行业动态",
+      "region": "美国其他",
+      "sector": "教育",
+      "image": "https://www.architecturalrecord.com/ext/resources/news/2026/%2ANovember/UVA-Dean-Annoucement/Amy-Kulper.jpeg?height=635&t=1794433033&width=1200",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "0699c990c163501f",
+      "title": "Harken development moves forward with City Council’s recent approval",
+      "summary": "Harken development moves forward with City Council’s recent approval Lockhart Post Register",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTk1NlF2N1JRcnJhMVNmRjk3UzNnT0NVTUg1NllWOWFtQ1lzT0g1UUJkc2xFUlFCTHhxMnNhcWNKdUNjTHEzYl9XbkcybEtPOWNRVTRzWHd1R2FXTGIzd1lSQ0ZwZmpMRzZPU19fVjVBbEVPeWpzMzQ5LTJHTzNYa2tqeDRCNGtfVUJMUTVoR1lMUURDaWI5Ymhn?oc=5",
+      "source": "Lockhart Post Register",
+      "feed": "Google News",
+      "published": "2026-11-12T12:00:35+00:00",
+      "category": "审批落地",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://post-register.com/wp-content/uploads/2026/11/Site-map-600x315.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "40b565de56771277",
+      "title": "$10M donation puts Grant Library closer to groundbreaking",
+      "summary": "$10M donation puts Grant Library closer to groundbreaking The Commercial Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZlF3V0J5dzRNTGVtMjBvejhCVVBGV3Fzb01QMmt0ZEFyTk5hUFdNdEdZRGJ5WGdvdlVfWXpwSVdHeHd1MmxjOVA2S0Y1S0V1bkZZZTk2N0NhRjhJVG5rbEVvVUFYaGtHSDVuRkxwUjFEczlGLVFRV0xKTlJ2ME4zY1B2WXFUcEVac2dabw?oc=5",
+      "source": "The Commercial Dispatch",
+      "feed": "Google News",
+      "published": "2026-11-12T12:00:18+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": "https://cdispatch.com/wp-content/uploads/2026/11/BS-msu-library-IMG_0211.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "36ddc939f6292f06",
+      "title": "Multi-million pound plan for new Charleston Academy building unveiled",
+      "summary": "Multi-million pound plan for new Charleston Academy building unveiled Inverness Courier",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX19WeGJLNW5fZGQ2S3JqcHBrSHdJNnNHWVZNVWRhcFAxTmcwUHFPQy10MGlBdF81WFo0MVVucFhPOVh5R3NXOTZzaXhUUEtsVDVUTXh3cGVqdnV0WVZwZndpM09Nal81bTFqb0l4Qk5vWkE3V1c0WXY4c1p2STBGMXA5TExjbFRPMkNBbktSOXF0bEl1eGU0V2paZk1qSGFsZDVkaTRjWQ?oc=5",
+      "source": "Inverness Courier",
+      "feed": "Google News",
+      "published": "2026-11-12T11:40:00+00:00",
+      "category": "设计发布",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "040a2db206fe9806",
+      "title": "Royals reveal design for 34,000-seat downtown Kansas City stadium",
+      "summary": "Royals reveal design for 34,000-seat downtown Kansas City stadium constructconnect.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYkFwVGJvSFBlOGxrRW5zQ3l6NUIzdXlqS19PVWlNVGRxMTJUeW4ydWtMbDkwSUd2eXg1ZFNzRnpRXzZ5WXozWW95eHdwai11Y3BWVWhqLTJIVnpjSWYyUXVfSDFXbmtHR3dMa2xCUVhrX1dUMVc1dWZMQTF2alRnbXAySGNHWGNSZHNEZXdYSzYyV09kT0hUTHRub3R4WUJMRUM2V1ZMdjlEUUZKMzVLWExKWEhKODVRZ0NSN1FB?oc=5",
+      "source": "constructconnect.com",
+      "feed": "Google News",
+      "published": "2026-11-12T11:37:26+00:00",
+      "category": "设计发布",
+      "region": "美国中西部",
+      "sector": "体育",
+      "image": "https://cc-production-uploads-bucket.s3.amazonaws.com/uploads/2026/11/MAIN-Rendering-1-courtesy-of-Kansas-City-RoyalsMainWEB.png",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "17f397263554389c",
+      "title": "Brooklyn building collapse leaves 4 dead, several hurt",
+      "summary": "Brooklyn building collapse leaves 4 dead, several hurt Archinect",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTmxTLWZqbWZkaWtidU45Xzltd3cybDFIQUNXVnVOUUgyRlJFa3JndUNTQXVMU1dYSHdMOENrYkRMbDI3VVBoM3ltMVZWM0RNRHMtc01Uc1QtNjZyejU3OXh5cE56Rkg5YzMwTFpXQjRwdWJpU1JwcEdXUUhVdDZDSTM2NDhORWtWUzVGbFBxMjdDWWlRZHlLbjNMbXl0S00?oc=5",
+      "source": "Archinect",
+      "feed": "Google News",
+      "published": "2026-11-12T11:23:00+00:00",
+      "category": "行业动态",
+      "region": "美国其他",
+      "sector": "综合项目",
+      "image": "https://archinect.gumlet.io/uploads/b4/b4f150f420ffb76cd247843235697eaa.png?fit=crop&auto=compress&format=&enlarge=true&crop=faces&w=1200&h=707",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "1e21bc2ded34f279",
+      "title": "Greenfield planning commission approves McDonald’s plans on West Main Street",
+      "summary": "Greenfield planning commission approves McDonald’s plans on West Main Street The Daily Reporter - Greenfield Indiana",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYm5fWXM1M0tXclh1NjhfU0t2SFQ5ZkQzMVl1Y0dYZUo5QTZ3el8tMFRTNy1fLXp0dk5md2pISzBxUmRMSVI2THdZRG5sWTdlVVllQnZla1JkRm5xSGpZNFFuLVZjUE1hcVdteUdYdlVLaHA0Y3BNYnFsTEQzUzUwV21sUEpaRWhBUXVmRUg3NEw3ZUVSZ2Z6anpycTR6WERsVWxGMC1zZ0RrY28wTUlkekVJc1pfVmpRcERMUXFNVQ?oc=5",
+      "source": "The Daily Reporter - Greenfield Indiana",
+      "feed": "Google News",
+      "published": "2026-11-12T11:00:16+00:00",
+      "category": "设计发布",
+      "region": "美国中西部",
+      "sector": "综合项目",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "c5cc4afa1164c95e",
+      "title": "Renovation delays pose \"Notre Dame-like\" fire risk for Houses of Parliament",
+      "summary": "A new report has found the Palace of Westminster at risk of a “Notre dame-like” fire amid delays to the UK parliament building renovation. The post Renovation delays pose \"Notre Dame-like\" fire risk for Houses of Parliament appear",
+      "url": "https://www.dezeen.com/2026/11/12/fire-risk-palace-westminster-renovation-delay",
+      "source": "Dezeen",
+      "feed": "Dezeen",
+      "published": "2026-11-12T10:59:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/houses-of-parliament-renovation-report-sq_dezeen_2364_col_0-1024x1024.jpg"
+    },
+    {
+      "id": "b7eeb833c6ed3700",
+      "title": "City Council approves 26-story tower at 900 Clark",
+      "summary": "City Council approves 26-story tower at 900 Clark The Daily Northwestern",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSDV6TDZvLURJOGNHaFgwTHduRWd4VUx0MzlkaTZlYk5SWHowdXVtMHJ6VnVsaDdDOEt4dWl3NnMwVG8tTjdmQlllSEEtQ0ZkWnZudzd0M05vQXIyVTZZZVdVYjRRaDJKVlFlMnhpM0M1VEJCZlltSjNuTllGS3FPc2M0dmpidk84cGpuSDU2M2FmQVo2OFNaanJIQVQ?oc=5",
+      "source": "The Daily Northwestern",
+      "feed": "Google News",
+      "published": "2026-11-12T10:50:55+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://dailynorthwestern.com/wp-content/uploads/2026/11/DSC_0171.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "1bf02696e5693af0",
+      "title": "Kansas Chiefs Name Clark-AECOM Venture to Construct Proposed $4bn Stadium Project in WyCo",
+      "summary": "Kansas Chiefs Name Clark-AECOM Venture to Construct Proposed $4bn Stadium Project in WyCo Construction Review",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONmd1NEtHTndDMUl0SW9zamh5RDR4VmtXaFdvaW0zdVNIeW4wUXI2RkJ2U0xZZk5ZbVN3ekNrZnZjTkRlN3k3YTdpN1VXeEdSWkd6cFREcjE5Nms5bk84Q2ZsWTBfOVRwUjRPX3hOYlVYRjhkdkpGT0txdGhGZXRiS20tODJDUTkxLWpudlVqZkhpS3lMcUlhd19RdG92dHVqV2VxSzc1U3RJczZLX3pyR1NRR3RVcDRPc0syVXFGUlpDcFdw?oc=5",
+      "source": "Construction Review",
+      "feed": "Google News",
+      "published": "2026-11-12T10:50:54+00:00",
+      "category": "设计发布",
+      "region": "美国中西部",
+      "sector": "体育",
+      "image": "https://constructionreviewonline.com/wp-content/uploads/2026/11/images-2026-11-12T111240.880.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "0af86a8f6af5c5a1",
+      "title": "Vectorworks Sustainability Dashboard earns top-level recognition at The DaVinci Awards®",
+      "summary": "Vectorworks Sustainability Dashboard earns top-level recognition at The DaVinci Awards® Planning, Building & Construction Today",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ1g0TWpXNWJrV2x6bktiVmEyOTRmVzRnTjZReGd2Q3NCcktwVWxmX1BXaWU4X2NPWW9wM1JQWUdVSHpXNEhxUU56VFpKaHZtakFvSDh1R2ZNUUp3clAyTlJscnBRajg2YlJSYml2YWNnOUxLQmFJOW1ta1o2bDJ4MnVFSk1iSmc5Tk1DZzRVTUVDZGxINzk3bHl5WWZpdzU3X3AyS1JuaGdhRWlJRERoYmFrOVF0ZnowS3VUSVluNUJ1RmhlcUtNV1VkTk5KazVsdy1SNncwM0hna2UtT0FGUUlmN2ItODltTkE?oc=5",
+      "source": "Planning, Building & Construction Today",
+      "feed": "Google News",
+      "published": "2026-11-12T10:47:21+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/11/DaVinci-Awards-Badge-3-Star-2026.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "0d244b1e5f4e43b8",
+      "title": "Canada’s Dominion Dynamics is building a combat drone for the arctic",
+      "summary": "Canada’s Dominion Dynamics is building a combat drone for the arctic Resilience Media",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONm53Uzc1TW1zNVdZNVo4WmR4V1gycW1zdEZVVUxnMTdIT0FVR0FIUzlXRFhEbERMVDdLY2dMLXdPbW02WmVFZi1wVGpZWlhUX0hsbWg1TU5FWHE0YU1wSExJeERDbzNvOVVsSDJyRjBHTlpBeGNnbjViQzZjbmx3cTl4Y1FSeVUwSzI2SkpXa2p2d2dsQzhQcVRqbw?oc=5",
+      "source": "Resilience Media",
+      "feed": "Google News",
+      "published": "2026-11-12T10:43:56+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://resiliencemedia.co/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-12.45.16-PM.png",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "3fbad4865b7a7f79",
+      "title": "Chiefs announce major update on $4.5bn stadium plan as team president issues statement",
+      "summary": "Chiefs announce major update on $4.5bn stadium plan as team president issues statement talkSPORT",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3RGUFhCbEFEZkU2TjFib0tTRm5va1ItVDBPWEt0RU1oM1lsMW5WSEtVbTVJTWJBN1dEbzBSbldOdmJGQzd3X2Z5Zmw2ck8yX3QwaDVGYnJqTnNkRlRnWWlfU2ZtMm52ODhCb3l3VFBrX25ONnN3Q290VDhCb2kzUVNHMkNncFk2U010Rk5qM0tLWUt3eUJhQ3NNNklQdmlRWG44?oc=5",
+      "source": "talkSPORT",
+      "feed": "Google News",
+      "published": "2026-11-12T10:27:17+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "体育",
+      "image": "https://talksport.com/wp-content/uploads/2026/11/crop-4558166.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "df8a962f26e15cc6",
+      "title": "AHMM gets go-ahead for 35-storey Old Street co-living tower",
+      "summary": "AHMM gets go-ahead for 35-storey Old Street co-living tower The Architects’ Journal",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaVhtTjJxdEJ5SFF5d2ZjUE50aTZKVXdLMjA0aVFfb1Z5a2VMeEQ0UGllRGtUcTlRNkNsVXRPbzducTREUXBOUDhYYlBwbGFva2NtVktmc0Z5a2hLeTJYenY3aV9nY1ZnNTVJRkRPZDNMWk52azNjZ2huZ0RUNG9FUTFCMVRERnhWNTBzYjRJUEtRNW9RRC0tNjNxanFfa2Rpc3c?oc=5",
+      "source": "The Architects’ Journal",
+      "feed": "Google News",
+      "published": "2026-11-12T10:12:13+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "f3b65adcd9640787",
+      "title": "Perry County Courthouse renovation earns state historic preservation award",
+      "summary": "Perry County Courthouse renovation earns state historic preservation award Zanesville Times Recorder",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOM0dtLVh5c2lPRlhRUFM1d2NZUEZvUHNkUHk4cDBlWmloMHhrR01PRTB2RzQzXzR4V2FId3J2SzMzVnVhMWU4NlRwd0dVUWxDb2llc29sTWVLaFQ1bEJjbG1NUm91VmVBajBqbTVXMmdPR0NOeUtLa2JPaWZIbG1ISWFYb014VTFhalV2X2M1U0kzZ3p4Q3AyOVIzb3MxMWdGTkl5TnZyc3dnQklHUnBmY2gyWW95VGV2UXg4V0drODEzdzEybVAxUjA1WFFxaGRjbEV6dnc5aDZjZUNoSGxsdzlkS3BMZw?oc=5",
+      "source": "Zanesville Times Recorder",
+      "feed": "Google News",
+      "published": "2026-11-12T10:11:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "d43c0d5c2c074473",
+      "title": "Iceland Breaks Ground on New National Arena",
+      "summary": "Iceland Breaks Ground on New National Arena Iceland Review",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdC1BcXJkcm5La3REX05vQzk1LW9TYUR3ZmY5b0E4ckkxU0RBN0pUSmNmUXpQODRJYk1BaGt3RWo0NGlmOVhaV2J5STRNc2x3X2R6NDQweEVGcTFueDNJQWt4RE02ZjVwR0pRbTFXWjRWUFZwQU5xWXpzWE1JZDY1d0RTQmc?oc=5",
+      "source": "Iceland Review",
+      "feed": "Google News",
+      "published": "2026-11-12T10:00:01+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "体育",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "6efdc403d4c853e6",
+      "title": "New affordable housing under construction in historic Greenville neighborhood",
+      "summary": "New affordable housing under construction in historic Greenville neighborhood Post and Courier",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYnNZa1ZsRjYtaXJFazJ4eXBaclJWYk1jVURWRW5XYVlfUXVhVXFNbl9BbFBMYjdKV3NKTHBtaXV6QncwTnNLWEZUWVRsVVlfdWRBaWI1QzF4RE5SaVNXMmV4c0hTY2FTd0RESXdKVXpZY2RSVTJPYUIwc2FSUldjdkhxUlExNXExR1BNTVNic1RXeFYwVUlqeEFIRXRMWGVjREMyOHZObFBKM1R2aWFMSUJmcFVjRFRMUTRUanNDOU1GYjhhbG8wMGVBZnJOU0x2RWE0Ym1oZlFadGJjR1F3?oc=5",
+      "source": "Post and Courier",
+      "feed": "Google News",
+      "published": "2026-11-12T10:00:00+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/e/9d/e9d987f3-7a6b-4ebc-b69d-363f8dc90679/6af4df04b259c.image.jpg?crop=1079%2C567%2C0%2C0",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "6a01d662c127ec34",
+      "title": "Government advances 189-unit Nyanchwa Affordable Housing Project in Kisii Town",
+      "summary": "Government advances 189-unit Nyanchwa Affordable Housing Project in Kisii Town Mjengo Hub",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeEFpN0dQR05MUjNDbGxVeEVXSk9Uak42V2RySm12TVR5U2xZUC1adlRfQzR1WDZQc3NDV21hd2VhZnI4bk5CeGxaZWJoZkpLZ0tVU1VFbWNIUjJKbXZjeV9tNk5acURncnpkZ3RuVGhZUi04bzhGbGM0ZFMwVFZGT2lrNHJGX21tVDRpUUtBSXkwOGtsb0thWG5VdlVndlladFhUOU9tbVJQUEh0QzllbUd5TmNtNlJpR1kzMU5ZRHNRMGNpTnVDWGlLRW4yYUd6a2hnUA?oc=5",
+      "source": "Mjengo Hub",
+      "feed": "Google News",
+      "published": "2026-11-12T09:11:15+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": "https://mjengohub.co.ke/static/images/articles/a46f57c6403f496f8d73b5970ddfccc5_1000430404.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "4ddaf88421095206",
+      "title": "Cornerstone breaks ground on second campus for Bellevue private school",
+      "summary": "Cornerstone breaks ground on second campus for Bellevue private school DJC",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rTUpHU1RZTXZxa2NwT1hCUVZDd1Qwc1ctU010XzNobTB5blQ5bXkxMWgzX3Z6dGp1S2wyNk1UeGxxa09DeEJSak1KZE55UmFlcXpn?oc=5",
+      "source": "DJC",
+      "feed": "Google News",
+      "published": "2026-11-12T08:00:39+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "417789513b8e7d78",
+      "title": "Issyk-Kul builds airport terminal and prepares resort project with restaurant inside airplane",
+      "summary": "Issyk-Kul builds airport terminal and prepares resort project with restaurant inside airplane Economist.kg",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPam9EdnUxQjFuQVhQTU5HTnBFOWItRS1fUURnTWdtU010WmdwUmxGNm0tU1VMUDV3aE5PWERUcHhnN0ZYblBTbUUycmdiS0FzY0NsMUxLZ29HZ2FNaUtiTnpnR0lyajl6dDY3NDdiUTVyRlBxX0RaM0FOVmhMYU13ZkJBczA?oc=5",
+      "source": "Economist.kg",
+      "feed": "Google News",
+      "published": "2026-11-12T07:27:07+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "交通基础设施",
+      "image": "https://storage.ghost.io/c/c3/a6/c3a66635-73fd-4349-a382-8bf5c41013f8/content/images/size/w1200/2026/11/----------------------------------3-1-1.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "1787e7f25332751d",
+      "title": "garton group architecture lines tropical costa rican home casa black in stone and timber",
+      "summary": "set on costa rica's pacific coast, garton group architecture designs casa black, a linear residence defined by stone-lined corridors, continuous timber ceilings, and a pedestrian bridge. The post garton group architecture lines tr",
+      "url": "https://www.designboom.com/architecture/garton-group-architecture-tropical-costa-rican-home-casa-black-stone-timber",
+      "source": "designboom",
+      "feed": "designboom",
+      "published": "2026-11-12T07:15:12+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/playa-grande-costa-rica-casa-black-garton-group-architecture-designboom-700-500x400-22b08q85r713.jpg"
+    },
+    {
+      "id": "5c76ced9141c4613",
+      "title": "Morgan Sindall Breaks Ground at SEN Secondary School Expansion in Luton",
+      "summary": "Morgan Sindall Breaks Ground at SEN Secondary School Expansion in Luton Construction UK Magazine",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObHNKc0pzTUptMUlOdFhlVUNfeU1ybFpWNU9WSHNEckhUbWF1QXdJWEFKbzYwcWdtS2JCejdUQ2VVNEtvV29Hbk5QVEdZUUpwTDdKSmJIOWZHNmVfU2RfbnM2TndRSGhTTi13SUpkU3BLel85TDRHVUFRakdFbVpBTF9MYU5Lczl5UEdFRDJLSG81OVA2anI5UUNmU1FJZU1aWGxVXzJuUQ?oc=5",
+      "source": "Construction UK Magazine",
+      "feed": "Google News",
+      "published": "2026-11-12T07:02:11+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "e80906df39067146",
+      "title": "New Shah Alam Stadium takes shape as construction progresses - yudi.lahar",
+      "summary": "New Shah Alam Stadium takes shape as construction progresses - yudi.lahar Newswav",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMm85NEg4Mk5NbUUtWHlvbHBrSVNrTU9SdUpZXzdJYmtEVHl2RkRlOXhQeXNoRy1KUFEwcFZfNTlzR0JnaThEZGh3RlJMZkxDR0hVbmdIMjhaaGdnNXpvZjlkb0sySzU3cXdDQVduNDlqSjk3ZllITndsd3FJV1hNdFZpQVRsWUw4bEUzWE12Ny1OMnZtZkJ4NkNrVlZRMFVzT2hGNXBId0oyWDRkWnN3?oc=5",
+      "source": "Newswav",
+      "feed": "Google News",
+      "published": "2026-11-12T07:00:58+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "体育",
+      "image": "https://cdn.newswav.com/ugc-assets/60-1794457391241-7a96fc75-8a16-4157-80f2-ac1d9c2ba160-1794457391414.jpeg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "dbf32f67ab2c7088",
+      "title": "Family Scraper de Maasbode / van Bergen Kolpa architects",
+      "summary": "With De Maasbode, Bergen Kolpa Architects has delivered a unique, 70-meter-high residential tower in the center of Rotterdam . It is the first residential tower to offer a social living environment for families in the city center ",
+      "url": "https://www.archdaily.com/1187942/family-scraper-de-maasbode-van-bergen-kolpa-architects",
+      "source": "ArchDaily",
+      "feed": "ArchDaily",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": "https://images.adsttc.com/media/images/6ae8/7385/bcbc/3500/01ae/adaf/newsletter/14-MAASBODE-VANBERGENKOLPA-_FILIP_DUJARDIN.jpg?1793618861"
+    },
+    {
+      "id": "d32c30a7086c9a4e",
+      "title": "New development in the school attack in Kahramanmaraş! No investigation authorization was granted for 11 public officials",
+      "summary": "New development in the school attack in Kahramanmaraş! No investigation authorization was granted for 11 public officials Haberler.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LeURvQnJCX3RVQkRzdm1femR3UnFNUktKd01LTkZuZ0FlS0hwY0h2eWJSRHd2Y1BBakFBdm82ekdoSlFTVU1rNUI4UFBkTUtZSXp2ZFI4bjliWTNqb0k2bGpGamxFcFBvbUZPSkxLbUFaMFdGcU1VUG41bDQ?oc=5",
+      "source": "Haberler.com",
+      "feed": "Google News",
+      "published": "2026-11-12T06:45:44+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "0fd4caba2dc901d4",
+      "title": "What to Consider When Integrating Photovoltaics into Building Facades",
+      "summary": "When considering building-integrated photovoltaics ( BIPV ), the potential is clear: making the building envelope an active part of a building's energy strategy. Yet specifying these systems can be difficult when the process is un",
+      "url": "https://www.archdaily.com/1188181/what-to-consider-when-integrating-photovoltaics-into-building-facades",
+      "source": "ArchDaily",
+      "feed": "ArchDaily",
+      "published": "2026-11-12T06:45:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://images.adsttc.com/media/images/6aed/c728/c723/9a01/895a/2f71/newsletter/what-architects-need-to-consider-when-integrating-photovoltaics-into-building-facades_11.jpg?1793967928"
+    },
+    {
+      "id": "10c2c7420f51cbdb",
+      "title": "Amazon-backed affordable housing project breaks ground in Lynnwood",
+      "summary": "Amazon-backed affordable housing project breaks ground in Lynnwood The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmVtV2paU0NmaVB0dlNPY3A2TWdKcHIwRHpjXzdiT25yWlMtUFY5UlV6WHJnak0xZE1OanowNUZsb0tTOHczbmlsSUlQNDJkTjhHRnNrUzk2dmlFZFYtbTlQemtVbGNoYktEY3RPVXphNW1RdC1VQnJwc2lPNFNJS1RGQ1F2SnlLSHBETmxhZmh6c28tVnNPbDZsajVCc2V1Wmc?oc=5",
+      "source": "The Business Journals",
+      "feed": "Google News",
+      "published": "2026-11-12T06:37:00+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "17b1ff19f0522fbd",
+      "title": "Sydney’s Powerhouse Parramatta Museum and Bratislava’s Winter Harbour Redevelopment: This Week’s Review",
+      "summary": "This week's stories focus on cultural architecture and the ways museums , art institutions, and public venues are being designed, expanded, and adapted. Across different cities, new projects bring together exhibition spaces , educ",
+      "url": "https://www.archdaily.com/1188495/sydneys-powerhouse-parramatta-museum-and-bratislavas-winter-harbour-redevelopment-this-weeks-review",
+      "source": "ArchDaily",
+      "feed": "ArchDaily",
+      "published": "2026-11-12T06:30:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "文化公共",
+      "image": "https://images.adsttc.com/media/images/6af4/76a3/c23f/1f01/895a/f45e/newsletter/sydneys-powerhouse-parramatta-museum-and-momas-new-cultural-alliance-this-weeks-review_5.jpg?1794406062"
+    },
+    {
+      "id": "da80fd00eaa889dc",
+      "title": "Construction begins on Nazareth’s new Year 10 Campus",
+      "summary": "Construction begins on Nazareth’s new Year 10 Campus cesa.catholic.edu.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTEhHVkZDM1dwMks1SmdsUVdvejg1MlVLM1hVQ2U2QXdndW50WWxmSThOY3ZteFpfTDJSSHVzcWxmTzBrQWRuaXhWX3NMeGFfU2ZhVnFTb1ZzTGUzcURKcXhMVmhRcEFxS2FNMDJBNk9jM0ZEZ01OQ0dPUzR1ZkV6cXhEUU9hUVZyUXBMV21iZm85ZURONmlGZVNNWjB4dw?oc=5",
+      "source": "cesa.catholic.edu.",
+      "feed": "Google News",
+      "published": "2026-11-12T05:33:48+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": "https://www.cesa.catholic.edu.au/files/119907/Untitled_design_12.png",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "fe3071771891b055",
+      "title": "A Glass Labyrinth by Ciro Najle and Josep Ferrando Opens at the Barcelona Pavilion",
+      "summary": "An artistic intervention opens today, November 12, 2026, at the Barcelona Pavilion . A modernist icon, the building was designed by Mies van der Rohe and Lilly Reich for the 1929 International Exposition in Barcelona, Spain , to r",
+      "url": "https://www.archdaily.com/1188518/a-glass-labyrinth-by-ciro-najle-and-josep-ferrando-opens-at-the-barcelona-pavilion",
+      "source": "ArchDaily",
+      "feed": "ArchDaily",
+      "published": "2026-11-12T05:30:00+00:00",
+      "category": "项目竣工",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://images.adsttc.com/media/images/6af4/baa0/8074/f401/89de/e647/newsletter/pavilion-labyrinth_1.jpg?1794423464"
+    },
+    {
+      "id": "7e205a7bba3e1d08",
+      "title": "Berkshire Glade by Turkel Design",
+      "summary": "Berkshire Glade by Turkel Design Architectural Record",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXZDUzRuWEM4VUtrV0prYnd2eDBoalVhSDc4VzFSdzQyWk94bjhtQ2NiQU1VSlpBX2R5RU05empwWWpROEM5RDJfbUlqcDNmN1EtTVE1OU1jcjJFc3c1QTdZdDJ2bndRejZoOE9ORU9ueExtZ0phWnRZZ1VrLXNpeFRwaDlLcGoycWdJ?oc=5",
+      "source": "Architectural Record",
+      "feed": "Google News",
+      "published": "2026-11-12T05:05:54+00:00",
+      "category": "设计发布",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://www.architecturalrecord.com/ext/resources/news/2026/%2AOctober/Berkshire-Glade/01---Berkshire-Glade-by-Turkel-Design---View-Facade---Draper-White.jpg?height=635&t=1793306226&width=1200",
+      "image_checked_at": "2026-11-05T21:16:57+00:00"
+    },
+    {
+      "id": "157ab84c4ea5f59b",
+      "title": "From biomass insulation to seaweed earplugs, Design Museum grants enable eco-innovation",
+      "summary": "From biomass insulation to seaweed earplugs, Design Museum grants enable eco-innovation Wallpaper*",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPelFKTUJmeVFZcFR1am1MYm5FX0hfYkRVdHlZZVhlTEJZUmRBY3kzTjZjdFQteFh4YUdURUhMdXlKU0dEM0poT3RiZENpd0JIc0lJWmwzNnlacU5QcDlwQmszMi1CVXVXaWk1cEZVa3NUc1h5QmJ0Y0hvR2phdjl1Rzd3UGV2T1VqQnR3U2FSMTh6NENDUVE?oc=5",
+      "source": "Wallpaper*",
+      "feed": "Google News",
+      "published": "2026-11-12T05:04:16+00:00",
+      "category": "设计发布",
+      "region": "国际 / 未识别",
+      "sector": "文化公共",
+      "image": "https://cdn.mos.cms.futurecdn.net/aGQLWchaxCVsNpfuSHnbdW-2560-80.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "0676c3d861a7866a",
+      "title": "City council approves requests for possible hotel development, other business",
+      "summary": "City council approves requests for possible hotel development, other business The Daily Times",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUzZHaW5oblRpb0lNYTR0S29zZjk0Z0ViUkNtczhKTGxyU2JQaFV2UmhQandBLXJ5V283V0F2MC0tVklQMFVOLTU1Z0dNNUlMYk1FX1JyVEMyd1ZBMFRTUTNzTmk2V1dDMDN4VFVnSjI4Ym82eFZzekRGOER3blg1VUt0OEN6UUlEZGwzbjRPRFMwbFdmdmdhbzE2cjB0MGp0R1pVOU9aZDF3TGlsVUl4V0dMUlVuclVQRDZENGgtR3ZuREJiSkZOanJVWUhqa2tGY1lLejYwM1Q2aXpFYkZtWk5QY0QxaFZ5ZUhoMFNXNC1oN1E?oc=5",
+      "source": "The Daily Times",
+      "feed": "Google News",
+      "published": "2026-11-12T04:30:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "商业办公",
+      "image": "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/assets/v3/editorial/f/b7/fb7df49f-ede3-46eb-b8b7-f5f3e76ff8a2/6af3a4500b112.preview.jpg?crop=1265%2C664%2C0%2C486&resize=1200%2C630&order=crop%2Cresize",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "8412290e9605a28c",
+      "title": "The Middle East’s New Security Architecture: Alliances Without an Anchor",
+      "summary": "The Middle East’s New Security Architecture: Alliances Without an Anchor Frontier India",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc2wydzlaV0VjWnpfV3NOTDROWkVIeDNtX0hIYnVqdktQQkJMYWRJaDJsMzYyUTZQMGJzNHJnZGJwZ21wcl9jRUFNSEVBNFljTTJuclAwRnFobnk5ZXhIMlN0a2RlN1hoNEpqdHFzd2thMm5fNzM4bk92MmtpeDBNT2FTalY4blB5UVlCSWRkNE9WOXN0Y0s0MDU4S3B0QQ?oc=5",
+      "source": "Frontier India",
+      "feed": "Google News",
+      "published": "2026-11-12T03:43:09+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://frontierindia.com/wp-content/uploads/2026/11/Middle-Easts-New-Security-Architecture-Editorial-Illustration.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "ef858f1d7f8fe719",
+      "title": "The \"Cham Pottery Product Design Competition\": Connecting Creative Ideas with Heritage Values",
+      "summary": "The \"Cham Pottery Product Design Competition\": Connecting Creative Ideas with Heritage Values Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSmtsVWV5ekIwQ0FlV3M0WDVybGVURVJUZHB3bmVqU1pZcGRxdUsxTUdPLWxIN2pqaHZncEp2NFFJc0RKN2NaeTVYelJuVXBtUE1aWG5lOEtvenFTN0xETG1rcVBWRFJJYVZuMmRjLWhOeGRqaUdZaVhyWjVMckRLeFpFUnRuOURNY25vREtaTDJQR0hYU3czeVNyNmhBQTczaGJUd280cTMxSXFJZ3lTeGlId1RHZw?oc=5",
+      "source": "Vietnam.vn",
+      "feed": "Google News",
+      "published": "2026-11-12T03:39:56+00:00",
+      "category": "竞赛招标",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/12/1794438042966_hoi_thi_tay_nghe_lam_gom_cua_nguoi_cham_nam_2026_trong_khuon_kho_le_hoi_gom_cham_bau_truc_lan_thu_i_nam_2026-anh_thanh_son_20261111200252.jpeg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "44e11ed5df60fced",
+      "title": "OhioHealth to open new hospital in New Albany at former Big Lots",
+      "summary": "OhioHealth to open new hospital in New Albany at former Big Lots The Columbus Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZHRhczkzeUtuRG5MWWNHblU4SHF6UjBpT19yWWpnUV9jcUliTUdYNS01amxJZ3hjNG5wbDA4TWV3VkVhcEFsbTY2eXUzTWRkSFpLR2FqTllhcGNfUEJJejJmVlJCcEV4dldtNm14MmtvODNsU2Z5cnZOM243bGZ5OTF4dDJuc2FlYVdNcWJjUGJZb09HVk9EQ1hsSHBTS0p1cmd5UFdMaHhSYi1ERkNsekhxTTBkalNzY09QTXZEWXFKQ3ht?oc=5",
+      "source": "The Columbus Dispatch",
+      "feed": "Google News",
+      "published": "2026-11-12T03:34:00+00:00",
+      "category": "项目竣工",
+      "region": "国际 / 未识别",
+      "sector": "医疗",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "a3ddf801de1fb84a",
+      "title": "Singapore’s Symatics Launches MPU Architecture for Faster AI Processing",
+      "summary": "Singapore’s Symatics Launches MPU Architecture for Faster AI Processing EE Times Asia",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzlhMFZxWEZPZF9sTlgteFAybV95UTJ4UGtsazl3ckFvWDhzYld0VDlwN0Z3eUVxYUFiVHVGRjZyYVFBOTRybDk1aFFYR0VkUGlnQ2pVTmZ0T3Bjc2VuWWJFOXNRRUxwcGNXMWFHLXp6UkwwXzlNbXBBTjhqMkVPeWRDUFZGUElibS1YeDhmZElTT1NYX1dDUjAtTQ?oc=5",
+      "source": "EE Times Asia",
+      "feed": "Google News",
+      "published": "2026-11-12T02:56:06+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "f0f8021a2bcd0cb0",
+      "title": "Agrihood Changes Approved Despite Planning Commission, City Employee Opposition",
+      "summary": "Agrihood Changes Approved Despite Planning Commission, City Employee Opposition The Silicon Valley Voice",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdFpwRzVSRDJmQzhrLWluRk0wVWpWNUhwMGptSnk5M0JSWkNDTEt4eUxnVWI5TGlRS1VGaTdjZWxzYzZoLWtSNm9zbGdaSDV5SWRNSmRaaFJmU0p1VlB2c2hfSGhpVGZEM2I5NExMbEM2OWRMNmVHdjU1Vkcwd1kySkgzYUVtZVRTeVJDeXB2aHdXN1JxbHFPREM1TzlRa0JZTXlZbXpn0gGrAUFVX3lxTE9DZXdFZlc2MFBOR1B5dC1vZ2xPSWc0dTZtUk8zZ0ozZzk5dU40NkFRR1hwa0hId0EzQzgwNUtQRXhRUXd0VFVkd1hub2NXcnh2NjhYNEtRVDBIMU05cHF4TVdLZGl3eklEZE9FbUtKaTBxT2llVDBQMXBsWVZISzJmdjktSU0tcTYtVkt6MW9hai1GZGRjSHNyNkF5QVFOVG9XeXFEamExdW9RWQ?oc=5",
+      "source": "The Silicon Valley Voice",
+      "feed": "Google News",
+      "published": "2026-11-12T02:50:46+00:00",
+      "category": "审批落地",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://cdn.svvoice.com/wp-content/uploads/2026/11/11103615/Santa-Clara-City-Council-Chambers.pdf-1.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "7337be66778046ac",
+      "title": "Chiefs name construction groups that will build new stadium in Wyandotte County",
+      "summary": "Chiefs name construction groups that will build new stadium in Wyandotte County KRQE",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDBodkFZV1E4b19pZjYxejlLNzVaNWF1TTBkT0RIZzRhQ2ZRb0IxWnFCTVk3OVFUU21WdUZWcnFHTzZ1Y094VG9odFYtVTBfWVNNMjFjSWdlQWc3d0w0YTV1U1RUNU4tSmFHVkN5V2dkU0ZiM2JfVGNQb0NTV3dfblM0NUdlNjZmajdXUndpVk5mQXp4b3h2emNqZEE2NHRxVjZiemtlQk9hSDNr0gGyAUFVX3lxTE1FSTdqR1ZMclFSQzh3am1NVGhvX1JFNjF2WjV5M0RZdnVLNWVRemxXSWFwNnNsY254bk1ydDFxVUFtTzNWQl9ieXJ6N2JqSVR1alJ1S1c0Q3NwaGxwWmRuUDY0a2dwNTBsVEJvQVBQMzYwTjA4cV9TUGRLVUxYSjlIcS1yMnVBMVdWcFFKaExvZTJ1bmxxQThfX3BTTjE4d0hSY0Vpb1dPanVzQVJJSTNWeGc?oc=5",
+      "source": "KRQE",
+      "feed": "Google News",
+      "published": "2026-11-12T02:34:55+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "体育",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "358d575117e91d99",
+      "title": "North Ridgeville school board approves $630K Ranger Stadium turf replacement",
+      "summary": "North Ridgeville school board approves $630K Ranger Stadium turf replacement Cleveland.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVldBM1kxendueGIzaGFsZVBBVjlCeGtLdGtybkhZSXRBcThTbUVENTgyTTJTOHZSZEotemF4c1dMZDVGcTBjSmN2ZWRtR3JndzI5dzhmMFJrV3IyazJVM1hYMUZveWd4QU9tV2c2S29FSjFEWF9TRElUOEZyVWxxUC1mNC16ejZYNHcxS2pKam9uc2hwM1ZIeWJhZ2hMOUJ4SlJQcng5ZzFKMFRHMThsNUljM3duX1RNOWtETUtxQWVYT09nM1dv?oc=5",
+      "source": "Cleveland.com",
+      "feed": "Google News",
+      "published": "2026-11-12T02:25:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": "https://www.cleveland.com/resizer/v2/RMRVC37SUBFATJUIXWARLXH6YE.jpeg?auth=f7d2182ae8b2200cc02454ef56d7f814f11a65314c79d84c508bf415d5fa3072&width=1280&smart=true",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "a9b0a505e3f32673",
+      "title": "Wellness Pavilion / K-Thengono Design Studio",
+      "summary": "K-Thengono Design Studio was commissioned to create a wellness-focused sanctuary on a narrow parcel of land adjacent to a family residence in Pluit Samudra, North Jakarta . The objective was to design a compact building that empha",
+      "url": "https://www.archdaily.com/1188257/wellness-pavilion-k-thengono-design-studio",
+      "source": "ArchDaily",
+      "feed": "ArchDaily",
+      "published": "2026-11-12T02:00:00+00:00",
+      "category": "设计发布",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://images.adsttc.com/media/images/6af1/153f/4ba6/4700/01d0/7f89/newsletter/K-Thengono_Design_Studio_Wellness_Pavilion_Credits_to_FINE_Projects_11.jpg?1794184673"
+    },
+    {
+      "id": "6b610f94a6d3cbdc",
+      "title": "Malaysia Affordable Housing: One Million Homes Targeted by 2035 With Advanced Construction",
+      "summary": "Malaysia Affordable Housing: One Million Homes Targeted by 2035 With Advanced Construction Batam News Asia",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdUlqR2g4QVBpTkZDNnRrMnFaMUt6eGE1WUJJYWVuZWd1Wk10MFFKMTJtc3JFUlRKRzBLSDBRSG56WnRHVzNWNzhTbVVaa3JnVDRzeGk1UElEeUFSRW5KOGw5TkxwRjlhemkzc0VNZTNWZ1ZPRVpuRGo3QUUyNEhjdnNQN3V0T193SjhMN2Q0NmJTMmpZTnpOcF9ESDlUWDlPREVFMlFINzNPeXJ5ei0yYzFYUThNc0t5Y3pYbVhjN1NLQ1gxYlE?oc=5",
+      "source": "Batam News Asia",
+      "feed": "Google News",
+      "published": "2026-11-12T02:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": "https://batamnewsasia.com/wp-content/uploads/2026/11/anwar.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "a70a01ce12926db6",
+      "title": "Luxury mountain home seen on Grand Designs Australia now up for grabs at auction",
+      "summary": "Luxury mountain home seen on Grand Designs Australia now up for grabs at auction Real Estate",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRG12a01DWFJ5TmJrQjZVbmY0UURyNWM2dW1RcEZZdF8zS2EyRXhSZlVGM3BfYloxX2RZVnJ1bElQR3FQYmRRSk92MkdYSDhXYmdPaUI1RjNTZTh1MGNIR0E5dU4zdl93NmwzVjV2dVVNY1hPQlNuVUhXTEozREVseUppWnJoSlZfYnBhU3BnM1FxUkFxMDVGTzYyY3VoNG4zaW81TEhzdkhXTXNnbm44NUtXNmp2NkU?oc=5",
+      "source": "Real Estate",
+      "feed": "Google News",
+      "published": "2026-11-12T01:46:35+00:00",
+      "category": "设计发布",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/11/capi_67d1d09141833b14a487e6f95435c981_4a7659e97afa0da8bd00d49c52a19fc8.jpeg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "17ff2750885d9114",
+      "title": "Completing the building envelope at Sydney Fish Market",
+      "summary": "Completing the building envelope at Sydney Fish Market ArchitectureAu",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUFdEaXBtNDhFbTlfdXFjbUZzNTZLdm9BSjB3RGRpbnRZcE0wNHhzMkpfNkZMSGxuODVSNUROaXlrajdtSm9UcUxGVWdSLUtTdmp6Q29XMnpxeVltMC1McXFlR2RHUjA1bmdiOERhcHZxV0hEVFdqVW9JVnd4cFU4a3ZrM043WmlGMVVjRDlpMDEwVEhhRmc?oc=5",
+      "source": "ArchitectureAu",
+      "feed": "Google News",
+      "published": "2026-11-12T01:41:48+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://media5.architecturemedia.net/site_media/media/cache/e0/f9/e0f9f054bd7b986da9f892bf99b81acc.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "4ec86a8b27e3f599",
+      "title": "Western Australia’s first purpose-built children’s hospice completed in Perth",
+      "summary": "Western Australia’s first purpose-built children’s hospice completed in Perth ArchitectureAu",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPamtfREFWUzJ4Vmpnc3A0UURKRmI4UVlfLTktaExWcWtyb0E1RTktaFBuakpTNTNmZk01akczaGJFUjdWYWhoSTF0LWdzb1A0em9iN0tlLS13OGJNeE1hbFpCQlkybHQ0UUdXTW92UWNXcDJhRDE4VmdqNTg2dXdpUmRBVk8xaVRGcU1VNU8waTF1OHk4TEltRjFJeG0?oc=5",
+      "source": "ArchitectureAu",
+      "feed": "Google News",
+      "published": "2026-11-12T01:41:48+00:00",
+      "category": "项目竣工",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://media5.architecturemedia.net/site_media/media/cache/e8/43/e84388344173939055bee5c65f1e0569.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "fb68d749a7feadb4",
+      "title": "Construction begins on the Carnegie building reuse project",
+      "summary": "Construction begins on the Carnegie building reuse project Bayshore Broadcasting News Centre",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVRxRFNrYjRjRFYwaU93dUQwUGlGVDBvSWsxWFdlU1dTdzM1OHZ5elJfLUItREdHamZWR3BrNFVZRWpTd2ZWUDFRSUF6dzdvMjNTN05RXzQtZVBfaGxMb05QTnk4WVdtWUNzNUhYbGpBOFl2V19Kd25QU2cyNmx4U0I1UmYtcU5mTEFJa0xsRFdaRGM5V29wU1ZTdXNwSmc0RFVrNEQ2bmtYUQ?oc=5",
+      "source": "Bayshore Broadcasting News Centre",
+      "feed": "Google News",
+      "published": "2026-11-12T01:38:07+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2522/files/2022/05/bracebridge-town-of.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "e731c75fb3277e40",
+      "title": "Metro Manila central train station to be completed by early 2028",
+      "summary": "Metro Manila central train station to be completed by early 2028 thechronicle.com.ph",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUQtd3NqTTFlZTBpcndGbjNDdmFTZ2lBZzlNWTJYdWY2dTVUZDNYakdTT0NxUGlYVDZQZ0FuWXp0d1k2V3JEZDRoMU5TNWMyUlNDRVVQLUtvWFByel9BbEo3bmhpdHlra0YwZ1JuRlR2M2RGTk9KYlN1UHYzdUQxaElGSmR0WE5mYlhtLUpURnBRWGktdVJEdw?oc=5",
+      "source": "thechronicle.com.ph",
+      "feed": "Google News",
+      "published": "2026-11-12T01:21:41+00:00",
+      "category": "项目竣工",
+      "region": "国际 / 未识别",
+      "sector": "交通基础设施",
+      "image": "https://i0.wp.com/thechronicle.com.ph/wp-content/uploads/2026/11/A_UCS_Export_4.jpg?fit=1200%2C675&ssl=1",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "85748bce13c63b9b",
+      "title": "Ilocos Norte hospital breaks ground on P110.4-million building project",
+      "summary": "Ilocos Norte hospital breaks ground on P110.4-million building project Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNGduQjBaY1RLei11QmN1aElQQ3pTRlF6V014aldCeHJhOWxRSU5qQmJPQXJ6bXpXQV9HRVVOcjFVMDlzVHQ3bEdFdThPdkxjZk83eW9jMzRxZnZhNTFMUFJLRk41ZnN1UnRQb043VE0yWkJoRm5VSVE2OWdYZGtraW5yRWdnaGhHb0k1YjNaR29VOE1OX25kdEpKS1RDT1VqelBTRXFB?oc=5",
+      "source": "Daily Tribune",
+      "feed": "Google News",
+      "published": "2026-11-12T00:54:50+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "医疗",
+      "image": "https://images.assettype.com/tribune/2026-11-11/15v0y1y4/90192439916561058965286163387614005999445899n.jpg?w=1200&auto=format&q=70&rect=184%2C0%2C1680%2C945&h=675&fit=crop",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "f449f7239cd25aa6",
+      "title": "Further 33 homes approved for North Staffordshire housing development",
+      "summary": "Further 33 homes approved for North Staffordshire housing development Stoke Nub News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFNZOFdncnl3eElka2d0dUVwRjFrTFJQNl9pZG1haF9OMjNrczBZdUMzMncxYzNMX1ZXcUFuWm9MM1RBOV9oT2hnRl9fanNrcVJSWVdmUFZ5VkZRVjEzS3A3WXJyQWg0dWh3NjFsRUlBTFYtLThnYzY1WFhGYjlhS2NNMm5zNWNVQ2YyWUdWeEZFMFA3a2x0M0xndjRsUGZtdHgyYUNjNXktcW1RLWJNUUpMal9yUQ?oc=5",
+      "source": "Stoke Nub News",
+      "feed": "Google News",
+      "published": "2026-11-12T00:24:32+00:00",
+      "category": "审批落地",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": "https://nub-app-prod.eu-central-1.linodeobjects.com/797889/conversions/FEdH8e18w8A7iFxGq2yE1Ci6R9Kf6E-metaVW50aXRsZWQgZGVzaWduIC0gMjAyNi0xMS0wOVQwOTE5NTQuMDUyLnBuZw%3D%3D--article.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "ee58a790832a655e",
+      "title": "Sacramento city council approves measures for new soccer stadium in railyards",
+      "summary": "Sacramento city council approves measures for new soccer stadium in railyards KCRA",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSlpISkdLQmpRdEVDNDNnU19lYW1idERlU1RVZXBzZFpFSUo0V09pb3dWRkZxWGx6ZWkwZm1hSXJXc1hMbTFSX2VZbEFVN1dJa1NfN2RiNENQSFA0eUhHQjJhMHpfM2x2bUZHVDlER2Z4SVd5TUhhdXhxTThxNVRrTDU4VU90Q1BrdnEtWmNtM0htc2N0?oc=5",
+      "source": "KCRA",
+      "feed": "Google News",
+      "published": "2026-11-12T00:18:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "体育",
+      "image": "https://kubrick.htvapps.com/vidthumb/e294ff62-e11a-4a83-b04e-193876130341/83a70946-5718-4e55-9b91-e0c9a726bdf5.jpg?crop=0.789xw%3A0.789xh%3B0.127xw%2C0&resize=1200%3A*",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "e5ac8af87d312539",
+      "title": "Luxembourg City’s largest affordable housing development takes shape in Bonnevoie",
+      "summary": "Luxembourg City’s largest affordable housing development takes shape in Bonnevoie Luxembourg Times",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZzdldEVtcVVQU2p6R1pYSDRFU2VRTWo5YmFqaU5KV3MwRnZaV3pRclhKMXFQbGxkdmEwSG9BcGlpbURIcnFMUmtpdDBWZF9leXVFV2gxVGNPaVlVeDdiTU1PQWRqWEhrSmd3a3VCZEJyc1lEUUxZRnFoZGpCcllBVDYycVcyUlhFM1JCRnFGRWh4c1hjbFRJQXA2R3JZR0N6ZW5XSkVra3lHNW1TR1hIY3ljdDBpNGpvalhRZW9nRkdEeHU4RC1OQnBB?oc=5",
+      "source": "Luxembourg Times",
+      "feed": "Google News",
+      "published": "2026-11-12T00:15:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "67eb81a4ffa9613b",
+      "title": "Navajo Code Talker Museum groundbreaking announced",
+      "summary": "Navajo Code Talker Museum groundbreaking announced Tri City Record",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTWpLSWl2dTJUdy1LVVVQWnBPbWJBa0ZJXy1NMXFETlBuR2Z3N2lOLTRhcC1KT0U0cEM3bE05Z1NNbUN5amxzd2prLV9KZTcyTXNvd3RNc1RSajVkeFgwcE5HbjAwODVlTnpad0RlWEU1VktEUExURnA4WTJxU0FSNy1TNC1RRWNZWWN2YnRvSVNGeks4YkcySDRjZHUtV0ZDd0ExNmRR?oc=5",
+      "source": "Tri City Record",
+      "feed": "Google News",
+      "published": "2026-11-12T00:12:30+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "文化公共",
+      "image": "https://imengine.public.prod.dur.navigacloud.com/?uuid=9679965A-324A-561B-84E5-E52781F0CE0A&function=cover&type=preview&source=false&width=1280&height=853",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "17b9794c1f39edc4",
+      "title": "Tsuyama Hotel I & II Renovation / NAAD + studio tata",
+      "summary": "Hotel I & II, Tsuyama is a pair of small hotels created through the renovation of two machiya townhouses in the Joto area of Tsuyama, Okayama Prefecture, Japan. The district is a historic townscape where traditional townhouses lin",
+      "url": "https://www.archdaily.com/1187432/tsuyama-hotel-i-and-ii-renovation-naad-plus-studio-tata",
+      "source": "ArchDaily",
+      "feed": "ArchDaily",
+      "published": "2026-11-12T00:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "商业办公",
+      "image": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e54a/newsletter/Hotel-I_room202_01_Yosuke-Ohtake.jpg?1792769470"
+    },
+    {
+      "id": "1f22dcfeaed180d6",
+      "title": "Downtown Fresno school breaks ground on $1.7M playground with $100K donation",
+      "summary": "Downtown Fresno school breaks ground on $1.7M playground with $100K donation The Business Journal",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNzlfWjVWTlczSGFMT2RlMlU3TDd2TlZxelUwZTNtbkJ3QXM5SHI4U3pQYWFrNWV6OUR0QnJNRjBSazNEVWtaZzFMRnVrMjZYX0FlTVlKcU1YRXRubFBtMUNlM0JuZVRwQzl1UXBRbVlBY2FoUER4dVpjbjNDcVk2TDRB?oc=5",
+      "source": "The Business Journal",
+      "feed": "Google News",
+      "published": "2026-11-11T23:59:32+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": "https://thebusinessjournal.com/wp-content/uploads/2026/11/IMG_1860.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "745eaf09c9f8c571",
+      "title": "See new renderings of Oracle’s future HQ as construction begins",
+      "summary": "See new renderings of Oracle’s future HQ as construction begins 6AM City",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUjkxSWpsVFF1aks3RHJBZmJMUWZDaWVHVlRVWGFCazNaMVJZazFyU0lCX3dfUS1jT3BWNHBnNFl1elcxVy0yd1JIREx4WXFXaGk1VXB5OHM0T2RHYWxVLXBqNmk4Qk1HZlVrdFFDeV92Z2N6eXU2Ti1kZVBfelVKQ21wRHI4cXlvNF9RYV9wWVI2M3BhSzlMQg?oc=5",
+      "source": "6AM City",
+      "feed": "Google News",
+      "published": "2026-11-11T23:52:37+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://6amcity.com/web/share-image/photo?src=https%3A%2F%2Fbucketeer-d57e4b8a-9958-49c4-a7a0-a1659858cb32.s3.amazonaws.com%2Fpublic%2Fimages%2Fgeneral%2F1794372493712-NASHtoday_Oracle_nashville-ceremony2.png",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "1050772b1d2fdf1f",
+      "title": "A modest proposal for finishing O’Hare on time",
+      "summary": "A modest proposal for finishing O’Hare on time Crain's Chicago Business",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWnk5cFdSUTA0WXpneUoxMjdGWndKWWJCRU1XbllCbVF0UklMalNyUzVZUzFkSmpsR3VjYy1nSUFLMkRaSWNIcFIzMDcwM3pQNzdZQy1oYmRkWDdFZUthcEFfMHhKVU5yamtzVkQxa2lfNUdRTHA5aEF0NEZUSEwzb044OGYzV2pEc0kyTUxPQ29EZGlpcWZVOEZ3?oc=5",
+      "source": "Crain's Chicago Business",
+      "feed": "Google News",
+      "published": "2026-11-11T23:29:03+00:00",
+      "category": "设计发布",
+      "region": "美国中西部",
+      "sector": "综合项目",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "2501cd66f75202ad",
+      "title": "Milwaukee program offers $650K for minority housing developers",
+      "summary": "Milwaukee program offers $650K for minority housing developers Finance & Commerce",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHFaWDhialdxbllIRkhKVDBQajhCaFFNVEtmazFsWnhLMEs2MllzSWZfbXppcTJmQ2J3LVFnRGFMUzlxdDJLMTYwUDBhcmZycGdTWEE1Rm9hRE5USGUtY2lERU9JelpkR0VYdjJSVHVrZ3laeEJUaDg4ZElmQ3pzQ0pGcDlYNk1nSkhqd1U2ZGpEbVJYT2lUWDdJYmNELWgz?oc=5",
+      "source": "Finance & Commerce",
+      "feed": "Google News",
+      "published": "2026-11-11T23:24:49+00:00",
+      "category": "行业动态",
+      "region": "美国中西部",
+      "sector": "住宅",
+      "image": "https://finance-commerce.com/files/2026/11/Milwaukee-usat-650x400.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "a0c210de005e7185",
+      "title": "Architect As Developer - Workshop - Cohort II",
+      "summary": "Architect As Developer - Workshop - Cohort II AIA Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZHdaZ0t1M0hlWmh0bG1ESnVyZGQyVnlubERPSEFQaHd6OWtvZjBWOFZBWHd6Q3RkSTgyOFJvYTVteTBoQXAwTGM3QWF1a09HZW95aXlsRndvLVNwSmZDQ2hwWHFRNXBfUnlEN0ctQkZIZWE4TzVtbERYaVJzVkNKQlJyNXZnb0k5?oc=5",
+      "source": "AIA Community Hub",
+      "feed": "Google News",
+      "published": "2026-11-11T23:17:02+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "184736ee01211aec",
+      "title": "SOM wins nine-month design competition for Gurner's $1.75 billion Cunningham Pier precinct in Geelong",
+      "summary": "SOM wins nine-month design competition for Gurner's $1.75 billion Cunningham Pier precinct in Geelong Architecture & Design",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMnFBYl9jMm44Y202NTExTDNibGhFR3NSN2NCWFA3bUdyN3l5Q2NJekxvanM0RUNLVGdLYWZmLWJvVjh1dmwxWldVTXR2X1pSUGNfbzJkZGwyR0JhT25KbGIydHJvUVl1ckp2YTVLaC16VTVOc3NzSE1OcmhPZWxmNEx1djVQRzhwa2JVM0xhMFU1UWNjcHgyRDZCbExjdWtDd0w1R2dLbnhzUUlEeXNrMw?oc=5",
+      "source": "Architecture & Design",
+      "feed": "Google News",
+      "published": "2026-11-11T23:06:23+00:00",
+      "category": "竞赛招标",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://assets.architectureanddesign.com.au/Cunningham_Pier_Geelong_SOM_Gurner_Exterior_2026_1_3df0773f09.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "e8cda11f41a24885",
+      "title": "Concrete buildings and seismic risk: What to know, and what to do",
+      "summary": "Concrete buildings and seismic risk: What to know, and what to do Building Design + Construction",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYktnYmg4RXZVY0llNmhPUmNZWVBGZFptM2M3Rm1kajJxYmlMVHBQSF9XYzZYNlJjZzdFc1FTOE54TGJXaEdySmY5OE9Tc1NxNVBqZzhnYUw5VEhGeXZ5UFNQVFdWbEZNRmtjSzZqRDlXdVJPQzJ6d0NzSi1ra3V0X19fbUJkY0JJcmNXWE5tV1FsNU5QTG5uNmRJWVFDT1k5UHBlUHQySnF6bmxyZ180ODBFTzRZczJRRDVKMnIxdw?oc=5",
+      "source": "Building Design + Construction",
+      "feed": "Google News",
+      "published": "2026-11-11T22:59:34+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://img.bdcnetwork.com/files/base/ebm/bdcnetwork/image/2026/11/6af4da42c0d2285a1d4d83d1-cfb_690_market_rendering_lres_copy.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "17866e0e94cd0531",
+      "title": "Eleven flats approved at former Llandysul school without affordable housing",
+      "summary": "Eleven flats approved at former Llandysul school without affordable housing The Pembrokeshire Herald",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWtneGR4V0pLWGNwUlNuT3JUTV95aklqSmNnUjllaEZ0c2w2NnAxUFcwdk5xNVBXRUdtcGcwdTQ5M1FOOUROVm1MRDNFMVB0NVp1cEFtalVXeFp4bE5sUjc2YUJOaDdZZlRFSnZiNHNLUUEwNGhwN3JuV1lVa2g3T2lvb3IzVm5mVmxUWmQ0UHVwZE5taVZBRDl6SzM2Mm9zTm5z?oc=5",
+      "source": "The Pembrokeshire Herald",
+      "feed": "Google News",
+      "published": "2026-11-11T22:57:11+00:00",
+      "category": "审批落地",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": "https://pembrokeshire-herald.com/wp-content/uploads/2026/11/ysgol-dyffryn-teifi-llandysul-ldr.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "acf3ff8a185cd68b",
+      "title": "Iowa Board of Regents to take harder look at university athletics, continues efficiency work",
+      "summary": "Iowa Board of Regents to take harder look at university athletics, continues efficiency work Iowa Capital Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSTRMMjlwdGpteFNsU0k2emRYYk04NVNaU2FiT3dvS1VHYjI0bHk1ZE9KRTd1QXZGdkNJd0o3Y0xjWmN1Qjlna05OZVpZeWN3cWpXVGtpWDByMVRFaUNlWlN5eV9kbm0yS2t2NHY4ZGZqZk5qc2Z5dXphaUVfYzQza3VaVnJNdjYxQmNOQmZ3RXRnUk1KWXljRHNmaWJiWVdldmhnZ3FDbGp3aDFGamxPaXlrTFZZdkkxdkNwc3ZsRVBnUVE2Zi1yVkUtaEVLbkZr?oc=5",
+      "source": "Iowa Capital Dispatch",
+      "feed": "Google News",
+      "published": "2026-11-11T22:37:51+00:00",
+      "category": "行业动态",
+      "region": "爱荷华",
+      "sector": "教育",
+      "image": "https://iowacapitaldispatch.com/wp-content/uploads/2026/11/REAPS-2048x1536.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "9c4a0f19a08be627",
+      "title": "Kansas City Chiefs announce Clark Construction Group and AECOM will build new stadium in KCK",
+      "summary": "Kansas City Chiefs announce Clark Construction Group and AECOM will build new stadium in KCK KSHB 41 Kansas City",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS0hlYnd6cFVaQmE3bTBWcXE2VHREbzVWZEhTLXRiMnFMSzJra2Y1M0lZUmFaSGd1NHZtbWxiUWFIcVJZRDJ6azZ0azdqR0ZJcTdlUFNjWjdLNDhjb2E1WUFTUVlkZExyNjU5R2kyZG1lMGZ3bHRocWlSU1pOMU1XWWY2RUVodDFUay0wR2QxellaV1pKaWI4Q1lRMFhySTRnbF93a2Q4MGd0WXFLWWhmcTl0RFhNcDdlX0RDQXBiRnhDSkUteEpzM3RrcmFvLXYwVEE?oc=5",
+      "source": "KSHB 41 Kansas City",
+      "feed": "Google News",
+      "published": "2026-11-11T22:34:28+00:00",
+      "category": "行业动态",
+      "region": "美国中西部",
+      "sector": "体育",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/6b424fc/2147483647/strip/true/crop/798x419+0+14/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F9e%2F94%2F392c05c04cefaa8090771a3517fc%2Fchiefs-stadium-1.png",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "3c37bd38a9379f44",
+      "title": "Broomfield City Council approves some, but not all, items related to 2 proposed hospitals",
+      "summary": "Broomfield City Council approves some, but not all, items related to 2 proposed hospitals Broomfield Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONklWX2V6VjR1VVhobElUZzdyTU5VUHR0OHN5TlhXdG1FX296QmJnemJfdkE5WUlQNkVOTEc3UzJ3OFFVNERtLUQ1TmRTblh0dGo4MHdwaERNN1NldTJJb3NkWWNudTVObWRLeGhORWtyTkIzRC0zbkZyeVBJXzNUREtycDBaaUpzV1d6bmpfQVRvc2Vj?oc=5",
+      "source": "Broomfield Enterprise",
+      "feed": "Google News",
+      "published": "2026-11-11T22:26:19+00:00",
+      "category": "设计发布",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://www.broomfieldenterprise.com/wp-content/uploads/2024/08/DCC-L-BROOMFIELD_2MJ8032-1.jpg?w=2000&h=1333",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "828d4ae3afb1cc5a",
+      "title": "Tampa General Breaks Ground on Workforce Housing for Employees",
+      "summary": "Tampa General Breaks Ground on Workforce Housing for Employees Multifamily Executive",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT25xQ25Qa0xYcTJUS1FlY2pidzJvZlZ4M1VMLVppRC16eFBwQ1NjMnZsVWNFcktmdmhSeVhKa3ByT282NjlfbXRFbW5zUVkxakY2Mlg4MWM5UW5zN2Y0SE9mRHU5NXdiMFZOdXNDVTU4THQ4ZUhlZndMclRGenRpRFJYeS02d1k3dVlWMGtrMi1Pa1ZvTG9iSFVNeXZXTW80MU9CNDNwZ3NNbUttNnc?oc=5",
+      "source": "Multifamily Executive",
+      "feed": "Google News",
+      "published": "2026-11-11T22:22:03+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": "https://qtxasset.com/quartz/qcloud1/media/image/260821_aerial-final.jpg?VersionId=oG7TyRrtLr7YjFaNHSKK6FnjzsuNXfDz",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "bbfd9489e10880d3",
+      "title": "Chiefs announce construction team for future new stadium in Wyandotte County",
+      "summary": "Chiefs announce construction team for future new stadium in Wyandotte County Kansas City Star",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40UTY3UGJZQm5RbXdHMmh0U2x4TllQdVVUVldEZWhvbTFpbWQzZ3pBQXZtTXpuN3kyOEo1elBRcDJpamxXU3pVWWhUd0ZmWmh4Y0Z4MU1xdlBPRjd0R2RqR2k3MmlDX0ttWUM40gFrQVVfeXFMUE03RkRDc2NvZWNPSDB1anBBR05XNE1JQlNmSHQ5NTFyZ1E5clp2RHA5UVN6RDAyV1RiN0VtVXR5WGZUZGx3MVNoa2pTdWNPREhPTWFrQkFvdXlORm51QXNmNzBKZXd3cVRMOWM?oc=5",
+      "source": "Kansas City Star",
+      "feed": "Google News",
+      "published": "2026-11-11T21:54:42+00:00",
+      "category": "行业动态",
+      "region": "美国中西部",
+      "sector": "体育",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "70b531685a63c763",
+      "title": "Final Madison budget secures police body cameras, funds South Side development",
+      "summary": "Final Madison budget secures police body cameras, funds South Side development Wisconsin State Journal",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTHNDMHlCUm5ialJ0X0VQMGx0SmR6LVR3Wi1CcW5SbU1oX3Y1TXpCX1ktQXJXSDU4NmdwR0FWUjlNZkw5UnhEM2ZMVFludTNyZW1ERHpRZTRsVTJpWU94WVo4czlROEtkNXhwYTFieDZHZ1hwYVRJd19TS05UUzIzZmNhQjNzcGo2c19vT25FdzA3S0NmQmJhWUMwcGY4M3p0Tmc?oc=5",
+      "source": "Wisconsin State Journal",
+      "feed": "Google News",
+      "published": "2026-11-11T21:45:00+00:00",
+      "category": "行业动态",
+      "region": "美国中西部",
+      "sector": "综合项目",
+      "image": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/5/70/570170ac-ce3e-42d7-850d-78ff4ea9dce6/6af4de5636f9f.preview.jpg?crop=1662%2C873%2C0%2C192&resize=1200%2C631&order=crop%2Cresize",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "18fa853fa8b4b330",
+      "title": "'They understand our vision': Chiefs name companies to construction team for Kansas stadium",
+      "summary": "'They understand our vision': Chiefs name companies to construction team for Kansas stadium KMBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFUzalBVY1lfY016N3Y4MHhqanV3Z0k5YXEzcW9wbGNRY1MweVNDWk01ZENnN1EyaVhVNjc5RGE3VjBpaVpMelN0bzd6OHcxaDlyUlNnYnN5a0FFTGlwYmdlQ2tsY0M4YmVVYlkzamcyUGhBTzVqQWF3a3hlZHByRi1ySU9FY3kxSEZvSVN4ZkE?oc=5",
+      "source": "KMBC",
+      "feed": "Google News",
+      "published": "2026-11-11T21:42:00+00:00",
+      "category": "行业动态",
+      "region": "美国中西部",
+      "sector": "体育",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/6c22c2b5-9e1f-4fe4-8dd8-639c75350543.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "810342efc40a5a33",
+      "title": "Lynnwood's Bow Tie Affordable Housing Breaks Ground",
+      "summary": "Lynnwood's Bow Tie Affordable Housing Breaks Ground Hoodline",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUFBuYUFIcHVlQ3FVU1dsM0wxb19DVWcweTE0WkdiOU5hUkg1ekJnOER6aW94bWhSUFBNVEdLbzJ6OHIzQWp4MWpCcHY1MV9OSFRNNk9TeFRJeUNTNXN4eTZJNzd0SXZvSk5Qb21lVEJnZGtoODF4Tkx4V3FiR1J6RWdvMGNQZlRvRGZVSXZidU1SM2VGMlNkZV83QVlIRW8?oc=5",
+      "source": "Hoodline",
+      "feed": "Google News",
+      "published": "2026-11-11T21:25:00+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": "https://img.hoodline.com/2026/11/lynnwood-breaks-ground-on-90-1m-bow-tie-housing-for-seniors-families.webp",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "58d51b6b8b5b8fd6",
+      "title": "Madison approves up to $11.741 million in TIF borrowing for retail, dining development",
+      "summary": "Madison approves up to $11.741 million in TIF borrowing for retail, dining development Madison County Journal",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeWtGZk1fMWVObUFuNnhMME5nYzFyVlFRSGlUX0czaXJjYmR4VHRPT2lsNGZHT2U2bmdKaW50YnpFdEpjeThoTzFjMmZvaE92c1hDWXJwbGFMZlJmUzE5UUc1UUlOQ0d0QkpkZHI4WFgwTF9za2dhd0NZSzhlY3k0WmFSVVNYSnExR0dNTVF0YUc3bEhyZ29OOHBZNWp6TnRidWVyTi1qWVE0S204NnFPa2pSTG1NcV9XU29MZURMMWVRWXdSX3c?oc=5",
+      "source": "Madison County Journal",
+      "feed": "Google News",
+      "published": "2026-11-11T21:06:19+00:00",
+      "category": "行业动态",
+      "region": "美国中西部",
+      "sector": "商业办公",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "97b92e01eb743b56",
+      "title": "Lee County tax incentives for Mesabi Metallics plant approved by supervisors",
+      "summary": "Lee County tax incentives for Mesabi Metallics plant approved by supervisors Iowa Capital Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZXVpZkt4cWxKd0xRdld5dy1pbjJ6c0xWV2t5Mk9Fck9mV0JyQk5KbEJvUkp3TC1MOVpxc19lZTFFVWh1WExPalNVZFNselRZc3dtaE51WTNHRm5HV2RGNXdRVmNhNGs1d3cwdlU5YVlKcktZUDRscEQ5Y1hGa0JEOHJrcjI4SVV3YXZfX0Z2TGgyTE56MjU3Q0VFc01IVDJ5RzNPdER3bDZuWVhBZFgxNzVEUjBSQm9xTC03Qg?oc=5",
+      "source": "Iowa Capital Dispatch",
+      "feed": "Google News",
+      "published": "2026-11-11T21:03:55+00:00",
+      "category": "审批落地",
+      "region": "爱荷华",
+      "sector": "综合项目",
+      "image": "https://iowacapitaldispatch.com/wp-content/uploads/2026/10/steel-mill-_-Getty-2048x1433.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "444e01b3e75a72c8",
+      "title": "Gilbane wins $114M Alaska Coast Guard water infrastructure project",
+      "summary": "Gilbane wins $114M Alaska Coast Guard water infrastructure project Construction Dive",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYTl4ZVpxRWszVDZhVHZzZTl2ZWsyeTg4dTdNaHJvRmtHVG9jWl9RM3E1azFoWnZOT19rdS1vc2lqTnpZd1psd1hFZHFhZDVWd2ozVjVrTm56TEU4WDc2elIxT05zZU5RcDdxTmlhMTh2YUg5R01CX2hXNnhWc3hWZkNiZEpkQWd4dnd1TkdR?oc=5",
+      "source": "Construction Dive",
+      "feed": "Google News",
+      "published": "2026-11-11T20:54:05+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "交通基础设施",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "a2f12eddc5bb3e10",
+      "title": "Gulliver Preparatory School Breaks Ground on New STEAM Complex, Advancing the Future of STEAM Education in Miami",
+      "summary": "Gulliver Preparatory School Breaks Ground on New STEAM Complex, Advancing the Future of STEAM Education in Miami StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUVdtV0tVNjMyT0diemw2MUVYU2N3bUVOV0pxeWtjcTdiLVdhWkh5VGo4RlFpRS1TTlFPRTB6RU5PUzVrY2dZeDBURHZUOVlzNzQydF9zbEFONkJHbXVERUgwMHNZc3RocWxnTWNieWZwLXJDMmpFaGxlXzdfNWVjQ3l3VnFzakRhSVlKVnE3T202R2JzSEdKcHFUT3ljUmtnbE8zQTJZT1JmSFIwZGFya2ZGMklKZjljWGRKUFFqMVZtbVI1N2lhb3ZzMWFjMjVNRndkalgzYzh3dUl0NEtrZlV0b2VvemhTNGFuWUY0VWdkazdwS2F1VVJWMWIyQQ?oc=5",
+      "source": "StreetInsider",
+      "feed": "Google News",
+      "published": "2026-11-11T20:45:33+00:00",
+      "category": "开工建设",
+      "region": "美国其他",
+      "sector": "教育",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "5dbf00c34aa78f79",
+      "title": "How higher education spaces can better serve student veterans",
+      "summary": "How higher education spaces can better serve student veterans Building Design + Construction",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUDE1MGxQMm5ERHhmSVpxXzRsYVFuZWdkUTJIYS1sNHNVU1hZQkREUk5nZXdpQXFLQXZvdlQwX2Y4YzdwcmNCQmRhTVdGX1dWTGhkS1B2dlJteEU3cGwwZTZLTXgtV0F0bWVtbGRrX0w2S1ZVamlQUEFScl9LdE1KeFlRR0VRV0ZHcWVkYmtteDd6ejhhVTNkSG5IVlJBZDYtQ0pPc1hqUFhrTC0wemFobFdMTHh6ZFlkZE1pT2k2ZEI4MDA3LTBVRFFBcjdEWE9JaEJfekRjc1N1d3Y2UXRRUFRnZ0kyOGo1ZE1aajRyRko1bjlVd04w?oc=5",
+      "source": "Building Design + Construction",
+      "feed": "Google News",
+      "published": "2026-11-11T20:39:34+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": "https://img.bdcnetwork.com/files/base/ebm/bdcnetwork/image/2026/11/6af4d0afc0d2285a1d4d5693-exterior_rendering_2.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "24b8f444cdc207f3",
+      "title": "Iowa City district looks at selling admin ‘symbol’ building",
+      "summary": "Iowa City district looks at selling admin ‘symbol’ building The Gazette",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLUNEN1hhMlNiZU44akJxRHpFOUtFdVNPZXVGS3RObnZXeTU2R0labU9QcmxMWng3Xzc4a3lBWFB6NWNQLVphblFJZEtMYjB1TThTN1VYal9kYlU3MHFqanZXQmZDdzhHVGxaOHNaZkotLTUwOTh5S3pXX2F4dG9PdXM1dlIyVDJDa2VkM0cyLWItb0JvNTBiT2Rxcmk0Zl9iMWF5RlZGWW9SajRvOGJuaGk0R1J4OFp2TU5jejFCZjE4QkRKV0hkWXFhdjJCYnhzeV9UR0Z2SXNWektqUjBiVlQtRQ?oc=5",
+      "source": "The Gazette",
+      "feed": "Google News",
+      "published": "2026-11-11T20:25:00+00:00",
+      "category": "行业动态",
+      "region": "爱荷华",
+      "sector": "城市更新",
+      "image": "https://bloximages.chicago2.vip.townnews.com/thegazette.com/content/tncms/assets/v3/editorial/a/f7/af7848f5-dd7b-4ae7-a75d-181e7cdc95a6/6af4aef5bee21.preview.jpg?crop=1986%2C1043%2C0%2C0&resize=1200%2C630&order=crop%2Cresize",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "34b35fa6844381ab",
+      "title": "Armenian Museum Begins Major Exterior Renovation to Transform Museum’s Presence on Main Street",
+      "summary": "Armenian Museum Begins Major Exterior Renovation to Transform Museum’s Presence on Main Street watertownmanews.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOem1VVXY1c0U3Y0xENENfcloxTVZ1WHo5c0Q5MkRQZ1FwMmpIR1M2T2dqS1pGOUlaM0xYTHFWMnFYbF9JR3Bsc0o5aGhXZGdybFMydXJqSmVuYlZFeE5jMHpWXzBERl96cWtpc2U4SmJ0NzZOOE15ZTNMYi15UWRTWC1FbGJHejJjV05MbnFnOUg5aENsWEk1R1BMUTktY0pfUFBpb2dGUjA1T1l3QWo2VE4xZEZON2pLSHZRdUVWQnBpNjBUdWZCejVUM1BGZw?oc=5",
+      "source": "watertownmanews.com",
+      "feed": "Google News",
+      "published": "2026-11-11T20:19:07+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "文化公共",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "e170b4a4ff3a880d",
+      "title": "Chiefs Name Clark | AECOM to Construction Team for New Stadium Set to Open in 2031",
+      "summary": "Chiefs Name Clark | AECOM to Construction Team for New Stadium Set to Open in 2031 Kansas City Chiefs",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYmxieFp1WnJDaUVNdWlqbW1CRnVGSW5BRW1FYVdVS1VHR2M4NGVrVFd3RzlJd3l3VV9aVnBOcEQ4YkR0eUhHUmw3VzB2YnRSMnRRVF9wNzYyMXZaTVFPZFdvUkdaVnI3XzF4a2plSmx4eXd3M0pQMGFremdoVlBTLTh4RXl1cXdkN2k2dzU1NWVzc05GNmpKWmZTM01XV2U0ZlVCRUNrSERqSE54?oc=5",
+      "source": "Kansas City Chiefs",
+      "feed": "Google News",
+      "published": "2026-11-11T19:02:43+00:00",
+      "category": "项目竣工",
+      "region": "美国中西部",
+      "sector": "体育",
+      "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/chiefs/ty6ewf0hmzoel9ggn0jw",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "0eaa0e9d31e66c4d",
+      "title": "Eurobank will finance the construction of affordable housing for more than 1,500 families in Ukraine",
+      "summary": "Eurobank will finance the construction of affordable housing for more than 1,500 families in Ukraine UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZms0dFZGd1ZwZWtPZ09rU2djRWgyNlZ0REo0b0NPeUh3S2ttRzN3a1p4RDc1SGNMUWs2QjJMQXBPTlBnVjdvUXFQd2xmUEdUUjNhQ2p4NGpWSExMaGdkQ2xMMUtEZW8tckk4SEw2T2FJS3RQOWtkdk5paEpzSDZsZzlkaDVFZXEyVWtIajJKNlNGZk15Tk5ZeEJCNlRhWUVrd05XV2tVNE1fVEMxSTBEOXFMQQ?oc=5",
+      "source": "UA.NEWS",
+      "feed": "Google News",
+      "published": "2026-11-11T18:58:16+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": "https://cdn-cabinet.ua.news/uploads/images/orenda_kvartyr.webp",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "3fcc97b91efe3f95",
+      "title": "McShane Construction Company completes 50-unit multifamily development in Madison",
+      "summary": "McShane Construction Company completes 50-unit multifamily development in Madison REJournals",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOHpTWEVsNlRTWC1xR09OWjdWaGZrbk5LRS00bTNmd3VFVUdfSnJoclFEZzBWcHlzNEtyVndvZC1rTHE5VGppYUlyMWdFUDdMUUF6VFdoWEdkY1MzTy1kcTNiU21NQWo2Vk1pdVUzUGZ2NDBMalE5ZU1ZSnRBaGZrdW9wNXd1azQ5QjR5Yk1GVHBrczJ3cjltekVnUUgyR0dDcnBGdFh1cmY?oc=5",
+      "source": "REJournals",
+      "feed": "Google News",
+      "published": "2026-11-11T18:18:28+00:00",
+      "category": "项目竣工",
+      "region": "美国中西部",
+      "sector": "综合项目",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "5e872c36896893e5",
+      "title": "Community Invited to Celebrate Groundbreaking of New Intermountain Health LDS Hospital in Downtown Salt Lake City on Nov. 17",
+      "summary": "Community Invited to Celebrate Groundbreaking of New Intermountain Health LDS Hospital in Downtown Salt Lake City on Nov. 17 Intermountain Health Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMklkZi0ta29WTXN5TjFWdVBaeGdxZGF6YjNzVGZ4TFp3M0p1Y0VYczFVZGtQd2YtOVZoYjRtanh6TzY1R05jVVdwdVFpbl9zSFBBQVhvNnFuZEVLdC1CVUprUFJ6Z0MwU3VMaTMzLVpiOFVPVmNFbnRJQ19MMXBXZDhDNnY2SWR5SHpsVV8yYm1VNXZyRjgtdk5EczNyMXdoeU5XYzNiU2F5OUtWZEM4d1ZmQ1NzaDczMUFEMlZqWjhSRWNhSmFZMXBHQUlUR19BbXo4cDRrWUR0SE04VEtUVFN3Zm9YQ1pwR0hqZV9DVngyaTA?oc=5",
+      "source": "Intermountain Health Newsroom",
+      "feed": "Google News",
+      "published": "2026-11-11T18:09:48+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "医疗",
+      "image": "https://content.presspage.com/uploads/2804/2a1cdfc0-dbea-4fc5-856b-abe7e9d137b6/1920_graphic7.jpeg?10000",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "1dc7c56cac5827e7",
+      "title": "Design 9 Awards: Our Best Renovation Winner Gives A Historic Chicago Loft New Life",
+      "summary": "Design 9 Awards: Our Best Renovation Winner Gives A Historic Chicago Loft New Life Modern Luxury",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tY1lObkxLTkNXamtNc19mMmZBa3dYSHQ3MVVXVndCNWpsbmFNYmhqQ2NENGlINERyRmZMZVFwaUZ4LXJZaXRIYXVBbC1lOXAtTVNkdWItVVZFZ2REVGtIaTZ5VjQxS0hmME5vMGE3NkR6d0NDcTZvXw?oc=5",
+      "source": "Modern Luxury",
+      "feed": "Google News",
+      "published": "2026-11-11T17:58:53+00:00",
+      "category": "设计发布",
+      "region": "美国中西部",
+      "sector": "综合项目",
+      "image": "https://media.modernluxury.com/ntgpghfuax/styles/card-social/2026/11/01/260624_AnnaKnight_02.jpg.webp?version=1e74471b35aa",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "ed723e3777824ffd",
+      "title": "New Mycon CIO will focus on cybersecurity, AI",
+      "summary": "New Mycon CIO will focus on cybersecurity, AI Construction Dive",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY1dib25Ha3Z6T0lIMjYzLS02ZUxEcER2LU1mV0dUSnY1RVl3bnV6d3VhZTZ2ZEdLZmNKbkhMcTg1N3NWaDdCQ1lGY1d6Ql9DRTE3M3pXUWVJZ1U2NTlVVFJ2MUE5YUlJa3psOGkyNlVYZWdaSG5feTZ3WTdYVUk3bWdR?oc=5",
+      "source": "Construction Dive",
+      "feed": "Google News",
+      "published": "2026-11-11T17:54:02+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "28bc9a43b1d7617c",
+      "title": "Court Allows Construction to Continue at South32’s $3.3B Arizona Mine",
+      "summary": "Developer South32 plans $1 billion in fiscal 2027 spending as crews advance underground shafts, processing equipment and other infrastructure at Hermosa mining project in Arizona.",
+      "url": "https://www.enr.com/articles/64260-court-allows-construction-to-continue-at-south32s-33b-arizona-mine",
+      "source": "Engineering News-Record",
+      "feed": "Engineering News-Record",
+      "published": "2026-11-11T17:39:18+00:00",
+      "category": "行业动态",
+      "region": "美国其他",
+      "sector": "交通基础设施",
+      "image": "https://www.enr.com/ext/resources/2026/11/10/Hermosa-Mine.webp?t=1794420406"
+    },
+    {
+      "id": "4d3bd57ec452faa0",
+      "title": "Derby council approves final plat for controversial multi-family development",
+      "summary": "Derby council approves final plat for controversial multi-family development Wichita Eagle",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjMFhfT0JSMHMwR1BNM1E5eEF6ZHVEVE9nNk5yek4xb3lpTUhTUWdLTTdvamxEZHg1bjdQZVFGV3JpbU1rWlpQN0NrSTlHZW1QczVsOU1vR0JUMDJqLXVwWEpNVDNJUdIBZkFVX3lxTE9TZFNGVjlpamlYeDJ6a09Ydmk4dnBGOEY1ODk5UEo2U1A3YjNnUFMxamhGMXk0WDU3R1kyUEFBM2RHbHZjZ3U3d19pSWEyTktQTldlZnpMX0p6WGZaX2t4Sm5ud1lVZw?oc=5",
+      "source": "Wichita Eagle",
+      "feed": "Google News",
+      "published": "2026-11-11T17:30:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "b73582678861e054",
+      "title": "€1.6m retrofit project completed on Kildare school",
+      "summary": "€1.6m retrofit project completed on Kildare school Kildare Live",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb3hOSGVTNWQwdEdVdE9HU0t3Z3owSll5MExIM0dvaGhVbVpKazA0ZXV2ZDh5T3FyTEtXakVkV3RsT2RCSUFLSks2X2NzRHpKOFpTQ0g2Mi1VOVhrdkwyM2V4YTVTekZubGlHOWVsaC1jeENDeGF6bDU3MmRMTGFVOWFLci15cFJvV2JwUzI5WmNROTdMeExqREt3?oc=5",
+      "source": "Kildare Live",
+      "feed": "Google News",
+      "published": "2026-11-11T17:30:00+00:00",
+      "category": "项目竣工",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": "https://www.leinsterleader.ie/jpim-static/image/2026/11/11/15/44/classroom.jpeg?trim=0,16,0,16&crop=&width=1200&auto=webp&quality=75",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "03554541994126ad",
+      "title": "2026 Multifamily Annual Report",
+      "summary": "2026 Multifamily Annual Report Building Design + Construction",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jLXhrVEdaTWFJT2Zja3JveTVlLXp0b3JtdDBUeGlpc19tREJBVS01ZDkzeXhFVDZxemVDVzFpYU85N3hCWUlFc3JmanRjS19DbUx3?oc=5",
+      "source": "Building Design + Construction",
+      "feed": "Google News",
+      "published": "2026-11-11T17:18:37+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://img.bdcnetwork.com/files/base/ebm/bdcnetwork/image/website/logos/1728052869098-bdclogocolor.png?auto=format,compress&fit=fill&fill=solid&fill-color=&w=1200&h=627",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "546c7e8aba2a07c1",
+      "title": "Fort Wayne officials celebrate groundbreaking at Victory Gardens affordable housing community",
+      "summary": "Fort Wayne officials celebrate groundbreaking at Victory Gardens affordable housing community Inside INdiana Business",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNczc0dldDYXpXaGdsZkZucEEtOUczNnFmQ3Zhb0hLckZCQS1kWm12MEJ2ZnZPX2ZDWUNSUVliU3ppOXdtN0JvZW10dmxOVFVqbXpQblVMdmdnUDE2TE5paW1BcDBoUnk4VHR6WnR1ZTEya2xueVh0SjJmZkVKMVlzZVNkSE9oUlNmdEs0U2psakxVc0FkeDBwUGZBZmt0RmxPd2dxYXBrTWw4Ry1rX2lLNTg4QWUycjF5eEF0UWNBR09QenczNFdFbTd5elQzX0JZUlhrSjdCRQ?oc=5",
+      "source": "Inside INdiana Business",
+      "feed": "Google News",
+      "published": "2026-11-11T17:17:00+00:00",
+      "category": "开工建设",
+      "region": "美国中西部",
+      "sector": "住宅",
+      "image": "https://cdn.insideindianabusiness.com/wp-content/uploads/2026/11/Victory_Gardens_960x540_center_crop.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "e8cdd06928faf04e",
+      "title": "St. Frances Academy breaks ground on new field",
+      "summary": "St. Frances Academy breaks ground on new field Catholic Review",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HUXEtRHNzY203NWoycy1uMVV6Qld1dGcyRk9aNUJ0NzFxeXVSdHNfNDhtXzJvR2ZRRC1JbW1MUTlsbVBReWFjWHdrX1VWSzltbWtCQ1lvc0NpLVo3ZXRPU1M0REJ6a29meUxkOGo2azNzaHpIZ0FaS1Y1ZU91QQ?oc=5",
+      "source": "Catholic Review",
+      "feed": "Google News",
+      "published": "2026-11-11T17:10:56+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://catholicreview.org/wp-content/uploads/2026/11/111026_SFA_GroundBreaking_KP-1931.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "b3eed26940480a1a",
+      "title": "$178M Development Bringing More Affordable Housing To White Plains Now Under Construction",
+      "summary": "$178M Development Bringing More Affordable Housing To White Plains Now Under Construction DailyVoice.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdU1kTmc0UnFIdDZRSXdIby00VnBmazB1NVRtOGJiSUxUeU1UR1h1bUhCRkoxZTdGaHhpWmJ2WDJGTjNaczUwM1dMc0x6TmpueUtRTF9wZlIwODJwVDJ1Z3lGQUlsM3pnU2swNmdxU0FMdlVua2N2ekw3OXp5RmVZbUNXX2FDN3hPdldRRjcxOEZZVHBDMUwwUDZRRHI0Yk1rNHM5d0dDZHVueWF1eDBGVEU4bVhSeTFMNU44?oc=5",
+      "source": "DailyVoice.com",
+      "feed": "Google News",
+      "published": "2026-11-11T16:30:00+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "78a9553b37dbace3",
+      "title": "Construction Starts on $112M Chicago Union Station Platform Leveling Project",
+      "summary": "The accessibility effort to create level boarding platforms for Amtrak passengers at Chicago Union Station is slated for completion in 2029.",
+      "url": "https://www.enr.com/articles/64263-construction-starts-on-112m-chicago-union-station-platform-upgrade",
+      "source": "Engineering News-Record",
+      "feed": "Engineering News-Record",
+      "published": "2026-11-11T16:18:38+00:00",
+      "category": "开工建设",
+      "region": "美国中西部",
+      "sector": "交通基础设施",
+      "image": "https://www.enr.com/ext/resources/2026/11/11/Nov11CHIP-Site-Diagram.webp?t=1794408752"
+    },
+    {
+      "id": "b16a673562236aec",
+      "title": "Phoenix to put $15 million into affordable housing",
+      "summary": "Phoenix to put $15 million into affordable housing ABC15 Arizona",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY2Q0TFdZdzRmWGlaSlVXME5GRWlEazVoai1MdHZuQW4tRUowbTQtOU1DNTJXQTZWVnlhcVI3T3Y0UGFDT1pnTmhsSjM3WFFXbHBIX3lNOFhWTjdlZDNieUlybFFpZ2puUTVyeF82cjR5YnFkNnZINmdHb0hmcDJCVUZkMFgyblpzNlZFZ2U0a04?oc=5",
+      "source": "ABC15 Arizona",
+      "feed": "Google News",
+      "published": "2026-11-11T16:15:53+00:00",
+      "category": "行业动态",
+      "region": "美国其他",
+      "sector": "住宅",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/72eb0db/2147483647/strip/true/crop/1360x714+0+20/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fce%2F47%2F479889a645ada67e81be4e2d7a16%2Fphoenix-affordable-housing-breaks-ground.png",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "eef4be570d4db916",
+      "title": "Alterations to plans for 80-unit housing development in Coleraine submitted to Causeway Coast and Glens Council",
+      "summary": "Alterations to plans for 80-unit housing development in Coleraine submitted to Causeway Coast and Glens Council NorthernIrelandWorld",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOS2NBalFxY0dmRGVvRl84X3F2elpDbktUZ0pOMlZKSUZsREpZNTRKT0hoTlNNRk55M2lrQnZPenNIWWgxb20zR2tmMkxDa1BfSXVLVXNmNlBHRlFVQTZrMWtCb0NCUlJZTmJvQzlhU3ktS2lucXFDemVscmdIb1ZUTDExSDc1SWhKbTh3ZWliN1FPYnluaEgxeGNNY0NGNy1QdlNPT1dtN00zejJ6Z2lMWGhJb3hYXzZyOTF5SGZMbUI2N2g2Zi1NLUhqX0JXMHMwRm05aUNka0JVMDk4VEp5OVplMDd5WG0xRnZMQm1xRGNjdl9MTGV3dHpkT0M?oc=5",
+      "source": "NorthernIrelandWorld",
+      "feed": "Google News",
+      "published": "2026-11-11T16:14:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": "https://www.northernirelandworld.com/webimg/b25lY21zOjk1YmIzZjRiLTQwNjEtNDYzMC04ZTYxLTA1ZGRmMWE0OTM5NTo3MDcxZDFiNS0zMDc5LTRmYjctYjVmYS02NTZjMjY1ZmViMjM=.jpg?crop=3:2,smart&trim=&width=875&auto=webp&quality=75",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "60b8972711dde0e9",
+      "title": "Major Neilston housing development approved with 62 new homes",
+      "summary": "Major Neilston housing development approved with 62 new homes East Renfrewshire News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNnE0cUhSMzJjZF8zd0tNT3VrMFg5NGVsd2RzMXJIY2FwWUNZS1VXb2g0N2dlb3lUakJXY2ZjRkxRMEVIQ3ZibVcxUnExY1hsRlljSVVZc1ZqNVlaTW9OYjM1UURDa2g0cjBIaWkxTTBMa29XODBrX2cyUV9TLWZjTTdNMllBaWRicDBqTmlwQTByUlBsUG5RMGlTU2UyWWg2U0lv?oc=5",
+      "source": "East Renfrewshire News",
+      "feed": "Google News",
+      "published": "2026-11-11T15:50:49+00:00",
+      "category": "审批落地",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": "https://www.eastrennews.co.uk/resources/images/21704442.jpg?type=og-image",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "afd8cfead8946e17",
+      "title": "Matt Degner resigns from Iowa City school district",
+      "summary": "Matt Degner resigns from Iowa City school district The Gazette",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObTlZNy05aEtPVjNtY3FEbnZVRVZ0U3dHWklPRFdjZHI5QTMxdXpOWkVuR3ZwNjM0ZVRqX1RVbjhDd2g5bzdBVEJVOF9LSHR0WkdKZXB6aFVtV0VqVlBXMmtCODkzMmVURFlhaS1XR2JJMmltUy1pdU5DNU9rbFJ0TE9QYWp4T20zcDhXR25hTzFJYjFUN1J3bHRkRXRublBIeERGX0NGWnNKckdLeF9rUU9nMTdQQU9PemsxQWVJbk1OR3lKMUk2bEVWLVh6RENIRFhwZ05qSVFYZw?oc=5",
+      "source": "The Gazette",
+      "feed": "Google News",
+      "published": "2026-11-11T15:45:00+00:00",
+      "category": "行业动态",
+      "region": "爱荷华",
+      "sector": "教育",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "0581a388296b4871",
+      "title": "Rushville breaks ground, opens housing developments: Projects are part of READI program",
+      "summary": "Rushville breaks ground, opens housing developments: Projects are part of READI program Shelby News",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSUxvUTlnZjZXeFhiNnBKdUwyRkEzNldDY3p5eTZKNzZ1Rk51aXNwNF8xZl9nUjZxempnQmI1UWtXcVlRRnlfTDRBb19fQ0wzQW0zQ1dFRUtBYW5kakdHSGgtZ09maDc4RWthZEpJZFF1SWpzV0VQbDFnWWlzejVRdmw0el9TMW52dzZqSVRfaXFrZ0M0TUxSck04U2VnUE90dHctZEFUX2RFNWFjdk5ub1VyMk44dGZpb1dLMDktYVVpNjFoOGlhTnY2TFVYZXBTZ09vUlF2VFBlc3pHcm03Qk5ZQnZZMkJCa3RvYTVoVTFBR0pSdkp3NDZfcw?oc=5",
+      "source": "Shelby News",
+      "feed": "Google News",
+      "published": "2026-11-11T15:44:00+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": "https://bloximages.newyork1.vip.townnews.com/shelbynews.com/content/tncms/custom/image/3d111118-00ba-11ea-b117-97c77597b889.jpg?resize=600%2C315",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "c63b8ca935ed2e5d",
+      "title": "Stadium Boom Brings New Pressure to Deliver Beyond Game Day",
+      "summary": "Stadium Boom Brings New Pressure to Deliver Beyond Game Day Sportico.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY0JGWTFJd2s5TWRkLV9wM2pDeVdqb3Y2R3ZKcDlIdEdBNVBSeWdSaVlvNlJoUXl1RDdNOFRzeS1hUWhaZW5PdmlYa05Ud3l3bjY3TlI3dkx3cG1OSjhEbHo3TVpaOHBUUEhkcFZSQk1kY0twRzFmVjF0d0VZTnBnNjFzeEpXUTlKWlNYUHdZQmpIVGQzZHlidmJ5VHFaZ05kUDUzT1JSVDVGcHJlNldoemZDYmQ?oc=5",
+      "source": "Sportico.com",
+      "feed": "Google News",
+      "published": "2026-11-11T15:07:01+00:00",
+      "category": "项目竣工",
+      "region": "国际 / 未识别",
+      "sector": "体育",
+      "image": "https://www.sportico.com/wp-content/uploads/2026/11/INVEST-NEW-YORK-RYAN-BEAL.png?w=1024",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
     {
       "id": "a3280613ee673a45",
       "title": "Iowa Finance Authority Awards LIHTCs to Advance 595 Affordable Homes",
@@ -32,6 +1408,20 @@ window.ARCH_RADAR_DATA = {
       "sector": "住宅",
       "image": "https://i0.wp.com/cardinalnews.org/wp-content/uploads/2026/10/060-0005_Fotheringay_2013_rear_view_MPulice-scaled-1.jpg?fit=1200%2C800&ssl=1",
       "image_checked_at": "2026-11-11T15:01:48+00:00"
+    },
+    {
+      "id": "69e0983ea4bdaa61",
+      "title": "Conservationists join housing groups in effort to build affordable homes",
+      "summary": "Conservationists join housing groups in effort to build affordable homes Times Union",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWi1ON3JVNE1GM0ZpQUJVMWh3bmdMQlREcWdweUJaWTdlVk1mSWc0TFI5amg1akd5REFVY3RCYTBleHJPYjNqcU9XTUllOTlBeFlURmNEQThUVkU0TlZJWHJMODhnZDFaQmp5M0MzaC1JNzVYQ0lyS21YNkZnblR3aHVMdUxLcHFENllBNzVITXctQzZub0F5MjVzUVQ3WUNuMjFZandjdVE0QU1kOEE?oc=5",
+      "source": "Times Union",
+      "feed": "Google News",
+      "published": "2026-11-11T14:29:06+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "faf84e655915d539",
@@ -62,6 +1452,34 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-11T15:01:48+00:00"
     },
     {
+      "id": "ac2b319447c938e2",
+      "title": "4 Expert Takeaways for Historic Home Renovation From a Colorful Chicago Remodel",
+      "summary": "4 Expert Takeaways for Historic Home Renovation From a Colorful Chicago Remodel Midwest Design",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzRnZTdVOUxJMmRIbUtxLXNPVnlac1ZQM1ZDa01IMWR5dkczRzhJSHZEWGVaWEJld1RiNWU0VXNycjR4ZG9ER01XZ19PMEFpOFRBRUJ3OGRIc0YzV2ZGU1FUUjNlYi14U0ZYdXloVVRRZC1BUVZkcTV4QWFqN2NoZUp6Q3JVcFl1N2x4YmdWR3pKZnNIRkc3dm5xVHJETFF0SldCVWVUWnBpOENkdmVZRzhGRlNOV0U3TEE?oc=5",
+      "source": "Midwest Design",
+      "feed": "Google News",
+      "published": "2026-11-11T14:00:07+00:00",
+      "category": "行业动态",
+      "region": "美国中西部",
+      "sector": "住宅",
+      "image": "https://www.midwestdesignmag.com/wp-content/uploads/sites/2/2026/11/Abigail_Morris_Winchester2_-116_edited_closed-scaled.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "83538c1e466968ff",
+      "title": "Oakland Place lands strong tenant demand as construction begins",
+      "summary": "Oakland Place lands strong tenant demand as construction begins The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcjdOeTI0dkNVcU16OWRUMks3MVF5MUZpdk9qcVV5eDMxaEx4anI3Q0EtZFJrbEtCUHpvbW9NN19IQ29GemE2WU8xd2VMRS10M1dRYzd1V0hzSDQ4RV9tQlg3MEdCNnEyZ2RXaGRxRWstZFpUTmtZdFZON3dVNWktUXVhQ18xVVNlMmh3bmFHVUhOWUNtZk9hM2psQkpJUGFjN0VWa1FwNA?oc=5",
+      "source": "The Business Journals",
+      "feed": "Google News",
+      "published": "2026-11-11T14:00:00+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
       "id": "c4584fb21cb1db20",
       "title": "Dallas City Council approves controversial $800M development in Preston Hollow",
       "summary": "Dallas City Council approves controversial $800M development in Preston Hollow CBS News",
@@ -88,6 +1506,34 @@ window.ARCH_RADAR_DATA = {
       "sector": "住宅",
       "image": "https://chicagoyimby.com/wp-content/uploads/2025/04/900-Clark-Street-01-scaled.jpg",
       "image_checked_at": "2026-11-11T15:01:48+00:00"
+    },
+    {
+      "id": "4acb4e71b5a12f06",
+      "title": "Filipina-led design firm brings Dubai luxury expertise to Manila",
+      "summary": "Filipina-led design firm brings Dubai luxury expertise to Manila Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUlIwTXNEVnVKbEtXalhXS0pTWjNNeXhOWlpCMjNFMV9WMjROQVhuMTFUbHRfcnY3aWt3bkRSZHRIeF9hNW82T21pV3ppYWlwalFoY0FmY1dGNUVlY2pVZjJuRnVxZWpYdVk5cVlaTUZvOEZLNGEzTzNXeDE5NFpydVVCZmdqYjVmeHVwdXI3SzdNR2hiVE82akZUc2ZIVzQ?oc=5",
+      "source": "Daily Tribune",
+      "feed": "Google News",
+      "published": "2026-11-11T13:25:56+00:00",
+      "category": "设计发布",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://images.assettype.com/tribune/2026-11-11/umr1dzjo/IMG1496.jpeg?w=1200&auto=format&q=70&rect=0%2C378%2C4032%2C2268&h=675&fit=crop",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "16fb83e7f4dea16b",
+      "title": "Winning school design rethinks relationship between learning and landscape | ADEPT",
+      "summary": "Winning school design rethinks relationship between learning and landscape | ADEPT Archinect",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLU5FTzNjbUZvYUFaVkk2UnA1MmFSVjFCMHNEV3hoY3BId1c1eDdqbEhmSy1DcWV0cXBYSGVKdS1TWWZjZjBvR3pFczlDOW5OazZtdkZ6TWlYbWdnVjBDR1dHTnZlUlhuVHRGbC11ZUxIbXZaZFFVWGlkWE1OUnQ4Y2xzUUpUbXRpZ0RwOEEzTGdQU3ZUZjJXb1p6dmNFLVVWcThUV0VVNHV3U1FIT0hTNUl2MW9PUU5ZZkJMeVZ4NEJpZUtD?oc=5",
+      "source": "Archinect",
+      "feed": "Google News",
+      "published": "2026-11-11T13:18:00+00:00",
+      "category": "设计发布",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": "https://archinect.gumlet.io/uploads/f4/f4978b06e3b715cdfa65959bd72c1bb1.jpg?fit=crop&auto=compress&format=&enlarge=true&w=1200",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "c947c71b347bb2f5",
@@ -188,6 +1634,20 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-11T15:01:48+00:00"
     },
     {
+      "id": "b5145330031e9eb3",
+      "title": "Groundbreaking held for new Biloxi Upper Elementary",
+      "summary": "Groundbreaking held for new Biloxi Upper Elementary WLOX",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQmJjdHdWaGZRMkluMkZOcm5wVWZBM1NKaDhxMkJZVHRLZjJCNTBmc19DM3R5eDFnX3ozX2VYeFhHVjl6Y2xVa29ZcHdESU1xWW5ZTTZTekp2RDZVMnAtcU1iY0h1eTJMWXN2M3g0QXFaQzI3MVdTZDdLRVF0UVNKLXhkM3owdi1IWm5aOS11bw?oc=5",
+      "source": "WLOX",
+      "feed": "Google News",
+      "published": "2026-11-11T12:01:22+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://gray-wlox-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F11-11-2026%2Ft_784ca9871f16468ab040f9719a694520_name_file_1280x720_2000_v3_1_.jpg?auth=be5a2251ac9bae3a5f4c30a0e41c4a0b41849f02932ac89eb3e7bee15693df1d&width=1200&height=600&smart=true",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
       "id": "49b4b8a2fd9b281c",
       "title": "Construction Starts on Nine-Story Mixed-Use Building at 1546 S.W. 27th Ave, Miami, Florida",
       "summary": "Construction Starts on Nine-Story Mixed-Use Building at 1546 S.W. 27th Ave, Miami, Florida Florida YIMBY",
@@ -200,6 +1660,19 @@ window.ARCH_RADAR_DATA = {
       "sector": "城市更新",
       "image": "https://floridayimby.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-5.31.01-PM.png",
       "image_checked_at": "2026-11-11T15:01:48+00:00"
+    },
+    {
+      "id": "9362e2d3fca77738",
+      "title": "Freedom Mobile Arch Amphitheatre / Revery Architecture",
+      "summary": "Framing views of Vancouver's North Shore Mountains, the Freedom Mobile Arch is an open-air amphitheatre designed to remain connected to its surrounding landscape. A sweeping mass-timber canopy shelters audiences of up to 10,000 wh",
+      "url": "https://www.archdaily.com/1188346/freedom-mobile-arch-amphitheatre-revery-architecture",
+      "source": "ArchDaily",
+      "feed": "ArchDaily",
+      "published": "2026-11-11T12:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://images.adsttc.com/media/images/6af2/21e9/eabd/2a00/0192/bc78/newsletter/Revery_Freedom_Mobile_Arch_Credit_Ema_Peter__29_.jpg?1794253503"
     },
     {
       "id": "9eb51cf10b157f98",
@@ -230,6 +1703,34 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-11T15:01:48+00:00"
     },
     {
+      "id": "fa3f4fb580459666",
+      "title": "Kelly Davis takes over as Marion County Development Partnership vice president, chamber director",
+      "summary": "Kelly Davis takes over as Marion County Development Partnership vice president, chamber director WDAM-TV",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSGZJaWNNcDkycm5VZklBQnZXM3hsM1NYay1uZ3ZmTXlGUUlHcy1iaUJlaktwVENTR1Rtd1dnT1BLbmx1Z0QzLU9XUG0tZWkyTEw1QmhjMDFRYVpqQkNBN0o5WXhFWU9pNWZqRVdYcVBORm9ueHZka2xuUWgyS29oVGYyRjNWVW9mcElBSUZGQ2lpRS1hVWpKV1JGdXJOUU5kRi11Y19IVVpIQVdPVmY5OXJvcHNVZ1Z1WjRfX0NUQkNZTnBxWjN3VE1iNA?oc=5",
+      "source": "WDAM-TV",
+      "feed": "Google News",
+      "published": "2026-11-11T11:44:52+00:00",
+      "category": "行业动态",
+      "region": "爱荷华",
+      "sector": "综合项目",
+      "image": "https://gray-wdam-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F11-11-2026%2Ft_182555f3206b4c36b9c9069103afb70d_name_KELLY_DAVIS_DAVIS_DAVIS_DAVIS__.png?auth=71c66fcc75065470cf3bdd7db71f8dcb8c47b9926669bc0b26272a42e10e7d14&width=1200&height=600&smart=true",
+      "image_checked_at": "2026-11-11T15:01:48+00:00"
+    },
+    {
+      "id": "fc73505a9e43c0a6",
+      "title": "Sumayya Vally Unveils First Permanent UAE Project With Dubai’s Elie Khouri Art Foundation",
+      "summary": "Sumayya Vally Unveils First Permanent UAE Project With Dubai’s Elie Khouri Art Foundation ArchDaily",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMmJnVEV2TzJwVFRXRGRqekFmUzN4bGhRZjFqUi1WTzJMWWJqQkQzNUZpRkZsZ3c5cFNDZDVqckhVOWIyU3pnZ3VhbTRDaFlEcTJDUVQtczdWNVN4S0pTaGtJRkdxYjdBcl9fcFNpNkVCdFpITG9jSHdoQmRJSnhPX2FveWwzZlJiX2NiRVdUM0xFb2UwNXd3TkRET2NSRUpieXV5Y2stVS1neU1uRnQzMzg0c0lBSVF4RnE1Vk1SZw?oc=5",
+      "source": "ArchDaily",
+      "feed": "Google News",
+      "published": "2026-11-11T11:30:00+00:00",
+      "category": "设计发布",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://images.adsttc.com/media/images/6af4/4558/c23f/1f01/895a/f2bb/large_jpg/sumayya-vally-unveils-first-permanent-uae-project-with-dubais-elie-khouri-art-foundation_1.jpg?1794393569",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
       "id": "b90868c107ab343f",
       "title": "sumayya vally’s counterspace to design elie khouri art foundation in dubai",
       "summary": "sumayya vally’s counterspace to design elie khouri art foundation in dubai Designboom",
@@ -244,6 +1745,20 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-11T15:01:48+00:00"
     },
     {
+      "id": "b9a7a814c103c404",
+      "title": "Sumayya Vally is designing a museum in Dubai",
+      "summary": "Sumayya Vally is designing a museum in Dubai The Architect’s Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jOUE1RGVyeGRRRWd3YU9PR2hua0ZBVzQ2NmFvYzIxV0wtcFYzTkl6OF9tZms5NWwyci1mUTNfbnNId0NzYUktNnZkakh5eTU5aW81M25nc3U3dmtlNXg5bGVHMjY?oc=5",
+      "source": "The Architect’s Newspaper",
+      "feed": "Google News",
+      "published": "2026-11-11T11:00:35+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "文化公共",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
       "id": "3b096eaa7a01ece7",
       "title": "jean nouvel’s shenzhen opera house takes shape on the waterfront, with completion set for 2028",
       "summary": "new construction images reveal the progress of the 220,000 sqm cultural complex, designed around a sweeping roof inspired by the movement of the sea and a program spanning four performance venues. The post jean nouvel’s shenzhen o",
@@ -254,12 +1769,39 @@ window.ARCH_RADAR_DATA = {
       "category": "项目竣工",
       "region": "国际 / 未识别",
       "sector": "文化公共",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/11/jean-nouvel-shenzhen-opera-house-waterfront-completion-2028-designboom-700-500x400-22b08q85r111.jpg"
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/jean-nouvel-shenzhen-opera-house-waterfront-completion-2028-designboom-700-500x400-22b08q85r866.jpg"
+    },
+    {
+      "id": "35a682c4866054eb",
+      "title": "Danubio Budapest Building / T2.a Architects",
+      "summary": "Designed by T2a Architects and completed recently on the site of a former river gravel pit on the banks of the Danube in Budapest , the Danubio residential building responds to the unique urban and natural environment, partially o",
+      "url": "https://www.archdaily.com/1003582/danubio-budapest-building-t-architects",
+      "source": "ArchDaily",
+      "feed": "ArchDaily",
+      "published": "2026-11-11T11:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://images.adsttc.com/media/images/64a6/8e74/cb9c/4621/9f93/eaa7/newsletter/danubio-budapest-building-t-architects_14.jpg?1688637064"
+    },
+    {
+      "id": "247359fc521fe2b4",
+      "title": "Cultural and Community Center Stara Fužina / OFIS Architects",
+      "summary": "Cultural and Community Center Stara Fužina / OFIS Architects ArchDaily",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYS1HMHU1QU9GdGxUaUlGZms5Rm05RnhORHMzX3NnQWQ4SEZoZmVYTlRRbmRMT2x1MHVZMXZrUjFJSFV1MU5ESTAtOXdOanZGTnJuWkxCRnBFc1ZGdlF4WUVmVXFwdE5xNU91amFuTHNlNl9kQUpxSVhSVlB3QjdsM3lGeWdMZXhHV05wZTNMV3JORUhWNld3?oc=5",
+      "source": "ArchDaily",
+      "feed": "Google News",
+      "published": "2026-11-11T11:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "文化公共",
+      "image": "https://images.adsttc.com/media/images/6af3/2f1d/8074/f401/89de/dd52/large_jpg/cultural-and-community-center-stara-fuzina-ofis-architects_3.jpg?1794322263",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "f5408cd340b4f0e0",
-      "title": "Oborishte 26 Housing, Sofia, Bulgaria",
-      "summary": "Oborishte 26 Housing, Sofia, Bulgaria e-architect",
+      "title": "Oborishte 26 Housing Sofia, Bulgaria building",
+      "summary": "Oborishte 26 Housing Sofia, Bulgaria building e-architect",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xblBJSUdmdmRlQU5XZ0VNUW1oUlEzSFBVNklBWDhGcnpybzFicTAyeGp6NW5sVnZQRGhFYjNoSXRLbXd5MGxKMjFxSkVqSFpkcTlfZ3E0MVZqM09zdnVqWGcwSlRMNE5jNGhSN3V5NXJHUmRNaFE4V1F5a1k?oc=5",
       "source": "e-architect",
       "feed": "Google News",
@@ -381,6 +1923,20 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-11T15:01:48+00:00"
     },
     {
+      "id": "9b8df0e3ea765d25",
+      "title": "Remembrance Day 2026: The construction-military link a key ingredient in honours",
+      "summary": "Remembrance Day 2026: The construction-military link a key ingredient in honours constructconnect.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVElrMUVLQWhmREJxZWZGVDZPRUVQajlrbExZdFNHUUJHb1ZFM015TmtIaE5rUUROSTdCUkhXaFQyWW1oOVpZUXhYRmtVaG1ibmtqZWRxR2wtTUdzdHFFc256ampRbWRtdjhWcWdPemsyNGxrN0p1aW5Pdk5QamsyOUFIeUdYM1FaREhGOC1NaEQ2VUs2VkxOcDFjQmpMZVVzajZ4ZTdlVG9Qb1VQREhQVGhNbTlPTzMtZm9wRm5vQnFWNWR4RV9Ia3F2TW1rMzRDaW1LdnZSUE8?oc=5",
+      "source": "constructconnect.com",
+      "feed": "Google News",
+      "published": "2026-11-11T07:36:05+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://cc-production-uploads-bucket.s3.amazonaws.com/uploads/2026/11/tank-lift-collage.png",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
       "id": "fc86f1521fef59dd",
       "title": "Building from Place: Inside the Work of RAMA Estudio",
       "summary": "Carla Chávez, Carolina Rodas, and Felipe Donoso began collaborating while studying architecture in Quito, Ecuador , and went on to found RAMA Estudio , one of the winners of the ArchDaily Next Practices Awards 2026 . For more than",
@@ -414,7 +1970,7 @@ window.ARCH_RADAR_DATA = {
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTWsyYW95UURmcE9WS0w5cldvaXU1RlZEZW1iMVVja1JVYU1HQU1TR1F3ZGRucFVjREE1bzRlZkctNkVvX3VEYkwtZ01ELW1UekxMNjh3T01zaXQ2M05XUzFsamRsOEVzSWFnWXhFbGhxZEJlR3JpelphaTM3MHpPQTNtaWJLa0pZY281R043SDNFcW9VUk1FR2N4ZWlHQk5CNVhWc2UtRm4xQnhueDlUOUVaQWdScnM3S3BPTHkyMVN1cDlNVzl0cnlvdThtZTFhMmxxUGdNT3FndU1LNXhQOFVKWQ?oc=5",
       "source": "Travelling for Business",
       "feed": "Google News",
-      "published": "2026-11-11T06:45:00+00:00",
+      "published": "2026-11-11T06:48:48+00:00",
       "category": "项目竣工",
       "region": "国际 / 未识别",
       "sector": "交通基础设施",
@@ -434,19 +1990,6 @@ window.ARCH_RADAR_DATA = {
       "sector": "医疗",
       "image": "https://www.fbcnews.com.fj/wp-content/uploads/2026/06/Fiji-Aus.png",
       "image_checked_at": "2026-11-11T15:01:48+00:00"
-    },
-    {
-      "id": "76863475dca4ea47",
-      "title": "Sumayya Vally Unveils First Permanent UAE Project With Dubai’s Elie Khouri Art Foundation",
-      "summary": "The Elie Khouri Art Foundation (EKAF) has appointed Sumayya Vally of Johannesburg - and London -based practice Counterspace to design its permanent home in Dubai , United Arab Emirates . Scheduled to open in late 2028, the institu",
-      "url": "https://www.archdaily.com/1188481/sumayya-vally-unveils-first-permanent-uae-project-with-dubais-elie-khouri-art-foundation",
-      "source": "ArchDaily",
-      "feed": "ArchDaily",
-      "published": "2026-11-11T06:30:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": "https://images.adsttc.com/media/images/6af4/4558/c23f/1f01/895a/f2bb/newsletter/sumayya-vally-unveils-first-permanent-uae-project-with-dubais-elie-khouri-art-foundation_1.jpg?1794393569"
     },
     {
       "id": "1415a1cf4aa0f89d",
@@ -477,18 +2020,32 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-11T15:01:48+00:00"
     },
     {
-      "id": "8bb5ed347c16bffd",
+      "id": "1218ffc3cc793d99",
       "title": "Waste centre near homes approved despite concern",
-      "summary": "Waste centre near homes approved despite concern Yahoo News Australia",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oX1ZSZmhvc25kUm00aTVWQ2loZnRyVktaaEx5bDVlenJ1TDJqS0x5Ti1lZU9hc3NuQ2pzb0R6V0FSNjJHQlpjVlVuUjJOVVdlcXNhb2ZDTkNTWFNieE1wMHVIbEhIUm1OS1pqSFB1ZllCUXI1N2Y1OVYtNHdYZw?oc=5",
-      "source": "Yahoo News Australia",
+      "summary": "Waste centre near homes approved despite concern BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yV1ROQWlEMWZFaWJCOGZjcFhrekNoaXB4a1NEdUNuQkFKN2hqN21HUy16WVRzM3doMEhHVl9CWUFSUTRad2ZmWkRYQllCVGFMRmNKSE1qb3JtSzg?oc=5",
+      "source": "BBC",
       "feed": "Google News",
-      "published": "2026-11-11T06:01:00+00:00",
+      "published": "2026-11-11T06:01:16+00:00",
       "category": "审批落地",
       "region": "国际 / 未识别",
       "sector": "住宅",
-      "image": "https://s.yimg.com/lo/mysterio/api/efb81b93ec5721db8f1e233a05dc607d607f5ec9d59a68c3a732758923bf637d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F44c09af6d6c4b7ee322b1503ff2ab2e1.jpg",
-      "image_checked_at": "2026-11-11T15:01:48+00:00"
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d9ee/live/fb2a7100-c4b6-11f0-9b68-57906bffd3ed.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "f7f70c36bb5a9019",
+      "title": "Why talk of security architecture has struck a nerve in Europe",
+      "summary": "Why talk of security architecture has struck a nerve in Europe Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUpyNDN6VkZnOVMzeHZoaE9Gc2dLd1cydDZ6Q0N0c0VWT1pkalhhYnlwaXNlMGE5TURVemhqLTFmY3RmTTFQc1VsOTBpQ2ROV081NEpPb0lpd05KLU43SmZFa05qYUhqRG9lUnFpZURHQk5XTGQ2aTNmZDhTWWxFR0pwRmJhWVVqT1ZzXzVWUDEwWXJFZHlwS0JMeDNNQm8?oc=5",
+      "source": "Euronews.com",
+      "feed": "Google News",
+      "published": "2026-11-11T06:00:39+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://images.euronews.com/articles/stories/09/98/73/05/1200x675_cmsv2_0c2a25ad-5908-5434-9c6e-28c747fa3ccf-9987305.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "1efa8ca5ad5199e3",
@@ -502,33 +2059,6 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "https://static-2026.dezeen.com/uploads/2026/11/caa-poro-herferd-bombadora-ecuador_dezeen_2364_sq-1024x1024.jpg"
-    },
-    {
-      "id": "787dd098546e064d",
-      "title": "Cultural and Community Center Stara Fužina / OFIS Architects",
-      "summary": "A HOUSE BUILT BY ITS COMMUNITY Villagers and the wider local community built the cultural center in Stara Fužina in 1983 through contributions of income, materials, knowledge, and labor. The need for a shared cultural space dates ",
-      "url": "https://www.archdaily.com/1188337/cultural-and-community-center-stara-fuzina-ofis-architects",
-      "source": "ArchDaily",
-      "feed": "ArchDaily",
-      "published": "2026-11-11T06:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "文化公共",
-      "image": "https://images.adsttc.com/media/images/6af3/2f1d/8074/f401/89de/dd52/newsletter/cultural-and-community-center-stara-fuzina-ofis-architects_3.jpg?1794322263"
-    },
-    {
-      "id": "fa3f4fb580459666",
-      "title": "Kelly Davis takes over as Marion County Development Partnership vice president, chamber director",
-      "summary": "Kelly Davis takes over as Marion County Development Partnership vice president, chamber director WDAM-TV",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSGZJaWNNcDkycm5VZklBQnZXM3hsM1NYay1uZ3ZmTXlGUUlHcy1iaUJlaktwVENTR1Rtd1dnT1BLbmx1Z0QzLU9XUG0tZWkyTEw1QmhjMDFRYVpqQkNBN0o5WXhFWU9pNWZqRVdYcVBORm9ueHZka2xuUWgyS29oVGYyRjNWVW9mcElBSUZGQ2lpRS1hVWpKV1JGdXJOUU5kRi11Y19IVVpIQVdPVmY5OXJvcHNVZ1Z1WjRfX0NUQkNZTnBxWjN3VE1iNA?oc=5",
-      "source": "WDAM-TV",
-      "feed": "Google News",
-      "published": "2026-11-11T05:50:26+00:00",
-      "category": "行业动态",
-      "region": "爱荷华",
-      "sector": "综合项目",
-      "image": "https://gray-wdam-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F11-11-2026%2Ft_182555f3206b4c36b9c9069103afb70d_name_KELLY_DAVIS_DAVIS_DAVIS_DAVIS__.png?auth=71c66fcc75065470cf3bdd7db71f8dcb8c47b9926669bc0b26272a42e10e7d14&width=1200&height=600&smart=true",
-      "image_checked_at": "2026-11-11T15:01:48+00:00"
     },
     {
       "id": "43ab9b09098370ab",
@@ -601,18 +2131,18 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-11T15:01:48+00:00"
     },
     {
-      "id": "5c7aeafb9c06ced6",
-      "title": "Groundbreaking held for new Biloxi Upper Elementary",
-      "summary": "Groundbreaking held for new Biloxi Upper Elementary WLOX",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGE0c0hjWkNDcHJQeE5QeTBMSVpCd2hzMEYtbUljaXlCQXZJX2xyT3pLcjJCRFZHYmNIWVV6MmFNTzd2TlpFdlRjdkp0cTVFaGxJUWIwXy1lYlMzZFo0blV0MTdZSmRTWFFGNTZ2OU9PRnhJeGxTUmNxakZYbkZPZXVuZ2F3UzTSAZsBQVVfeXFMTnItbzhyeHZZOUhIMFI0NTFNQV9pbzhrY3hZQTJKZzNKMm41bl9fYmxRdnc1cUd2andaQzhZOWEyWUN0SVQ3X3hSd094ZzMzN21nQVd2aEh3QnVwRUpxYjN6SzMzR0Q0emprVmFWeEZYVF9ZeUVWbzRTSG9pamNaYnQxdTd6TDE2ZF9WU0tNRlhhblZKUUJkWVdsUWc?oc=5",
-      "source": "WLOX",
+      "id": "81c4c69cae15d200",
+      "title": "Boutique Design Reveals the 46th Annual Gold Key Award Winners",
+      "summary": "Boutique Design Reveals the 46th Annual Gold Key Award Winners Hospitality Design",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTzZIb1BPNHRMbDZXRks2X2pPNV9UcWp2QkF5ZjZjbGFwZEQ3YXZDQ3ViZWsyLWl2MHl1alYyenRGVEZhVG5RMldwZllQZzJ6SVdrWG03VWpuN0F5aGtCdDRzZmMydkM1Z2lPcW9KLXZRa3J1dnRuY20zTFEzTmstbnoxYzVpcnFMTm1CamNscw?oc=5",
+      "source": "Hospitality Design",
       "feed": "Google News",
-      "published": "2026-11-11T03:30:00+00:00",
-      "category": "开工建设",
+      "published": "2026-11-11T03:22:24+00:00",
+      "category": "设计发布",
       "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": "https://gray-wlox-prod.gtv-cdn.com/resizer/v2/GGPKHTNAQZD37P5FS7GLADRVJI.png?auth=cf9854d941595910a268bdaacd5e338434a9ebbba89d38fe1c716d9a932eef51&width=1200&height=600&smart=true",
-      "image_checked_at": "2026-11-11T15:01:48+00:00"
+      "sector": "商业办公",
+      "image": "https://hospitalitydesign.com/wp-content/uploads/2026/09/Four-Seasons-Resort-Residences-AMAALA-at-Triple-Bay.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "4ae5eb6a007fd138",
@@ -685,8 +2215,8 @@ window.ARCH_RADAR_DATA = {
     },
     {
       "id": "b9b0158b6d9b7d5c",
-      "title": "A new developer breaks ground on 682 workforce housing units in Northern Nevada.",
-      "summary": "A new developer breaks ground on 682 workforce housing units in Northern Nevada. KOLO | 8 News Now",
+      "title": "A new developer breaks ground on 682 workforce housing units in Northern Nevada",
+      "summary": "A new developer breaks ground on 682 workforce housing units in Northern Nevada KOLO | 8 News Now",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdE51ck01YkRCM0R5TGgtRXdCS1huOTJuUldNVVZvRjZEVDM3djc4VUN3QjJTTUZETm5MblJpYS1CQ1prQWFCNS1raTRNOHJ2aENpRWNIZGZrMkdMcWM3ZkxCdTdxazNzMVFrMVlwRGpuR1VHLXRFcFVnbm1ybGk5RmZXVlgybUxqTHBwRlR4bk9UbTZjUkZKZDNfR2VJSUlrMFptUThVc0pKUdIBvgFBVV95cUxOdzJxLUJ2S0ZrM0JsaXM0WWVEUW1IUk42MTFBWW9QbnRQNlBaaGp0bWk5T1VZZThtWFVoSVg3Zkd5ZENTQkZ6UHVjLXFSWTg5ME5RVWw2bzNHRzJlNzZfakJ1M3V1czlmRGhFWVI1OHZVU05MZVVjTjk2eFNhTEFMR0hPSlBNV0dPUGxCbjFIQzk2MjZDR3NjcENHVzgyd1JTa0FuZWJPRzdGTk1WLW5VamM5eHZEeEpwdmI1cG53?oc=5",
       "source": "KOLO | 8 News Now",
       "feed": "Google News",
@@ -739,6 +2269,20 @@ window.ARCH_RADAR_DATA = {
       "image": "https://images.adsttc.com/media/images/6af2/a5bf/c23f/1f01/895a/eb63/newsletter/pusayapuri-housing-ekar_17.jpg?1794287055"
     },
     {
+      "id": "653891eda0c31a96",
+      "title": "Exclusive | Taylor Swift and Travis Kelce's Ohio neighbors lose fight to stop landscape plans for new home",
+      "summary": "Exclusive | Taylor Swift and Travis Kelce's Ohio neighbors lose fight to stop landscape plans for new home Page Six",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNDZxLU56WVlYWXY3NmpNbXJMNDVkSXZTdTd6dTlYdnAzRmxvaDNUM1ZNTE1YYWp3UGJETWZuN0N6aTN0dlpZckljc3NuSVZpMVUxdGJlSWx1ZDN6R1pmVDE2cnI0VjRTeHZfMExGbExDZ01lSjJZVmllZUlCRkZwWmhiT1pOVnZyZkdRTF9jQ0NPZTFibTQwRzIwcU03VWpjOV9PbXJ6QUtSb3RwdG8tT1FoU2luTm00a0FWUzViRnhYa3ZnamFkMFBMUU1EaGNQckdCaENR?oc=5",
+      "source": "Page Six",
+      "feed": "Google News",
+      "published": "2026-11-11T01:49:00+00:00",
+      "category": "行业动态",
+      "region": "美国中西部",
+      "sector": "住宅",
+      "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148268180.jpg?quality=75&strip=all&w=1200",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
       "id": "c02404f7390b1334",
       "title": "Myrtle Beach City Council approves alleyway transfers for proposed Margaritaville resort",
       "summary": "Myrtle Beach City Council approves alleyway transfers for proposed Margaritaville resort WMBF",
@@ -759,7 +2303,7 @@ window.ARCH_RADAR_DATA = {
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLU93OU5lektyeUZKRUNYWl9TZFJWNHI3TXpvSEhIS191dWh0cWUxSUZHdV96aEdkR2cwZUd6ODZNNkNObWdpM0NMSkxIM1ZBWjhacGlPWlNxcU1ITTJTMlRoSy16Q2otRHF0QXJhVm9wOUFqVWJoS21Vek9xYVNFNzdRNm83M3BoRWFoOHd1eWwwcF9pMFZkWEdMbWh1TGFBUjFSX2k2VURKS0IweHZsdlpmNW1EZjZORGc?oc=5",
       "source": "Dallas News",
       "feed": "Google News",
-      "published": "2026-11-11T01:18:14+00:00",
+      "published": "2026-11-11T01:19:04+00:00",
       "category": "审批落地",
       "region": "国际 / 未识别",
       "sector": "综合项目",
@@ -851,18 +2395,18 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-11T15:01:48+00:00"
     },
     {
-      "id": "995681c33f7c686b",
+      "id": "f5ed3f058dea9d7d",
       "title": "Iowa football head coach Kirk Ferentz reactions to College Football Playoff expansion, end of Big Ten Championship games",
       "summary": "Iowa football head coach Kirk Ferentz reactions to College Football Playoff expansion, end of Big Ten Championship games The Gazette",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQdkdmYnNaMnA2a0c1b3ljbUsyR2tfdzJOOHdmSnVLaURJNXAyREVrbkRLS1g3TkpYOW5OVFM1dmZVYVFDMUFJSm53bW1MdFNRVnE1RGJYWTlKTlRIT0tiN0I5OHdEZFlmYzBTdU4zVmpUZm5pOTFqVW5EcWhiYVd5ZEhFaFdDR0hkV3c4S1B3UGVlRUMxcS01bmt6ZWtZdy1LQUM4UHJkQmJEbDJ1YS1nWExyVHJ4TFNpcUNWYTRUbm84cHNqemZIajFEaVNvTkEzcWFMWGJRV1diZEwySlh3VTJ0OVNveFJvQnZpVmJ1OE1RYkkzOHlWTktLRmlhSFlOTGRXbzN6UzhlOTZibmpKS3EwNTRFT2N6Qk5xTGwzSHJhWEpNNlZHaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNRXdZR245NHh2T2RONVZrU3BnbWJ6R0c2MFhfRmgtRVh0QkIzbVRtYndmSlhnaGdKS2JqekdWOGJmeW9oQklMbmdraU1vMmU4Q1NULVBfY3ZYZXNBZl9qRXlxTjN0N2VIR3ZoMWQxOVNMQm9KX1Z2SGhrRlVrbU0xVVB6QnJWZEx2OXZzdG0zUUU0bjR6UnBRNHVSVG9CUy1jS2JwLTV2bVZGeFlrREJONTB5MEJUS3NtSmZxZktLSm5PNkNLVGZtRDg4Q1NHNWd1dFlDSlRZMlE1SmZWQzlGMTY5ZHRVc21HdnFob1hqQzdhLU1VaHJsQWIyWjJOUUdpYm96cU1HXzF1RWJzYzl5TmNHUFo1Y3BTRjhqMzNVVFV4eVVOX3k0U1lR?oc=5",
       "source": "The Gazette",
       "feed": "Google News",
       "published": "2026-11-11T00:14:00+00:00",
       "category": "行业动态",
       "region": "爱荷华",
       "sector": "教育",
-      "image": "",
-      "image_checked_at": "2026-11-11T15:01:48+00:00"
+      "image": "https://bloximages.chicago2.vip.townnews.com/thegazette.com/content/tncms/assets/v3/editorial/a/4b/a4b6cb77-40a1-4071-88d3-01d65d6676f1/6af3b88144f1a.preview.jpg?crop=1763%2C926%2C0%2C220&resize=1200%2C630&order=crop%2Cresize",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "8d2e5686d96694a5",
@@ -1006,8 +2550,8 @@ window.ARCH_RADAR_DATA = {
     },
     {
       "id": "dd4f87ca2bf9fd83",
-      "title": "Fort Worth City Council approves 90-day moratorium on data center development",
-      "summary": "Fort Worth City Council approves 90-day moratorium on data center development NBC 5 Dallas-Fort Worth",
+      "title": "Fort Worth City Council considers 90-day moratorium on data center development",
+      "summary": "Fort Worth City Council considers 90-day moratorium on data center development NBC 5 Dallas-Fort Worth",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRXJUSUVpSGZYOUdSN2dNeE9tOHpxTFBwdzBLYXR5akVPMm1JWWdXd3BEY0JadG9mVExPNFlQQUNkTDRIbXlBNHN5dTFDTmZPNnY2VXZjSjZxbUhGZUpZZDB0TVdySXE0NmhFZ1ltcUFaQkc0Q2xmejdESWJCSmVZTmpYNHZieWwzNTItOXpyMDkxNUhzajIwb01IRDVIeW4tNHfSAaoBQVVfeXFMTUU5LUpOU0s4TUU1TGN6Yzd4RHBvNlg0akV1NHpNZktMaXFTM2gzRU43S0FGX3U4aTU3b2I2TW4xX2VycDBOMGQ5b1g5b3Q3SnhCOWM0WkZDMTF5anBhSmZ3cHM4RERVbEUwVlJjY3JrVFczYzB1WGI3LS10Nk9WVnJsczRzNkVCZXZnZ3E4UUdONmVnM1VxdGg2OFoxNnR0SEZyOGRtMGZXWGc?oc=5",
       "source": "NBC 5 Dallas-Fort Worth",
       "feed": "Google News",
@@ -1122,7 +2666,7 @@ window.ARCH_RADAR_DATA = {
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOEl4ZVNoaVVtaFY5MlJ1allhM1VwclhfSm1VbGFvQVhVUGpQXzB4amh2elJjVF9HcVZBZFdUMmFvdWg4R1BtRHRDblZ1OWFYQXhoZkk5SmllaTdYaVZJT0JGUUJYMW8zZGd4QVM0Yll1WXlsOE5DaTNKS1JqbWxPbA?oc=5",
       "source": "Baltimore Sun",
       "feed": "Google News",
-      "published": "2026-11-10T21:11:18+00:00",
+      "published": "2026-11-10T21:12:06+00:00",
       "category": "开工建设",
       "region": "国际 / 未识别",
       "sector": "综合项目",
@@ -1226,6 +2770,20 @@ window.ARCH_RADAR_DATA = {
       "sector": "综合项目",
       "image": "",
       "image_checked_at": "2026-11-11T15:01:48+00:00"
+    },
+    {
+      "id": "538114197a93caa2",
+      "title": "‘This is not a new story’: Legal professionals expect tide to turn on DEI",
+      "summary": "‘This is not a new story’: Legal professionals expect tide to turn on DEI Construction Dive",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOWJzUmJSQzE4eGY3bGMtTms1Y2pNc3M5c0lIZDY0SUo3ckFYU3AtcHdLV09FU3F2Q3g5d3c1SktHR2dqOFlkZ3RGamFzb1ExNk1fbmdKcGwwMU1WYmQtNGwwTTNBZThUa1FqRWV2VVV4RGZaZncydFFHWFlDWGl5N0lCcHBacWJWV2ROYUNnM29fX3NaWEcyOVZORFdkZmlNNlZITXd3SlhXZmo1MS1oNjRxT2s5U2s?oc=5",
+      "source": "Construction Dive",
+      "feed": "Google News",
+      "published": "2026-11-10T20:12:05+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "df3b24a0876f9aeb",
@@ -1870,6 +3428,20 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-11T15:01:48+00:00"
     },
     {
+      "id": "ad2e801a0c961626",
+      "title": "Seven-Story Residential Development Pitched In Lincoln Park",
+      "summary": "Seven-Story Residential Development Pitched In Lincoln Park Chicago YIMBY",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMHVBY05oNjBYU3pLTFE4bkFCSms0ODVxSmZjS1BtRVF4NnVkTEJ0OC1Seld0bkJxNFZtU0xNY3YtNjFpSEVWdF9hWjFVQk1EUGxfSFJDbEJLbFZYN1NKSFpnVjY4cG1POHA5el84VUhTZzhNX0laSVlrcUprSHAyZHppTnVCdTNhSUhTNmd4N2R2azVMQ2lrQzE2U3ltdw?oc=5",
+      "source": "Chicago YIMBY",
+      "feed": "Google News",
+      "published": "2026-11-10T13:45:57+00:00",
+      "category": "行业动态",
+      "region": "美国中西部",
+      "sector": "住宅",
+      "image": "https://chicagoyimby.com/wp-content/uploads/2026/11/2577-N.-Clark-St-01-scaled.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
       "id": "7454b05bfc91cfb4",
       "title": "Port St. Lucie Soccer Stadium Construction 2026 Update",
       "summary": "Port St. Lucie Soccer Stadium Construction 2026 Update Hoodline",
@@ -2323,10 +3895,10 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-10T14:59:57+00:00"
     },
     {
-      "id": "2398faa8061057c9",
+      "id": "d2177f12ec181ab6",
       "title": "Dubai to fast-track issuance of mosque construction permits within five days",
       "summary": "Dubai to fast-track issuance of mosque construction permits within five days Gulf Business",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWk5RQ251WjNvMTk2ZDdlRkN5VkZ6Z1lveXEtWW1Ubmk4Q2w5MG5TR0RpeHQ2eE1CWFZxQUlSZWg5TXpuWk9VQ3lZS255NFJaUGR6aVpVRnMwVlVGTThUVjE1QmF4SU9XWDNkanE0bFNvZDlMeU9Fa0tCVVVfMktVenJMTGVTeUZlT2xNVF9MdW4xMzVhQUJQR2xWZVZrME5kb3hHQW1XWjBYTW00bGZBem83TjhkbkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDBXa0dwMTlxRDFzN0sxT1hTNV9UVDBuZ1ZkRWpsSmRkbXJmNFRvd090TjIyYldSODZ4M0xKUmZiaENLTWpxTGFGZ1JEMHFOZG9HbHFRcjZvXzk5M3NDbUlQeHRHSWFsRWpwNElWUWdNeS1LQmFhSVhBNmVKMDB2M1cyQVpKU3hEX2ZMbHVZdlA5ODFId2R1T2ZzNC1qZ3hpaGtzT1d2TGNNNGNlUy1nY0p1SFU4dw?oc=5",
       "source": "Gulf Business",
       "feed": "Google News",
       "published": "2026-11-10T05:39:48+00:00",
@@ -2334,7 +3906,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-11T15:01:48+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "c6cecf912ac23789",
@@ -2362,6 +3934,20 @@ window.ARCH_RADAR_DATA = {
       "sector": "综合项目",
       "image": "https://www.aia.org/sites/default/files/styles/16_9_1300x731/public/2025-07/AIAU_Learning.jpg?h=8abcec71&itok=uZcKOlUD",
       "image_checked_at": "2026-11-06T14:57:44+00:00"
+    },
+    {
+      "id": "570858246852cb09",
+      "title": "SC State breaks ground on $30.3M modern library to boost student learning",
+      "summary": "SC State breaks ground on $30.3M modern library to boost student learning WCIV",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMU9ULW1QX2VoNjZxLVV1c2MxVC1NNVRsUkg5WWNXN3FFUEsteE42dzFiTkF2aDcxX01mM3hlSDNVdzJkVmZYejRVTGUwbW5TakxJXzVSMnVnZmNaUi1rdkozWnhQZXRSRjVPMlVYbFNvX25EVTJIdXFzaHU3YlJOZGd4bWlhdmlybUZIYS1HSFNHZ2N2dVZTNkhTai0tQnNTMVcxLXJMR0NncGR1OW5tcWJ5aTMySkVSWGFLY0N0OWdPUXhwMTVDbVNTZm9KeVFmSkNJ?oc=5",
+      "source": "WCIV",
+      "feed": "Google News",
+      "published": "2026-11-10T04:24:01+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": "https://abcnews4.com/resources/media2/16x9/1192/1320/0x10/90/8af59257-2ada-495a-92ea-727fb152d00d-Screenshot20261023181814.png",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "4028a870a7252605",
@@ -3244,18 +4830,18 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-10T14:59:57+00:00"
     },
     {
-      "id": "a17a73a9a862ecca",
+      "id": "33484b3eba406844",
       "title": "Santa Fe Place Breaks Ground, To Provide 90 Affordable Homes to Families in Lubbock, Texas",
-      "summary": "Santa Fe Place Breaks Ground, To Provide 90 Affordable Homes to Families in Lubbock, Texas Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPamc0LWtsVlhUWUZmbFZvb2djbHdlQzVvT2YyRndwOTNhNVFGTTQ3OUQwSXc1bzdVWHVsTVlycDBwVmpkNDlOdVhXLU5DWDEtVlVoV1dCT1o5dGxJY3Rzd3VwUjg0MHN3V2lFS2pOaEs0UUhHUm53a2pPbnpLQzEtV1lGZ0dwV1ZYY2djR2VlZU1tbmppaTNZWXdTekNFSk5oSlJPQklkYmlPbm1kME10bFRLRWN4MmJabFBiLU5JbUNJMnNuUjdIOXg2bjBMSWxBdEp1em56NlFNOFR0ODR5SHlIN2s?oc=5",
-      "source": "Morningstar",
+      "summary": "Santa Fe Place Breaks Ground, To Provide 90 Affordable Homes to Families in Lubbock, Texas Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRDJVa3FibGVhYVpmSGJDdmdobV9aOW44MkFCa1M3TDVhY2tLdEZ2Z3dENWxIbFlrWnNfR0NGX3d6TU5wTkI2TGRFa3FCcGVCbTFXLWFDNnYtTTVYUVBYVEVabVFFMV9nV3lYU0RvZGtUcE5pSklKRllRMVV4Vy16U3FydlFjZXVXMjNPS0xObXQ0LWhHRkw3MHZ5bmtCb2YtTjkyM0VfYkpDVFdlczQtdFBBVDhkc0wzNW1vVDVtRm5aTXR0YXFiZUYxZmZhUjhLc0toUGhDTDEtd3BvU3c?oc=5",
+      "source": "Business Wire",
       "feed": "Google News",
       "published": "2026-11-09T16:00:00+00:00",
       "category": "开工建设",
       "region": "美国其他",
       "sector": "住宅",
-      "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
-      "image_checked_at": "2026-11-10T14:59:57+00:00"
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "dd21546187442941",
@@ -3354,6 +4940,20 @@ window.ARCH_RADAR_DATA = {
       "sector": "住宅",
       "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/09/1299032.png",
       "image_checked_at": "2026-11-09T15:05:36+00:00"
+    },
+    {
+      "id": "b6aca73887d65305",
+      "title": "New Building Permit Filed for 220 Kimberly Place in Kingsbridge, Bronx",
+      "summary": "New Building Permit Filed for 220 Kimberly Place in Kingsbridge, Bronx Marketproof",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYTNRVkhCM1NzMWNWeE9PejlINWRES0s5elFWNHBYaG9OeWFlVUpkMktLQXlBOHUwQm5ta3hsTllxQ1diOVdRQy1mNHp3VC0zZDJNREo4VGlRdlM2V3FiWHRUdjVxRnVyNEdtNFQyRmJwNjJrdWNEX1NTTVVlbFBEcERPZzFiaDNDZzJMMFpwLXFhLXZnbjEzQV9CVHMzY2Rp?oc=5",
+      "source": "Marketproof",
+      "feed": "Google News",
+      "published": "2026-11-09T14:34:36+00:00",
+      "category": "审批落地",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "b171eba7164c210d",
@@ -3493,7 +5093,21 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "d6f873f4ecbabebc",
+      "title": "Brooklyn 2027 Pin Design Competition Open to Residents and Students",
+      "summary": "Brooklyn 2027 Pin Design Competition Open to Residents and Students Bushwick Daily",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRjR2aGkyRTEtbXdNbWJwY0M3Y241aVJLOGkzZlZBUmpZdWtrUHNXQ0xHWmtfYnpNVE1kS3A2bVhCU1RtT2hrOGdTaFRFaC1WRElELUUxUTZaUlJMNFU5XzZnWjRvM2VYTTl3UHJnTnhHUWdHMXBkY1pPY0E0ck9uTGVKbFg1UGlNZE5fNEllXzNTZ2RyS0prTUxWMlhKakVlZGk4NkVEZ19WTXAxalE?oc=5",
+      "source": "Bushwick Daily",
+      "feed": "Google News",
+      "published": "2026-11-09T13:16:22+00:00",
+      "category": "项目竣工",
+      "region": "美国其他",
+      "sector": "综合项目",
+      "image": "https://cdn.bushwickdaily.com/m/4b5eb6292f3ece802203b4cadf1b4716abf881be7c49911324aaf506b79d2101/wp-upload-20261111163326-80778_cluster_pitch_event_24948_7c1ea24a.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "277e8fa3d062e676",
@@ -3549,21 +5163,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
-    },
-    {
-      "id": "9179ecf5bdab20c2",
-      "title": "Madison Communities Expands Into Luxury Senior Housing, Names Industry Veteran to Lead Initiative",
-      "summary": "Madison Communities Expands Into Luxury Senior Housing, Names Industry Veteran to Lead Initiative Multifamily & Affordable Housing Business",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTjI1NEJLQm9RUDJYQ3Y1M3p6Qjh1X3Rkdkh0cXZLNTJDSFozaGxLcUpEaUhqeW1oSzVwMlZvMU4xNnRpNDl5SHltWXVQQXQ2Q3RKQktZR0RBSWlzSXd0SV9pQ0ZfbEh0QjhXcWxyVEw0NU5IQnJfZ2FZa1VLTko5QWN0SHNDVUp1N2NrbGVCOUxjTWRwRzRKNm44VC1JVHBDeFBxX0xCcDI5dFg3WFg0YTEyUGZfYXBFaVBuMEdHT1ZwVm9CalI1cDVNb09oS0w3YVBMUw?oc=5",
-      "source": "Multifamily & Affordable Housing Business",
-      "feed": "Google News",
-      "published": "2026-11-09T13:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国中西部",
-      "sector": "住宅",
-      "image": "https://multifamilyaffordablehousing.com/wp-content/uploads/2026/11/Matthew-Griffin-Madison.png",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "6a9479bd67700f48",
@@ -3577,6 +5177,20 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "城市更新",
       "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
+      "id": "9179ecf5bdab20c2",
+      "title": "Madison Communities Expands Into Luxury Senior Housing, Names Industry Veteran to Lead Initiative",
+      "summary": "Madison Communities Expands Into Luxury Senior Housing, Names Industry Veteran to Lead Initiative Multifamily & Affordable Housing Business",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTjI1NEJLQm9RUDJYQ3Y1M3p6Qjh1X3Rkdkh0cXZLNTJDSFozaGxLcUpEaUhqeW1oSzVwMlZvMU4xNnRpNDl5SHltWXVQQXQ2Q3RKQktZR0RBSWlzSXd0SV9pQ0ZfbEh0QjhXcWxyVEw0NU5IQnJfZ2FZa1VLTko5QWN0SHNDVUp1N2NrbGVCOUxjTWRwRzRKNm44VC1JVHBDeFBxX0xCcDI5dFg3WFg0YTEyUGZfYXBFaVBuMEdHT1ZwVm9CalI1cDVNb09oS0w3YVBMUw?oc=5",
+      "source": "Multifamily & Affordable Housing Business",
+      "feed": "Google News",
+      "published": "2026-11-09T13:00:00+00:00",
+      "category": "行业动态",
+      "region": "美国中西部",
+      "sector": "住宅",
+      "image": "https://multifamilyaffordablehousing.com/wp-content/uploads/2026/11/Matthew-Griffin-Madison.png",
       "image_checked_at": "2026-11-09T15:05:36+00:00"
     },
     {
@@ -3631,8 +5245,8 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "住宅",
-      "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/898167625_1636246667991342_207352564804682896_n.png?stp=dst-jpg_tt6&cstp=mx1040x694&ctp=p600x600&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=7E7C-9evsq4Q7kNvwEuCHG-&_nc_oc=Ado2jNDJ23bpjF-hHWM0PR_pKb42GPGJGGqDtmxp31ahsIH42kxc5mUmOBbooSVOCUo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_Up7PuCnL1O1cEI8MvmB4Q&_nc_ss=7b20f&oh=00_AQQepRshmOTkNyHid726r7ag9ykYCxRXsTu3NlYrRIs0gA&oe=6AFB97A5",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "74b5f209053880a1",
@@ -3663,19 +5277,6 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-09T15:05:36+00:00"
     },
     {
-      "id": "6885dfddd7c8b1b6",
-      "title": "East County Library / Holst Architecture",
-      "summary": "Today, Holst Architecture released the official photography for the new East County Library, a community-focused destination for learning, play, and connection in Gresham , Oregon. A critical civic space missing in the area for de",
-      "url": "https://www.archdaily.com/1188105/east-county-library-holst-architecture",
-      "source": "ArchDaily",
-      "feed": "ArchDaily",
-      "published": "2026-11-09T12:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": "https://images.adsttc.com/media/images/6aeb/ec58/1f37/4900/010d/138f/newsletter/1___Christian_Columbres.jpg?1793846376"
-    },
-    {
       "id": "230cfe86987dfb28",
       "title": "Sussex’s 209-home Wildflower development moves toward first homes",
       "summary": "Sussex’s 209-home Wildflower development moves toward first homes The Business Journals",
@@ -3688,6 +5289,19 @@ window.ARCH_RADAR_DATA = {
       "sector": "住宅",
       "image": "",
       "image_checked_at": "2026-11-10T14:59:57+00:00"
+    },
+    {
+      "id": "6885dfddd7c8b1b6",
+      "title": "East County Library / Holst Architecture",
+      "summary": "Today, Holst Architecture released the official photography for the new East County Library, a community-focused destination for learning, play, and connection in Gresham , Oregon. A critical civic space missing in the area for de",
+      "url": "https://www.archdaily.com/1188105/east-county-library-holst-architecture",
+      "source": "ArchDaily",
+      "feed": "ArchDaily",
+      "published": "2026-11-09T12:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": "https://images.adsttc.com/media/images/6aeb/ec58/1f37/4900/010d/138f/newsletter/1___Christian_Columbres.jpg?1793846376"
     },
     {
       "id": "8209ce0889554c67",
@@ -3770,7 +5384,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "0d0958571af5e1b7",
@@ -3811,8 +5425,8 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "体育",
-      "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image": "https://i0.wp.com/ontarioconstructionnews.com/wp-content/uploads/2026/11/ballantrae-3.png?fit=1200%2C669&ssl=1",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "bb149294559ed349",
@@ -3893,7 +5507,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "a865249f20f25ef2",
@@ -3906,8 +5520,8 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "住宅",
-      "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/897509999_2202035651190027_959681635776127042_n.png?stp=dst-jpg_tt6&cstp=mx1280x854&ctp=p600x600&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=iWCxZGke650Q7kNvwHKZAVt&_nc_oc=Ado3cH56ENicAmEaeE-L82l1bQi6VyZfpuhy68npgHmJ3SgBQ0rB5PhuU4K2FYwuyWY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=nPwcbA7cA9fKPyj_KG0UWA&_nc_ss=7b20f&oh=00_AQTSnvhyBQxGy8PHjPsGY9rPRlL8vLEwlOA4w0aJrHWKsQ&oe=6AFB957F",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "6c9bac00436d478b",
@@ -3920,8 +5534,8 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "住宅",
-      "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/897876875_4502308580017401_3094976173485438182_n.png?stp=dst-jpg_tt6&cstp=mx1280x854&ctp=p600x600&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=kJ60Of_IiqoQ7kNvwGSsJ9R&_nc_oc=AdpXEUGQC_GXn35ONiPrVN7KjhumRQCriP_VgXlb39v0cvutDzhq40Y7Q28bFmzAzTA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=gSlZ8B7wBRWVQbI8nxtXUQ&_nc_ss=7b20f&oh=00_AQTcG8TpHyYRCxHyOkhSbztJmBfHq2Xf1qK5L5qsNLPf2A&oe=6AFBBA60",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "cd1db43330b4502b",
@@ -4056,6 +5670,20 @@ window.ARCH_RADAR_DATA = {
       "image": "https://www.enr.com/ext/resources/Issues/Midwest_Issues/2026/November/BP/01trout-lawrence.webp?t=1793988830"
     },
     {
+      "id": "02be5a2e909f0c7b",
+      "title": "'Eat Street' celebrates planned reopening of uninterrupted Nicollet Avenue in Minneapolis",
+      "summary": "'Eat Street' celebrates planned reopening of uninterrupted Nicollet Avenue in Minneapolis MPR News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDY4dmtSNDRaUU1zTm9ocUxzazFsRktFMEwzd3RwODg3Z1p3c2RrU2lKZ2dJY1F3ai1rMkxyYlJBenBSTW1yS2FNc1lIci1aVlowZUtwZDdGcnB2NjFPWF9aczFBeEYxbWRUYjJ2Und6ZDk4SFJUNzY2MjVXRG0wWnBQTUlSYTg0aEs5eXc0ZkNlQ2ZPUlZ4SHgwUUNhUQ?oc=5",
+      "source": "MPR News",
+      "feed": "Google News",
+      "published": "2026-11-09T10:00:00+00:00",
+      "category": "行业动态",
+      "region": "美国中西部",
+      "sector": "综合项目",
+      "image": "https://img.apmcdn.org/4c8bea1b1cbd0c77c98621739c510fa37e779ba6/widescreen/7b8359-20261108-nicollet-avenue-reopening-03-2000.jpg",
+      "image_checked_at": "2026-11-09T15:05:36+00:00"
+    },
+    {
       "id": "169ed771a9c75630",
       "title": "AOM, K-12: Hillside Elementary School",
       "summary": "The Hillside Elementary School, built in 1954, had reached the end of its useful life, despite multiple upgrades over the years.",
@@ -4093,20 +5721,6 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "交通基础设施",
       "image": "https://www.enr.com/ext/resources/Issues/Midwest_Issues/2026/November/BP/01_I-70-Rocheport-Phase-I-Construction-WB-0154.webp?t=1793984673"
-    },
-    {
-      "id": "02be5a2e909f0c7b",
-      "title": "'Eat Street' celebrates planned reopening of uninterrupted Nicollet Avenue in Minneapolis",
-      "summary": "'Eat Street' celebrates planned reopening of uninterrupted Nicollet Avenue in Minneapolis MPR News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDY4dmtSNDRaUU1zTm9ocUxzazFsRktFMEwzd3RwODg3Z1p3c2RrU2lKZ2dJY1F3ai1rMkxyYlJBenBSTW1yS2FNc1lIci1aVlowZUtwZDdGcnB2NjFPWF9aczFBeEYxbWRUYjJ2Und6ZDk4SFJUNzY2MjVXRG0wWnBQTUlSYTg0aEs5eXc0ZkNlQ2ZPUlZ4SHgwUUNhUQ?oc=5",
-      "source": "MPR News",
-      "feed": "Google News",
-      "published": "2026-11-09T10:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国中西部",
-      "sector": "综合项目",
-      "image": "https://img.apmcdn.org/4c8bea1b1cbd0c77c98621739c510fa37e779ba6/widescreen/7b8359-20261108-nicollet-avenue-reopening-03-2000.jpg",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
     },
     {
       "id": "ac8f665212f6185a",
@@ -4253,8 +5867,8 @@ window.ARCH_RADAR_DATA = {
       "category": "项目竣工",
       "region": "国际 / 未识别",
       "sector": "住宅",
-      "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/897811217_3260807544105168_7966344082603420005_n.png?stp=dst-jpg_tt6&cstp=mx977x597&ctp=s977x597&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=PfA3nbpaWhgQ7kNvwGwh94y&_nc_oc=Adomo_qCrW5uAJg74lEnuH7AdXklAIesP0UvPoVASCEK4bsgfk416kbcb2Mt0rVM1GA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=e073a1jp3L5s-Gv8DC_HVA&_nc_ss=7b20f&oh=00_AQR9zWtEQ7iIZLR-sm-ADgtqBwF0VhhEFfdFDNmfZYrgjg&oe=6AFB9991",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "d6957fbba0c12336",
@@ -4337,7 +5951,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "aa8a244d76d7035a",
@@ -4446,7 +6060,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "5880d4b744856873",
@@ -4529,6 +6143,34 @@ window.ARCH_RADAR_DATA = {
       "sector": "综合项目",
       "image": "https://image.fnnews.com/resource/media/image/2026/11/09/202611090958326230_l.jpg",
       "image_checked_at": "2026-11-09T15:05:36+00:00"
+    },
+    {
+      "id": "66c2f4c46f40368c",
+      "title": "New Building Permit Filed for 3519 165th St in Murray Hill, Queens",
+      "summary": "New Building Permit Filed for 3519 165th St in Murray Hill, Queens Marketproof",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOekdTbm5xYzlUUjZ6Qk5KOE4ybnBjLWR2d0VVRHZYczh5SUFDeUJ5ZFg3aktPb3Z4Q1BWdm5EQndSWEY2OXhadWtuMzRaVjNkRFlfc1VneEEzbnZmSkhuZW1OSmhwOGRUUU1wUGtSSms1TWdIZzJqUkxRR1c1Q040SV9URzgxczRCcFRKdGwwMHpGLW5vZ2xKSzZlSQ?oc=5",
+      "source": "Marketproof",
+      "feed": "Google News",
+      "published": "2026-11-09T01:11:25+00:00",
+      "category": "审批落地",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "",
+      "image_checked_at": "2026-11-11T15:01:48+00:00"
+    },
+    {
+      "id": "c8ddeef6aec5e0ed",
+      "title": "New Building Permit Filed for 1673 Walton Ave in Mount Ho PE, Bronx",
+      "summary": "New Building Permit Filed for 1673 Walton Ave in Mount Ho PE, Bronx Marketproof",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSks3M19EZnU1YmozaG9oUUcySllzR0Rna3l1N3ZtRGExdmFaUk5iUkdMRWlhME85dGdzTlN5MHRiTHpmcVh4WWk1N0s4cHMtVk5VQURDZWxSZkdwSkJfTjN2cGlDeUV4Z2hvZ1loVnpXSndQYVhBSWFmLW1YYW54bHQ2NThfWkl4ek5qNVdOWE81WVNnZFYzamxGSWI?oc=5",
+      "source": "Marketproof",
+      "feed": "Google News",
+      "published": "2026-11-09T01:11:16+00:00",
+      "category": "审批落地",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "",
+      "image_checked_at": "2026-11-11T15:01:48+00:00"
     },
     {
       "id": "d5f5ff0b885dc825",
@@ -4669,6 +6311,20 @@ window.ARCH_RADAR_DATA = {
       "image": "https://images.adsttc.com/media/images/6ada/2de5/3271/8400/01d0/e135/newsletter/giants_garden_1.jpg?1792683509"
     },
     {
+      "id": "431f023daa992570",
+      "title": "'Where will we park?' Readers raise concerns over new hospital plans",
+      "summary": "'Where will we park?' Readers raise concerns over new hospital plans Cornwall Live",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNW4yMnJWbzdkOXpiRXlRWm51Q285ZWZ3dExjUDJCaVlCQzQtc08tZ0xTM3lHOEl1VF9CYXlCdGQzdjdEQ3JhRkRQODhocXFoVjRxVjhweTlsT2ZXWm9QamRxN0NDNzZNbXZnWFpBWTFOWmlhbXlPUTZHd3NIS3RCMS10aTFMVDFoLU90MFBvaWMxOVnSAZgBQVVfeXFMTk9LTVJfN2JKcTdweWZrQTJRUFZQbmFVb1poclpjRHBPc1hja0UtNTltak9JaTF0ZERMRHZnUThrM1c0STFDRnA5SFY1Sk9aMG9hT1VVNnhmaXNOVTk0dF9GLVJTQTFQSDJ3azVKaXNHX1lVa0lEVWY0RTJqV0c1U0lXQnctZWxMV2V3ZzZVaUI4RWI0dWl2MGg?oc=5",
+      "source": "Cornwall Live",
+      "feed": "Google News",
+      "published": "2026-11-08T16:09:08+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "医疗",
+      "image": "https://i2-prod.cornwalllive.com/article11230546.ece/ALTERNATES/s1200d/0_LT-051126-rcht.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
       "id": "fb8c77199cee28f7",
       "title": "SMH breaks ground on Venice rehab pavilion - Florida Hospital News and Healthcare Report",
       "summary": "SMH breaks ground on Venice rehab pavilion - Florida Hospital News and Healthcare Report Florida Hospital News and Healthcare Report",
@@ -4694,7 +6350,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "0a962df18f6521ea",
@@ -4723,34 +6379,6 @@ window.ARCH_RADAR_DATA = {
       "sector": "综合项目",
       "image": "https://www.whitemad.pl/wp-content/uploads/2026/11/collage-20.jpg",
       "image_checked_at": "2026-11-10T14:59:57+00:00"
-    },
-    {
-      "id": "66c2f4c46f40368c",
-      "title": "New Building Permit Filed for 3519 165th St in Murray Hill, Queens",
-      "summary": "New Building Permit Filed for 3519 165th St in Murray Hill, Queens Marketproof",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOekdTbm5xYzlUUjZ6Qk5KOE4ybnBjLWR2d0VVRHZYczh5SUFDeUJ5ZFg3aktPb3Z4Q1BWdm5EQndSWEY2OXhadWtuMzRaVjNkRFlfc1VneEEzbnZmSkhuZW1OSmhwOGRUUU1wUGtSSms1TWdIZzJqUkxRR1c1Q040SV9URzgxczRCcFRKdGwwMHpGLW5vZ2xKSzZlSQ?oc=5",
-      "source": "Marketproof",
-      "feed": "Google News",
-      "published": "2026-11-08T13:04:39+00:00",
-      "category": "审批落地",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": "",
-      "image_checked_at": "2026-11-11T15:01:48+00:00"
-    },
-    {
-      "id": "c8ddeef6aec5e0ed",
-      "title": "New Building Permit Filed for 1673 Walton Ave in Mount Ho PE, Bronx",
-      "summary": "New Building Permit Filed for 1673 Walton Ave in Mount Ho PE, Bronx Marketproof",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSks3M19EZnU1YmozaG9oUUcySllzR0Rna3l1N3ZtRGExdmFaUk5iUkdMRWlhME85dGdzTlN5MHRiTHpmcVh4WWk1N0s4cHMtVk5VQURDZWxSZkdwSkJfTjN2cGlDeUV4Z2hvZ1loVnpXSndQYVhBSWFmLW1YYW54bHQ2NThfWkl4ek5qNVdOWE81WVNnZFYzamxGSWI?oc=5",
-      "source": "Marketproof",
-      "feed": "Google News",
-      "published": "2026-11-08T13:04:36+00:00",
-      "category": "审批落地",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": "",
-      "image_checked_at": "2026-11-11T15:01:48+00:00"
     },
     {
       "id": "cd1136207f03147e",
@@ -4807,6 +6435,20 @@ window.ARCH_RADAR_DATA = {
       "sector": "商业办公",
       "image": "https://images.adsttc.com/media/images/6ae3/7392/1c13/4b01/a2d9/b95f/large_jpg/one-orient-headquarters-von-gerkan-marg-and-partners-architects_1.jpg?1793291175",
       "image_checked_at": "2026-11-08T14:49:57+00:00"
+    },
+    {
+      "id": "279b0749b7c572f7",
+      "title": "New Building Permit Filed for 475 Myrtle Ave in Clinton Hill, Brooklyn",
+      "summary": "New Building Permit Filed for 475 Myrtle Ave in Clinton Hill, Brooklyn Marketproof",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY2dVQ0RBLS1fc1RxcWVfNk5lQ1loS2dtMGpMZDNIaUZCS2pWTENISEwzck9OMDg5dkpmUHFSZENXY1RBOEtlTzlTVHZIUmpkbE9NdllMMDlRWFA1dnRRb3RTZXo3RUhNN290RzgxcXNkRHhKaWd0c2Q2Uk1rdVl4ckM0TnJWNE1qWHdlUkdDUlpVeUp0c1pLcThKZ1ppUlhh?oc=5",
+      "source": "Marketproof",
+      "feed": "Google News",
+      "published": "2026-11-08T10:39:40+00:00",
+      "category": "审批落地",
+      "region": "美国其他",
+      "sector": "综合项目",
+      "image": "",
+      "image_checked_at": "2026-11-10T14:59:57+00:00"
     },
     {
       "id": "ea95871c5ca7fa21",
@@ -5302,21 +6944,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
-    },
-    {
-      "id": "7e205a7bba3e1d08",
-      "title": "Berkshire Glade by Turkel Design",
-      "summary": "Berkshire Glade by Turkel Design Architectural Record",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXZDUzRuWEM4VUtrV0prYnd2eDBoalVhSDc4VzFSdzQyWk94bjhtQ2NiQU1VSlpBX2R5RU05empwWWpROEM5RDJfbUlqcDNmN1EtTVE1OU1jcjJFc3c1QTdZdDJ2bndRejZoOE9ORU9ueExtZ0phWnRZZ1VrLXNpeFRwaDlLcGoycWdJ?oc=5",
-      "source": "Architectural Record",
-      "feed": "Google News",
-      "published": "2026-11-07T02:04:02+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": "https://www.architecturalrecord.com/ext/resources/news/2026/%2AOctober/Berkshire-Glade/01---Berkshire-Glade-by-Turkel-Design---View-Facade---Draper-White.jpg?height=635&t=1793306226&width=1200",
-      "image_checked_at": "2026-11-05T21:16:57+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "3a42a816792650aa",
@@ -5714,7 +7342,7 @@ window.ARCH_RADAR_DATA = {
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcHI5RTN1aTlHLXBWUDI3Wk1IRUVLLWxEMU95UjR0ZFJReVVhUDFaODgwcGYyeW5VZ3hJQjMwbDRocmIzRElYQ3hhS1dmeGdwTEhtVmlBajZlRXJXNnY1c1hfN01DOTV0cGxjTmExbXFyRmx2aG1nWGFLVUxOQlFBeXVySUpFd0JRWXA0dE9UbUUzREpKYk5MVzVxcw?oc=5",
       "source": "Construction Dive",
       "feed": "Google News",
-      "published": "2026-11-06T19:25:33+00:00",
+      "published": "2026-11-06T19:26:21+00:00",
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "交通基础设施",
@@ -6056,6 +7684,20 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-07T14:51:06+00:00"
     },
     {
+      "id": "5aa809731e8facdf",
+      "title": "Construction begins on Lewis Hub electricity project",
+      "summary": "Construction begins on Lewis Hub electricity project BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Fd2U3b3RaOTRZd1d1SWJvT3BFUGM4alVZRnlVNlE5TTR2OXhxMmtUUGx6cTc1RUNfdVNIX09peDRqUmkzeWtEUlRJaVUycnI0ZXlQZEFhZThaVUdUZlE?oc=5",
+      "source": "BBC",
+      "feed": "Google News",
+      "published": "2026-11-06T15:22:45+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9c9f/live/d56e8cd0-d9eb-11f1-a701-fddedf244c16.jpg",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
       "id": "2bf31bfe03c72468",
       "title": "Punch List: Granite lands final contract on Arizona airport job, DPR names new exec",
       "summary": "Punch List: Granite lands final contract on Arizona airport job, DPR names new exec Construction Dive",
@@ -6193,7 +7835,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "87ebdc74859e1af7",
@@ -6333,7 +7975,7 @@ window.ARCH_RADAR_DATA = {
       "region": "爱荷华",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "bd34af1dfa3c2939",
@@ -6401,8 +8043,8 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "医疗",
-      "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image": "https://i0.wp.com/ontarioconstructionnews.com/wp-content/uploads/2026/11/ottawa-hospital.png?fit=1200%2C662&ssl=1",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "2215e62e4d6ec64c",
@@ -6635,7 +8277,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "db6c8689e7bda750",
@@ -6649,7 +8291,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "8390da0fadb28a54",
@@ -6677,7 +8319,7 @@ window.ARCH_RADAR_DATA = {
       "region": "爱荷华",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "e08da4981effc31d",
@@ -6772,7 +8414,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "ef492bc32a343583",
@@ -7009,6 +8651,20 @@ window.ARCH_RADAR_DATA = {
       "image": "https://images.adsttc.com/media/images/6abf/9d08/07c3/d100/017f/cb9f/newsletter/009_Exterior_vegetal_filtering.jpg?1790942515"
     },
     {
+      "id": "b296fc6d5caadfc2",
+      "title": "Saudi Arabia architecture news: KSA buildings designs",
+      "summary": "Saudi Arabia architecture news: KSA buildings designs e-architect",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TOFVFRmFhSDlWVG1ack9XY1pVUmU0RXdaUjA5MHB2dGhleEdmSktuNm1aR0NLLWkxUm45TEY4bG5zR3FSa1VRaVY3LXQyWE9KcE5sbG81c1pwQmZlSFpEUzFPNkhTUmtZajNKRG1HYlljWm0xYjFVUTNR?oc=5",
+      "source": "e-architect",
+      "feed": "Google News",
+      "published": "2026-11-06T01:33:37+00:00",
+      "category": "设计发布",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
+    },
+    {
       "id": "2e222649b39c0211",
       "title": "New affordable housing project for survivors of abusive relationships breaks ground, amid high cost of living",
       "summary": "New affordable housing project for survivors of abusive relationships breaks ground, amid high cost of living CityNews Edmonton",
@@ -7034,7 +8690,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "257c5428a086b1a3",
@@ -7395,7 +9051,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "debe5c0291bd6ec4",
@@ -7423,7 +9079,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "58f25f2b5f7cf16b",
@@ -7437,7 +9093,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "144a644e9040d291",
@@ -7451,7 +9107,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "9bee8055e065830c",
@@ -7479,7 +9135,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "医疗",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "798089f86707c14c",
@@ -7507,7 +9163,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "9045f1d06d31340c",
@@ -7521,7 +9177,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "4b1580b3fabc8cb2",
@@ -7562,7 +9218,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "医疗",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "8f003cad22968fbb",
@@ -7590,7 +9246,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "体育",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "6fca5252d9eea035",
@@ -7618,7 +9274,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "64a48c52a83c0fd3",
@@ -7632,7 +9288,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "761fb2cfc453fe65",
@@ -7744,7 +9400,7 @@ window.ARCH_RADAR_DATA = {
       "region": "爱荷华",
       "sector": "商业办公",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "1ee7ab1181cd48ff",
@@ -7758,7 +9414,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "9d875e02211b6966",
@@ -7780,7 +9436,7 @@ window.ARCH_RADAR_DATA = {
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ1l6NEhCdFFncHIyYllKU1Q4cXJhdlkyWk45QVRCLVNHcjdDWmZKeE9ORFFMNDVrd2NIMHRrbl84bTlFX0R5X2ZLUlMtNUJnNGlFUmo5QVhJLV9pRlJmeGl5MWNGMDBWX3Yzc2dtbTlQbmNCZFhkMVdlYjY5WmNzNlRLMWNMMU1TNUxlRnZvbzFFRFU3eXNmMy1lTG1wM1p5UUt1aVpDRHRDeXNpLTNn?oc=5",
       "source": "Building Design + Construction",
       "feed": "Google News",
-      "published": "2026-11-05T17:39:11+00:00",
+      "published": "2026-11-05T17:40:05+00:00",
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "综合项目",
@@ -7882,7 +9538,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "3c5c4fa54e03a905",
@@ -7896,7 +9552,7 @@ window.ARCH_RADAR_DATA = {
       "region": "爱荷华",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "763cb9149702e724",
@@ -7924,7 +9580,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "6f22d7c9d023e835",
@@ -7938,7 +9594,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "08c73f8e660254e6",
@@ -8039,18 +9695,18 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-07T14:51:06+00:00"
     },
     {
-      "id": "4c2b01ed3b95ba92",
+      "id": "630da5b9a0f5d019",
       "title": "Historic Sterling neighborhood breaks ground on affordable housing",
-      "summary": "Historic Sterling neighborhood breaks ground on affordable housing FOX Carolina News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNamFudUloejFFclBzb2kxODZ5eDhrRG1GQnFvMEt3UTNkcFN5c1p2ZE5oZ1pOaGZRRUxVTGJreU45R3F2SDh6WTZEbE5ZNk1FenZkMHRyc09obDVyOUJPZTRiVVZSSDh0WEF0QlhLQWZ2LTFRdVhoOTJ4aEw1VDJ4aWl0SUhncGI2V0tJd1JDUXJTdUhrOTRIcVBxeFhWOUxCRG1qVDF6NmoyaEFoY3c?oc=5",
-      "source": "FOX Carolina News",
+      "summary": "Historic Sterling neighborhood breaks ground on affordable housing WSMV",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGZiZWRiSUVMdDJMaUMxLVE5dmNiVDU2YUZyM3dtcDcxSldHREJrbDNYM0VzLUxLN3VmTGpBMTUtNVEtS1M4UTFVV2xzUDhNTnV0YkZIemFNLUFZUTBJWlRJYzdDeWUxeHBCWEl1bnI4anZYM2tqeVIzWk9QNGg0dm9pdFVnNVhEQ2REUzRucEpfM1I2ZlU2dEwwamRIdzR4Smh1Qg?oc=5",
+      "source": "WSMV",
       "feed": "Google News",
       "published": "2026-11-05T14:18:00+00:00",
       "category": "开工建设",
       "region": "国际 / 未识别",
       "sector": "住宅",
-      "image": "https://gray-whns-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F11-05-2026%2Ft_d71afbd1394e4e73b3fe06eb29bbd83e_name_file_1280x720_2000_v3_1_.jpg?auth=0c351ab755d765b7e44fbbb005e36cfee6d1e153b735bbc113d27edcb9adc43c&width=1200&height=600&smart=true",
-      "image_checked_at": "2026-11-11T15:01:48+00:00"
+      "image": "https://gray-wsmv-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F11-05-2026%2Ft_d71afbd1394e4e73b3fe06eb29bbd83e_name_file_1280x720_2000_v3_1_.jpg?auth=0c351ab755d765b7e44fbbb005e36cfee6d1e153b735bbc113d27edcb9adc43c&width=1200&height=600&smart=true",
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "92949f49b908b6d0",
@@ -8064,7 +9720,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "d1d0fb41d1407008",
@@ -8176,7 +9832,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "2463f95ef6ae00b0",
@@ -8273,7 +9929,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "文化公共",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "0b20e22406fcdc0d",
@@ -8357,7 +10013,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "文化公共",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "20261105b",
@@ -8371,7 +10027,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "文化公共",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "7a9c044e87239c1e",
@@ -8441,7 +10097,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "商业办公",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "03b1b81ac895e65c",
@@ -8661,7 +10317,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "1be9857079fa7623",
@@ -8771,7 +10427,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "e7cc73092c82af1f",
@@ -8909,7 +10565,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "71919909bb27d67a",
@@ -8965,7 +10621,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "医疗",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "50dc241131cd7f7b",
@@ -8993,7 +10649,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "22c92a9d53f9d2b1",
@@ -9021,7 +10677,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "商业办公",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "9f7462ab3e74bbb1",
@@ -9119,7 +10775,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "54f45b0bfa4d0c25",
@@ -9272,7 +10928,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "dfe4ab49d3ed43b7",
@@ -9286,7 +10942,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "eaa48364b9966971",
@@ -9328,7 +10984,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "c417805d23afdf34",
@@ -9342,7 +10998,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "05d3144e5e5cbc0b",
@@ -9398,7 +11054,7 @@ window.ARCH_RADAR_DATA = {
       "region": "爱荷华",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "ef5644e17f8bc31b",
@@ -9468,7 +11124,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "a0fc0b24ae277458",
@@ -9496,7 +11152,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "1360a747ff79e105",
@@ -9566,7 +11222,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "c09c0edb8a1fabe9",
@@ -9677,7 +11333,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "27bfa820ac810661",
@@ -9691,7 +11347,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "24840c765a217d2f",
@@ -9705,7 +11361,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "967cdd70e153b7e6",
@@ -9733,7 +11389,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "0b13fa1a1fd8cb7d",
@@ -9789,7 +11445,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "ab2f5bf705e24259",
@@ -9803,7 +11459,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
+      "image_checked_at": "2026-11-12T15:05:57+00:00"
     },
     {
       "id": "10645451d039010b",
@@ -10501,20 +12157,6 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-05T21:16:57+00:00"
     },
     {
-      "id": "308723c5f21478d4",
-      "title": "AIA Healthcare Design Award",
-      "summary": "AIA Healthcare Design Award The American Institute of Architects: AIA",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83R3FqWjBtSkV6V2pzaG9Zc3NfWVliakdkR2h6blNMQ0Q5Q09wSFB4STB6b3lDVG1WaTdMYWNoX1p2UUw2WW5wYnVINFFpWWZyT3MyOENfTkpmVGJjN0xyV2lGVFhZcnRtRU1EY3A1TGlpZzdjUXNr?oc=5",
-      "source": "The American Institute of Architects: AIA",
-      "feed": "Google News",
-      "published": "2026-11-03T22:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "医疗",
-      "image": "https://www.aia.org/sites/default/files/styles/16_9_1300x731/public/2024-06/the-university-of-california-davis-medical-center-california-tower-2.jpg?h=7fdda400&itok=wZokZ6fu",
-      "image_checked_at": "2026-11-06T14:57:44+00:00"
-    },
-    {
       "id": "3a70e3cfd0fa8c9c",
       "title": "AIA Housing Award",
       "summary": "AIA Housing Award The American Institute of Architects: AIA",
@@ -10526,6 +12168,20 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "https://www.aia.org/sites/default/files/styles/16_9_1300x731/public/2024-06/el_borinquen_residence_-_04.jpg?h=2992ba0a&itok=dJQxbLlZ",
+      "image_checked_at": "2026-11-06T14:57:44+00:00"
+    },
+    {
+      "id": "308723c5f21478d4",
+      "title": "AIA Healthcare Design Award",
+      "summary": "AIA Healthcare Design Award The American Institute of Architects: AIA",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83R3FqWjBtSkV6V2pzaG9Zc3NfWVliakdkR2h6blNMQ0Q5Q09wSFB4STB6b3lDVG1WaTdMYWNoX1p2UUw2WW5wYnVINFFpWWZyT3MyOENfTkpmVGJjN0xyV2lGVFhZcnRtRU1EY3A1TGlpZzdjUXNr?oc=5",
+      "source": "The American Institute of Architects: AIA",
+      "feed": "Google News",
+      "published": "2026-11-03T22:00:00+00:00",
+      "category": "设计发布",
+      "region": "国际 / 未识别",
+      "sector": "医疗",
+      "image": "https://www.aia.org/sites/default/files/styles/16_9_1300x731/public/2024-06/the-university-of-california-davis-medical-center-california-tower-2.jpg?h=7fdda400&itok=wZokZ6fu",
       "image_checked_at": "2026-11-06T14:57:44+00:00"
     },
     {
@@ -11380,18 +13036,17 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-06T14:57:44+00:00"
     },
     {
-      "id": "7c62aff670d63da7",
+      "id": "87283a365cfb2f4e",
       "title": "Quincy City Council approves e-bike ordinance, renews contract with retail development consulting",
-      "summary": "Quincy City Council approves e-bike ordinance, renews contract with retail development consulting FOX Carolina News",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRFhINlVrNnVoMHFJNkdzZHZOWGx2ZTR2VkJiOGxBYzl4SEZHRU12ODFWc3ZOeXlSV0pEWDQxMWgxaW1xTDBtdTIxa2FZNXhDY29zYjR0YnpGOUtaM2dlQkVCMHV1YnBvNWsyUHJmZkZabk5DUWxjRTNRWnpfSG8tbWVTbmZENnE1M3BnUnlFWFFPMWVZNE15enFlSVBJUWRPY05SZFRZcHhod3VYb1gxSWxnc2JhWkpYM3BkelZ2MjA1NEhUX3Ywd3otNXh1WnMxaUFtajI5V1NCQQ?oc=5",
-      "source": "FOX Carolina News",
+      "summary": "Quincy City Council approves e-bike ordinance, renews contract with retail development consulting KLTV.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ2VrQjh5QUlWRjhQN2NUV016eHF6LTBPbzlXMUlDMTZCNzNGS1lRejdjSmdnaXdGRHg4UHNWc0M3UzBxaC1FcjZpUy1Jb0d5STZPSGEtQUNkX1locTFGWTFtZmdCT0lLaG9rU19hNklCcHZmUHVkQWllcy1vb1k5cWliQWZnQUcyTk13Nm1vZjhyRVhvQlNHQ3F0ZkZYaTVuYUFlSXI0b0hRTWxMSXN3RHFiS0x4Ujh4MVJPVWhpVm5hdmNsdHRMRVY1TDNmU3o4?oc=5",
+      "source": "KLTV.com",
       "feed": "Google News",
       "published": "2026-11-03T04:35:00+00:00",
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "商业办公",
-      "image": "https://gray-whns-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F11-03-2026%2Ft_f333afc57c424d24b68f5fdd0a43e9b4_name_file_1280x720_2000_v3_1_.jpg?auth=facd59bc9c9aef100545f469f870f87d15f6140a2aa6e60ea5c7ec9abea9d1c7&width=1200&height=600&smart=true",
-      "image_checked_at": "2026-11-06T14:57:44+00:00"
+      "image": ""
     },
     {
       "id": "aeae2fd130d6dc5b",
@@ -11452,9 +13107,9 @@ window.ARCH_RADAR_DATA = {
     {
       "id": "f9616a757f76fd25",
       "title": "Road Construction in Marion and Grundy Counties",
-      "summary": "Road Construction in Marion and Grundy Counties SValleyNow.com",
+      "summary": "Road Construction in Marion and Grundy Counties Sequatchie Valley Now",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTlYxQXBRZGdFT2F6SUNINFpHSWFhRDZwU250OFBiSjd4M0lESi10Smo5djBUMlJXd01WWWdtZERTaHd5ek4ydmFybl9hNHBHdTYyMXJMSXZMVWlBUURNS0E3TzhwaTJ3aURFc1lIREJZdGQyWDhlSm53S01ldmN1cmt6cC1nRjRkd1HSAY8BQVVfeXFMT21pelZhVDRiVENBbm9lSVdEOWpwZkhrZm5ZdnJUM0JYSDRlNVJCeDI0VS1ldFVIMWNrMDlGRGVNdXFJMUNFTVh5UUxYNHdHWXVkdXFiQXFWOThiVFozUmVZU1h4YTF0Wk9QUUl4NXd1QzM5V3VNU3QxbHNoWU5iZEJFWDBEWFNaakxHZk5FSm8?oc=5",
-      "source": "SValleyNow.com",
+      "source": "Sequatchie Valley Now",
       "feed": "Google News",
       "published": "2026-11-03T00:30:00+00:00",
       "category": "行业动态",
@@ -12440,6 +14095,19 @@ window.ARCH_RADAR_DATA = {
       "image": "https://static-2026.dezeen.com/uploads/2026/10/Collectible-New-York_dezeen_2364_col_0-1024x1024.jpg"
     },
     {
+      "id": "c5b7c01ebb10ba18",
+      "title": "News - Navy jet design competition for Southern Maryland students launches Feb. 16",
+      "summary": "News - Navy jet design competition for Southern Maryland students launches Feb. 16 DVIDS",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWloxYkdJRWZUa3FpLWxFSFdOQUJMVzZISDhDRDd1am5oVG5vYk1RcjhVT2N4VlFidkZSckt5X3RtOWhsZS1PTkxteHF3VU83VWk4Q3hJMHk5VU1qelB4Wm91NFRhYXhPakpUNWhZZDUxV2VadWRZbTZaSDNZVkNPbUNZV3NKdDJGV25OaTZSaEJOQklZNFhoSXVLWnNOTC1yRUpiOC0xWWE0UXc?oc=5",
+      "source": "DVIDS",
+      "feed": "Google News",
+      "published": "2026-11-02T08:00:00+00:00",
+      "category": "竞赛招标",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
       "id": "2991b1a3bf334f27",
       "title": "Connecticut begins construction on Enfield train station",
       "summary": "Connecticut begins construction on Enfield train station Transportation Today",
@@ -12452,6 +14120,19 @@ window.ARCH_RADAR_DATA = {
       "sector": "交通基础设施",
       "image": "https://transportationtodaynews.com/wp-content/uploads/2026/09/shutterstock_519097594.jpg",
       "image_checked_at": "2026-11-06T14:57:44+00:00"
+    },
+    {
+      "id": "8ee680cbe1b50dbb",
+      "title": "Australia's latest apartments under construction: November 2026",
+      "summary": "Australia's latest apartments under construction: November 2026 Real Estate",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTU5mWkF1RERTc3Q5YktmbzM1QVZNZG9OQmVlalc5a3hfZ3RNeWlVcDNTZEtfRmx2dmVISFBnODJfU1kwMEdXYUEwSDd6UHhFYnJYZUN1dUY0ZVYxazBrUU5qLTJTMnkyX3A5OUJmSE91YXVIX3JlQzd3S3UwWlB2cGZTMmRUSE9Qa3lHYUdVcXNUbzg0cmlaTGl0a1dKQQ?oc=5",
+      "source": "Real Estate",
+      "feed": "Google News",
+      "published": "2026-11-02T08:00:00+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": ""
     },
     {
       "id": "da687d37b0cddfa2",
@@ -12842,6 +14523,19 @@ window.ARCH_RADAR_DATA = {
       "sector": "教育",
       "image": "",
       "image_checked_at": "2026-11-10T14:59:57+00:00"
+    },
+    {
+      "id": "8307e5ffe9b0d0eb",
+      "title": "Stadium Series rink construction nearly complete",
+      "summary": "Stadium Series rink construction nearly complete NHL.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd0JIU3BwbEFTcHRwSjc2eDdaLU9fSm9TVGhCSVB6bDFzaEpMYkM4dVJmN0lJa25MQ0NVZUVYTmRUYjVwdFIxQmU0cGxVSldUOVRZeVZscWVobjMyemtpczNLTmxVcEczNzlfb1l0Vk1qNGNZdERmZ1Jnc3IzOXpEUjhHWVlscTltaGVj?oc=5",
+      "source": "NHL.com",
+      "feed": "Google News",
+      "published": "2026-10-31T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "体育",
+      "image": ""
     },
     {
       "id": "ed176ee618651286",
@@ -13528,18 +15222,18 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-07T14:51:06+00:00"
     },
     {
-      "id": "279b0749b7c572f7",
-      "title": "New Building Permit Filed for 475 Myrtle Ave in Clinton Hill, Brooklyn",
-      "summary": "New Building Permit Filed for 475 Myrtle Ave in Clinton Hill, Brooklyn Marketproof",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY2dVQ0RBLS1fc1RxcWVfNk5lQ1loS2dtMGpMZDNIaUZCS2pWTENISEwzck9OMDg5dkpmUHFSZENXY1RBOEtlTzlTVHZIUmpkbE9NdllMMDlRWFA1dnRRb3RTZXo3RUhNN290RzgxcXNkRHhKaWd0c2Q2Uk1rdVl4ckM0TnJWNE1qWHdlUkdDUlpVeUp0c1pLcThKZ1ppUlhh?oc=5",
+      "id": "1c5c5c8ed97f125f",
+      "title": "New Building Permit Filed for 9012 143rd St in Jamaica, Queens",
+      "summary": "New Building Permit Filed for 9012 143rd St in Jamaica, Queens Marketproof",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmctbVlUMHdHZy01Zko2UkVIRGhDQmh2VTdwdlBLOG4xOHhxXzM0QmZweTFSTjRza2JoeUcxYURrUy1GcUlveExpTUdxUFFMMWVMU0xmZWpsWU5xT1lzMFV1b3FJUHVsekhGU1ptWEprZ1kzSGhueU1kVzYxVFRnS0JXaEl0WUI2cjl6eVZOc09WaHlxQkE?oc=5",
       "source": "Marketproof",
       "feed": "Google News",
-      "published": "2026-10-30T07:40:33+00:00",
+      "published": "2026-10-30T07:00:00+00:00",
       "category": "审批落地",
-      "region": "美国其他",
+      "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-10T14:59:57+00:00"
+      "image_checked_at": "2026-11-11T15:01:48+00:00"
     },
     {
       "id": "03fe5450665a4401",
@@ -13554,20 +15248,6 @@ window.ARCH_RADAR_DATA = {
       "sector": "医疗",
       "image": "https://virginiabusiness.com/files/1/2026/10/4D6A0269-650x400.jpg",
       "image_checked_at": "2026-11-07T14:51:06+00:00"
-    },
-    {
-      "id": "37df84125c686548",
-      "title": "JLG Architects was recognized with award for Moorhead Community Center & Public Library in The Loop",
-      "summary": "JLG Architects was recognized with award for Moorhead Community Center & Public Library in The Loop Grand Forks Herald",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbHBnOG1Gb29ZU1RGa04tLWhmSWswN3RaUDJFdk5jUHB4X3NVVmNMTHRybXNweEZQYlFhSEYwWWZsb1RmcDgxQ2cyMklUcVZ5NnV1ZTlTY3ExV2IwSGxsVVdlZjNDMzRLOGJ3NGFaT2RxWW51SjBaYUh3M3p5aHd2ekpxM0FZSGg0cDhaVjNKN19PNThIaGdkaVRlbUgtMExPQmFyOEU4S1RCZ0pxLUc0YkFvZWd5YVlqU1NFdi02U1hGQk45STJRT0NCVi1teHQ5WWEwUUwxRzN6aG40bGh4aA?oc=5",
-      "source": "Grand Forks Herald",
-      "feed": "Google News",
-      "published": "2026-10-30T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": "https://cdn.forumcomm.com/dims4/default/722eed2/2147483647/strip/true/crop/1700x1000+0+0/resize/1812x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F8f%2F4e%2F99e2ac2e42e8b28e5a47933bf775%2Fprairie-news-web-logo-rgb-612-x-360-pixels-200res.jpg",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
     },
     {
       "id": "18afd61a1948d9fc",
@@ -13596,6 +15276,34 @@ window.ARCH_RADAR_DATA = {
       "sector": "教育",
       "image": "",
       "image_checked_at": "2026-11-10T14:59:57+00:00"
+    },
+    {
+      "id": "37df84125c686548",
+      "title": "JLG Architects was recognized with award for Moorhead Community Center & Public Library in The Loop",
+      "summary": "JLG Architects was recognized with award for Moorhead Community Center & Public Library in The Loop Grand Forks Herald",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbHBnOG1Gb29ZU1RGa04tLWhmSWswN3RaUDJFdk5jUHB4X3NVVmNMTHRybXNweEZQYlFhSEYwWWZsb1RmcDgxQ2cyMklUcVZ5NnV1ZTlTY3ExV2IwSGxsVVdlZjNDMzRLOGJ3NGFaT2RxWW51SjBaYUh3M3p5aHd2ekpxM0FZSGg0cDhaVjNKN19PNThIaGdkaVRlbUgtMExPQmFyOEU4S1RCZ0pxLUc0YkFvZWd5YVlqU1NFdi02U1hGQk45STJRT0NCVi1teHQ5WWEwUUwxRzN6aG40bGh4aA?oc=5",
+      "source": "Grand Forks Herald",
+      "feed": "Google News",
+      "published": "2026-10-30T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": "https://cdn.forumcomm.com/dims4/default/722eed2/2147483647/strip/true/crop/1700x1000+0+0/resize/1812x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F8f%2F4e%2F99e2ac2e42e8b28e5a47933bf775%2Fprairie-news-web-logo-rgb-612-x-360-pixels-200res.jpg",
+      "image_checked_at": "2026-11-09T15:05:36+00:00"
+    },
+    {
+      "id": "acc5df23b73c3d62",
+      "title": "New Milwaukee museum construction includes relocated sculpture",
+      "summary": "New Milwaukee museum construction includes relocated sculpture Milwaukee Journal Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYkU4UVQ1M0F6OS1ueDZHdktwbkc4blZTU1RvcGxQYk5pdjhLM1RUYUFOOVVTczJ0QVlSY0JxX2M5ZGVVUERNTmU5Q0tfYUVTZzJiRm51SHRmWGJhYXE1ZWNlMHo3OGVBb2RqWHBXb2xxa0UxTWxoVjlyNURnMDZrN2N4Z29UR3A3aHZtRV85aElPcDdOY09FNVR4UkVKa2E4NTBDdEdrckQ4U1VfU19Wa0tDTlhKT0poYi1YYkQzeVBJanhZWklMYWVleEt1UjFBOC16ZHpiTExJYmhuMlVZ?oc=5",
+      "source": "Milwaukee Journal Sentinel",
+      "feed": "Google News",
+      "published": "2026-10-30T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "美国中西部",
+      "sector": "文化公共",
+      "image": "",
+      "image_checked_at": "2026-11-09T15:05:36+00:00"
     },
     {
       "id": "208eb592708e31cd",
@@ -13696,20 +15404,6 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-07T14:51:06+00:00"
     },
     {
-      "id": "acc5df23b73c3d62",
-      "title": "New Milwaukee museum construction includes relocated sculpture",
-      "summary": "New Milwaukee museum construction includes relocated sculpture Milwaukee Journal Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYkU4UVQ1M0F6OS1ueDZHdktwbkc4blZTU1RvcGxQYk5pdjhLM1RUYUFOOVVTczJ0QVlSY0JxX2M5ZGVVUERNTmU5Q0tfYUVTZzJiRm51SHRmWGJhYXE1ZWNlMHo3OGVBb2RqWHBXb2xxa0UxTWxoVjlyNURnMDZrN2N4Z29UR3A3aHZtRV85aElPcDdOY09FNVR4UkVKa2E4NTBDdEdrckQ4U1VfU19Wa0tDTlhKT0poYi1YYkQzeVBJanhZWklMYWVleEt1UjFBOC16ZHpiTExJYmhuMlVZ?oc=5",
-      "source": "Milwaukee Journal Sentinel",
-      "feed": "Google News",
-      "published": "2026-10-30T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国中西部",
-      "sector": "文化公共",
-      "image": "",
-      "image_checked_at": "2026-11-09T15:05:36+00:00"
-    },
-    {
       "id": "6268f62b79b347b7",
       "title": "701-unit development approved by Planning Commission",
       "summary": "701-unit development approved by Planning Commission Menifee 24/7",
@@ -13736,6 +15430,19 @@ window.ARCH_RADAR_DATA = {
       "sector": "住宅",
       "image": "https://gray-kvvu-prod.gtv-cdn.com/resizer/v2/6NJJDA4YCVFIZD5ZMB5IINGSFY.png?auth=f441b40c5da4b7e2bcb26c82bcefda3f612d58d6d16a3c2f80160f7bd759f709&width=1200&height=600&smart=true",
       "image_checked_at": "2026-11-07T14:51:06+00:00"
+    },
+    {
+      "id": "add2ffc9be5d7c55",
+      "title": "Practicing Pluralism Examines the Professional Work of the Yale School of Architecture’s Advanced Studio Faculty",
+      "summary": "Practicing Pluralism Examines the Professional Work of the Yale School of Architecture’s Advanced Studio Faculty Architectural Record",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbEdNZWhReWhmWlFWZFpRV2hibGVqX1pTTkJJV29TS1RpYU5FNU5DTEpGeDBmNHBScnd1Y0xQOTY0R2RYVGhsWmhsMTc2X2lNTXNlemR2WU01N2NnSHNPYmhtY0RjWnRFZXlua1VKejVOQkFzRGkyR1N0UFllNGhCTkhFZnQyYks4NmptblNtSENTMThDNm4wZE44QktmUTJhTS1udlhEQmZ2aEJ6ZE5LX0ZIN3U2YktIQkdPT21hek85RlJlQ2hNa0VJUW5xYlZwTDltR0MydGxjenFCbndsTHZhS2s5NVgwM25odUhFZEdjblFw?oc=5",
+      "source": "Architectural Record",
+      "feed": "Google News",
+      "published": "2026-10-30T04:45:27+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": ""
     },
     {
       "id": "35b7b406f877ca4f",
@@ -14491,20 +16198,6 @@ window.ARCH_RADAR_DATA = {
       "image": "https://static-2026.dezeen.com/uploads/2026/10/rshp-hetao-alpha-office-skyscraper-shenzhen-china_dezeen_2364_col_sq-1-1024x1024.jpg"
     },
     {
-      "id": "1c5c5c8ed97f125f",
-      "title": "New Building Permit Filed for 9012 143rd St in Jamaica, Queens",
-      "summary": "New Building Permit Filed for 9012 143rd St in Jamaica, Queens Marketproof",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmctbVlUMHdHZy01Zko2UkVIRGhDQmh2VTdwdlBLOG4xOHhxXzM0QmZweTFSTjRza2JoeUcxYURrUy1GcUlveExpTUdxUFFMMWVMU0xmZWpsWU5xT1lzMFV1b3FJUHVsekhGU1ptWEprZ1kzSGhueU1kVzYxVFRnS0JXaEl0WUI2cjl6eVZOc09WaHlxQkE?oc=5",
-      "source": "Marketproof",
-      "feed": "Google News",
-      "published": "2026-10-29T10:47:38+00:00",
-      "category": "审批落地",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": "",
-      "image_checked_at": "2026-11-11T15:01:48+00:00"
-    },
-    {
       "id": "787c74346e524dc7",
       "title": "New Building Permit Filed for 369 13th St in Park Slo PE, Brooklyn",
       "summary": "New Building Permit Filed for 369 13th St in Park Slo PE, Brooklyn Marketproof",
@@ -14560,6 +16253,19 @@ window.ARCH_RADAR_DATA = {
       "image": "https://static-2026.dezeen.com/uploads/2026/10/buro-ole-scheeren-suseong-continuum-gallery-south-korea-sq_dezeen_2364_col_0-1024x1024.jpg"
     },
     {
+      "id": "90b2f9c83acc5243",
+      "title": "New Building Permit Filed for 705 60th Street in Sunset Park, Brooklyn",
+      "summary": "New Building Permit Filed for 705 60th Street in Sunset Park, Brooklyn Marketproof",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3RHbDZNb1VvdFo2Ul9KNzAwR01SSE5yRjJELS16bXR5RGFYVlRYMUtiQ3VKOXdWMkgyM195OVZ2S0MxUDctSEpBNUNiMkhuZUVMeFlQV2RFY2NsSFVZQVRkMVJzeVh4bjM1THRSb1J1V1UxWWw4Vkp5aFhjbWFzeVNna2NSV0Q3ajl4Uk5oVWxtdms2OGxzRWlYRENQWVlF?oc=5",
+      "source": "Marketproof",
+      "feed": "Google News",
+      "published": "2026-10-29T07:00:00+00:00",
+      "category": "审批落地",
+      "region": "美国其他",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
       "id": "c58597dd93079166",
       "title": "City Council approves development at 1745 N. Cicero",
       "summary": "City Council approves development at 1745 N. Cicero Urbanize Chicago",
@@ -14586,6 +16292,32 @@ window.ARCH_RADAR_DATA = {
       "sector": "教育",
       "image": "https://bloximages.newyork1.vip.townnews.com/latrobebulletinnews.com/content/tncms/assets/v3/editorial/3/28/328b7451-78c8-42e5-bf9e-3dfd3876237a/6adbcd403a589.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize",
       "image_checked_at": "2026-11-11T15:01:48+00:00"
+    },
+    {
+      "id": "efa93d897c9c2397",
+      "title": "Windham housing project breaks ground",
+      "summary": "Windham housing project breaks ground derrynews.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlNYNHExbzJqSDBndGpqajNSUlZpMnh4VlZsbjVUQTNaVmtPZS1yR3E4MTB1eGVJeTJtU2lCVnVjbkkwTkZWZ2NwbldrU2xWLVhpbnBVbTRfVEk1ODdXbHZxR2ZIa3owM0l6UVpaZGZQVlNoaTZKWmlPZVVrWUNDRVh5cURNTXY5cTk3dVd3dzNMV3p2SkxYY2JnWHB6NFpsNHU1S1pSYmpCblRoV1FPNEZubTg1NVozM3FPTjFXMHpySW1O?oc=5",
+      "source": "derrynews.com",
+      "feed": "Google News",
+      "published": "2026-10-29T07:00:00+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": ""
+    },
+    {
+      "id": "24fe660513a3f260",
+      "title": "Apna Ghar breaks ground on 64-unit housing development for domestic violence survivors",
+      "summary": "Apna Ghar breaks ground on 64-unit housing development for domestic violence survivors The American Bazaar",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc2hQeWxHUzZ1bTlMdV8tVEhpN1Jmc3JfOGw3YzN2YktYQlFVemRXV1BUazVNVGp6UjhrLU50ZGloLXNkRDU2V3VGRXFHVGs3Q2loTG0wVWQ0UlhSak1yeUNtQ0F2Z2RpUnh2RkR3VXhKdXNGMmY2VU1hVVZnWFluN0VsS3VuNURjTDVST3Q5TEhkSjJrVjJZSHlib2xBeFJpVE1nVU52SXdRU2xpYzlkalZsM1NscU1EV25ZZnJjempjbGlRU3V1bEpfbWc0WU8wMmg5SQ?oc=5",
+      "source": "The American Bazaar",
+      "feed": "Google News",
+      "published": "2026-10-29T07:00:00+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": ""
     },
     {
       "id": "3fddf94de54cb0e3",
@@ -14616,18 +16348,18 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
-      "id": "d695ce7ad70c5829",
-      "title": "GLA Architecture and Urbanism Framework 4",
-      "summary": "GLA Architecture and Urbanism Framework 4 The Architects’ Journal",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU09pYTFlTkVoRG9URUZoWGNueFBncFdwMUZWdkJOSjdkdUI5ZHNUSGdoUGV5RFR2T1dNdlY0Y085c1lVS01Sb1R2a1R5cVdhUzk1d213cmJSMjNyNEYxaHc1Qlc5cTAtcVJvYi0zel9CYnBkQzdoaEpkY214c2JaTXhOVHpYZ3pURzg0XzFULXBWZGNh?oc=5",
-      "source": "The Architects’ Journal",
+      "id": "1e64afa41352315b",
+      "title": "Umodzi Epicentre Community Center / Kamuna Design Studio",
+      "summary": "Umodzi Epicentre Community Center / Kamuna Design Studio ArchDaily",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSGU5OWRXVFVpVFlldGR0cjd3Ml8tZ3dqcUdoUFU5TEtDTEU0RzZHcmVMV0VIanZLVmlBRXNlWWhYZ3ZPU3NPVXZtLVdYc2p4NHVNWFNVcHlYeENub0ZBa2RmbVlMdTZpV2ZvWnBNZ29USzB1Ml9ZU3lqTUxITGZ4eWlSS0I1dGJjTnlFak9RUmpiZw?oc=5",
+      "source": "ArchDaily",
       "feed": "Google News",
       "published": "2026-10-29T07:00:00+00:00",
-      "category": "行业动态",
+      "category": "设计发布",
       "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": "https://cdn.rt.emap.com/wp-content/uploads/sites/4/2026/06/23091617/City-Hall-London-Image-by-Merlin-Fulcher-560x315.jpg",
-      "image_checked_at": "2026-11-11T15:01:48+00:00"
+      "sector": "文化公共",
+      "image": "https://images.adsttc.com/media/images/6ae0/b363/20d6/d82a/88e0/5b5e/large_jpg/umodzi-epicentre-community-center-kamuna-design-studio_7.jpg?1793110913",
+      "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
       "id": "f3c1a8b414c7cc2b",
@@ -14644,20 +16376,6 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-09T15:05:36+00:00"
     },
     {
-      "id": "b1e24c0d19cabf12",
-      "title": "Move-In Ready Now, Designed For The Future: Inside South Melbourne’s New Apartments",
-      "summary": "Move-In Ready Now, Designed For The Future: Inside South Melbourne’s New Apartments Real Estate",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdXFyNDdyZjFBX3o3Q2xLbUVPMkt2aUdJVTBpejVpSlE5MTNhYXJEODBqdEd3Z3VmWDZMS1MzZXB6OXFMLUJoZDNuTFBQeE1MWlR4MHFudGxUNmt0MmwwYnZTWmFtNUo0NTdmWDhKYVhJaWpHQXlieHV6dWZEME5fTXptUzY3Unh6Y0dtcHFvaEw5TWR1MjlfZkVEWlBDMXhVb051ZldQU1VHOHEyNXg2ZHhPVnZiWm8?oc=5",
-      "source": "Real Estate",
-      "feed": "Google News",
-      "published": "2026-10-29T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/10/TheCanopyInteriorLiving.jpg",
-      "image_checked_at": "2026-11-08T14:49:57+00:00"
-    },
-    {
       "id": "47f7db0aa986b3fa",
       "title": "Optima Lumina sales gallery celebrates grand opening",
       "summary": "Optima Lumina sales gallery celebrates grand opening Urbanize Chicago",
@@ -14670,6 +16388,34 @@ window.ARCH_RADAR_DATA = {
       "sector": "文化公共",
       "image": "",
       "image_checked_at": "2026-11-09T15:05:36+00:00"
+    },
+    {
+      "id": "d695ce7ad70c5829",
+      "title": "GLA Architecture and Urbanism Framework 4",
+      "summary": "GLA Architecture and Urbanism Framework 4 The Architects’ Journal",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU09pYTFlTkVoRG9URUZoWGNueFBncFdwMUZWdkJOSjdkdUI5ZHNUSGdoUGV5RFR2T1dNdlY0Y085c1lVS01Sb1R2a1R5cVdhUzk1d213cmJSMjNyNEYxaHc1Qlc5cTAtcVJvYi0zel9CYnBkQzdoaEpkY214c2JaTXhOVHpYZ3pURzg0XzFULXBWZGNh?oc=5",
+      "source": "The Architects’ Journal",
+      "feed": "Google News",
+      "published": "2026-10-29T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://cdn.rt.emap.com/wp-content/uploads/sites/4/2026/06/23091617/City-Hall-London-Image-by-Merlin-Fulcher-560x315.jpg",
+      "image_checked_at": "2026-11-11T15:01:48+00:00"
+    },
+    {
+      "id": "b1e24c0d19cabf12",
+      "title": "Move-In Ready Now, Designed For The Future: Inside South Melbourne’s New Apartments",
+      "summary": "Move-In Ready Now, Designed For The Future: Inside South Melbourne’s New Apartments Real Estate",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdXFyNDdyZjFBX3o3Q2xLbUVPMkt2aUdJVTBpejVpSlE5MTNhYXJEODBqdEd3Z3VmWDZMS1MzZXB6OXFMLUJoZDNuTFBQeE1MWlR4MHFudGxUNmt0MmwwYnZTWmFtNUo0NTdmWDhKYVhJaWpHQXlieHV6dWZEME5fTXptUzY3Unh6Y0dtcHFvaEw5TWR1MjlfZkVEWlBDMXhVb051ZldQU1VHOHEyNXg2ZHhPVnZiWm8?oc=5",
+      "source": "Real Estate",
+      "feed": "Google News",
+      "published": "2026-10-29T07:00:00+00:00",
+      "category": "设计发布",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/10/TheCanopyInteriorLiving.jpg",
+      "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
       "id": "09ec5fcaffd153e8",
@@ -14698,20 +16444,6 @@ window.ARCH_RADAR_DATA = {
       "sector": "教育",
       "image": "",
       "image_checked_at": "2026-11-11T15:01:48+00:00"
-    },
-    {
-      "id": "1e64afa41352315b",
-      "title": "Umodzi Epicentre Community Center / Kamuna Design Studio",
-      "summary": "Umodzi Epicentre Community Center / Kamuna Design Studio ArchDaily",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSGU5OWRXVFVpVFlldGR0cjd3Ml8tZ3dqcUdoUFU5TEtDTEU0RzZHcmVMV0VIanZLVmlBRXNlWWhYZ3ZPU3NPVXZtLVdYc2p4NHVNWFNVcHlYeENub0ZBa2RmbVlMdTZpV2ZvWnBNZ29USzB1Ml9ZU3lqTUxITGZ4eWlSS0I1dGJjTnlFak9RUmpiZw?oc=5",
-      "source": "ArchDaily",
-      "feed": "Google News",
-      "published": "2026-10-29T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "文化公共",
-      "image": "https://images.adsttc.com/media/images/6ae0/b363/20d6/d82a/88e0/5b5e/large_jpg/umodzi-epicentre-community-center-kamuna-design-studio_7.jpg?1793110913",
-      "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
       "id": "b02cc15de83fe7f6",
@@ -15117,59 +16849,30 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
-      "id": "c19432c64bb2d78f",
-      "title": "Hills­borough College plans on multiple locations once stadium con­struction starts",
-      "summary": "Hills­borough College plans on multiple locations once stadium con­struction starts Bay News 9",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEkxRjlEZFB1NmFGQ3pzQTFqMURmWUQ2X0l1ZTNlckU3YS1qbzRfMTdNQWg4THNFVnNaU0FoOFRfNExMWmduU1VlVTlEY2tLMVNmRDJpWVl2R1pVQkpxbEgyMElNeGRvOVJRQ0s3S0YxeElZZTlINjk1akhVUzFWSWZzVGVIaTFiZDNFOGQ2ajFWRjRKcTYxVEl5T2JjV2NLV2l6eERfM1ZvZW9uNV9UeUZUSzVDNGxNcW1J?oc=5",
-      "source": "Bay News 9",
+      "id": "0033c1977f9bc1a2",
+      "title": "New Building Permit Filed for 374 Ashford St in East New York, Brooklyn",
+      "summary": "New Building Permit Filed for 374 Ashford St in East New York, Brooklyn Marketproof",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVmF4cTVIa3ZvZXdyc2VGVFZfeUdyRXJpV2JjUTBlRDdUN2xncERzN3RHUnFUeXltRkVpSV84cnRJdDQyLW1ReU5sZXIyWGVmc2ZhNG5jeVpwY0NxMi16M0I5TDZuTXNTUTRwMHBJV1ZWMGVqVXFMdVl6RjJDTUxsVGFwWDZJcWlDRmRSTEZPNWhubDJsX3k2bUZYOFNUdUVxVEE?oc=5",
+      "source": "Marketproof",
       "feed": "Google News",
       "published": "2026-10-28T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": "https://s7d2.scene7.com/is/image/TWCNews/hcc_818_jpg",
-      "image_checked_at": "2026-11-08T14:49:57+00:00"
-    },
-    {
-      "id": "498abaa20bbb71ae",
-      "title": "Pedestrian and vehicular areas fenced off as College Park bridge construction begins",
-      "summary": "Pedestrian and vehicular areas fenced off as College Park bridge construction begins Daily Titan",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTnIwZlNMV1VqcG9jb3pqNlo3czAtZ00wTmVZQzhPNHBFemZ4dk1TTlh3STFsWXhjdllkenAyZUR0bG5yZDluLW5GOFZobXFicGZaUDJrYnlHZXJiLVhPU0F1QXc1eUI3NmNUUnRCMkFnbldsMnZCT3ZzUDU2SURBMlhQTks2S1J4czd1dW1xT2V2OVN3R3BTSlpvTlpjODg1Ql9PSTVzWUR2RlMtbFIyS25nUzJfdm51RTRlbFZHaU1uYU9RdGduMHc1OWtYT0oyaXcxSksyc3A3WlRIdFpwV3NUWGR4bUJnRGlyOHpZSlZwSUR3?oc=5",
-      "source": "Daily Titan",
-      "feed": "Google News",
-      "published": "2026-10-28T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": "https://bloximages.newyork1.vip.townnews.com/dailytitan.com/content/tncms/assets/v3/editorial/0/58/058b4806-1eaa-440e-884d-78807b5b1e01/6ae27051ed361.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-      "image_checked_at": "2026-11-08T14:49:57+00:00"
-    },
-    {
-      "id": "9e340feaff97c4f9",
-      "title": "Bishop Kearney High School breaks ground on new training complex",
-      "summary": "Bishop Kearney High School breaks ground on new training complex 13WHAM-TV",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTktPYnVfVnB1YlNBQTRpeVd0a3Y1UlE0amg0RTI3X2IxcWRuNEdSaWMtbzE4b0pwM2JncUZLRUVsS1liSnFVS1RzdHh6WkEwck5Neks1SXhVUk83VmZlbThWaHAxZDZtU1YzY0gzWDl4SUFJY19YZVd3aWhJdFdNY1VFTVFVRzBuc203a1ZNT1VXS1FrVHcxVkxnR2o0LVZ2bXc?oc=5",
-      "source": "13WHAM-TV",
-      "feed": "Google News",
-      "published": "2026-10-28T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "教育",
+      "category": "审批落地",
+      "region": "美国其他",
+      "sector": "综合项目",
       "image": ""
     },
     {
-      "id": "ad787218189e6a14",
-      "title": "Jefferson Health breaks ground on Lehigh Valley’s newest neighborhood hospital",
-      "summary": "Jefferson Health breaks ground on Lehigh Valley’s newest neighborhood hospital The Morning Call",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNelhZUFBIMVE0YVR5MHpsS3NzS19QZmRxT3RtQjdzdVpyVEgyTW00SGwyRElwV2JpZExlMFFtQnRQOVdDb0NlQTBBMkFmd0hLOGtzTTVfYi00VllrRGp1alpueU8ybFJ2UEhjOHNERmN6dno0TkFNQWgtdW80Wi1sUm9wZkNxVHBKSzVhblNPaXRkZ3ZzN1M1aktWcGlZNFk5Mk8yZHZDMWdBTkQwdEJNR3BmUjFfOXBRbGt3QmJ2SVNkT21zdkktbzJ4M01VdDBVbkJIeA?oc=5",
-      "source": "The Morning Call",
+      "id": "3b8090a3b597908e",
+      "title": "Jefferson Health Breaks Ground on Coopersburg Neighborhood Hospital",
+      "summary": "Jefferson Health Breaks Ground on Coopersburg Neighborhood Hospital Saucon Source",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY2M3T2tZUFI1azBzMHNVM004YzBCenRKRjYwa094R3dEUU9qTXdnQ3liUGE5UGZGMTZfMGxPWFRnNjJkeTVGejQ4a3FmQmxuaTBSSldfaHcyWFAyY2ZYcmE1ZDB6QUh1UzBLRWoxLUE4QzhtckhuYjFGbkRGUy1CQU1FT2xLNXptbXo4MUR2cW52VTk2UXNucExrZEtDeUphWnhsdVZHNA?oc=5",
+      "source": "Saucon Source",
       "feed": "Google News",
       "published": "2026-10-28T07:00:00+00:00",
       "category": "开工建设",
       "region": "国际 / 未识别",
       "sector": "医疗",
-      "image": "https://www.mcall.com/wp-content/uploads/2026/10/TMC-L-LVHCOOPERSBURG-01-1.jpg?w=1360&h=768",
-      "image_checked_at": "2026-11-08T14:49:57+00:00"
+      "image": ""
     },
     {
       "id": "e54d7dd858d497b9",
@@ -15186,6 +16889,46 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
+      "id": "12593c19eec5a78b",
+      "title": "Odenton MARC Station mixed-use development breaks ground",
+      "summary": "Odenton MARC Station mixed-use development breaks ground WMAR 2 News Baltimore",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVHM1OWNpRnBVUVVwbzBqYmJiREo4Zy1rWDI2WFhaU1BWVGtKT2JMRXFlcXM5RnBKZmt2T2dIeXhqcFhoZW5oQUJRMnhHRTFXQ1pYSkRtclpUbFpJclFTbUFlOWMtV3pjQnFBbDJ1MGNuRmxjYkRHZ2cxYnl5MU9KblNTNU42eklfcFZHTjFLZ0FkdFUzQmU0Rmd0a1Bjdzk5X0JpcVQ4bVY2ZEk4eUp2dm5NU08?oc=5",
+      "source": "WMAR 2 News Baltimore",
+      "feed": "Google News",
+      "published": "2026-10-28T07:00:00+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "交通基础设施",
+      "image": ""
+    },
+    {
+      "id": "f3a3a9392fea6d79",
+      "title": "Hills­borough College plans on multiple locations once stadium con­struction starts",
+      "summary": "Hills­borough College plans on multiple locations once stadium con­struction starts Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWHp2NU0zQmVJMzNhREE1cTI1RHR3dlREWVJCNnFyMkVOclpmakFFY2hVc3JESDJjc1hDY1ZUbUJZZkluWV8wRHVhU3N4SnhLTV91MV84MkdrcjEzOXB1clRBY0lXMmFBN2NoZ3M0TWRJMW5nWklMMjVqcnpPdDl4eVV0UWJNRFdidjRxeU1rSndXTkNSajlnREl1Z04wN1NiTW13Mlc2dEYwbnZuTlJPWmlTbGFKcXZNSGhNOGRGSTVtRVFnMU16UVdsYTBJZw?oc=5",
+      "source": "Spectrum News",
+      "feed": "Google News",
+      "published": "2026-10-28T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": ""
+    },
+    {
+      "id": "498abaa20bbb71ae",
+      "title": "Pedestrian and vehicular areas fenced off as College Park bridge construction begins",
+      "summary": "Pedestrian and vehicular areas fenced off as College Park bridge construction begins Daily Titan",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTnIwZlNMV1VqcG9jb3pqNlo3czAtZ00wTmVZQzhPNHBFemZ4dk1TTlh3STFsWXhjdllkenAyZUR0bG5yZDluLW5GOFZobXFicGZaUDJrYnlHZXJiLVhPU0F1QXc1eUI3NmNUUnRCMkFnbldsMnZCT3ZzUDU2SURBMlhQTks2S1J4czd1dW1xT2V2OVN3R3BTSlpvTlpjODg1Ql9PSTVzWUR2RlMtbFIyS25nUzJfdm51RTRlbFZHaU1uYU9RdGduMHc1OWtYT0oyaXcxSksyc3A3WlRIdFpwV3NUWGR4bUJnRGlyOHpZSlZwSUR3?oc=5",
+      "source": "Daily Titan",
+      "feed": "Google News",
+      "published": "2026-10-28T07:00:00+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": "https://bloximages.newyork1.vip.townnews.com/dailytitan.com/content/tncms/assets/v3/editorial/0/58/058b4806-1eaa-440e-884d-78807b5b1e01/6ae27051ed361.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "image_checked_at": "2026-11-08T14:49:57+00:00"
+    },
+    {
       "id": "5aa6f18e09738c36",
       "title": "‘Building big’: Amherst celebrates a school designed for the future",
       "summary": "‘Building big’: Amherst celebrates a school designed for the future Daily Hampshire Gazette",
@@ -15194,19 +16937,6 @@ window.ARCH_RADAR_DATA = {
       "feed": "Google News",
       "published": "2026-10-28T07:00:00+00:00",
       "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "ff58cde57df04f30",
-      "title": "PNW’s College of Technology to share in $3.19 million grant to support affordable housing project",
-      "summary": "PNW’s College of Technology to share in $3.19 million grant to support affordable housing project Purdue University Northwest",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbW9Gb3BOdWNHb2dZdnhGTUJsb1ZjYl9aanJTUHZDbGNGUXhfdWF2b3FyaVBvX0JpWEVXRS1vWjZfRGFyWGdvRTZXTEFuX0JPa19mcDhVRWhzOHFJN2tuQ2hHOHRLcUwtc3BJdEdDM19ESl9UTnYtRXZ2aGYyVkkwOTdERE41S3FMTGJFMnI0eTJjQjVCTWQxZGtUei14eFd4cnhWSk9DVmFwTXpYZEdLekQ2RVZCV1E?oc=5",
-      "source": "Purdue University Northwest",
-      "feed": "Google News",
-      "published": "2026-10-28T07:00:00+00:00",
-      "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "教育",
       "image": ""
@@ -15265,19 +16995,6 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "20c38aabf0849551",
-      "title": "PsiQuantum Unveils 8×8 Optical Circuit Switch Demonstration Vehicle Derived from Silicon Photonics Quantum Architecture",
-      "summary": "PsiQuantum Unveils 8×8 Optical Circuit Switch Demonstration Vehicle Derived from Silicon Photonics Quantum Architecture Quantum Computing Report",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPT09YOG5HRDNoRHlSUXFGUTVDbjFZemxHOUlkeVd2RGhIWFZEbnBEVzVqYUVtTFdVYXowS2ZoTTQ2RGhUX0pRWkIyYll1c1FaelJ4MVg0VDhLUHN1NjBDX0s1c1lRMkd6eWZSb09mT2FTUFQxeGZPRlprQmVYLS05VWVlb1FFTnVEU3I1b2VMY1FGTGJzS2kwcDBvY1dpZ19yVEYtSXNCRFJDYVZ0TnRqMmpkaFpYcFZjaE9JbnlSSU9hUzFHdENNQmhvVE03UUhmdkR0R0NHTGRsOGtEWmdpU3BkeFNSZGFYWnhZ0gHwAUFVX3lxTE1GbHJRODc3d0U2dmEzYjVFNy04QUp6R0FlOGFSY1BlUlFjRWVSQWszc3hqWnVxQjJRbWFxdV9DdnlyeGpqbFljeW03Y2ZUdmNocGtuV21qLVpDY0Fya3VJREhwakZKVllaX0ZLUkdzbkRIajRvYzVnUlJ0SUw0OWFVMlFZWmhLV1h6aWRzcF9fc21oQy1BYjB0ZXVPV2VHZlotb2NITkRFYUI3bnhrTE43eGpUakw1ZnA5OVhPc3Yybzc2bmIweVR4OVBseEFXZkk5VUNaV1hUTGxvQWtKWmN4Qy1xYnpydmcyUWhGZXdRag?oc=5",
-      "source": "Quantum Computing Report",
-      "feed": "Google News",
-      "published": "2026-10-28T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
       "id": "5917a26fac13d327",
       "title": "GE Aerospace Completes First High-Speed Low-Pressure Turbine Test for Open Fan in Poland",
       "summary": "GE Aerospace Completes First High-Speed Low-Pressure Turbine Test for Open Fan in Poland Avi-Go",
@@ -15288,6 +17005,19 @@ window.ARCH_RADAR_DATA = {
       "category": "项目竣工",
       "region": "国际 / 未识别",
       "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "69f2423d85d4b811",
+      "title": "Büro Ziyu Zhuang Fuses Cultural Architecture into Lush Xianning Landscape with Zi Museum",
+      "summary": "Büro Ziyu Zhuang Fuses Cultural Architecture into Lush Xianning Landscape with Zi Museum freeyork",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRTJVQ1hCU1F1eWxlWFlONEpCbXBnMnJyT0huRmItTndSWTVqWDZCQ0dhdGNiOG5ubFo3TFl0UG4yZWtIc2pxQnBCVEdXaU83NlNfUmNFY2dVVGJpUGRWNzBWRUpRYU12V0lZTzRydjhqMWt1anBfZFJ5NjRLVWZwUjc0WjFlX2p5UVFaUHNn?oc=5",
+      "source": "freeyork",
+      "feed": "Google News",
+      "published": "2026-10-28T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "文化公共",
       "image": ""
     },
     {
@@ -15318,16 +17048,16 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
-      "id": "69f2423d85d4b811",
-      "title": "Büro Ziyu Zhuang Fuses Cultural Architecture into Lush Xianning Landscape with Zi Museum",
-      "summary": "Büro Ziyu Zhuang Fuses Cultural Architecture into Lush Xianning Landscape with Zi Museum freeyork",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRTJVQ1hCU1F1eWxlWFlONEpCbXBnMnJyT0huRmItTndSWTVqWDZCQ0dhdGNiOG5ubFo3TFl0UG4yZWtIc2pxQnBCVEdXaU83NlNfUmNFY2dVVGJpUGRWNzBWRUpRYU12V0lZTzRydjhqMWt1anBfZFJ5NjRLVWZwUjc0WjFlX2p5UVFaUHNn?oc=5",
-      "source": "freeyork",
+      "id": "50ee327977c8b4d6",
+      "title": "New AIA report links school safety, student wellbeing, and learning success to the design of learning spaces",
+      "summary": "New AIA report links school safety, student wellbeing, and learning success to the design of learning spaces The American Institute of Architects: AIA",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmhfQU5mdHRHVTVDZ1VYeHFzZnBjSDJnWmZmUmE1WlhqVWVKcmJpUG1MclFETkpWZ0tDbnBvYkUyS0FNMGh1U0IyMTNnRXBDWWlWYjZuWG1Bc2Y3ZlZ6S291OEpKWkNwR25oaVhidEpidWtMUldILUNNRVA4YXRicmtaWUVJWmRhM0h1S1h2T2dGQ2N4T01TUmJkc29xbnBVcjI0aEtRaUQ5STBYU28yQmh3TW12VXM?oc=5",
+      "source": "The American Institute of Architects: AIA",
       "feed": "Google News",
       "published": "2026-10-28T07:00:00+00:00",
-      "category": "行业动态",
+      "category": "设计发布",
       "region": "国际 / 未识别",
-      "sector": "文化公共",
+      "sector": "教育",
       "image": ""
     },
     {
@@ -15344,16 +17074,69 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "50ee327977c8b4d6",
-      "title": "New AIA report links school safety, student wellbeing, and learning success to the design of learning spaces",
-      "summary": "New AIA report links school safety, student wellbeing, and learning success to the design of learning spaces The American Institute of Architects: AIA",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmhfQU5mdHRHVTVDZ1VYeHFzZnBjSDJnWmZmUmE1WlhqVWVKcmJpUG1MclFETkpWZ0tDbnBvYkUyS0FNMGh1U0IyMTNnRXBDWWlWYjZuWG1Bc2Y3ZlZ6S291OEpKWkNwR25oaVhidEpidWtMUldILUNNRVA4YXRicmtaWUVJWmRhM0h1S1h2T2dGQ2N4T01TUmJkc29xbnBVcjI0aEtRaUQ5STBYU28yQmh3TW12VXM?oc=5",
+      "id": "39f4a25b0a6e334b",
+      "title": "Let Kids Be Kids: A Progress Report on Schools and Safety",
+      "summary": "Let Kids Be Kids: A Progress Report on Schools and Safety The American Institute of Architects: AIA",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JM1hCRkFRT0NlS3VLTXBXdXFjOFNrM3FqNXZ1b01HckdmZWJZQWl1cjNXVk84R2VhUWh5ajJ0eTFUdy1zOUZ0Q05pQWlHaGZKU09hc1FzRnQwRWtxVW9nMkN3?oc=5",
       "source": "The American Institute of Architects: AIA",
+      "feed": "Google News",
+      "published": "2026-10-28T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "9e340feaff97c4f9",
+      "title": "Bishop Kearney High School breaks ground on new training complex",
+      "summary": "Bishop Kearney High School breaks ground on new training complex 13WHAM-TV",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTktPYnVfVnB1YlNBQTRpeVd0a3Y1UlE0amg0RTI3X2IxcWRuNEdSaWMtbzE4b0pwM2JncUZLRUVsS1liSnFVS1RzdHh6WkEwck5Neks1SXhVUk83VmZlbThWaHAxZDZtU1YzY0gzWDl4SUFJY19YZVd3aWhJdFdNY1VFTVFVRzBuc203a1ZNT1VXS1FrVHcxVkxnR2o0LVZ2bXc?oc=5",
+      "source": "13WHAM-TV",
+      "feed": "Google News",
+      "published": "2026-10-28T07:00:00+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": ""
+    },
+    {
+      "id": "ad787218189e6a14",
+      "title": "Jefferson Health breaks ground on Lehigh Valley’s newest neighborhood hospital",
+      "summary": "Jefferson Health breaks ground on Lehigh Valley’s newest neighborhood hospital The Morning Call",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNelhZUFBIMVE0YVR5MHpsS3NzS19QZmRxT3RtQjdzdVpyVEgyTW00SGwyRElwV2JpZExlMFFtQnRQOVdDb0NlQTBBMkFmd0hLOGtzTTVfYi00VllrRGp1alpueU8ybFJ2UEhjOHNERmN6dno0TkFNQWgtdW80Wi1sUm9wZkNxVHBKSzVhblNPaXRkZ3ZzN1M1aktWcGlZNFk5Mk8yZHZDMWdBTkQwdEJNR3BmUjFfOXBRbGt3QmJ2SVNkT21zdkktbzJ4M01VdDBVbkJIeA?oc=5",
+      "source": "The Morning Call",
+      "feed": "Google News",
+      "published": "2026-10-28T07:00:00+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "医疗",
+      "image": "https://www.mcall.com/wp-content/uploads/2026/10/TMC-L-LVHCOOPERSBURG-01-1.jpg?w=1360&h=768",
+      "image_checked_at": "2026-11-08T14:49:57+00:00"
+    },
+    {
+      "id": "ff58cde57df04f30",
+      "title": "PNW’s College of Technology to share in $3.19 million grant to support affordable housing project",
+      "summary": "PNW’s College of Technology to share in $3.19 million grant to support affordable housing project Purdue University Northwest",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbW9Gb3BOdWNHb2dZdnhGTUJsb1ZjYl9aanJTUHZDbGNGUXhfdWF2b3FyaVBvX0JpWEVXRS1vWjZfRGFyWGdvRTZXTEFuX0JPa19mcDhVRWhzOHFJN2tuQ2hHOHRLcUwtc3BJdEdDM19ESl9UTnYtRXZ2aGYyVkkwOTdERE41S3FMTGJFMnI0eTJjQjVCTWQxZGtUei14eFd4cnhWSk9DVmFwTXpYZEdLekQ2RVZCV1E?oc=5",
+      "source": "Purdue University Northwest",
+      "feed": "Google News",
+      "published": "2026-10-28T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": ""
+    },
+    {
+      "id": "20c38aabf0849551",
+      "title": "PsiQuantum Unveils 8×8 Optical Circuit Switch Demonstration Vehicle Derived from Silicon Photonics Quantum Architecture",
+      "summary": "PsiQuantum Unveils 8×8 Optical Circuit Switch Demonstration Vehicle Derived from Silicon Photonics Quantum Architecture Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPT09YOG5HRDNoRHlSUXFGUTVDbjFZemxHOUlkeVd2RGhIWFZEbnBEVzVqYUVtTFdVYXowS2ZoTTQ2RGhUX0pRWkIyYll1c1FaelJ4MVg0VDhLUHN1NjBDX0s1c1lRMkd6eWZSb09mT2FTUFQxeGZPRlprQmVYLS05VWVlb1FFTnVEU3I1b2VMY1FGTGJzS2kwcDBvY1dpZ19yVEYtSXNCRFJDYVZ0TnRqMmpkaFpYcFZjaE9JbnlSSU9hUzFHdENNQmhvVE03UUhmdkR0R0NHTGRsOGtEWmdpU3BkeFNSZGFYWnhZ0gHwAUFVX3lxTE1GbHJRODc3d0U2dmEzYjVFNy04QUp6R0FlOGFSY1BlUlFjRWVSQWszc3hqWnVxQjJRbWFxdV9DdnlyeGpqbFljeW03Y2ZUdmNocGtuV21qLVpDY0Fya3VJREhwakZKVllaX0ZLUkdzbkRIajRvYzVnUlJ0SUw0OWFVMlFZWmhLV1h6aWRzcF9fc21oQy1BYjB0ZXVPV2VHZlotb2NITkRFYUI3bnhrTE43eGpUakw1ZnA5OVhPc3Yybzc2bmIweVR4OVBseEFXZkk5VUNaV1hUTGxvQWtKWmN4Qy1xYnpydmcyUWhGZXdRag?oc=5",
+      "source": "Quantum Computing Report",
       "feed": "Google News",
       "published": "2026-10-28T07:00:00+00:00",
       "category": "设计发布",
       "region": "国际 / 未识别",
-      "sector": "教育",
+      "sector": "综合项目",
       "image": ""
     },
     {
@@ -15371,16 +17154,16 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
-      "id": "39f4a25b0a6e334b",
-      "title": "Let Kids Be Kids: A Progress Report on Schools and Safety",
-      "summary": "Let Kids Be Kids: A Progress Report on Schools and Safety The American Institute of Architects: AIA",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JM1hCRkFRT0NlS3VLTXBXdXFjOFNrM3FqNXZ1b01HckdmZWJZQWl1cjNXVk84R2VhUWh5ajJ0eTFUdy1zOUZ0Q05pQWlHaGZKU09hc1FzRnQwRWtxVW9nMkN3?oc=5",
-      "source": "The American Institute of Architects: AIA",
+      "id": "ad28e4185e7e9b38",
+      "title": "Murray Middle School breaks ground on $33 million rebuild after Hurricane Milton damage",
+      "summary": "Murray Middle School breaks ground on $33 million rebuild after Hurricane Milton damage WFLX",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmMxa3QzYmlzeGo1UHFsQ0JZczRoUUlpQmZlZlVnTDhGWWRDOGJMU2xRbl9fVzJtSFRZem1BS1lFeFlmUUQ2UTJ1QkM3TjFLN1pnWTRnWGRsVlFjS2E5VVJ5Y3lhLVNGVWFqa0MtTVI4OXh1VG5BbXo2QnlzXy1ubFFVRjVwMnJLVFdzMkl0blk1eWZnNWNXT29RZUt4cDlBYk1selRUUUR3NXNVbm5RcGRaMFByRkHSAcsBQVVfeXFMT0VIM1BBVXRuV0VDNFVDaU1tdnFRZEdVd0ctZ1F3ZjIzSUEzaHlkb2FxYzVZcEdGamhGVG11TVlQOGEwUGdYbWdSWlFlQ3JYTGhuSzRaR3N2MmlLOUttVmJVWGNrS1lndXNuZnYwZ09GY1I3SHdxLXJtSVVpVUdLNHlvTTRPM0VZbTRjUi01OWJSbS1lU0J6TzAtR05pX3lVZ2FmUkFlbDA4RVVXSE0yZGQxYUNncWxxMnNTSDdjNDRNd252Wm8yYUxrVkU?oc=5",
+      "source": "WFLX",
       "feed": "Google News",
-      "published": "2026-10-28T07:00:00+00:00",
-      "category": "行业动态",
+      "published": "2026-10-27T23:58:41+00:00",
+      "category": "开工建设",
       "region": "国际 / 未识别",
-      "sector": "综合项目",
+      "sector": "教育",
       "image": ""
     },
     {
@@ -15798,6 +17581,48 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
+      "id": "3ec19dd6f332aab2",
+      "title": "Gilbane Development breaks ground on $350M WKU student housing project",
+      "summary": "Gilbane Development breaks ground on $350M WKU student housing project Construction Dive",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPenpyejgyZTZuRU9GWmMxbHgtbGhnTFQ4ZnZrZEYySTdjZmh6dVlzVkVfejZPRXNwSWo4Y1lnRzI4Sk9aM2VkdzRsUjF0MFRvQnBsanVoQURNbzVVcHBQUEZhUjhpMjFFclk3ZHBNa21OeVl3SDJtWm9KYlQwNl8wNFJvTk9PZUQya2lRQmdEbWM1eUFHckMySlhWYzg3dFJq?oc=5",
+      "source": "Construction Dive",
+      "feed": "Google News",
+      "published": "2026-10-27T07:00:00+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": "",
+      "image_checked_at": "2026-11-08T14:49:57+00:00"
+    },
+    {
+      "id": "ba79fc3f076b182b",
+      "title": "Groundbreaking held for mixed-use project at 3800 W. 6th St. in Koreatown",
+      "summary": "Groundbreaking held for mixed-use project at 3800 W. 6th St. in Koreatown Urbanize LA",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTXhsc0I2eXhLbDRHUTJJVGt4VEJRVWxVWHJFbzdnOFZVOUFzVWFpbS0zc2tORzROZERVWFdRX1FzTmZXc0NmeVR3WGtFUVN1Wm5qR2s4ZU9XSW9LLUUwYXZ6YzRNdzNnVFBqbU1sbjVTMVg5LUYzcmdmU25WVVR2R25UMk9rMnpkVElXMTMyZVRfVDVSd2c?oc=5",
+      "source": "Urbanize LA",
+      "feed": "Google News",
+      "published": "2026-10-27T07:00:00+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "城市更新",
+      "image": "https://la.urbanize.city/sites/default/files/styles/social_1200x630/public/background/2026-10/Atto2026.jpg?itok=PiiPP17o",
+      "image_checked_at": "2026-11-08T14:49:57+00:00"
+    },
+    {
+      "id": "ccbdc6be8de1ac36",
+      "title": "Missing Middle Housing Reforms in place",
+      "summary": "Missing Middle Housing Reforms in place ACT Government",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2o3MWE1Ui1yLXJ6NmJkTWhoa3FVQ3E2dmpaWVZIcGtTRWtTVm41eXNIRFRkalczVFBMLVNSMmZlZmRXaUlfcEc5Q2prRWRJdlZsZTZ2QjdDeTZLTzdvVE5ReTM3R05qekhiTnRhODZTeGhKU3JIWi1JeDhKNFBRZWFxNlEtUFJvb0RCRVMyV0wwVGFVSW1ZUTBQbzVMSklkN1E?oc=5",
+      "source": "ACT Government",
+      "feed": "Google News",
+      "published": "2026-10-27T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": "",
+      "image_checked_at": "2026-11-08T14:49:57+00:00"
+    },
+    {
       "id": "ce02fd3a7b1cb2be",
       "title": "As downtown Blue Dot Lab construction starts, GVSU leaders want focus beyond the building",
       "summary": "As downtown Blue Dot Lab construction starts, GVSU leaders want focus beyond the building MLive.com",
@@ -15854,48 +17679,6 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
-      "id": "3ec19dd6f332aab2",
-      "title": "Gilbane Development breaks ground on $350M WKU student housing project",
-      "summary": "Gilbane Development breaks ground on $350M WKU student housing project Construction Dive",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPenpyejgyZTZuRU9GWmMxbHgtbGhnTFQ4ZnZrZEYySTdjZmh6dVlzVkVfejZPRXNwSWo4Y1lnRzI4Sk9aM2VkdzRsUjF0MFRvQnBsanVoQURNbzVVcHBQUEZhUjhpMjFFclk3ZHBNa21OeVl3SDJtWm9KYlQwNl8wNFJvTk9PZUQya2lRQmdEbWM1eUFHckMySlhWYzg3dFJq?oc=5",
-      "source": "Construction Dive",
-      "feed": "Google News",
-      "published": "2026-10-27T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": "",
-      "image_checked_at": "2026-11-08T14:49:57+00:00"
-    },
-    {
-      "id": "ba79fc3f076b182b",
-      "title": "Groundbreaking held for mixed-use project at 3800 W. 6th St. in Koreatown",
-      "summary": "Groundbreaking held for mixed-use project at 3800 W. 6th St. in Koreatown Urbanize LA",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTXhsc0I2eXhLbDRHUTJJVGt4VEJRVWxVWHJFbzdnOFZVOUFzVWFpbS0zc2tORzROZERVWFdRX1FzTmZXc0NmeVR3WGtFUVN1Wm5qR2s4ZU9XSW9LLUUwYXZ6YzRNdzNnVFBqbU1sbjVTMVg5LUYzcmdmU25WVVR2R25UMk9rMnpkVElXMTMyZVRfVDVSd2c?oc=5",
-      "source": "Urbanize LA",
-      "feed": "Google News",
-      "published": "2026-10-27T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "城市更新",
-      "image": "https://la.urbanize.city/sites/default/files/styles/social_1200x630/public/background/2026-10/Atto2026.jpg?itok=PiiPP17o",
-      "image_checked_at": "2026-11-08T14:49:57+00:00"
-    },
-    {
-      "id": "ccbdc6be8de1ac36",
-      "title": "Missing Middle Housing Reforms in place",
-      "summary": "Missing Middle Housing Reforms in place ACT Government",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2o3MWE1Ui1yLXJ6NmJkTWhoa3FVQ3E2dmpaWVZIcGtTRWtTVm41eXNIRFRkalczVFBMLVNSMmZlZmRXaUlfcEc5Q2prRWRJdlZsZTZ2QjdDeTZLTzdvVE5ReTM3R05qekhiTnRhODZTeGhKU3JIWi1JeDhKNFBRZWFxNlEtUFJvb0RCRVMyV0wwVGFVSW1ZUTBQbzVMSklkN1E?oc=5",
-      "source": "ACT Government",
-      "feed": "Google News",
-      "published": "2026-10-27T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": "",
-      "image_checked_at": "2026-11-08T14:49:57+00:00"
-    },
-    {
       "id": "92f85841aeb0006d",
       "title": "Spartan Stadium renovation plans evolving; construction could start in '27",
       "summary": "Spartan Stadium renovation plans evolving; construction could start in '27 The Detroit News",
@@ -15937,45 +17720,30 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
-      "id": "d84aeb8c1e4c9ea1",
-      "title": "A 120-year-old Charlestown Navy Yard building is getting new life. Here's what to know",
-      "summary": "A 120-year-old Charlestown Navy Yard building is getting new life. Here's what to know MassLive.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSC0yNGVVNlN0b2VLQjNaVS1SWmRYeWlxNjBsZ2lrdlUzejNrMGcxRUVxYXI2QU5jbTkybHhVR2lkc01jY0RSaTRwY29HOC1KRVdFd3haV0JBUi1ScFd2ZS10ZVRVdkhickxTN1VmNnctX3g1WTQxaVk4QW5FUkpMSjhCRVZqMDVYQUhkTGtBRk14VEZmVGZ2MDk2Um5TNTRUZ3dCdEVxUFRmRXpLTkdacEllV2o4aXphVTdTejZQUmlkakZlLUN4YlJZaVVzUHlpc2FvSUhFY3dmQQ?oc=5",
-      "source": "MassLive.com",
+      "id": "1f48b1a34a913ee6",
+      "title": "Eustis Community Center faces proposed land-use change as city confirms another redevelopment offer",
+      "summary": "Eustis Community Center faces proposed land-use change as city confirms another redevelopment offer WKMG",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQc2ZXVU1CY09LTkVfUVlGU1VCMEJKY1VvVlg1cTBmQ0ZWZVdua3IwVjdMMko5M0Q1cWZGaGpyUEktc1dFaUlocTI2UjdQZnJXLWdaeTZPWHFsWXpOLWwyNkdCNlpvdDNudUVUelRyQjJPUksySkJNRTdESTlCR2JLNEJaQ0xiLTkyRDRFQmFPbTVBWU9haXp4aHBYME9pUm1Xdkg2c1B0SmwtYnp0cFdBcGZfTWJDOUl2bEh1U21zZGoxY2N3eDdyYUtzVk5GanpYZ3JiTmJSVmprMWxsRzJNZ2MzZFhOUQ?oc=5",
+      "source": "WKMG",
       "feed": "Google News",
       "published": "2026-10-27T07:00:00+00:00",
-      "category": "行业动态",
+      "category": "设计发布",
       "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": "https://www.masslive.com/resizer/v2/ZTF5S7VY7RA2JGFMGWPNGRTTV4.jpg?auth=93707baa4228c2afb7dc3fe8b8a375522af133f0ccb73b7ec519094fc3c94216&width=1280&smart=true",
-      "image_checked_at": "2026-11-08T14:49:57+00:00"
+      "sector": "文化公共",
+      "image": ""
     },
     {
       "id": "945a46758b7dec20",
       "title": "Blue Origin to open 'cutting-edge' Des Moines manufacturing project",
-      "summary": "Blue Origin to open 'cutting-edge' Des Moines manufacturing project king5.com",
+      "summary": "Blue Origin to open 'cutting-edge' Des Moines manufacturing project KING5.com",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbXlMc1NFelBFSzNDaENSdzVFZkRtREdSV0dFd1gwQTliXzlRUkEyZHQ4c01rcnJoLWo0QndVSTJMUlZDTUJuUUZJT2RHRDhIcE9xZHZDRjVaWEpFLVo3b2pQLXFLQ19PYlJZa0N3eXlvdm1XY21zbFBhNUZFSzJSLVg4TWk3RDdQcFc4RE9vZ0JPSHVTYTJYemRZTUU5bFR2QzVmalVVWjZRM1V0WHJ6TGJXOTY1TW9ON19KUFltUklic00yckh6RDl3ODZOZXh3R0YzUzJnOXM0bDhISTBxRmVZTUh4Zw?oc=5",
-      "source": "king5.com",
+      "source": "KING5.com",
       "feed": "Google News",
       "published": "2026-10-27T07:00:00+00:00",
       "category": "项目竣工",
       "region": "爱荷华",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-08T14:49:57+00:00"
-    },
-    {
-      "id": "4724e565fb8ea1f9",
-      "title": "Consolidation plan proposes one public high school in Dubuque",
-      "summary": "Consolidation plan proposes one public high school in Dubuque Radio Iowa",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQkh3eFV1U2tUdnVWMVZVdFBOMThzM25MUzNNaVY2cjNkMk1TT2NUYXY4aGFjQlE1U2dwUFNEU01yTUMtTTNzTDh5R0R6dWp1clFHcUs2MF90MWsydUFZbUpfR1R5UkRBa1N0VVhOOXN4eS1TRTI2UEljZGI0UVpBckZ2cnByMWxETmJiT0VyOTR0NWpfZ3lJNlR3WFQtVnNl?oc=5",
-      "source": "Radio Iowa",
-      "feed": "Google News",
-      "published": "2026-10-27T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "爱荷华",
-      "sector": "教育",
-      "image": "https://cdn.radioiowa.com/wp-content/uploads/2026/05/Education_800x450.jpg",
       "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
@@ -15993,17 +17761,18 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
-      "id": "bd388356458ccb83",
-      "title": "Employee-owned Boldt looks to AI, modular construction for next chapter",
-      "summary": "Employee-owned Boldt looks to AI, modular construction for next chapter The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWkd2R1J5a2Z4bncwWGFwQ2xDeWZvdlJ6RUo0VXJBWUwxWTlDTFViR1lLRmNmZDduWmozbjlyZVhrUGJ6ekpqaEltWVBZVmhwUTQweVRTZ3ZWTXhUMm9vRENVRTZOSFlsV1JOdkZJQnRtY29OemJhU3RKcEFSWlotWEFpVTNXMU84?oc=5",
-      "source": "The Business Journals",
+      "id": "4724e565fb8ea1f9",
+      "title": "Consolidation plan proposes one public high school in Dubuque",
+      "summary": "Consolidation plan proposes one public high school in Dubuque Radio Iowa",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQkh3eFV1U2tUdnVWMVZVdFBOMThzM25MUzNNaVY2cjNkMk1TT2NUYXY4aGFjQlE1U2dwUFNEU01yTUMtTTNzTDh5R0R6dWp1clFHcUs2MF90MWsydUFZbUpfR1R5UkRBa1N0VVhOOXN4eS1TRTI2UEljZGI0UVpBckZ2cnByMWxETmJiT0VyOTR0NWpfZ3lJNlR3WFQtVnNl?oc=5",
+      "source": "Radio Iowa",
       "feed": "Google News",
       "published": "2026-10-27T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
+      "category": "设计发布",
+      "region": "爱荷华",
+      "sector": "教育",
+      "image": "https://cdn.radioiowa.com/wp-content/uploads/2026/05/Education_800x450.jpg",
+      "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
       "id": "5f06e863c1e9d12e",
@@ -16031,6 +17800,20 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": ""
+    },
+    {
+      "id": "b2765de3f63a312b",
+      "title": "Top 115 Outpatient Facility Architecture Firms for 2026",
+      "summary": "Top 115 Outpatient Facility Architecture Firms for 2026 Building Design + Construction",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN1cyM3QtX3dxSEU4YUMxTGNjaDIwbmFjVWtidWNhRDZYUHl5Mk05STFwbm1vbjhUX2JmQTRsbmI1aEZ4SVI1OFdUYzlISEFSVkRyTjR6dFlEcUFxQ01VZVNEWTdEVUdWaGdxLVdMUXNsN2RtLVJLNjA5eTZ6WVZzbUZXNm1RYTQwbW5LRE8wczhLZlV1MGVqelRHbjdBemtVWXd3YmpaM2MxajJLSzRF?oc=5",
+      "source": "Building Design + Construction",
+      "feed": "Google News",
+      "published": "2026-10-27T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://img.bdcnetwork.com/files/base/ebm/bdcnetwork/image/2026/10/6ae104b0510c45e09dde15c3-dreamstime_m_33513211.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+      "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
       "id": "e7f88909ba688eb8",
@@ -16075,18 +17858,31 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
-      "id": "b2765de3f63a312b",
-      "title": "Top 115 Outpatient Facility Architecture Firms for 2026",
-      "summary": "Top 115 Outpatient Facility Architecture Firms for 2026 Building Design + Construction",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN1cyM3QtX3dxSEU4YUMxTGNjaDIwbmFjVWtidWNhRDZYUHl5Mk05STFwbm1vbjhUX2JmQTRsbmI1aEZ4SVI1OFdUYzlISEFSVkRyTjR6dFlEcUFxQ01VZVNEWTdEVUdWaGdxLVdMUXNsN2RtLVJLNjA5eTZ6WVZzbUZXNm1RYTQwbW5LRE8wczhLZlV1MGVqelRHbjdBemtVWXd3YmpaM2MxajJLSzRF?oc=5",
-      "source": "Building Design + Construction",
+      "id": "d84aeb8c1e4c9ea1",
+      "title": "A 120-year-old Charlestown Navy Yard building is getting new life. Here's what to know",
+      "summary": "A 120-year-old Charlestown Navy Yard building is getting new life. Here's what to know MassLive.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSC0yNGVVNlN0b2VLQjNaVS1SWmRYeWlxNjBsZ2lrdlUzejNrMGcxRUVxYXI2QU5jbTkybHhVR2lkc01jY0RSaTRwY29HOC1KRVdFd3haV0JBUi1ScFd2ZS10ZVRVdkhickxTN1VmNnctX3g1WTQxaVk4QW5FUkpMSjhCRVZqMDVYQUhkTGtBRk14VEZmVGZ2MDk2Um5TNTRUZ3dCdEVxUFRmRXpLTkdacEllV2o4aXphVTdTejZQUmlkakZlLUN4YlJZaVVzUHlpc2FvSUhFY3dmQQ?oc=5",
+      "source": "MassLive.com",
       "feed": "Google News",
       "published": "2026-10-27T07:00:00+00:00",
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "综合项目",
-      "image": "https://img.bdcnetwork.com/files/base/ebm/bdcnetwork/image/2026/10/6ae104b0510c45e09dde15c3-dreamstime_m_33513211.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+      "image": "https://www.masslive.com/resizer/v2/ZTF5S7VY7RA2JGFMGWPNGRTTV4.jpg?auth=93707baa4228c2afb7dc3fe8b8a375522af133f0ccb73b7ec519094fc3c94216&width=1280&smart=true",
       "image_checked_at": "2026-11-08T14:49:57+00:00"
+    },
+    {
+      "id": "bd388356458ccb83",
+      "title": "Employee-owned Boldt looks to AI, modular construction for next chapter",
+      "summary": "Employee-owned Boldt looks to AI, modular construction for next chapter The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWkd2R1J5a2Z4bncwWGFwQ2xDeWZvdlJ6RUo0VXJBWUwxWTlDTFViR1lLRmNmZDduWmozbjlyZVhrUGJ6ekpqaEltWVBZVmhwUTQweVRTZ3ZWTXhUMm9vRENVRTZOSFlsV1JOdkZJQnRtY29OemJhU3RKcEFSWlotWEFpVTNXMU84?oc=5",
+      "source": "The Business Journals",
+      "feed": "Google News",
+      "published": "2026-10-27T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
     },
     {
       "id": "a7f3f703d20fd3a4",
@@ -16486,6 +18282,20 @@ window.ARCH_RADAR_DATA = {
       "image": "https://www.enr.com/ext/resources/Issues/West/2026/October/BP/The-Now_West-Hollywood_CA_02-207109_Exterior-7.webp?t=1792703806"
     },
     {
+      "id": "05cb025b1d6023a7",
+      "title": "GURNER unveils $1.75 billion Geelong luxury pier precinct",
+      "summary": "GURNER unveils $1.75 billion Geelong luxury pier precinct Build Australia",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVdSNHdJeFR3ak83eU5DeC1LdVRobEJQTVVxMnNlOEJBZWg5Ql83SDR6UXA3djl2bEdfa21ZYmItRldfRHp0ckpaQjBKcHJZeUtFUHA0QVcwX3cyUTNsUG9IVkhoRTVmS0hhRWZzTXlSbWZ3cl9IQTc1MzZFcEU3a0lCcjBQYktia1JSbElJMlY3MGI2eUNTZw?oc=5",
+      "source": "Build Australia",
+      "feed": "Google News",
+      "published": "2026-10-26T07:00:00+00:00",
+      "category": "设计发布",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://www.buildaustralia.com.au/wp-content/uploads/2026/10/GURNER-unveils-1.75-billion-Geelong-pier-precinct.jpg",
+      "image_checked_at": "2026-11-08T14:49:57+00:00"
+    },
+    {
       "id": "80ffe3906874b0ce",
       "title": "New Building Permit Filed for 1 Walker Street in Tribeca, Manhattan",
       "summary": "New Building Permit Filed for 1 Walker Street in Tribeca, Manhattan Marketproof",
@@ -16512,20 +18322,6 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "05cb025b1d6023a7",
-      "title": "GURNER unveils $1.75 billion Geelong luxury pier precinct",
-      "summary": "GURNER unveils $1.75 billion Geelong luxury pier precinct Build Australia",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVdSNHdJeFR3ak83eU5DeC1LdVRobEJQTVVxMnNlOEJBZWg5Ql83SDR6UXA3djl2bEdfa21ZYmItRldfRHp0ckpaQjBKcHJZeUtFUHA0QVcwX3cyUTNsUG9IVkhoRTVmS0hhRWZzTXlSbWZ3cl9IQTc1MzZFcEU3a0lCcjBQYktia1JSbElJMlY3MGI2eUNTZw?oc=5",
-      "source": "Build Australia",
-      "feed": "Google News",
-      "published": "2026-10-26T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": "https://www.buildaustralia.com.au/wp-content/uploads/2026/10/GURNER-unveils-1.75-billion-Geelong-pier-precinct.jpg",
-      "image_checked_at": "2026-11-08T14:49:57+00:00"
-    },
-    {
       "id": "2c6a90e7970accdd",
       "title": "3244 West Bryn Mawr Avenue Approved By City Council",
       "summary": "3244 West Bryn Mawr Avenue Approved By City Council Chicago YIMBY",
@@ -16537,34 +18333,6 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "综合项目",
       "image": "https://chicagoyimby.com/wp-content/uploads/2026/09/3244-Bryn-Mawr-01-scaled.png",
-      "image_checked_at": "2026-11-08T14:49:57+00:00"
-    },
-    {
-      "id": "ba7ed8a733156704",
-      "title": "Mixed-use project completed at Sunset and Fairfax in Hollywood",
-      "summary": "Mixed-use project completed at Sunset and Fairfax in Hollywood Urbanize LA",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPejE3QVVkVVVQZ21BN1M4V253eUlFbF96MlZEX2pyUlJYeWlPdHZneEhPMzVkcGNlT3lWR2tTdjZJU3BwZEc3dVM5eGYtRFZ1MnhPc1JLa2wzLTFjWGRaa0VNekNheVlCSklVa1VfYmNrNUlfR2FId05wZGU5bkphUVBtT2hhaGxVZmNQUTRBOA?oc=5",
-      "source": "Urbanize LA",
-      "feed": "Google News",
-      "published": "2026-10-26T07:00:00+00:00",
-      "category": "项目竣工",
-      "region": "国际 / 未识别",
-      "sector": "城市更新",
-      "image": "https://la.urbanize.city/sites/default/files/styles/social_1200x630/public/background/2023-01/7901%20sunset%20boulevard%201.jpg?itok=vgFHdGNK",
-      "image_checked_at": "2026-11-08T14:49:57+00:00"
-    },
-    {
-      "id": "cd4007f05bcbeaeb",
-      "title": "Construction begins on 228-unit affordable and supportive housing building in Soundview",
-      "summary": "Construction begins on 228-unit affordable and supportive housing building in Soundview Bronx Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oLU5waXlDS1lKQlpPUjEyaDNhQUNDM1NpOFR3aTluc3llUWcwZ1ZXakY3RGd6bkk1SlJoNUV2dkJfSWxmZEV0T3FicFZaNW1zbktOdW5mMmJJQWFCMkRDVVdZQkJ6ZUlpZmdBbjhyZmZxNkRSZklGNVdZSjN0dw?oc=5",
-      "source": "Bronx Times",
-      "feed": "Google News",
-      "published": "2026-10-26T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": "https://www.bxtimes.com/wp-content/uploads/2026/10/2500-Lafayette2Cphase-I-and-II-elevated-view-on-whiteplains-ave.jpg?quality=51&w=1200&p=q",
       "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
@@ -16582,17 +18350,31 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
-      "id": "ebedee431167dff0",
-      "title": "Families hope for care closer to home as Nevada's first standalone children’s hospital breaks ground",
-      "summary": "Families hope for care closer to home as Nevada's first standalone children’s hospital breaks ground KTNV Las Vegas",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdDAxU2tnbkc5R05KYVRicVBFakNva2VrdXd2MFVlOHU4Z2pydkE1LUhQZXNNM0hveU9VRGIxbVQ1dzZFdUplc1IzR3pFbHJVUkRKb1dHMTFzUTB6OERMTGhYRFdqMUtiNXVNWWhpd0tTRURXM1lNdksyWEItM2tFZDFuWEJ1Z3ZSNFozTTZEaFBqaXliSldMUVFVNU1sdThObUl3YW9jSUV1dlFORFJfZElsbmlTMVlBem1Zcl9neGY2dw?oc=5",
-      "source": "KTNV Las Vegas",
+      "id": "80f08372d147a3f4",
+      "title": "Intermountain Health Breaks Ground on Felicia and Ben Horowitz Children's Hospital",
+      "summary": "Intermountain Health Breaks Ground on Felicia and Ben Horowitz Children's Hospital KSNV",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTUh3ZDUtUmg4SkxWUWhnWGdfcThSOHBmUEZKZWEyQ0dEQllJcERZZWMxRHpNVy1PYzF5dHI0bFZESTBEMVVpSFlTOFV0eFFrZS1zSEFHQXlSVzJvV2dqTUhWOFRlZDBRaTN6UUpXaGFzVnB4cnFqQ25SNkNXTXhPSklELTJ2RUdTM0tLSUUwVGVDdzM0ckw4VXRnVDdwa25WdTE0ckVQQVZaQVBCeENiSVIzU2V2Uk1xNFo4?oc=5",
+      "source": "KSNV",
       "feed": "Google News",
       "published": "2026-10-26T07:00:00+00:00",
       "category": "开工建设",
       "region": "国际 / 未识别",
       "sector": "医疗",
       "image": ""
+    },
+    {
+      "id": "ba7ed8a733156704",
+      "title": "Mixed-use project completed at Sunset and Fairfax in Hollywood",
+      "summary": "Mixed-use project completed at Sunset and Fairfax in Hollywood Urbanize LA",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPejE3QVVkVVVQZ21BN1M4V253eUlFbF96MlZEX2pyUlJYeWlPdHZneEhPMzVkcGNlT3lWR2tTdjZJU3BwZEc3dVM5eGYtRFZ1MnhPc1JLa2wzLTFjWGRaa0VNekNheVlCSklVa1VfYmNrNUlfR2FId05wZGU5bkphUVBtT2hhaGxVZmNQUTRBOA?oc=5",
+      "source": "Urbanize LA",
+      "feed": "Google News",
+      "published": "2026-10-26T07:00:00+00:00",
+      "category": "项目竣工",
+      "region": "国际 / 未识别",
+      "sector": "城市更新",
+      "image": "https://la.urbanize.city/sites/default/files/styles/social_1200x630/public/background/2023-01/7901%20sunset%20boulevard%201.jpg?itok=vgFHdGNK",
+      "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
       "id": "df4f7973201b0379",
@@ -16606,6 +18388,48 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "https://archinect.gumlet.io/uploads/ti/ti0wbidpkf0pcotb.jpg?fit=crop&auto=compress%2Cformat&w=1200",
+      "image_checked_at": "2026-11-08T14:49:57+00:00"
+    },
+    {
+      "id": "cd4007f05bcbeaeb",
+      "title": "Construction begins on 228-unit affordable and supportive housing building in Soundview",
+      "summary": "Construction begins on 228-unit affordable and supportive housing building in Soundview Bronx Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oLU5waXlDS1lKQlpPUjEyaDNhQUNDM1NpOFR3aTluc3llUWcwZ1ZXakY3RGd6bkk1SlJoNUV2dkJfSWxmZEV0T3FicFZaNW1zbktOdW5mMmJJQWFCMkRDVVdZQkJ6ZUlpZmdBbjhyZmZxNkRSZklGNVdZSjN0dw?oc=5",
+      "source": "Bronx Times",
+      "feed": "Google News",
+      "published": "2026-10-26T07:00:00+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": "https://www.bxtimes.com/wp-content/uploads/2026/10/2500-Lafayette2Cphase-I-and-II-elevated-view-on-whiteplains-ave.jpg?quality=51&w=1200&p=q",
+      "image_checked_at": "2026-11-08T14:49:57+00:00"
+    },
+    {
+      "id": "103e376cabee84cf",
+      "title": "Big St. Louis-based architecture firm adds Northeast office",
+      "summary": "Big St. Louis-based architecture firm adds Northeast office The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2YyYnE4ZHd4WXR4MndnUXNRNmwzMzY0MmZHNDlLRXVtVUdpV3k4OFhQdjZtUUFFXzQ5dE54Ykx4NnpDaFU3dkRUM05LSVpDUEEwdjMyLXJnNG50ekpmSnB5ZGxVNnREQjd2ejZISkRkQlM3T3R3WVpKV3ZHenF1d3c4emVhcHotT3pCU3hpbl9Jc04zd0lwTnVkZGU5aWpVMUhn?oc=5",
+      "source": "The Business Journals",
+      "feed": "Google News",
+      "published": "2026-10-26T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "美国中西部",
+      "sector": "商业办公",
+      "image": "",
+      "image_checked_at": "2026-11-08T14:49:57+00:00"
+    },
+    {
+      "id": "e8948bb4aa185fd3",
+      "title": "See the destruction of Yankee Stadium and the building of Heritage Field in its place",
+      "summary": "See the destruction of Yankee Stadium and the building of Heritage Field in its place Britannica",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYTBud2h0MEd3Ym43N2ZMRVJVZUNOLVhud1Zhd3hwM3Q3d2NtQ2M2R2hRaUQ4VHp6b1lfWTcyaGs1YmppcDJOMzhJd2NlZV9RdkQweDFrb1JpNWJWSDJ5MktxdFVxeHVreVU2ZngteS1KR2U5a1VGbXpOdGZxOV8wTHNtZkJYUExVNWRiMzVPS1BwZmJoMlhacmdpeU5BUQ?oc=5",
+      "source": "Britannica",
+      "feed": "Google News",
+      "published": "2026-10-26T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "体育",
+      "image": "",
       "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
@@ -16651,20 +18475,6 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
-      "id": "190f3e40c95fd6d8",
-      "title": "‘Serious structural issues’ prompt evacuation of nine-year-old London flats",
-      "summary": "‘Serious structural issues’ prompt evacuation of nine-year-old London flats The Architects’ Journal",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcG1Da3dmUVFVTWl6ZzBGZUhrVko1MktEbXNuWlhtVXIwOHdmZU5iSVJZd0hCR21xMUc4OHZEcFhjR2RuQlVnZzFaSWpwSHpIQ0FCMmE1ZkNYVlFaV28yZWR5d1NJNkRibnVvUHZISVFsZV9GU21ZellVRTV0UzRLa1JVbkNFTk1pZlhxNDU5UF9qblB1NWtXMm5QN2JDQWVaUnVrQjBMLWhsb1A3Y0x1dlBQNGY?oc=5",
-      "source": "The Architects’ Journal",
-      "feed": "Google News",
-      "published": "2026-10-26T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": "https://cdn.rt.emap.com/wp-content/uploads/sites/4/2018/05/20195310/cw1_benluxmoore-e1793008124249-560x315.jpg",
-      "image_checked_at": "2026-11-08T14:49:57+00:00"
-    },
-    {
       "id": "464f552bcaac1dfa",
       "title": "News | Minneapolis apartment vacancy retreats as construction wave subsides",
       "summary": "News | Minneapolis apartment vacancy retreats as construction wave subsides CoStar",
@@ -16679,24 +18489,37 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
-      "id": "0b90d974b10760cb",
-      "title": "Megaprojects in the face of moratoriums: The latest in data center construction news",
-      "summary": "Megaprojects in the face of moratoriums: The latest in data center construction news Construction Dive",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa0lYM1lYQ3U5NEhsdXN2MC1YMWpYRTVqSVF4NHJ3Zk1zd1ZjbmVuaFpjV2VlMXJ3T3IzU3I1aWpYQ2VaaDlwQkR0dVZ2bEJzTUxnR0FBdEt1c29Rd0FQd3hKVVZCTThSODJhSGktTV9xMi1vRGZSSm9IWXpUdHItcWlYeXBZLU1OeFczTXdMaEhSTE9Sd2xwMmRyU3Y?oc=5",
-      "source": "Construction Dive",
+      "id": "190f3e40c95fd6d8",
+      "title": "‘Serious structural issues’ prompt evacuation of nine-year-old London flats",
+      "summary": "‘Serious structural issues’ prompt evacuation of nine-year-old London flats The Architects’ Journal",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcG1Da3dmUVFVTWl6ZzBGZUhrVko1MktEbXNuWlhtVXIwOHdmZU5iSVJZd0hCR21xMUc4OHZEcFhjR2RuQlVnZzFaSWpwSHpIQ0FCMmE1ZkNYVlFaV28yZWR5d1NJNkRibnVvUHZISVFsZV9GU21ZellVRTV0UzRLa1JVbkNFTk1pZlhxNDU5UF9qblB1NWtXMm5QN2JDQWVaUnVrQjBMLWhsb1A3Y0x1dlBQNGY?oc=5",
+      "source": "The Architects’ Journal",
       "feed": "Google News",
       "published": "2026-10-26T07:00:00+00:00",
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "综合项目",
-      "image": "",
+      "image": "https://cdn.rt.emap.com/wp-content/uploads/sites/4/2018/05/20195310/cw1_benluxmoore-e1793008124249-560x315.jpg",
       "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
-      "id": "05b095f4c32d1572",
-      "title": "Modular playbook: Inside constructing an NFL facility in under 3 months",
-      "summary": "Modular playbook: Inside constructing an NFL facility in under 3 months Construction Dive",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdEc5YUpLemFyQkRSQWVsZktEOVZPVXJzNzhUTWc5bGVxNTlBUVZMRmdoQ0pWSUo0WnlXM2ZJQmY5OU9fZDNndkVVX1BheEZyc2hJbTdoRkd6QnVvXy04ZW1Fc1Q4aHBFdl9yazhpYmVYVXVJR2Y0UmUtbzlmVEY4OW81d2JFUzc1eGZBbzNWZ3JFUzM4ME81b0htYkk?oc=5",
+      "id": "5f181be6056cdabb",
+      "title": "Lessons from four decades of cancer care design",
+      "summary": "Lessons from four decades of cancer care design Building Design + Construction",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeEJSVzkyeXlyRE9KUWdfLWJhUlNudTZRZTdBeXphZFVsUDlWM0IyYkRRZmlYRjVhTVA3VlMtbnFsMjEtSnExR2t2M054THljZDFfUXpIbkNNamFYa0xUVXYzWEp4Wi14WVVSRHFza1cyUWFhUjRxYi1SLUluSkVJRVBFTENYVGdoTTRhaWI4ZEhheENvaG5HaVdub0NzUUcyTVN3RnlZcEZQWElxOEhCeXkzaVEza3E1Q0hKdlVfdzVVUzVZTDRQYnh3LXBhenc?oc=5",
+      "source": "Building Design + Construction",
+      "feed": "Google News",
+      "published": "2026-10-26T07:00:00+00:00",
+      "category": "设计发布",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "0b90d974b10760cb",
+      "title": "Megaprojects in the face of moratoriums: The latest in data center construction news",
+      "summary": "Megaprojects in the face of moratoriums: The latest in data center construction news Construction Dive",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa0lYM1lYQ3U5NEhsdXN2MC1YMWpYRTVqSVF4NHJ3Zk1zd1ZjbmVuaFpjV2VlMXJ3T3IzU3I1aWpYQ2VaaDlwQkR0dVZ2bEJzTUxnR0FBdEt1c29Rd0FQd3hKVVZCTThSODJhSGktTV9xMi1vRGZSSm9IWXpUdHItcWlYeXBZLU1OeFczTXdMaEhSTE9Sd2xwMmRyU3Y?oc=5",
       "source": "Construction Dive",
       "feed": "Google News",
       "published": "2026-10-26T07:00:00+00:00",
@@ -16715,46 +18538,6 @@ window.ARCH_RADAR_DATA = {
       "feed": "Google News",
       "published": "2026-10-26T07:00:00+00:00",
       "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "e2c004e7c9dbc381",
-      "title": "Dezeen readers decide 19 winners in Dezeen Awards architecture public vote",
-      "summary": "Dezeen readers decide 19 winners in Dezeen Awards architecture public vote Dezeen",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYTBobk92ZUtMOWdJM1dFUTFiZ1NZSlBjX3RUUTBER2YwUzRycUlFcklES1VzUXlkRVJpaFFvNnRFZUhQeno5a3RRTVdLbnpwS09hSEc5dk43cC05dks2Q05SRTQyVUdHcjlBTWlpQ0QzX0NSMmxsdzhIYW5FYVFRcDVFd19TSXQyYnNnZ2ZR?oc=5",
-      "source": "Dezeen",
-      "feed": "Google News",
-      "published": "2026-10-26T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": "https://static-2026.dezeen.com/uploads/2026/10/dezeen-awards-2026-architecture-public-vote-winners_dezeen_2364_col_2.jpg",
-      "image_checked_at": "2026-11-08T14:49:57+00:00"
-    },
-    {
-      "id": "379d744e131cae2f",
-      "title": "AI is moving fast. Architecture, how are we doing?",
-      "summary": "AI is moving fast. Architecture, how are we doing? Archinect",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWR3VHVCNVlCaXRVbERkQUh6ZFYxUXJaVWRGZS00NUg1QTY2aWxFYTA2aDFneFpCNmJ4Y0p1WUhQNERxd3dTeDFCSDl6dDBSMFJOMVcxX0xGVzJVWnkxYmNabERBREVmallWV1VpZlAzb3UxeElLZzlHY3J6cmU0SzBpT1BXTUs4VFZMVEFxTXJ5NWMwYnNv?oc=5",
-      "source": "Archinect",
-      "feed": "Google News",
-      "published": "2026-10-26T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "5f181be6056cdabb",
-      "title": "Lessons from four decades of cancer care design",
-      "summary": "Lessons from four decades of cancer care design Building Design + Construction",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeEJSVzkyeXlyRE9KUWdfLWJhUlNudTZRZTdBeXphZFVsUDlWM0IyYkRRZmlYRjVhTVA3VlMtbnFsMjEtSnExR2t2M054THljZDFfUXpIbkNNamFYa0xUVXYzWEp4Wi14WVVSRHFza1cyUWFhUjRxYi1SLUluSkVJRVBFTENYVGdoTTRhaWI4ZEhheENvaG5HaVdub0NzUUcyTVN3RnlZcEZQWElxOEhCeXkzaVEza3E1Q0hKdlVfdzVVUzVZTDRQYnh3LXBhenc?oc=5",
-      "source": "Building Design + Construction",
-      "feed": "Google News",
-      "published": "2026-10-26T07:00:00+00:00",
-      "category": "设计发布",
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": ""
@@ -16799,6 +18582,60 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
+      "id": "ebedee431167dff0",
+      "title": "Families hope for care closer to home as Nevada's first standalone children’s hospital breaks ground",
+      "summary": "Families hope for care closer to home as Nevada's first standalone children’s hospital breaks ground KTNV Las Vegas",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdDAxU2tnbkc5R05KYVRicVBFakNva2VrdXd2MFVlOHU4Z2pydkE1LUhQZXNNM0hveU9VRGIxbVQ1dzZFdUplc1IzR3pFbHJVUkRKb1dHMTFzUTB6OERMTGhYRFdqMUtiNXVNWWhpd0tTRURXM1lNdksyWEItM2tFZDFuWEJ1Z3ZSNFozTTZEaFBqaXliSldMUVFVNU1sdThObUl3YW9jSUV1dlFORFJfZElsbmlTMVlBem1Zcl9neGY2dw?oc=5",
+      "source": "KTNV Las Vegas",
+      "feed": "Google News",
+      "published": "2026-10-26T07:00:00+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "医疗",
+      "image": ""
+    },
+    {
+      "id": "05b095f4c32d1572",
+      "title": "Modular playbook: Inside constructing an NFL facility in under 3 months",
+      "summary": "Modular playbook: Inside constructing an NFL facility in under 3 months Construction Dive",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdEc5YUpLemFyQkRSQWVsZktEOVZPVXJzNzhUTWc5bGVxNTlBUVZMRmdoQ0pWSUo0WnlXM2ZJQmY5OU9fZDNndkVVX1BheEZyc2hJbTdoRkd6QnVvXy04ZW1Fc1Q4aHBFdl9yazhpYmVYVXVJR2Y0UmUtbzlmVEY4OW81d2JFUzc1eGZBbzNWZ3JFUzM4ME81b0htYkk?oc=5",
+      "source": "Construction Dive",
+      "feed": "Google News",
+      "published": "2026-10-26T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "",
+      "image_checked_at": "2026-11-08T14:49:57+00:00"
+    },
+    {
+      "id": "e2c004e7c9dbc381",
+      "title": "Dezeen readers decide 19 winners in Dezeen Awards architecture public vote",
+      "summary": "Dezeen readers decide 19 winners in Dezeen Awards architecture public vote Dezeen",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYTBobk92ZUtMOWdJM1dFUTFiZ1NZSlBjX3RUUTBER2YwUzRycUlFcklES1VzUXlkRVJpaFFvNnRFZUhQeno5a3RRTVdLbnpwS09hSEc5dk43cC05dks2Q05SRTQyVUdHcjlBTWlpQ0QzX0NSMmxsdzhIYW5FYVFRcDVFd19TSXQyYnNnZ2ZR?oc=5",
+      "source": "Dezeen",
+      "feed": "Google News",
+      "published": "2026-10-26T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://static-2026.dezeen.com/uploads/2026/10/dezeen-awards-2026-architecture-public-vote-winners_dezeen_2364_col_2.jpg",
+      "image_checked_at": "2026-11-08T14:49:57+00:00"
+    },
+    {
+      "id": "379d744e131cae2f",
+      "title": "AI is moving fast. Architecture, how are we doing?",
+      "summary": "AI is moving fast. Architecture, how are we doing? Archinect",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWR3VHVCNVlCaXRVbERkQUh6ZFYxUXJaVWRGZS00NUg1QTY2aWxFYTA2aDFneFpCNmJ4Y0p1WUhQNERxd3dTeDFCSDl6dDBSMFJOMVcxX0xGVzJVWnkxYmNabERBREVmallWV1VpZlAzb3UxeElLZzlHY3J6cmU0SzBpT1BXTUs4VFZMVEFxTXJ5NWMwYnNv?oc=5",
+      "source": "Archinect",
+      "feed": "Google News",
+      "published": "2026-10-26T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
       "id": "9401d53a3ab8143f",
       "title": "Canberra Calls for Designs to Help Unlock More Housing Choices",
       "summary": "Canberra Calls for Designs to Help Unlock More Housing Choices Real Estate",
@@ -16810,34 +18647,6 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": ""
-    },
-    {
-      "id": "e8948bb4aa185fd3",
-      "title": "See the destruction of Yankee Stadium and the building of Heritage Field in its place",
-      "summary": "See the destruction of Yankee Stadium and the building of Heritage Field in its place Britannica",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYTBud2h0MEd3Ym43N2ZMRVJVZUNOLVhud1Zhd3hwM3Q3d2NtQ2M2R2hRaUQ4VHp6b1lfWTcyaGs1YmppcDJOMzhJd2NlZV9RdkQweDFrb1JpNWJWSDJ5MktxdFVxeHVreVU2ZngteS1KR2U5a1VGbXpOdGZxOV8wTHNtZkJYUExVNWRiMzVPS1BwZmJoMlhacmdpeU5BUQ?oc=5",
-      "source": "Britannica",
-      "feed": "Google News",
-      "published": "2026-10-26T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "体育",
-      "image": "",
-      "image_checked_at": "2026-11-08T14:49:57+00:00"
-    },
-    {
-      "id": "103e376cabee84cf",
-      "title": "Big St. Louis-based architecture firm adds Northeast office",
-      "summary": "Big St. Louis-based architecture firm adds Northeast office The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2YyYnE4ZHd4WXR4MndnUXNRNmwzMzY0MmZHNDlLRXVtVUdpV3k4OFhQdjZtUUFFXzQ5dE54Ykx4NnpDaFU3dkRUM05LSVpDUEEwdjMyLXJnNG50ekpmSnB5ZGxVNnREQjd2ejZISkRkQlM3T3R3WVpKV3ZHenF1d3c4emVhcHotT3pCU3hpbl9Jc04zd0lwTnVkZGU5aWpVMUhn?oc=5",
-      "source": "The Business Journals",
-      "feed": "Google News",
-      "published": "2026-10-26T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国中西部",
-      "sector": "商业办公",
-      "image": "",
-      "image_checked_at": "2026-11-08T14:49:57+00:00"
     },
     {
       "id": "cf4602730a00abda",
@@ -16906,6 +18715,19 @@ window.ARCH_RADAR_DATA = {
       "image": "https://static-2026.dezeen.com/uploads/2026/10/Square-Think-Architecture-House-on-a-Slope-Photos_dezeen_2364_col_3-copy-1024x1024.jpg"
     },
     {
+      "id": "eb1edc2c7e57f316",
+      "title": "Cosentino Design Challenge 2026 Winners",
+      "summary": "Cosentino Design Challenge 2026 Winners e-architect",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ILVZFcG96b3JsdkNYVFd2c05TQ0VlN3JHM2QxQ1k1V0lnWjE5WFVBZ1RHcXEtNzhIeFRFWlRhNWtZRGlJQi01ZnUyZHFSWEh3b3NtY1N0STY3b2FuRmFUNjU4VWZVcERGN1FXZmZLcUtjdG5lbFdQQlBXUkQ2bXM?oc=5",
+      "source": "e-architect",
+      "feed": "Google News",
+      "published": "2026-10-26T02:28:27+00:00",
+      "category": "设计发布",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
       "id": "dcf75635b4668be5",
       "title": "GURNER unveils $1.75 billion Geelong waterfront redevelopment with 34-storey tower and overwater villas",
       "summary": "GURNER unveils $1.75 billion Geelong waterfront redevelopment with 34-storey tower and overwater villas Apartments.com.au",
@@ -16929,19 +18751,6 @@ window.ARCH_RADAR_DATA = {
       "category": "审批落地",
       "region": "美国其他",
       "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "c34f6c1b53c1ac31",
-      "title": "‘A stadium in a stand’: Inside the rise of Wrexham’s £69m five-level ‘Premier-League ready’ Kop - The Athletic",
-      "summary": "‘A stadium in a stand’: Inside the rise of Wrexham’s £69m five-level ‘Premier-League ready’ Kop - The Athletic The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcXAweW5pYm9YRThxX1pLWjVpdEJYYnNrY2pfTDI4NE51UDZVUlB0VTMwbDVRQkFCZUtfS2dLVHVfM2JXUV80d25mRGhNbHhQclRYR3FDQlRKNnVMemQ2cEFlVUwtWHBUMlk4X3NjaUxodWl2NzZPS0ZQeFZNUnUxQktrejZVX3c2cUxFLXZDMlpkRFMxQVNrWQ?oc=5",
-      "source": "The New York Times",
-      "feed": "Google News",
-      "published": "2026-10-25T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国其他",
-      "sector": "体育",
       "image": ""
     },
     {
@@ -16981,6 +18790,19 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "医疗",
+      "image": ""
+    },
+    {
+      "id": "c34f6c1b53c1ac31",
+      "title": "‘A stadium in a stand’: Inside the rise of Wrexham’s £69m five-level ‘Premier-League ready’ Kop - The Athletic",
+      "summary": "‘A stadium in a stand’: Inside the rise of Wrexham’s £69m five-level ‘Premier-League ready’ Kop - The Athletic The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcXAweW5pYm9YRThxX1pLWjVpdEJYYnNrY2pfTDI4NE51UDZVUlB0VTMwbDVRQkFCZUtfS2dLVHVfM2JXUV80d25mRGhNbHhQclRYR3FDQlRKNnVMemQ2cEFlVUwtWHBUMlk4X3NjaUxodWl2NzZPS0ZQeFZNUnUxQktrejZVX3c2cUxFLXZDMlpkRFMxQVNrWQ?oc=5",
+      "source": "The New York Times",
+      "feed": "Google News",
+      "published": "2026-10-25T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "美国其他",
+      "sector": "体育",
       "image": ""
     },
     {
@@ -17075,6 +18897,19 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
+      "id": "22b8a27bcca5e2c3",
+      "title": "Grant Elementary opens new library, innovation lab",
+      "summary": "Grant Elementary opens new library, innovation lab Santa Monica Daily Press",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nQTBSNjJCU2FwRVdlWkhKaDJmVWtISmdoQnFHWVFsYm5zdWNRYWRrdFEyRms5QVJxWmhOb1MtU3JGNEhXd20wU25pbmJlWnpsajM1TUFoVUNjNGx2Q25HdmlOWE9ZaktHR1h2WTdNZFc1R2Nvd2otMTl2UQ?oc=5",
+      "source": "Santa Monica Daily Press",
+      "feed": "Google News",
+      "published": "2026-10-24T07:00:00+00:00",
+      "category": "项目竣工",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": ""
+    },
+    {
       "id": "39bf9213e8fe05f7",
       "title": "Evidence of explosion after fire at Quaker Oats building in Cedar Rapids",
       "summary": "Evidence of explosion after fire at Quaker Oats building in Cedar Rapids WHO13.com",
@@ -17124,19 +18959,6 @@ window.ARCH_RADAR_DATA = {
       "category": "设计发布",
       "region": "国际 / 未识别",
       "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "22b8a27bcca5e2c3",
-      "title": "Grant Elementary opens new library, innovation lab",
-      "summary": "Grant Elementary opens new library, innovation lab Santa Monica Daily Press",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nQTBSNjJCU2FwRVdlWkhKaDJmVWtISmdoQnFHWVFsYm5zdWNRYWRrdFEyRms5QVJxWmhOb1MtU3JGNEhXd20wU25pbmJlWnpsajM1TUFoVUNjNGx2Q25HdmlOWE9ZaktHR1h2WTdNZFc1R2Nvd2otMTl2UQ?oc=5",
-      "source": "Santa Monica Daily Press",
-      "feed": "Google News",
-      "published": "2026-10-24T07:00:00+00:00",
-      "category": "项目竣工",
-      "region": "国际 / 未识别",
-      "sector": "教育",
       "image": ""
     },
     {
@@ -17296,10 +19118,10 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "590a9d45368869a5",
+      "id": "40a8a4ed677d8699",
       "title": "St. Jude Children’s Research Hospital breaks ground on Dream Home in Fort Wayne",
       "summary": "St. Jude Children’s Research Hospital breaks ground on Dream Home in Fort Wayne WPTA | 21Alive | Fort Wayne, IN",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTTBGSU8wWDVlN202cE00M3pqRjRvZ3Jfc3ZZV013b3NxT2RwZWExY2t6b1JHY2VTVjRWWWQyUG1mQU9yWlh0MDEtVnJRdzZLOTVzZmlxdE5WdWpoNklzb3lMZHdtZ2hfQW5zTDRDZzJUZ0Ntc3pZZXUzVldCd3laMkx0MFYyQWZWaExCNjh1WkozRVZFcmgxbGlDZGxodVNkN3FqU0swMFlNcjFScmdUWNIBxAFBVV95cUxNVFI3RlVVblhRNDN0dGFUMF9pVmNYSHVLakJGOE9zVF93WlFRWEhYR21EaUNaTzdxNlk5N0NCMHJoYzlLMHFGVEV1VXZwQVNIV1doSUdGc2J5a3RuNzIxbEdhTDBPejNNNWh4QnVDS3A0dmEwZWZCX0RQejJMSHhkajh0YVJKS3ZFSmN5WVlaNDFlZmUtUFQ2RlRlVEpINTNfNjBiY3VWTnZXMmRUUXpveWJJS2l5SFY5SVRhLWcyc3FyZ0pK?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTTBGSU8wWDVlN202cE00M3pqRjRvZ3Jfc3ZZV013b3NxT2RwZWExY2t6b1JHY2VTVjRWWWQyUG1mQU9yWlh0MDEtVnJRdzZLOTVzZmlxdE5WdWpoNklzb3lMZHdtZ2hfQW5zTDRDZzJUZ0Ntc3pZZXUzVldCd3laMkx0MFYyQWZWaExCNjh1WkozRVZFcmgxbGlDZGxodVNkN3FqU0swMFlNcjFScmdUWA?oc=5",
       "source": "WPTA | 21Alive | Fort Wayne, IN",
       "feed": "Google News",
       "published": "2026-10-23T07:00:00+00:00",
@@ -17309,29 +19131,16 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "e6ecf014882d59f9",
-      "title": "SC State breaks ground on new university library",
-      "summary": "SC State breaks ground on new university library WIS News 10",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObndnWXdZYUxMUlB6UDJUc3ZQa0dzbmFEVTRJdXNsbEs1ekRfempITUpiRzhVNXNtUHdVR3p5S3Ewa21YT3F6OXJpMUlzRVdPWjd5ZzB2MHIyeEdRTVdodGpIMUV6NjJFZTFucUJnd2h2dkJWODdPWVZpeDFoc1lodUl6czF1VWFobWJrSjh3?oc=5",
-      "source": "WIS News 10",
+      "id": "aee198663b50e977",
+      "title": "RM22 million Pensiangan school building project completed",
+      "summary": "RM22 million Pensiangan school building project completed Daily Express Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZTE0dnFBTWFHdzlycmkySEZRVC16ckxHSkktNzRIV1BTNVZ2dV9rZEtIQ2NibXlGcEVrRHBmUmJMcWJnUk1TQzBiVVByMnZKSEZLSXFKNTA1S2I2SEFnWXlXSVV2cjFoWWJ1U2tIQU8yaEg1OTFyT3hlUnZRNjJPd0wwdDI1YzJuUEFtSk85UnVMZVk4azBsQlFEZ0VjcWpGd0hibQ?oc=5",
+      "source": "Daily Express Malaysia",
       "feed": "Google News",
       "published": "2026-10-23T07:00:00+00:00",
-      "category": "开工建设",
+      "category": "项目竣工",
       "region": "国际 / 未识别",
       "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "cfec261899d1160d",
-      "title": "$36M housing project breaks ground in Youngstown",
-      "summary": "$36M housing project breaks ground in Youngstown WKBN.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYXJFclluZ2M0aXRCVWkwZ044RElKNV9WQk9nLS1hRHNTQkVhc1BIbDJFdUhPRm5TdEtDbjBHaWpUSVRHVTdmU09hNDNtSkgwZEVnLTNGZTVqeFJoYndaTlkxTUdOdFhDM1NreDFCbWtWRDllTXRGb2JIZk1pSDBjMXJlbC1vbzN2alI4RmU3cHdoRHdVekZ0dDJOc19CdFk3d2t30gGoAUFVX3lxTE1iMWwtOWpUaFpFYXExU3dlVW14M09rWnBuVThwai01c2g2RFNkLTFHRG1hUlVxMjZHX2ZkRk5ZSzF2dmx3SkltREdMN285RHVkendJV3N0STlITFl6MzZoX3lQZnVtTXNQOXAzU1JDelFPZXM0cUpzaERmNzEwZ3lKSkFLdDRtTlBtaVNvREZKQm9uMEFjbk1pcmU2OWFnbFBMSUt6d0tZaQ?oc=5",
-      "source": "WKBN.com",
-      "feed": "Google News",
-      "published": "2026-10-23T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
       "image": ""
     },
     {
@@ -17345,45 +19154,6 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "医疗",
-      "image": ""
-    },
-    {
-      "id": "920a92057deda79f",
-      "title": "Pitch going in, many seats in place as Amway Stadium construction marches on",
-      "summary": "Pitch going in, many seats in place as Amway Stadium construction marches on WOODTV.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZTZZTXVjbEs3clpkbjR5UjRHdlVwUmtKbTc5X1RLYjV5bk5ORjQzX0pLWm1qTHV1ZGljVW9SUnRuTDNyQkVvc1hRa1h3a2JVeWpLM3RCNG16bi1QaUhuQTg4Y3l0TTcybHJiZDl4cWlkU0lWbzYwSUphTEZvc2UwN0FpaVBLdWk5MVh5Y0d6VWtUcHRtcS10YzdWQkl6cjVKTnNpdkhMRzNscG9lU0MwQTRNY2lBRXRn0gG-AUFVX3lxTE5xSzFXazlldENrOUpNOXVpbmszY0FoazRQYnZaalp3RGNvTjZXOG1ET1VrV2pZWEY1azV1Ni14WUxuUXBsUmZuN21uSjJmeUx4bUF6Z1dfVFZxNkVrd1dMUXg4RGY0dFpuUmwtUldtU0ZBTmQzMG95S1RjVmh6MGpNQ3BaYy0xUWJtVkVRMllrQUlPb210eXdHTXpNWU91dFJOS2ppbWFWbV9fZDZjR2FLc3Z6T3NRWGNHaUZZN2c?oc=5",
-      "source": "WOODTV.com",
-      "feed": "Google News",
-      "published": "2026-10-23T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "体育",
-      "image": ""
-    },
-    {
-      "id": "496593657df777af",
-      "title": "WATCH: WWE Crown Jewel Stadium Construction Underway in Saudi Arabia Amid Security Concerns",
-      "summary": "WATCH: WWE Crown Jewel Stadium Construction Underway in Saudi Arabia Amid Security Concerns Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXVVS2J5dkd0NmxjY3VEMFcyd0hhYWZiWEV3aHlHeTRfdjZRWFRiSkhaS1hiRm95TkplXzR2OEZsZmZhZjZ4UjlSVk9BendSUkdlUUVxSHpKZlM3cnFpVEtWejh4bldEUHFtZ0hyTW9BUGhnU0RsMFNnMmVvVVp6cG9KVF8?oc=5",
-      "source": "Yahoo Sports",
-      "feed": "Google News",
-      "published": "2026-10-23T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "体育",
-      "image": ""
-    },
-    {
-      "id": "05c28dce270175d2",
-      "title": "WWE Crown Jewel Stadium Construction Underway in Saudi Arabia Amid Security Concerns",
-      "summary": "WWE Crown Jewel Stadium Construction Underway in Saudi Arabia Amid Security Concerns Ringside News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbjM3UTN3YnlLUzNtY1A5WEVGY1VwZEtHb1Q0cUFlWW1LZk5QNFJaZVB4VDl0bmIySDBzTHdUekFlbWFEMlRHWUNLSF93c3BFNVMtT0g2REZLVlNiaTZFNHlwTktkY3c3Vk9uajFpVllWM2Z1WDFKSUxzUVlMelJlX3VkejdBV1FCekxZNlAtQUZVRDU3b3JZZEFVcjNHNExnS1JEVDFXNFh3TnN1M1lZaw?oc=5",
-      "source": "Ringside News",
-      "feed": "Google News",
-      "published": "2026-10-23T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "体育",
       "image": ""
     },
     {
@@ -17410,6 +19180,32 @@ window.ARCH_RADAR_DATA = {
       "category": "设计发布",
       "region": "国际 / 未识别",
       "sector": "教育",
+      "image": ""
+    },
+    {
+      "id": "920a92057deda79f",
+      "title": "Pitch going in, many seats in place as Amway Stadium construction marches on",
+      "summary": "Pitch going in, many seats in place as Amway Stadium construction marches on WOODTV.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZTZZTXVjbEs3clpkbjR5UjRHdlVwUmtKbTc5X1RLYjV5bk5ORjQzX0pLWm1qTHV1ZGljVW9SUnRuTDNyQkVvc1hRa1h3a2JVeWpLM3RCNG16bi1QaUhuQTg4Y3l0TTcybHJiZDl4cWlkU0lWbzYwSUphTEZvc2UwN0FpaVBLdWk5MVh5Y0d6VWtUcHRtcS10YzdWQkl6cjVKTnNpdkhMRzNscG9lU0MwQTRNY2lBRXRn0gG-AUFVX3lxTE5xSzFXazlldENrOUpNOXVpbmszY0FoazRQYnZaalp3RGNvTjZXOG1ET1VrV2pZWEY1azV1Ni14WUxuUXBsUmZuN21uSjJmeUx4bUF6Z1dfVFZxNkVrd1dMUXg4RGY0dFpuUmwtUldtU0ZBTmQzMG95S1RjVmh6MGpNQ3BaYy0xUWJtVkVRMllrQUlPb210eXdHTXpNWU91dFJOS2ppbWFWbV9fZDZjR2FLc3Z6T3NRWGNHaUZZN2c?oc=5",
+      "source": "WOODTV.com",
+      "feed": "Google News",
+      "published": "2026-10-23T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "体育",
+      "image": ""
+    },
+    {
+      "id": "496593657df777af",
+      "title": "WATCH: WWE Crown Jewel Stadium Construction Underway in Saudi Arabia Amid Security Concerns",
+      "summary": "WATCH: WWE Crown Jewel Stadium Construction Underway in Saudi Arabia Amid Security Concerns Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXVVS2J5dkd0NmxjY3VEMFcyd0hhYWZiWEV3aHlHeTRfdjZRWFRiSkhaS1hiRm95TkplXzR2OEZsZmZhZjZ4UjlSVk9BendSUkdlUUVxSHpKZlM3cnFpVEtWejh4bldEUHFtZ0hyTW9BUGhnU0RsMFNnMmVvVVp6cG9KVF8?oc=5",
+      "source": "Yahoo Sports",
+      "feed": "Google News",
+      "published": "2026-10-23T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "体育",
       "image": ""
     },
     {
@@ -17465,16 +19261,29 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "b32328660ea248c3",
-      "title": "Foundation permit issued for development at 450 N. Morgan",
-      "summary": "Foundation permit issued for development at 450 N. Morgan Urbanize Chicago",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMDlkOXNid2NIUXZPRm8zT2NjOFpPWFVqUjEwaHNDbndjN1RJb18wVlZQZ3pRalJWbHppc01RSG5vSzJ4Z2tTSnl6bElLOUVIZndHVlF0U0ZsR0lVQmJYS0JPOUVBRVRhVURZMVF0azZ6cnZqWjVOZ2ZadnZCaFlJa0lrcmxtRjRmbjZsYQ?oc=5",
-      "source": "Urbanize Chicago",
+      "id": "a9d4b81c42ce3006",
+      "title": "Valmont Industries to Expand Manufacturing Presence in Marion County",
+      "summary": "Valmont Industries to Expand Manufacturing Presence in Marion County Tennessee Department of Economic and Community Development",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGJyRmItbUxpMkNzSWQxUEFEemN5ajZfNDV5T2lEVEJtMWg1cFB5MHA5T0VlNGZxQjR3cTlSNHRyNEF4bXB5V2o4a3RLemdjeW43NGxHR3JfWmprWWRZd3JfVE5ZTzB6MWNQTFNqZnlzU2E2c09xWGNjX2dqS2QzM2RLWC1GNG5wcG5WTTIwMncyTEM2QWFV?oc=5",
+      "source": "Tennessee Department of Economic and Community Development",
       "feed": "Google News",
       "published": "2026-10-23T07:00:00+00:00",
-      "category": "审批落地",
-      "region": "美国中西部",
+      "category": "行业动态",
+      "region": "爱荷华",
       "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "9a8e43201b7889a5",
+      "title": "Downtown Des Moines apartments planned for county-owned parking lot",
+      "summary": "Downtown Des Moines apartments planned for county-owned parking lot The Des Moines Register",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZXg3b3l2MUFMVlJwTGViSFdGQ0ZDOE1TQXlzTWxIbklLSG9Jd080UmdYOFRGUzFJa2I5ZVYxUUNlVGpCc1pxNmVxcHBYQTJ1eklSTlg4SXN5MzVjTkk2ci01UkRUM3ZlVk1ScE1ldkRmVXUtWW1GbW9QNm9EYkpySDI2Z2MyS2UyYnZLMElmSmkzVXhUcGNkTU1LU0ttdEktN2Q3T2ljRGJ3WFRpNXVMU1M5R2FZNkV3UTNrNm9BejB0UFhGT0tZZnczOElGMjJxN3lEVHM5Tmg1bG1mcmRn?oc=5",
+      "source": "The Des Moines Register",
+      "feed": "Google News",
+      "published": "2026-10-23T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "爱荷华",
+      "sector": "住宅",
       "image": ""
     },
     {
@@ -17491,16 +19300,16 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "9a8e43201b7889a5",
-      "title": "Downtown Des Moines apartments planned for county-owned parking lot",
-      "summary": "Downtown Des Moines apartments planned for county-owned parking lot The Des Moines Register",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZXg3b3l2MUFMVlJwTGViSFdGQ0ZDOE1TQXlzTWxIbklLSG9Jd080UmdYOFRGUzFJa2I5ZVYxUUNlVGpCc1pxNmVxcHBYQTJ1eklSTlg4SXN5MzVjTkk2ci01UkRUM3ZlVk1ScE1ldkRmVXUtWW1GbW9QNm9EYkpySDI2Z2MyS2UyYnZLMElmSmkzVXhUcGNkTU1LU0ttdEktN2Q3T2ljRGJ3WFRpNXVMU1M5R2FZNkV3UTNrNm9BejB0UFhGT0tZZnczOElGMjJxN3lEVHM5Tmg1bG1mcmRn?oc=5",
-      "source": "The Des Moines Register",
+      "id": "b32328660ea248c3",
+      "title": "Foundation permit issued for development at 450 N. Morgan",
+      "summary": "Foundation permit issued for development at 450 N. Morgan Urbanize Chicago",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMDlkOXNid2NIUXZPRm8zT2NjOFpPWFVqUjEwaHNDbndjN1RJb18wVlZQZ3pRalJWbHppc01RSG5vSzJ4Z2tTSnl6bElLOUVIZndHVlF0U0ZsR0lVQmJYS0JPOUVBRVRhVURZMVF0azZ6cnZqWjVOZ2ZadnZCaFlJa0lrcmxtRjRmbjZsYQ?oc=5",
+      "source": "Urbanize Chicago",
       "feed": "Google News",
       "published": "2026-10-23T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "爱荷华",
-      "sector": "住宅",
+      "category": "审批落地",
+      "region": "美国中西部",
+      "sector": "综合项目",
       "image": ""
     },
     {
@@ -17530,16 +19339,16 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "0422ab1e5c2bde35",
-      "title": "Punch List: $3B MLB project picks owner’s rep, Skanska nabs $163M NYC contract",
-      "summary": "Punch List: $3B MLB project picks owner’s rep, Skanska nabs $163M NYC contract Construction Dive",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa3JkN1QyZ2ctQjhhODNYc2RmQ0N1d2xtcTNMcWNIckN0VDNFbWo3c0psT1hXTmw2VXBUS1dhTk9hbkhFMGg4RldhSjZJQzJaR0FibkItMW05T2wzQ3k5UW5HOWdfTTdEYi1UVG5McHFWUGpHN1NSVG5leXczY0x2Z2Zyck1BcmYwUFkyMVVDeU4wZFByU0dubk90LXpUeklkVlV1LWdfUEw?oc=5",
-      "source": "Construction Dive",
+      "id": "70e7bda47a7d149e",
+      "title": "Top 130 Hospital Facility Architecture Firms for 2026",
+      "summary": "Top 130 Hospital Facility Architecture Firms for 2026 Building Design + Construction",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZGQ4TmhKT2dJQlpoSnJGVU1adU11YnRxaV9nUzlkZVoydG56M1JpOV9nYldBbTFRdVRxSllBWklNeWpqVXFMcDdXU195MGw3ZXVCUlJTWU1RNjhkVXJzOWUxS292RmlEN2g5NHMzVk5MQWtfWnFjNVRWeUdXT2pIbFY0cGFfTlMtM2VFSG1XQ3JiaWlpOThHeGFiSUphMmRKdlhaS1NnNjhESDNm?oc=5",
+      "source": "Building Design + Construction",
       "feed": "Google News",
       "published": "2026-10-23T07:00:00+00:00",
       "category": "行业动态",
       "region": "国际 / 未识别",
-      "sector": "综合项目",
+      "sector": "医疗",
       "image": ""
     },
     {
@@ -17556,6 +19365,19 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
+      "id": "0422ab1e5c2bde35",
+      "title": "Punch List: $3B MLB project picks owner’s rep, Skanska nabs $163M NYC contract",
+      "summary": "Punch List: $3B MLB project picks owner’s rep, Skanska nabs $163M NYC contract Construction Dive",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa3JkN1QyZ2ctQjhhODNYc2RmQ0N1d2xtcTNMcWNIckN0VDNFbWo3c0psT1hXTmw2VXBUS1dhTk9hbkhFMGg4RldhSjZJQzJaR0FibkItMW05T2wzQ3k5UW5HOWdfTTdEYi1UVG5McHFWUGpHN1NSVG5leXczY0x2Z2Zyck1BcmYwUFkyMVVDeU4wZFByU0dubk90LXpUeklkVlV1LWdfUEw?oc=5",
+      "source": "Construction Dive",
+      "feed": "Google News",
+      "published": "2026-10-23T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
       "id": "1e4d3629568dfc6b",
       "title": "Victorian School Design Awards honour roll",
       "summary": "Victorian School Design Awards honour roll Vic Gov",
@@ -17566,19 +19388,6 @@ window.ARCH_RADAR_DATA = {
       "category": "设计发布",
       "region": "国际 / 未识别",
       "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "70e7bda47a7d149e",
-      "title": "Top 130 Hospital Facility Architecture Firms for 2026",
-      "summary": "Top 130 Hospital Facility Architecture Firms for 2026 Building Design + Construction",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZGQ4TmhKT2dJQlpoSnJGVU1adU11YnRxaV9nUzlkZVoydG56M1JpOV9nYldBbTFRdVRxSllBWklNeWpqVXFMcDdXU195MGw3ZXVCUlJTWU1RNjhkVXJzOWUxS292RmlEN2g5NHMzVk5MQWtfWnFjNVRWeUdXT2pIbFY0cGFfTlMtM2VFSG1XQ3JiaWlpOThHeGFiSUphMmRKdlhaS1NnNjhESDNm?oc=5",
-      "source": "Building Design + Construction",
-      "feed": "Google News",
-      "published": "2026-10-23T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "医疗",
       "image": ""
     },
     {
@@ -17634,16 +19443,42 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "aee198663b50e977",
-      "title": "RM22 million Pensiangan school building project completed",
-      "summary": "RM22 million Pensiangan school building project completed Daily Express Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZTE0dnFBTWFHdzlycmkySEZRVC16ckxHSkktNzRIV1BTNVZ2dV9rZEtIQ2NibXlGcEVrRHBmUmJMcWJnUk1TQzBiVVByMnZKSEZLSXFKNTA1S2I2SEFnWXlXSVV2cjFoWWJ1U2tIQU8yaEg1OTFyT3hlUnZRNjJPd0wwdDI1YzJuUEFtSk85UnVMZVk4azBsQlFEZ0VjcWpGd0hibQ?oc=5",
-      "source": "Daily Express Malaysia",
+      "id": "e6ecf014882d59f9",
+      "title": "SC State breaks ground on new university library",
+      "summary": "SC State breaks ground on new university library WIS News 10",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObndnWXdZYUxMUlB6UDJUc3ZQa0dzbmFEVTRJdXNsbEs1ekRfempITUpiRzhVNXNtUHdVR3p5S3Ewa21YT3F6OXJpMUlzRVdPWjd5ZzB2MHIyeEdRTVdodGpIMUV6NjJFZTFucUJnd2h2dkJWODdPWVZpeDFoc1lodUl6czF1VWFobWJrSjh3?oc=5",
+      "source": "WIS News 10",
       "feed": "Google News",
       "published": "2026-10-23T07:00:00+00:00",
-      "category": "项目竣工",
+      "category": "开工建设",
       "region": "国际 / 未识别",
       "sector": "教育",
+      "image": ""
+    },
+    {
+      "id": "cfec261899d1160d",
+      "title": "$36M housing project breaks ground in Youngstown",
+      "summary": "$36M housing project breaks ground in Youngstown WKBN.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYXJFclluZ2M0aXRCVWkwZ044RElKNV9WQk9nLS1hRHNTQkVhc1BIbDJFdUhPRm5TdEtDbjBHaWpUSVRHVTdmU09hNDNtSkgwZEVnLTNGZTVqeFJoYndaTlkxTUdOdFhDM1NreDFCbWtWRDllTXRGb2JIZk1pSDBjMXJlbC1vbzN2alI4RmU3cHdoRHdVekZ0dDJOc19CdFk3d2t30gGoAUFVX3lxTE1iMWwtOWpUaFpFYXExU3dlVW14M09rWnBuVThwai01c2g2RFNkLTFHRG1hUlVxMjZHX2ZkRk5ZSzF2dmx3SkltREdMN285RHVkendJV3N0STlITFl6MzZoX3lQZnVtTXNQOXAzU1JDelFPZXM0cUpzaERmNzEwZ3lKSkFLdDRtTlBtaVNvREZKQm9uMEFjbk1pcmU2OWFnbFBMSUt6d0tZaQ?oc=5",
+      "source": "WKBN.com",
+      "feed": "Google News",
+      "published": "2026-10-23T07:00:00+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": ""
+    },
+    {
+      "id": "05c28dce270175d2",
+      "title": "WWE Crown Jewel Stadium Construction Underway in Saudi Arabia Amid Security Concerns",
+      "summary": "WWE Crown Jewel Stadium Construction Underway in Saudi Arabia Amid Security Concerns Ringside News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbjM3UTN3YnlLUzNtY1A5WEVGY1VwZEtHb1Q0cUFlWW1LZk5QNFJaZVB4VDl0bmIySDBzTHdUekFlbWFEMlRHWUNLSF93c3BFNVMtT0g2REZLVlNiaTZFNHlwTktkY3c3Vk9uajFpVllWM2Z1WDFKSUxzUVlMelJlX3VkejdBV1FCekxZNlAtQUZVRDU3b3JZZEFVcjNHNExnS1JEVDFXNFh3TnN1M1lZaw?oc=5",
+      "source": "Ringside News",
+      "feed": "Google News",
+      "published": "2026-10-23T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "体育",
       "image": ""
     },
     {
@@ -17696,19 +19531,6 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "交通基础设施",
-      "image": ""
-    },
-    {
-      "id": "a9d4b81c42ce3006",
-      "title": "Valmont Industries to Expand Manufacturing Presence in Marion County",
-      "summary": "Valmont Industries to Expand Manufacturing Presence in Marion County Tennessee Department of Economic and Community Development",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGJyRmItbUxpMkNzSWQxUEFEemN5ajZfNDV5T2lEVEJtMWg1cFB5MHA5T0VlNGZxQjR3cTlSNHRyNEF4bXB5V2o4a3RLemdjeW43NGxHR3JfWmprWWRZd3JfVE5ZTzB6MWNQTFNqZnlzU2E2c09xWGNjX2dqS2QzM2RLWC1GNG5wcG5WTTIwMncyTEM2QWFV?oc=5",
-      "source": "Tennessee Department of Economic and Community Development",
-      "feed": "Google News",
-      "published": "2026-10-23T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "爱荷华",
-      "sector": "综合项目",
       "image": ""
     },
     {
@@ -17959,6 +19781,279 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
+      "id": "1d9c88d41fd5b1dd",
+      "title": "College Station city council approves rezoning for Savannah Oaks development",
+      "summary": "College Station city council approves rezoning for Savannah Oaks development KBTX News 3",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZENFdjR3OFplODFEQU96QlV5SlE4Q0puelZvSnhST1BJSUJnaVh3dUk1X0lFNTVkQVp6SF9STmJLZHM0SjRYU09tMU5ZRVQ5OWJjV0ZTUmVtWmsxZF9MbWk3LTFFYm1zMXhhRU5CSmVrd3I0dTEzWnpHYl9uRVdPN1F0RWQ1Uno4NHJIa3dKQVdiMml0UVg5YzR1WjU4OTdMdDBWX1Fwa1jSAbwBQVVfeXFMUG5SaEZDS1NIODBRVkdzN0RVSTRPNzZLZU91Q0lhOUltYU12NmVTTTV0NHZNaXFGM1o3UlE1TmxhSEtud2dTaGZ4cGpGU2ZqUTAzX25OeTlTMFQwdEpuZ3phLW03MUtwWk5FZVVqZVhiQ0p4Mnh1QjEwSmFXR0FQMWEyLWVZbEdSam1oQ0NGZEZaVjUxNFRiNUJBbzg2ekE1Yi1ZZDdUeWs5LXZGVkxheXhPZnhLTWFXcEI2alg?oc=5",
+      "source": "KBTX News 3",
+      "feed": "Google News",
+      "published": "2026-10-22T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": ""
+    },
+    {
+      "id": "ca1a0a2e1101c42a",
+      "title": "Groundbreaking set for affordable housing development in Sanford",
+      "summary": "Groundbreaking set for affordable housing development in Sanford The Sanford Herald",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN012VFVscTd5MHY5ZHlHWU16R0xvZ3VNMlVDYkNVaGtFU3lwdVlHYzdTai1yb0gzNjlyU19jTVR3bEZOM2ZhVXRfRXUzVnRKNUY1UVQ2MXVrMUhvX055RUZyVGZycXdwYTFrZ1IwLVNoS0EtWkZRMnZyYlBSU2dyc1pxVXVXazVENGFMRWZMWEcyRFNZVHRveU81QUxCVzlNSndNUnhJenZQdjN1NnRLOEhHT01HSDVWVEljRG9JeEZKUW91RzZ0alNjbWp2ZXFMVUdtMkNqZTBDeUt2cW9TTmtvRTlwbDNO?oc=5",
+      "source": "The Sanford Herald",
+      "feed": "Google News",
+      "published": "2026-10-22T07:00:00+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": ""
+    },
+    {
+      "id": "6798afb8c771c0e7",
+      "title": "Jersey City housing development deal expected to send money to schools, city government",
+      "summary": "Jersey City housing development deal expected to send money to schools, city government Gothamist",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcjA5MnlOaVhiZlluMUdUSVhsakxzUXJ4RHpGZ3RyQ1RUaVhCbUx2SWlqQkFOY0d2RHdNa2pSTG9ESjZCb2dnNnhaTXZjMF9GOE80YXNiUjhDZ1N2SFZmS0F5aGtwc1dTNkVQTzRwNEdSQ3A0bVZzeWEzYWVNSVdFOEkzQ0Nma0FQNEM0S3JCb2l4bTVDSWFOOFVXSkJfNG90QjQ1NFFHcUpIb2xULVY2aHZiRQ?oc=5",
+      "source": "Gothamist",
+      "feed": "Google News",
+      "published": "2026-10-22T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": ""
+    },
+    {
+      "id": "2f077258e80260ee",
+      "title": "$30 million in incentives approved for new hospital",
+      "summary": "$30 million in incentives approved for new hospital Cape Coral Breeze",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUmRJa0xERWQ0aTJiR1JOWTJxOURKRmZTemY0dmJqRWxmbFZ2THpkdmhKcDRLN3p0cDY1eDNRSEV4aFFIbExVT2R3SUJEcTBaTjBUY2hfZ280RlVGTUdZa3M5UF93VENLRlNhdDF3RGQyTnJvekZCVlQzWEhFT040cXNWODBnM2lHMkNlUjEzc21ZWmtCVVhwdkY5bE92dzhLYzI2X2dQbHdnejJZbWtz?oc=5",
+      "source": "Cape Coral Breeze",
+      "feed": "Google News",
+      "published": "2026-10-22T07:00:00+00:00",
+      "category": "审批落地",
+      "region": "国际 / 未识别",
+      "sector": "医疗",
+      "image": ""
+    },
+    {
+      "id": "53972b7473c5212f",
+      "title": "Inside The Ohio State University Wexner Medical Center’s New Hospital Tower",
+      "summary": "Inside The Ohio State University Wexner Medical Center’s New Hospital Tower Healthcare Design Magazine",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWmhSQ1pGVHM1aFk1WFBzRldhWUQ4Z0h6bFhBM1dhdWpqaUhVblFjUnZSczFHZVBFWUQwNmpyb0pVT1ctT0VuVTJSblJCTkhwMUtUWUJ6WEc4M1pjeFNjRlRxcllzOU1uN3U5bzZzaDVpSkdWejFNN1p3U1BOZXZOeFoxcXI5cmE4bzFUNlFQTWN6a0xwOEZNWXdsUGZ1clgyM0ZiVEFBYVhER0Z3UGpsNVhKZUJ3bU15NkttSDZCRmZkWEJNQkdF?oc=5",
+      "source": "Healthcare Design Magazine",
+      "feed": "Google News",
+      "published": "2026-10-22T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "美国中西部",
+      "sector": "教育",
+      "image": ""
+    },
+    {
+      "id": "129ef9a8939113a3",
+      "title": "A couple bought and renovated a $1.5 million brownstone while dating—now it's their full-time job",
+      "summary": "A couple bought and renovated a $1.5 million brownstone while dating—now it's their full-time job CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUWxkaGZ1M21FOTVmR3pqUm5XbnBlQno1SVlsRVpRLWhHcW1IQnFQVWJ4THRoa2MtOWZ6bHkwZmh5SVd6TUtFMWpYZWxZSXNwQmJBbGFoV1ptSGxBcVBqTlJ0X1NybVpEZ1dWb09hMG1Gb1Q4cFhIMVM5Sl9qUWd5NHAtTHdsUkdGbDZ3NUk2M05TazQ?oc=5",
+      "source": "CNBC",
+      "feed": "Google News",
+      "published": "2026-10-22T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "ecb1db0b784b5829",
+      "title": "Over $21 Million Approved for 5 New Affordable Housing Developments",
+      "summary": "Over $21 Million Approved for 5 New Affordable Housing Developments City of Austin, Texas (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcXhUVXlPc3EzOVNOTGFCTnVLY29qMUhmc0RKNW5wd256M2ZmczFMeXBrM1dlcVJfTVBNam8wYU5nbFY0dy1yYmpPaWhlUlV1WVJLTzR1anJtVXlxd0JnVG5ra2dhaWV4ZnVvZWZ1NHIxcmlUVV93bjRISktBNENwYkd4RzFRMEpvX3g5MVRoOWxoMU9oT3Bmb2xZM2N1N2xkZ3I5Z0ZRYXJzblRPWGFGSnRtVGFvTGpGbXRINGF5VnUydw?oc=5",
+      "source": "City of Austin, Texas (.gov)",
+      "feed": "Google News",
+      "published": "2026-10-22T07:00:00+00:00",
+      "category": "审批落地",
+      "region": "美国其他",
+      "sector": "住宅",
+      "image": ""
+    },
+    {
+      "id": "3347ca8011e3429b",
+      "title": "Cedar Rapids levee construction brings flood protection to Time Check neighborhood",
+      "summary": "Cedar Rapids levee construction brings flood protection to Time Check neighborhood KCRG",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3F6U2Jic2l1WnZjb3ZJblRNRnN3Y0JMUU5kTHlIUWZvMU1lSl9uWkdHN002MURySmZSNjNCQ3ZyOEg3bnh2cDVrN0x1UjR2bl9PcldjN2tUTVpkOHNSQWxjbFF3RGdLbVBCRzZoQ2V3NURKYUxkUUJ6M2JVSkUzbXRTUjFmUUxfc0JHZDZhRTFpRk5XbEs1NzFMX0dCZkg2ZUM5bWJWQ1FjRmNhQl9EYU1R0gHGAUFVX3lxTFBQRVhqWlR2TDJONWlTaVlrWHV1Qkp1QjVCQTJ5SzVrTE1VTnZ0S1otazNuQklUY29zbHlmR0RjS2N6WS1PazhJYWJKb0kwUXR6RGg3YWxlcXkxTkJSMDdYbmRSZTdDWjJxbGw0bjZPeks4a0VnU1prMzVnSDVuWXIwa0xyNmYtQWZjQTVYV243ZFF5WjcwbTgwbjNyc052dWc4VVVFTHRVcXdQUVRHYzJWc2ZMcXRkaEJsMjNhUnZDYllwblRJQQ?oc=5",
+      "source": "KCRG",
+      "feed": "Google News",
+      "published": "2026-10-22T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "爱荷华",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "a3f5c8eb53c9beca",
+      "title": "Marion County commissioners approve mixed-use project near future Buc-ee’s",
+      "summary": "Marion County commissioners approve mixed-use project near future Buc-ee’s WCJB",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdnljUDB1d0lqTDRLa3NEUDBaWHNpYldjanlnRDNRSmRSOVZOSnU0NlRid190YUtURDN4QUdMUXVxRXVFbEkzNmVIRWphS1ZZemNOWXhqbzZ3cEtVdk0xQnpEaU9La19LN2xMdjBSMW5GcHphYmcyOW1scEk1X2Z2TlZMUDZVU3V3T3hGLUtnWkVNaDQyalZfall5UmVULW9pZ3JpVTBjR3RPd9IBvgFBVV95cUxOSGNIYk9Dd0NZRGF3N243OGx1Mmg4THIyZHNwb05DZEdmbEZPN0toQ3ppUEVjUkZ4V2JoRjIwZ1U2OHdJXzlBdVZMU096Mzhhem1nSFlURHUtcmZXTzJhVEluZF9JNVlPcHJ4TXRtME9IRl84SUlOQTN4c0t2V3lYajlnVl9uYjZjY2VYS3oyS0VLTWFWZGZFSVpRSjUwV1pIblFieEdpc3NVbHVQVFhob2V6ajhxb28tdDdwUXZB?oc=5",
+      "source": "WCJB",
+      "feed": "Google News",
+      "published": "2026-10-22T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "爱荷华",
+      "sector": "城市更新",
+      "image": ""
+    },
+    {
+      "id": "7baaaf5a447224b5",
+      "title": "Italian-American Cultural Center of Iowa set to open in former mansion",
+      "summary": "Italian-American Cultural Center of Iowa set to open in former mansion The Des Moines Register",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU1YxeHN5Sl9JU1BrS2psWWN5NFBFWkRGUVc3VjNBaWVSUnRRNHZRbjVtUFZHZF90Z1VqWXlIRjFWQjhnNDlGREtQT01YbWdoaTJjWWdBZXB2eTl3bkhtQ2FNLUFOVlprNzN2c2tFNkZQemxPWm1jcDJDWHVLREdNU0lGNFowVF9jSnhrYjhheUZRQ000UWxRUVNMQlpyWkU0VXV5WmNJX2dvNzRCV01odGdneEFQRVhJbWNaZ3QzbDZnblZmZFNBeUpMVG16QU5tVzFyMTBKWWpNQQ?oc=5",
+      "source": "The Des Moines Register",
+      "feed": "Google News",
+      "published": "2026-10-22T07:00:00+00:00",
+      "category": "项目竣工",
+      "region": "爱荷华",
+      "sector": "文化公共",
+      "image": ""
+    },
+    {
+      "id": "b2fc99abb6a9b595",
+      "title": "Foundry Park Breaks Ground After Years Of Uncertainty At Former Lincoln Yards Site",
+      "summary": "Foundry Park Breaks Ground After Years Of Uncertainty At Former Lincoln Yards Site Block Club Chicago",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON25HbEc1SjZoNWROZFRyenhHZ0NjTWo4TEFaa1pXdnc4d2ZDVlUza1NuZUsyVl80dTFFZHlQTGg2SzA4SG5IblNFclRXdS1ZS01yX3NRVEFfc0V1WjFQSTgxbEI1TUM0TG1sUVhaT25pMzRfR3RKVFNGeDBIX3pBREViZlI3eXd4aUlfaS0zbHNSWmFETG94dEI1TV9DLXJERWkzQXU2dlZXWnRhRDNrbjI0NV9RalROelNILWxxTjc?oc=5",
+      "source": "Block Club Chicago",
+      "feed": "Google News",
+      "published": "2026-10-22T07:00:00+00:00",
+      "category": "开工建设",
+      "region": "美国中西部",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "ae319ecf0fc6c5a5",
+      "title": "For Milwaukee Brewers, player development success is a huge part of their World Series story",
+      "summary": "For Milwaukee Brewers, player development success is a huge part of their World Series story Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd2NmZFhmSVdrT0tod0o5OW82cFlJdUdDQlJpc1NNZ1Z1Q1NHNzlXV1d2S0JTZlhJOHhfb2x2NTllakRlX0xNSWN0UHBVUE80eWtDS21vZUZYYlEzVGNYejJhUW5WM1lPREN1SUVLZmxicURGQ2w3RFFaYy01ZHhPMFdGanQ1RFplUzMxSmJIYTJ1UmZ2a1hkMC01Y3lDMGhfMFlMVXlTRzlaRzdjSy1JZXNUZ2UxbUNGdWgydmlST01pdXdVMzZIbUJOcDl4bi04VU1aOXNoSW5VRU0?oc=5",
+      "source": "Yahoo Sports",
+      "feed": "Google News",
+      "published": "2026-10-22T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "美国中西部",
+      "sector": "体育",
+      "image": ""
+    },
+    {
+      "id": "a2f5477d72edb8eb",
+      "title": "Pei Cobb Freed & Partners becomes PCF Architects",
+      "summary": "Pei Cobb Freed & Partners becomes PCF Architects Building Design + Construction",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMUYxR29DVGM3aEhHb2V3Z3dISjI4ZEprWlRzNGUwblJGQmhXQlU1QzRKekdEcm1Lb0lmeDc3QTF0QVgtazNQT2EyaFY0V1VFbzZfTlhsMkoyNXp2T21XSS1MMGZzTHpUTC1fWURRZXhuOEFSUDlJYnYtYlBJZXhZZ0lvc3lnTUUtR3RKU2xpck5fOVNFWW4zeFNNclE3dG1GcjlydjhGUFRjV21kaENDZ05sUDk0cmY4b293TjRB?oc=5",
+      "source": "Building Design + Construction",
+      "feed": "Google News",
+      "published": "2026-10-22T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "46c3377debe51aa2",
+      "title": "Commercial groundbreakings plunged 18% in September",
+      "summary": "Commercial groundbreakings plunged 18% in September Construction Dive",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZkVYcURDaGd1b3NIRG13NzhnZVVwQUxVaXNqU2FIVUNOTkpWc1k5Q21mNW95eFFsQmNvLXhiN2ZYWVp2Vm53aExKdGg4Q2JVMzM4cVQtM1hkWVJZU3pmX0IzZkFGMHotajRGV19DV0VORmppZzlxbENsZ2ZGUG44ZzVvMFpGNnpTQTFTczBIRWdJZUhZ?oc=5",
+      "source": "Construction Dive",
+      "feed": "Google News",
+      "published": "2026-10-22T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "商业办公",
+      "image": ""
+    },
+    {
+      "id": "5f5ea4f0af9cd24b",
+      "title": "BYD. Motion in Architecture",
+      "summary": "BYD. Motion in Architecture World Architecture Community",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVRkbkRYVngzNjJwd0x6aFlWLVhDTWFhZWN2RHZ3ZDNCODNoWXZCbHBvN2wzREs5ZTZhaVRvMFBEVlZVUFhmYTRwdC1yVE1nQ2l2WVNpUDdRU2NOLWQ5YnRmcmNPWkdqNW5ZMnhUYmF3TF9tVVRNYWxrdk5wbmRzSlIzdFpoSU9QcURicnE2cXVmVFgzWmk4TmxONk9WejNwYVJwTU9n?oc=5",
+      "source": "World Architecture Community",
+      "feed": "Google News",
+      "published": "2026-10-22T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "052f6a213bbba5ef",
+      "title": "How Spatial Planning Shapes a Luxury Villa in Dubai",
+      "summary": "How Spatial Planning Shapes a Luxury Villa in Dubai World Architecture Community",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYnY1dzh3eXdRVDFlVDNPQUdDQnUtRTdhRUppc1A5bmdvSGlRU3IxMlF0VDA4MVZYSGpkWTd2QnBPN2hTSW1XNU1FREVWSjVLa3ViVzJHMzJlZlJOLWw3a1VLbGc1NnBGUktuVTk1c2lFMHBzX2d5RnljN253Z0xGckgzNV9Sem91aG1CMVpCY3VlMTR1bVFYUk5wUmplNFY0Nlo1RGc5V2NPcjMxRnBkRWZoelVPNlhnenBMTlVEOUQtRWI4dWpR?oc=5",
+      "source": "World Architecture Community",
+      "feed": "Google News",
+      "published": "2026-10-22T07:00:00+00:00",
+      "category": "设计发布",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "53b47553d6d46b43",
+      "title": "Ontario Accelerating the Expansion of Highway 69",
+      "summary": "Ontario Accelerating the Expansion of Highway 69 ontario.ca",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWDdQWXQ3UlJ0a2g2aWhPemxHangweHh0T0RjS1Zka2xYb2lRS1ZLdk9TWVhMY0R0bnkzNXlWblpybDZ4WUxrUkZXTE5UQWVoV2NVdUNnQ2pHNGFmcVBhcG5BOFhQdk5XTEVBMldlbF8tTmRKZ3A4NG1yVEdXQ1FmOGF0aGhCbWxaUDdGd2hBMHZ1SU5nbWc?oc=5",
+      "source": "ontario.ca",
+      "feed": "Google News",
+      "published": "2026-10-22T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "2838a6e6ff236580",
+      "title": "City Council approves revised development at 3244 W. Bryn Mawr",
+      "summary": "City Council approves revised development at 3244 W. Bryn Mawr Urbanize Chicago",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUtWb1JXZ2daV3dIQkpyS2ZYSGplbXJfbjRmYi1jcW4xeW1UT2NqUmt3NlJZYXkxbTd5U3RBaHBST09jcTh6OWxLN0Rzb1VKY0pZd25sMFlSM3FPejEzZFB1UlIweVJLeEc1czQza2J3TW5pX3FXS3JfcTJmSmJ4bEh4dE52aHpTSFNqWHMtSXBjV3BES2Z3dg?oc=5",
+      "source": "Urbanize Chicago",
+      "feed": "Google News",
+      "published": "2026-10-22T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "美国中西部",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "4adbe2ff6874b02f",
+      "title": "Foundry Park celebrates groundbreaking",
+      "summary": "Foundry Park celebrates groundbreaking Urbanize Chicago",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51SmVUREhySXducHB5Z2ZtX2c4Tkt6Qm42ZkFPaE9LeUR5X0U5dV9TekYtNkhOSnpZNHlZbnVIUlJrZEl5bnBuQXBTTUNCRHlsRkg0WVliaHFlNVhfdzBwR0NkTmtNUjY4X0NYX0hGTXBya1FGLWZ1NlZFdFZ1Zw?oc=5",
+      "source": "Urbanize Chicago",
+      "feed": "Google News",
+      "published": "2026-10-22T07:00:00+00:00",
+      "category": "开工建设",
+      "region": "美国中西部",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "99849bf9082afe47",
+      "title": "A Lime-Green Student Housing Project Is a Striking Addition to the Skyline in Nice, France",
+      "summary": "A Lime-Green Student Housing Project Is a Striking Addition to the Skyline in Nice, France Architectural Record",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOWtwM1RMZjhOcmpCTC1aam5rMWtYRHVRTUlFa1c4eXpZZGlITi03TmRIRWxLYzVTUUIxb2xtQUQ0YjNfOXhGTGYzNUVMTmVrN3FTb2lFZGVJME5zNE00RDFMMWhWYWZkZXN5aTd3VFlkZDQ1c0dxT1lDckZ4Z2M1eVd0ci00WXhRUmJGdk5qSWduNW9VZGJvRkF4V2swaXRiSVFYNDlZcFhKUEJQVkk2VTZLTGhaZGNRQ0c5OVhTRklqWXhKVHAwSU9kTVFEcS1hRGxtUkgzYw?oc=5",
+      "source": "Architectural Record",
+      "feed": "Google News",
+      "published": "2026-10-22T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": ""
+    },
+    {
+      "id": "12c50ad9f15711b5",
+      "title": "Des Moines University partners with India health sciences university",
+      "summary": "Des Moines University partners with India health sciences university Iowa Capital Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNckhoblVicFFfZEs2ZzdGMHBrbVR0cERDVHpoUlBYTHMtXzU3MHIxdkl4OURLY0NPd2IxZGgydXlxOWFfRm4xcFBlekdOQ0RCazJKYmFTUHN4N0JmdVF1SlpNMmhRQ0FEMVh0YWZPUENkRlZ4OWlqdkxYR1FfTzJpNlFiWHFsSkNicWhfdElOSEYxSUd1ZTBFd0xiS0ZwOE5UZ0ZVc2xYSE0yRmQwOXpxdkVR?oc=5",
+      "source": "Iowa Capital Dispatch",
+      "feed": "Google News",
+      "published": "2026-10-22T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "爱荷华",
+      "sector": "教育",
+      "image": ""
+    },
+    {
       "id": "06f7264eda63d3bb",
       "title": "New Building Permit Filed for 95 Wellbrook Avenue in Manor Heights, Staten Island",
       "summary": "New Building Permit Filed for 95 Wellbrook Avenue in Manor Heights, Staten Island Marketproof",
@@ -17982,19 +20077,6 @@ window.ARCH_RADAR_DATA = {
       "category": "审批落地",
       "region": "国际 / 未识别",
       "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "1d9c88d41fd5b1dd",
-      "title": "College Station city council approves rezoning for Savannah Oaks development",
-      "summary": "College Station city council approves rezoning for Savannah Oaks development KBTX News 3",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZENFdjR3OFplODFEQU96QlV5SlE4Q0puelZvSnhST1BJSUJnaVh3dUk1X0lFNTVkQVp6SF9STmJLZHM0SjRYU09tMU5ZRVQ5OWJjV0ZTUmVtWmsxZF9MbWk3LTFFYm1zMXhhRU5CSmVrd3I0dTEzWnpHYl9uRVdPN1F0RWQ1Uno4NHJIa3dKQVdiMml0UVg5YzR1WjU4OTdMdDBWX1Fwa1jSAbwBQVVfeXFMUG5SaEZDS1NIODBRVkdzN0RVSTRPNzZLZU91Q0lhOUltYU12NmVTTTV0NHZNaXFGM1o3UlE1TmxhSEtud2dTaGZ4cGpGU2ZqUTAzX25OeTlTMFQwdEpuZ3phLW03MUtwWk5FZVVqZVhiQ0p4Mnh1QjEwSmFXR0FQMWEyLWVZbEdSam1oQ0NGZEZaVjUxNFRiNUJBbzg2ekE1Yi1ZZDdUeWs5LXZGVkxheXhPZnhLTWFXcEI2alg?oc=5",
-      "source": "KBTX News 3",
-      "feed": "Google News",
-      "published": "2026-10-22T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "教育",
       "image": ""
     },
     {
@@ -18102,123 +20184,6 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "2f077258e80260ee",
-      "title": "$30 million in incentives approved for new hospital",
-      "summary": "$30 million in incentives approved for new hospital Cape Coral Breeze",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUmRJa0xERWQ0aTJiR1JOWTJxOURKRmZTemY0dmJqRWxmbFZ2THpkdmhKcDRLN3p0cDY1eDNRSEV4aFFIbExVT2R3SUJEcTBaTjBUY2hfZ280RlVGTUdZa3M5UF93VENLRlNhdDF3RGQyTnJvekZCVlQzWEhFT040cXNWODBnM2lHMkNlUjEzc21ZWmtCVVhwdkY5bE92dzhLYzI2X2dQbHdnejJZbWtz?oc=5",
-      "source": "Cape Coral Breeze",
-      "feed": "Google News",
-      "published": "2026-10-22T07:00:00+00:00",
-      "category": "审批落地",
-      "region": "国际 / 未识别",
-      "sector": "医疗",
-      "image": ""
-    },
-    {
-      "id": "ca1a0a2e1101c42a",
-      "title": "Groundbreaking set for affordable housing development in Sanford",
-      "summary": "Groundbreaking set for affordable housing development in Sanford The Sanford Herald",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN012VFVscTd5MHY5ZHlHWU16R0xvZ3VNMlVDYkNVaGtFU3lwdVlHYzdTai1yb0gzNjlyU19jTVR3bEZOM2ZhVXRfRXUzVnRKNUY1UVQ2MXVrMUhvX055RUZyVGZycXdwYTFrZ1IwLVNoS0EtWkZRMnZyYlBSU2dyc1pxVXVXazVENGFMRWZMWEcyRFNZVHRveU81QUxCVzlNSndNUnhJenZQdjN1NnRLOEhHT01HSDVWVEljRG9JeEZKUW91RzZ0alNjbWp2ZXFMVUdtMkNqZTBDeUt2cW9TTmtvRTlwbDNO?oc=5",
-      "source": "The Sanford Herald",
-      "feed": "Google News",
-      "published": "2026-10-22T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "6798afb8c771c0e7",
-      "title": "Jersey City housing development deal expected to send money to schools, city government",
-      "summary": "Jersey City housing development deal expected to send money to schools, city government Gothamist",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcjA5MnlOaVhiZlluMUdUSVhsakxzUXJ4RHpGZ3RyQ1RUaVhCbUx2SWlqQkFOY0d2RHdNa2pSTG9ESjZCb2dnNnhaTXZjMF9GOE80YXNiUjhDZ1N2SFZmS0F5aGtwc1dTNkVQTzRwNEdSQ3A0bVZzeWEzYWVNSVdFOEkzQ0Nma0FQNEM0S3JCb2l4bTVDSWFOOFVXSkJfNG90QjQ1NFFHcUpIb2xULVY2aHZiRQ?oc=5",
-      "source": "Gothamist",
-      "feed": "Google News",
-      "published": "2026-10-22T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "129ef9a8939113a3",
-      "title": "A couple bought and renovated a $1.5 million brownstone while dating—now it's their full-time job",
-      "summary": "A couple bought and renovated a $1.5 million brownstone while dating—now it's their full-time job CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUWxkaGZ1M21FOTVmR3pqUm5XbnBlQno1SVlsRVpRLWhHcW1IQnFQVWJ4THRoa2MtOWZ6bHkwZmh5SVd6TUtFMWpYZWxZSXNwQmJBbGFoV1ptSGxBcVBqTlJ0X1NybVpEZ1dWb09hMG1Gb1Q4cFhIMVM5Sl9qUWd5NHAtTHdsUkdGbDZ3NUk2M05TazQ?oc=5",
-      "source": "CNBC",
-      "feed": "Google News",
-      "published": "2026-10-22T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "ecb1db0b784b5829",
-      "title": "Over $21 Million Approved for 5 New Affordable Housing Developments",
-      "summary": "Over $21 Million Approved for 5 New Affordable Housing Developments City of Austin, Texas (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcXhUVXlPc3EzOVNOTGFCTnVLY29qMUhmc0RKNW5wd256M2ZmczFMeXBrM1dlcVJfTVBNam8wYU5nbFY0dy1yYmpPaWhlUlV1WVJLTzR1anJtVXlxd0JnVG5ra2dhaWV4ZnVvZWZ1NHIxcmlUVV93bjRISktBNENwYkd4RzFRMEpvX3g5MVRoOWxoMU9oT3Bmb2xZM2N1N2xkZ3I5Z0ZRYXJzblRPWGFGSnRtVGFvTGpGbXRINGF5VnUydw?oc=5",
-      "source": "City of Austin, Texas (.gov)",
-      "feed": "Google News",
-      "published": "2026-10-22T07:00:00+00:00",
-      "category": "审批落地",
-      "region": "美国其他",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "3347ca8011e3429b",
-      "title": "Cedar Rapids levee construction brings flood protection to Time Check neighborhood",
-      "summary": "Cedar Rapids levee construction brings flood protection to Time Check neighborhood KCRG",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3F6U2Jic2l1WnZjb3ZJblRNRnN3Y0JMUU5kTHlIUWZvMU1lSl9uWkdHN002MURySmZSNjNCQ3ZyOEg3bnh2cDVrN0x1UjR2bl9PcldjN2tUTVpkOHNSQWxjbFF3RGdLbVBCRzZoQ2V3NURKYUxkUUJ6M2JVSkUzbXRTUjFmUUxfc0JHZDZhRTFpRk5XbEs1NzFMX0dCZkg2ZUM5bWJWQ1FjRmNhQl9EYU1R0gHGAUFVX3lxTFBQRVhqWlR2TDJONWlTaVlrWHV1Qkp1QjVCQTJ5SzVrTE1VTnZ0S1otazNuQklUY29zbHlmR0RjS2N6WS1PazhJYWJKb0kwUXR6RGg3YWxlcXkxTkJSMDdYbmRSZTdDWjJxbGw0bjZPeks4a0VnU1prMzVnSDVuWXIwa0xyNmYtQWZjQTVYV243ZFF5WjcwbTgwbjNyc052dWc4VVVFTHRVcXdQUVRHYzJWc2ZMcXRkaEJsMjNhUnZDYllwblRJQQ?oc=5",
-      "source": "KCRG",
-      "feed": "Google News",
-      "published": "2026-10-22T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "爱荷华",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "a3f5c8eb53c9beca",
-      "title": "Marion County commissioners approve mixed-use project near future Buc-ee’s",
-      "summary": "Marion County commissioners approve mixed-use project near future Buc-ee’s WCJB",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdnljUDB1d0lqTDRLa3NEUDBaWHNpYldjanlnRDNRSmRSOVZOSnU0NlRid190YUtURDN4QUdMUXVxRXVFbEkzNmVIRWphS1ZZemNOWXhqbzZ3cEtVdk0xQnpEaU9La19LN2xMdjBSMW5GcHphYmcyOW1scEk1X2Z2TlZMUDZVU3V3T3hGLUtnWkVNaDQyalZfall5UmVULW9pZ3JpVTBjR3RPd9IBvgFBVV95cUxOSGNIYk9Dd0NZRGF3N243OGx1Mmg4THIyZHNwb05DZEdmbEZPN0toQ3ppUEVjUkZ4V2JoRjIwZ1U2OHdJXzlBdVZMU096Mzhhem1nSFlURHUtcmZXTzJhVEluZF9JNVlPcHJ4TXRtME9IRl84SUlOQTN4c0t2V3lYajlnVl9uYjZjY2VYS3oyS0VLTWFWZGZFSVpRSjUwV1pIblFieEdpc3NVbHVQVFhob2V6ajhxb28tdDdwUXZB?oc=5",
-      "source": "WCJB",
-      "feed": "Google News",
-      "published": "2026-10-22T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "爱荷华",
-      "sector": "城市更新",
-      "image": ""
-    },
-    {
-      "id": "b2fc99abb6a9b595",
-      "title": "Foundry Park Breaks Ground After Years Of Uncertainty At Former Lincoln Yards Site",
-      "summary": "Foundry Park Breaks Ground After Years Of Uncertainty At Former Lincoln Yards Site Block Club Chicago",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON25HbEc1SjZoNWROZFRyenhHZ0NjTWo4TEFaa1pXdnc4d2ZDVlUza1NuZUsyVl80dTFFZHlQTGg2SzA4SG5IblNFclRXdS1ZS01yX3NRVEFfc0V1WjFQSTgxbEI1TUM0TG1sUVhaT25pMzRfR3RKVFNGeDBIX3pBREViZlI3eXd4aUlfaS0zbHNSWmFETG94dEI1TV9DLXJERWkzQXU2dlZXWnRhRDNrbjI0NV9RalROelNILWxxTjc?oc=5",
-      "source": "Block Club Chicago",
-      "feed": "Google News",
-      "published": "2026-10-22T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "美国中西部",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "7baaaf5a447224b5",
-      "title": "Italian-American Cultural Center of Iowa set to open in former mansion",
-      "summary": "Italian-American Cultural Center of Iowa set to open in former mansion The Des Moines Register",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU1YxeHN5Sl9JU1BrS2psWWN5NFBFWkRGUVc3VjNBaWVSUnRRNHZRbjVtUFZHZF90Z1VqWXlIRjFWQjhnNDlGREtQT01YbWdoaTJjWWdBZXB2eTl3bkhtQ2FNLUFOVlprNzN2c2tFNkZQemxPWm1jcDJDWHVLREdNU0lGNFowVF9jSnhrYjhheUZRQ000UWxRUVNMQlpyWkU0VXV5WmNJX2dvNzRCV01odGdneEFQRVhJbWNaZ3QzbDZnblZmZFNBeUpMVG16QU5tVzFyMTBKWWpNQQ?oc=5",
-      "source": "The Des Moines Register",
-      "feed": "Google News",
-      "published": "2026-10-22T07:00:00+00:00",
-      "category": "项目竣工",
-      "region": "爱荷华",
-      "sector": "文化公共",
-      "image": ""
-    },
-    {
       "id": "9ec489bce1c04a0c",
       "title": "Jensen Huang Unveils Five-Layer AI Architecture",
       "summary": "Jensen Huang Unveils Five-Layer AI Architecture THE ELEC, Korea Electronics Industry Media",
@@ -18245,71 +20210,6 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "ae319ecf0fc6c5a5",
-      "title": "For Milwaukee Brewers, player development success is a huge part of their World Series story",
-      "summary": "For Milwaukee Brewers, player development success is a huge part of their World Series story Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd2NmZFhmSVdrT0tod0o5OW82cFlJdUdDQlJpc1NNZ1Z1Q1NHNzlXV1d2S0JTZlhJOHhfb2x2NTllakRlX0xNSWN0UHBVUE80eWtDS21vZUZYYlEzVGNYejJhUW5WM1lPREN1SUVLZmxicURGQ2w3RFFaYy01ZHhPMFdGanQ1RFplUzMxSmJIYTJ1UmZ2a1hkMC01Y3lDMGhfMFlMVXlTRzlaRzdjSy1JZXNUZ2UxbUNGdWgydmlST01pdXdVMzZIbUJOcDl4bi04VU1aOXNoSW5VRU0?oc=5",
-      "source": "Yahoo Sports",
-      "feed": "Google News",
-      "published": "2026-10-22T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国中西部",
-      "sector": "体育",
-      "image": ""
-    },
-    {
-      "id": "46c3377debe51aa2",
-      "title": "Commercial groundbreakings plunged 18% in September",
-      "summary": "Commercial groundbreakings plunged 18% in September Construction Dive",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZkVYcURDaGd1b3NIRG13NzhnZVVwQUxVaXNqU2FIVUNOTkpWc1k5Q21mNW95eFFsQmNvLXhiN2ZYWVp2Vm53aExKdGg4Q2JVMzM4cVQtM1hkWVJZU3pmX0IzZkFGMHotajRGV19DV0VORmppZzlxbENsZ2ZGUG44ZzVvMFpGNnpTQTFTczBIRWdJZUhZ?oc=5",
-      "source": "Construction Dive",
-      "feed": "Google News",
-      "published": "2026-10-22T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "商业办公",
-      "image": ""
-    },
-    {
-      "id": "53b47553d6d46b43",
-      "title": "Ontario Accelerating the Expansion of Highway 69",
-      "summary": "Ontario Accelerating the Expansion of Highway 69 ontario.ca",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWDdQWXQ3UlJ0a2g2aWhPemxHangweHh0T0RjS1Zka2xYb2lRS1ZLdk9TWVhMY0R0bnkzNXlWblpybDZ4WUxrUkZXTE5UQWVoV2NVdUNnQ2pHNGFmcVBhcG5BOFhQdk5XTEVBMldlbF8tTmRKZ3A4NG1yVEdXQ1FmOGF0aGhCbWxaUDdGd2hBMHZ1SU5nbWc?oc=5",
-      "source": "ontario.ca",
-      "feed": "Google News",
-      "published": "2026-10-22T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "a2f5477d72edb8eb",
-      "title": "Pei Cobb Freed & Partners becomes PCF Architects",
-      "summary": "Pei Cobb Freed & Partners becomes PCF Architects Building Design + Construction",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMUYxR29DVGM3aEhHb2V3Z3dISjI4ZEprWlRzNGUwblJGQmhXQlU1QzRKekdEcm1Lb0lmeDc3QTF0QVgtazNQT2EyaFY0V1VFbzZfTlhsMkoyNXp2T21XSS1MMGZzTHpUTC1fWURRZXhuOEFSUDlJYnYtYlBJZXhZZ0lvc3lnTUUtR3RKU2xpck5fOVNFWW4zeFNNclE3dG1GcjlydjhGUFRjV21kaENDZ05sUDk0cmY4b293TjRB?oc=5",
-      "source": "Building Design + Construction",
-      "feed": "Google News",
-      "published": "2026-10-22T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "5f5ea4f0af9cd24b",
-      "title": "BYD. Motion in Architecture",
-      "summary": "BYD. Motion in Architecture World Architecture Community",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVRkbkRYVngzNjJwd0x6aFlWLVhDTWFhZWN2RHZ3ZDNCODNoWXZCbHBvN2wzREs5ZTZhaVRvMFBEVlZVUFhmYTRwdC1yVE1nQ2l2WVNpUDdRU2NOLWQ5YnRmcmNPWkdqNW5ZMnhUYmF3TF9tVVRNYWxrdk5wbmRzSlIzdFpoSU9QcURicnE2cXVmVFgzWmk4TmxONk9WejNwYVJwTU9n?oc=5",
-      "source": "World Architecture Community",
-      "feed": "Google News",
-      "published": "2026-10-22T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
       "id": "d093489343ac77c6",
       "title": "Baitas. Milanese Elegance in Almaty",
       "summary": "Baitas. Milanese Elegance in Almaty World Architecture Community",
@@ -18323,58 +20223,6 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "052f6a213bbba5ef",
-      "title": "How Spatial Planning Shapes a Luxury Villa in Dubai",
-      "summary": "How Spatial Planning Shapes a Luxury Villa in Dubai World Architecture Community",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYnY1dzh3eXdRVDFlVDNPQUdDQnUtRTdhRUppc1A5bmdvSGlRU3IxMlF0VDA4MVZYSGpkWTd2QnBPN2hTSW1XNU1FREVWSjVLa3ViVzJHMzJlZlJOLWw3a1VLbGc1NnBGUktuVTk1c2lFMHBzX2d5RnljN253Z0xGckgzNV9Sem91aG1CMVpCY3VlMTR1bVFYUk5wUmplNFY0Nlo1RGc5V2NPcjMxRnBkRWZoelVPNlhnenBMTlVEOUQtRWI4dWpR?oc=5",
-      "source": "World Architecture Community",
-      "feed": "Google News",
-      "published": "2026-10-22T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "2838a6e6ff236580",
-      "title": "City Council approves revised development at 3244 W. Bryn Mawr",
-      "summary": "City Council approves revised development at 3244 W. Bryn Mawr Urbanize Chicago",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUtWb1JXZ2daV3dIQkpyS2ZYSGplbXJfbjRmYi1jcW4xeW1UT2NqUmt3NlJZYXkxbTd5U3RBaHBST09jcTh6OWxLN0Rzb1VKY0pZd25sMFlSM3FPejEzZFB1UlIweVJLeEc1czQza2J3TW5pX3FXS3JfcTJmSmJ4bEh4dE52aHpTSFNqWHMtSXBjV3BES2Z3dg?oc=5",
-      "source": "Urbanize Chicago",
-      "feed": "Google News",
-      "published": "2026-10-22T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国中西部",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "4adbe2ff6874b02f",
-      "title": "Foundry Park celebrates groundbreaking",
-      "summary": "Foundry Park celebrates groundbreaking Urbanize Chicago",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51SmVUREhySXducHB5Z2ZtX2c4Tkt6Qm42ZkFPaE9LeUR5X0U5dV9TekYtNkhOSnpZNHlZbnVIUlJrZEl5bnBuQXBTTUNCRHlsRkg0WVliaHFlNVhfdzBwR0NkTmtNUjY4X0NYX0hGTXBya1FGLWZ1NlZFdFZ1Zw?oc=5",
-      "source": "Urbanize Chicago",
-      "feed": "Google News",
-      "published": "2026-10-22T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "美国中西部",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "99849bf9082afe47",
-      "title": "A Lime-Green Student Housing Project Is a Striking Addition to the Skyline in Nice, France",
-      "summary": "A Lime-Green Student Housing Project Is a Striking Addition to the Skyline in Nice, France Architectural Record",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOWtwM1RMZjhOcmpCTC1aam5rMWtYRHVRTUlFa1c4eXpZZGlITi03TmRIRWxLYzVTUUIxb2xtQUQ0YjNfOXhGTGYzNUVMTmVrN3FTb2lFZGVJME5zNE00RDFMMWhWYWZkZXN5aTd3VFlkZDQ1c0dxT1lDckZ4Z2M1eVd0ci00WXhRUmJGdk5qSWduNW9VZGJvRkF4V2swaXRiSVFYNDlZcFhKUEJQVkk2VTZLTGhaZGNRQ0c5OVhTRklqWXhKVHAwSU9kTVFEcS1hRGxtUkgzYw?oc=5",
-      "source": "Architectural Record",
-      "feed": "Google News",
-      "published": "2026-10-22T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
       "id": "ec79c9caa5ef9fee",
       "title": "AIA Releases Safety & Security in Design Report Highlighting the Growing Role of Security in Everyday Practice",
       "summary": "AIA Releases Safety & Security in Design Report Highlighting the Growing Role of Security in Everyday Practice The American Institute of Architects: AIA",
@@ -18385,19 +20233,6 @@ window.ARCH_RADAR_DATA = {
       "category": "设计发布",
       "region": "国际 / 未识别",
       "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "12c50ad9f15711b5",
-      "title": "Des Moines University partners with India health sciences university",
-      "summary": "Des Moines University partners with India health sciences university Iowa Capital Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNckhoblVicFFfZEs2ZzdGMHBrbVR0cERDVHpoUlBYTHMtXzU3MHIxdkl4OURLY0NPd2IxZGgydXlxOWFfRm4xcFBlekdOQ0RCazJKYmFTUHN4N0JmdVF1SlpNMmhRQ0FEMVh0YWZPUENkRlZ4OWlqdkxYR1FfTzJpNlFiWHFsSkNicWhfdElOSEYxSUd1ZTBFd0xiS0ZwOE5UZ0ZVc2xYSE0yRmQwOXpxdkVR?oc=5",
-      "source": "Iowa Capital Dispatch",
-      "feed": "Google News",
-      "published": "2026-10-22T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "爱荷华",
-      "sector": "教育",
       "image": ""
     },
     {
@@ -18424,19 +20259,6 @@ window.ARCH_RADAR_DATA = {
       "category": "开工建设",
       "region": "国际 / 未识别",
       "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "b71267f57981fa4f",
-      "title": "Inside The Ohio State University Wexner Medical Center’s New Hospital Tower",
-      "summary": "Inside The Ohio State University Wexner Medical Center’s New Hospital Tower Healthcare Design Magazine",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYUUzZlRHMkJTWEZWY2liX0pJbTVHUThYQ09HMWp2ZWcxOF9OX2hweFdXTVJnZHpKXzJfSWdrNXpodXF4SC1RTWNpa1ZUT3FqSG43SkJSZjZYeXVPV3F6Um5iNzl3enk0b0hhLWotMVdhUHNrWXJFdVRuSGg3VE0tUElnUXBDOVgwRlhIZlJSWjdTeURrdnhJRTRwek1UYlNWVjRxVmJVeFI1WTRCMGhaVFhXUG82QjJJcFhHQWVsMkltaWt0UXhWN2Y1T0JxRVNVOFNWSkhn?oc=5",
-      "source": "Healthcare Design Magazine",
-      "feed": "Google News",
-      "published": "2026-10-22T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国中西部",
-      "sector": "教育",
       "image": ""
     },
     {
@@ -18596,19 +20418,6 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "8baef2f31e2f0f0c",
-      "title": "Frisco approves state incentive agreement for Toyota Stadium mixed-use development",
-      "summary": "Frisco approves state incentive agreement for Toyota Stadium mixed-use development Community Impact",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMGlaY1JjR1B4U2JjUDZRV2o4eFVUb05PVW1lblhYZ3gzcDR2dzRCQ01qOFBOdjRkQ0V5MHl6UmRCbV9WUng0cVcyUHVZVVQ5QWJycHh4RWJ5ck1lY0czX1FBT3RMZmhlR0pIV1psSGd1QmdlcV81X1BoRlN1ZWtmYkg5eVpHSktLM1BZZWNybnhuLWpkb3g3ZWJORTliSUFvTEx3bTZVUGJxQk9KbDBnQWJ6cmtPRWVHR0dTQkpjMTN3bUJUNFFrcW9n?oc=5",
-      "source": "Community Impact",
-      "feed": "Google News",
-      "published": "2026-10-21T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "体育",
-      "image": ""
-    },
-    {
       "id": "d4e7c635e39ec5a8",
       "title": "Ocala family fights back after county approves massive mixed-use development",
       "summary": "Ocala family fights back after county approves massive mixed-use development WKMG",
@@ -18635,32 +20444,6 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "024b678bb9848ca4",
-      "title": "Board approves SNOW Museum and Cultural Community Center in Olympic Valley",
-      "summary": "Board approves SNOW Museum and Cultural Community Center in Olympic Valley Placer County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RVEd1ZmZzS1ljNlNoUk14bGNoc1VTc1lEc1Q5MjNLMzJmT1ZCYzVlbndIRU43N09weXFtZHlYSHpmUkFSOXRiT1QxMFoyUHdral95RUo4TmRVR2JBMWQyYUZZYzVEaGxsQk9zUg?oc=5",
-      "source": "Placer County (.gov)",
-      "feed": "Google News",
-      "published": "2026-10-21T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "文化公共",
-      "image": ""
-    },
-    {
-      "id": "84dc4fa462c58177",
-      "title": "Cambridge library wants your art on its new library card",
-      "summary": "Cambridge library wants your art on its new library card Axios",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNek9NUDFFRFd6X0pOMFpGMTRCdmVZX1lILXhXbl82WWR2ZUxEdjFSY0JsMEtTXzFTWkx0NWw1MXNsR2VBSGJ3aVB4YXEtVGhmMGJEcHg0Y0x1SExiRHJxMUxuQ2FVTUg5SEF1TktEa0xmemtuNXJFWFY4Zl9KUWRFelR5LVRBeWdCRm5faEI4dmNiYUhieVBCclFQWXA5Ui1MWW5mVGpOWllvRDVIa19yeXREYw?oc=5",
-      "source": "Axios",
-      "feed": "Google News",
-      "published": "2026-10-21T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": ""
-    },
-    {
       "id": "77d2aa2698cc20c1",
       "title": "Grimes Engineering Center University of California Berkeley building",
       "summary": "Grimes Engineering Center University of California Berkeley building e-architect",
@@ -18670,6 +20453,19 @@ window.ARCH_RADAR_DATA = {
       "published": "2026-10-21T07:00:00+00:00",
       "category": "行业动态",
       "region": "美国其他",
+      "sector": "教育",
+      "image": ""
+    },
+    {
+      "id": "c12e314577d6bc88",
+      "title": "Village School rebuilds with OFFICEUNTITLED and Gensler",
+      "summary": "Village School rebuilds with OFFICEUNTITLED and Gensler The Architect’s Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNallZc3l4UE5EdHhaZFlPelZCc2NPeHJYVEllX1MwZUNHZmdvT2VzMFh1c085cllxODNZZWQzV19sNjNBTWNTYlVuY3FqakdyblRBRkVGX0x3dFd4ZkhiRlJJV0dwd2dkQWxRU0hZbG1rVXJPbEt0algyUER5QWZ0ZC1hNzNWQ3lKTzlhMXFlbGJvUWREUFQ2WWdXZl96ZllWcy1CdQ?oc=5",
+      "source": "The Architect’s Newspaper",
+      "feed": "Google News",
+      "published": "2026-10-21T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
       "sector": "教育",
       "image": ""
     },
@@ -18700,19 +20496,6 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "db8cb8a1e410ac82",
-      "title": "Groundbreaking held for Ethos Academy, Lower Richland’s first public charter school",
-      "summary": "Groundbreaking held for Ethos Academy, Lower Richland’s first public charter school WIS News 10",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUszVEZsS05XcHNfaDB5N0ZxWTMxcmxOOVo4NUJyU01RTTcxcXNETzFzRnMwV2hNbjdidFRxQ3F2bkVxOVNwOUJyRDdaSUFoc2M2emNvbnMwNE9FYTNwdkZoX1FYTE9BbzZHNWZBU0ZDZ1Q2S2VTRFFDUmYzejN4cExISHFUdWtrQkZncDVvRW1CTkFGalFHWnR6dC1Wd2RsdkNDbTU2QlFEQno4ejd4QdIBxAFBVV95cUxPV083ZC1aNkwzRHNSdi1vVHU4VWVLRzNBZmNmWC1ZbERwcXJId29vNkQteG5BXzktazFZYUdhRXhyWUdyRTNrNWs4REl3Wm1NaGtaX21URGdtV0ZhUThKUGlrN2l5WTNpdjlKa0JQdm9VLWtVSklXdjdWY3gwaGs2b29Od2VfcXRCZTc3cEt6Y1RDWUswVDFtdGRrVzNjN1Rjc0tfZjQ4U1gzbmdFZUUzRzVjcGYyMWRjNi1IZHF0ZWx2R2NB?oc=5",
-      "source": "WIS News 10",
-      "feed": "Google News",
-      "published": "2026-10-21T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": ""
-    },
-    {
       "id": "bc070b22f70f4604",
       "title": "New Conway school aims to prepare future for students with disabilities",
       "summary": "New Conway school aims to prepare future for students with disabilities WMBF",
@@ -18721,6 +20504,19 @@ window.ARCH_RADAR_DATA = {
       "feed": "Google News",
       "published": "2026-10-21T07:00:00+00:00",
       "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": ""
+    },
+    {
+      "id": "db8cb8a1e410ac82",
+      "title": "Groundbreaking held for Ethos Academy, Lower Richland’s first public charter school",
+      "summary": "Groundbreaking held for Ethos Academy, Lower Richland’s first public charter school WIS News 10",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUszVEZsS05XcHNfaDB5N0ZxWTMxcmxOOVo4NUJyU01RTTcxcXNETzFzRnMwV2hNbjdidFRxQ3F2bkVxOVNwOUJyRDdaSUFoc2M2emNvbnMwNE9FYTNwdkZoX1FYTE9BbzZHNWZBU0ZDZ1Q2S2VTRFFDUmYzejN4cExISHFUdWtrQkZncDVvRW1CTkFGalFHWnR6dC1Wd2RsdkNDbTU2QlFEQno4ejd4QdIBxAFBVV95cUxPV083ZC1aNkwzRHNSdi1vVHU4VWVLRzNBZmNmWC1ZbERwcXJId29vNkQteG5BXzktazFZYUdhRXhyWUdyRTNrNWs4REl3Wm1NaGtaX21URGdtV0ZhUThKUGlrN2l5WTNpdjlKa0JQdm9VLWtVSklXdjdWY3gwaGs2b29Od2VfcXRCZTc3cEt6Y1RDWUswVDFtdGRrVzNjN1Rjc0tfZjQ4U1gzbmdFZUUzRzVjcGYyMWRjNi1IZHF0ZWx2R2NB?oc=5",
+      "source": "WIS News 10",
+      "feed": "Google News",
+      "published": "2026-10-21T07:00:00+00:00",
+      "category": "开工建设",
       "region": "国际 / 未识别",
       "sector": "教育",
       "image": ""
@@ -18778,6 +20574,32 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
+      "id": "024b678bb9848ca4",
+      "title": "Board approves SNOW Museum and Cultural Community Center in Olympic Valley",
+      "summary": "Board approves SNOW Museum and Cultural Community Center in Olympic Valley Placer County (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RVEd1ZmZzS1ljNlNoUk14bGNoc1VTc1lEc1Q5MjNLMzJmT1ZCYzVlbndIRU43N09weXFtZHlYSHpmUkFSOXRiT1QxMFoyUHdral95RUo4TmRVR2JBMWQyYUZZYzVEaGxsQk9zUg?oc=5",
+      "source": "Placer County (.gov)",
+      "feed": "Google News",
+      "published": "2026-10-21T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "文化公共",
+      "image": ""
+    },
+    {
+      "id": "84dc4fa462c58177",
+      "title": "Cambridge library wants your art on its new library card",
+      "summary": "Cambridge library wants your art on its new library card Axios",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNek9NUDFFRFd6X0pOMFpGMTRCdmVZX1lILXhXbl82WWR2ZUxEdjFSY0JsMEtTXzFTWkx0NWw1MXNsR2VBSGJ3aVB4YXEtVGhmMGJEcHg0Y0x1SExiRHJxMUxuQ2FVTUg5SEF1TktEa0xmemtuNXJFWFY4Zl9KUWRFelR5LVRBeWdCRm5faEI4dmNiYUhieVBCclFQWXA5Ui1MWW5mVGpOWllvRDVIa19yeXREYw?oc=5",
+      "source": "Axios",
+      "feed": "Google News",
+      "published": "2026-10-21T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": ""
+    },
+    {
       "id": "a4a8a9fe7cd98962",
       "title": "DFW Airport's Terminal A extension opens, adding 10 gates before holiday travel",
       "summary": "DFW Airport's Terminal A extension opens, adding 10 gates before holiday travel Dallas News",
@@ -18817,19 +20639,6 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "59d5a1acb7cf79b3",
-      "title": "$3B Foundry Park breaks ground at former Lincoln Yards site",
-      "summary": "$3B Foundry Park breaks ground at former Lincoln Yards site The Real Deal",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXJHajhrMThWZEdra1FwWUk5eXRwa0gyaHYtRWJ4UHc2b2tYQ1ljbTlXNEhNT1F2UWxOTmlIbm9xOVpSemdFNjRKbGxQVGJ4UWYySnFZb2dZNEM0M0kxcnZqSUlFTjl0dFhXOXpvVTVoS05tUDk0TURxM1E5dzA1dXRjdHVTbndmTy1FTHViMGhBWS1FZVpSMnVPSmY3a1VHWUE?oc=5",
-      "source": "The Real Deal",
-      "feed": "Google News",
-      "published": "2026-10-21T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
       "id": "8f94514a3afa0d87",
       "title": "Office market stabilizing with little new construction, active leasing activity, market reports show",
       "summary": "Office market stabilizing with little new construction, active leasing activity, market reports show Business Record",
@@ -18856,16 +20665,29 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "77306418eb87ef77",
-      "title": "Sheldon High School project ready for start of year",
-      "summary": "Sheldon High School project ready for start of year The N'West Iowa REVIEW",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaHJkY3hqMFcyYmRMNWpZNEpPLUdDNUtBV3EwVTlGSW9kWkZkYk1zRzVWWVlrR2dGcWpiQW9rWXkxYThoMVAxNUhYeEIzcXh5NXZDX3RISzMyeXh4VmRpdUd4MDItRjUxSktqNnB1OExEQnNSZWdmVmZ0RE9mYjkzZjVMVzFualhkU05pQ0hkRlFNOXlFZ2o2U3lIZldsZmE4UldZc1hDUlFNeEUtWks2U2tGY2VTazZKUmRMWFlZcUlLMmg1VmFfM2Y0NkdEeGdEbnc?oc=5",
-      "source": "The N'West Iowa REVIEW",
+      "id": "267c7c750b5cb486",
+      "title": "Groundbreaking ceremony to be held for Chicago's Foundry Park development",
+      "summary": "Groundbreaking ceremony to be held for Chicago's Foundry Park development CBS News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMTkyanZvYWdsTms2cVVNMi1JakVwbUJMRHBZRmdraGJ4WU9SaGlBcUNSWHZHNGFXWTZndVpKNnpoWHJPRGtVTlM5LXhSRGY4dlFROVlfNHc4bG9UbDd4SUNxaUhNUkdkNlRHZVNRdEY3SVRUQnd6WWNJUDNyOGY1YUxnRmR3TEZTdW42Nmp3amdtc09JMC0zWUVJZ2p0cVQtQzRwRFNIaHBhSXBDMk1kcg?oc=5",
+      "source": "CBS News",
       "feed": "Google News",
       "published": "2026-10-21T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "爱荷华",
-      "sector": "教育",
+      "category": "开工建设",
+      "region": "美国中西部",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "59d5a1acb7cf79b3",
+      "title": "$3B Foundry Park breaks ground at former Lincoln Yards site",
+      "summary": "$3B Foundry Park breaks ground at former Lincoln Yards site The Real Deal",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXJHajhrMThWZEdra1FwWUk5eXRwa0gyaHYtRWJ4UHc2b2tYQ1ljbTlXNEhNT1F2UWxOTmlIbm9xOVpSemdFNjRKbGxQVGJ4UWYySnFZb2dZNEM0M0kxcnZqSUlFTjl0dFhXOXpvVTVoS05tUDk0TURxM1E5dzA1dXRjdHVTbndmTy1FTHViMGhBWS1FZVpSMnVPSmY3a1VHWUE?oc=5",
+      "source": "The Real Deal",
+      "feed": "Google News",
+      "published": "2026-10-21T07:00:00+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
       "image": ""
     },
     {
@@ -18882,94 +20704,29 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "f52d991806ac3d97",
-      "title": "AI reshapes construction teams more often than it cuts jobs: report",
-      "summary": "AI reshapes construction teams more often than it cuts jobs: report Construction Dive",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd25OU1lEcXp1UmI4ZV90YXRkQnYxRGwwSE1lVTllb1JkYnBoRU9rdzdoUHY2N3lybmtQVjZiZUtnRThNZ01MYXBRSE5QVTg5WXBfQTZVdlFJOWd0WmNCdFpuWFlLY3JKZi1UQ2ZyUFpHMkI1UVhpMVhyZ2RtVnlLUU9TSFY2aHpIb2JBY09iTmV1dw?oc=5",
-      "source": "Construction Dive",
+      "id": "a9b22e5d098db5c1",
+      "title": "Minnesota governor debate: Data center construction",
+      "summary": "Minnesota governor debate: Data center construction FOX 9 Minneapolis-St. Paul",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mNC1UN3p4MHgxczgxbGhseEQ1TWlYeWx2MWdZcDFNcUdWREl6OHRnRHdRWjljeENaU211bHdGOE9lcy1XX2VqVGN3bHdUZmhjSTF2V1dVY2VQM3PSAWBBVV95cUxObTgtbzlWTi1Ja3dMSW9SR1FSaVVPbVVFeS1QekdaU3ljdzVDZ243SnRmcWtsUkRsVHNySnNlYTF0alZEcGU3RG1FeEFKLV95UzhoV3V3T081WUZGdm5yeWo?oc=5",
+      "source": "FOX 9 Minneapolis-St. Paul",
       "feed": "Google News",
       "published": "2026-10-21T07:00:00+00:00",
       "category": "行业动态",
-      "region": "国际 / 未识别",
+      "region": "美国中西部",
       "sector": "综合项目",
       "image": ""
     },
     {
-      "id": "cec1c2a3f35238bc",
-      "title": "6 contech firms raise $154M in recent funding",
-      "summary": "6 contech firms raise $154M in recent funding Construction Dive",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhrX2QtelJ0WnY4LTdaNnBmY3plTVR1Y2VLOFNNSmluYVFvQ3hJS095YVo4djNqa3Q0SkVoZmxkY25USmtlQVR5NVd4NlVlX3l3M3dkbElORHI0N0pxdkEyaVpVWFFGX1FzdF9UbG9KWnk0VEVIbEhkZF82d3V6SUhCVFFGTGdVMjN6Yk02Ui1RVkhjT0QtWA?oc=5",
-      "source": "Construction Dive",
+      "id": "77306418eb87ef77",
+      "title": "Sheldon High School project ready for start of year",
+      "summary": "Sheldon High School project ready for start of year The N'West Iowa REVIEW",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaHJkY3hqMFcyYmRMNWpZNEpPLUdDNUtBV3EwVTlGSW9kWkZkYk1zRzVWWVlrR2dGcWpiQW9rWXkxYThoMVAxNUhYeEIzcXh5NXZDX3RISzMyeXh4VmRpdUd4MDItRjUxSktqNnB1OExEQnNSZWdmVmZ0RE9mYjkzZjVMVzFualhkU05pQ0hkRlFNOXlFZ2o2U3lIZldsZmE4UldZc1hDUlFNeEUtWks2U2tGY2VTazZKUmRMWFlZcUlLMmg1VmFfM2Y0NkdEeGdEbnc?oc=5",
+      "source": "The N'West Iowa REVIEW",
       "feed": "Google News",
       "published": "2026-10-21T07:00:00+00:00",
       "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "019226a9ff3199ca",
-      "title": "Construction must preserve trades knowledge to know when AI is wrong",
-      "summary": "Construction must preserve trades knowledge to know when AI is wrong Construction Dive",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcjloWThxdnAxNGRqU1ZCSi11dXZrZ1dlcWhiMHA5Q1k4NVVqLVFGYkdKM1dRenJKQVdBTndTMDJVQUktOGJBb0kyX0FKTFg4eHdGamZJWGlMdzlVWWpKOHBwWE5qUll2SmpwUTQ5bUg1QkYwVzlaeUxRaGVVY2U0Zml1TTJyZGd3eTZvUlMzdGtodw?oc=5",
-      "source": "Construction Dive",
-      "feed": "Google News",
-      "published": "2026-10-21T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "b87a8a240dbb08c6",
-      "title": "Newforma acquires Lumi AI, will incorporate into its tech",
-      "summary": "Newforma acquires Lumi AI, will incorporate into its tech Construction Dive",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82VTl6OFZQMzJXTXlMQ2JKQ0hmT1pDOVh6aG1nTXVLZVlaWEpDQWRmWFNmQ2dudlZGMlA1UjBkblRjMFB0dTBGV1ppc2xJVjdBNXdsYU5JSjZQalRUeDFfemh1YTR3Tkk1ak5JOU9KdnZWZG5Xb21Ob3VIOA?oc=5",
-      "source": "Construction Dive",
-      "feed": "Google News",
-      "published": "2026-10-21T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "d0dcb4b629c9342e",
-      "title": "Inside Grimshaw's rammed-earth 12 apostles visitor centre",
-      "summary": "Inside Grimshaw's rammed-earth 12 apostles visitor centre Architecture & Design",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcFFrNmlJVUVlNWVpRzVBSjRzTkdvVTRpOEFZMmJ2Ylg2ZVJlY2p5X2gtVEJ5VG0zMDdQQWhJTUc4ZGFWWVB1bGdzUGVISXNPVHFRUTJ4TlJkamdVaW1KRjl6WGlfTlZlWVNXdjB2VEJPYmxyODBsd25OLWc3M1FYX2c1Ni1EWlk2b29VaTN3cDhjcHVfSm9ZTU16dURuN2pOUGc?oc=5",
-      "source": "Architecture & Design",
-      "feed": "Google News",
-      "published": "2026-10-21T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "3eac8e9189046302",
-      "title": "Perot Museum unveils $185 million expansion designed by Morphosis and MVVA",
-      "summary": "Perot Museum unveils $185 million expansion designed by Morphosis and MVVA Archinect",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ1h3Sk15ZHNOdlVubl82bngtdnBMX203MEJFejBNQWNXMGxnUjhpejJrSU5DcHBoeGZVdEFUOHI2Q2VpSTJZZHVHWFdYcW9uM2Z0OTJRX0VNUzY0eHBac2kxMHp5NURjTWVqbTBpZUREWnBpMi10SV9XREw5bWxQaGlJcWNTaUs4SDBRWkFST1dMWE5QSi1WRGE4YlFZTDFwa3dtQlZaRERsNVhNNFV0N3lOODhZOGVQV1E?oc=5",
-      "source": "Archinect",
-      "feed": "Google News",
-      "published": "2026-10-21T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "文化公共",
-      "image": ""
-    },
-    {
-      "id": "93347ad0270f039e",
-      "title": "Architecture MasterPrize honors top buildings and firms of 2026",
-      "summary": "Architecture MasterPrize honors top buildings and firms of 2026 Archinect",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMXZaOGZuZ1VqNXZMMm9nT1NEN05wVjVkdTBFY1FjdHlvWDQzVTEzbF8yOXcyQTh4NFlwWFlWeEs3ZlR0SEhLLXRfekpXSXJEblpqSXE4eEcxQ1ZzZDZSMzRxVEUta2ZTdGNwQjhmTWhuekg3UUpPYm1nQ2Jsak52V2dBYzItNVVIZFpSc1ZTUi11QU1sY0hUc3dkTFpFM0ktVVpwVDVmRQ?oc=5",
-      "source": "Archinect",
-      "feed": "Google News",
-      "published": "2026-10-21T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
+      "region": "爱荷华",
+      "sector": "教育",
       "image": ""
     },
     {
@@ -19051,11 +20808,76 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "4d00b1f4726e6a35",
-      "title": "Intertime",
-      "summary": "Intertime World Architecture Community",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjVjcTJ1T2k3TzNYNDVoRmFEMzdkTU1yZlZZMU5iNjVuS2tMckc5a1pmUlNBV2pUdV9EaUttcGVFdTU4VEdfYW41aGlvZWgwQTNZUjktclEwbDlScFZ3R0ZXbkR3U0o1VE1NUnAtSE5Td1Ztbkh5NXlzcl81SDduY0NTc05JVjJkR0pjR2YyRQ?oc=5",
-      "source": "World Architecture Community",
+      "id": "f52d991806ac3d97",
+      "title": "AI reshapes construction teams more often than it cuts jobs: report",
+      "summary": "AI reshapes construction teams more often than it cuts jobs: report Construction Dive",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd25OU1lEcXp1UmI4ZV90YXRkQnYxRGwwSE1lVTllb1JkYnBoRU9rdzdoUHY2N3lybmtQVjZiZUtnRThNZ01MYXBRSE5QVTg5WXBfQTZVdlFJOWd0WmNCdFpuWFlLY3JKZi1UQ2ZyUFpHMkI1UVhpMVhyZ2RtVnlLUU9TSFY2aHpIb2JBY09iTmV1dw?oc=5",
+      "source": "Construction Dive",
+      "feed": "Google News",
+      "published": "2026-10-21T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "cec1c2a3f35238bc",
+      "title": "6 contech firms raise $154M in recent funding",
+      "summary": "6 contech firms raise $154M in recent funding Construction Dive",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhrX2QtelJ0WnY4LTdaNnBmY3plTVR1Y2VLOFNNSmluYVFvQ3hJS095YVo4djNqa3Q0SkVoZmxkY25USmtlQVR5NVd4NlVlX3l3M3dkbElORHI0N0pxdkEyaVpVWFFGX1FzdF9UbG9KWnk0VEVIbEhkZF82d3V6SUhCVFFGTGdVMjN6Yk02Ui1RVkhjT0QtWA?oc=5",
+      "source": "Construction Dive",
+      "feed": "Google News",
+      "published": "2026-10-21T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "019226a9ff3199ca",
+      "title": "Construction must preserve trades knowledge to know when AI is wrong",
+      "summary": "Construction must preserve trades knowledge to know when AI is wrong Construction Dive",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcjloWThxdnAxNGRqU1ZCSi11dXZrZ1dlcWhiMHA5Q1k4NVVqLVFGYkdKM1dRenJKQVdBTndTMDJVQUktOGJBb0kyX0FKTFg4eHdGamZJWGlMdzlVWWpKOHBwWE5qUll2SmpwUTQ5bUg1QkYwVzlaeUxRaGVVY2U0Zml1TTJyZGd3eTZvUlMzdGtodw?oc=5",
+      "source": "Construction Dive",
+      "feed": "Google News",
+      "published": "2026-10-21T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "b87a8a240dbb08c6",
+      "title": "Newforma acquires Lumi AI, will incorporate into its tech",
+      "summary": "Newforma acquires Lumi AI, will incorporate into its tech Construction Dive",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82VTl6OFZQMzJXTXlMQ2JKQ0hmT1pDOVh6aG1nTXVLZVlaWEpDQWRmWFNmQ2dudlZGMlA1UjBkblRjMFB0dTBGV1ppc2xJVjdBNXdsYU5JSjZQalRUeDFfemh1YTR3Tkk1ak5JOU9KdnZWZG5Xb21Ob3VIOA?oc=5",
+      "source": "Construction Dive",
+      "feed": "Google News",
+      "published": "2026-10-21T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "3eac8e9189046302",
+      "title": "Perot Museum unveils $185 million expansion designed by Morphosis and MVVA",
+      "summary": "Perot Museum unveils $185 million expansion designed by Morphosis and MVVA Archinect",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ1h3Sk15ZHNOdlVubl82bngtdnBMX203MEJFejBNQWNXMGxnUjhpejJrSU5DcHBoeGZVdEFUOHI2Q2VpSTJZZHVHWFdYcW9uM2Z0OTJRX0VNUzY0eHBac2kxMHp5NURjTWVqbTBpZUREWnBpMi10SV9XREw5bWxQaGlJcWNTaUs4SDBRWkFST1dMWE5QSi1WRGE4YlFZTDFwa3dtQlZaRERsNVhNNFV0N3lOODhZOGVQV1E?oc=5",
+      "source": "Archinect",
+      "feed": "Google News",
+      "published": "2026-10-21T07:00:00+00:00",
+      "category": "设计发布",
+      "region": "国际 / 未识别",
+      "sector": "文化公共",
+      "image": ""
+    },
+    {
+      "id": "93347ad0270f039e",
+      "title": "Architecture MasterPrize honors top buildings and firms of 2026",
+      "summary": "Architecture MasterPrize honors top buildings and firms of 2026 Archinect",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMXZaOGZuZ1VqNXZMMm9nT1NEN05wVjVkdTBFY1FjdHlvWDQzVTEzbF8yOXcyQTh4NFlwWFlWeEs3ZlR0SEhLLXRfekpXSXJEblpqSXE4eEcxQ1ZzZDZSMzRxVEUta2ZTdGNwQjhmTWhuekg3UUpPYm1nQ2Jsak52V2dBYzItNVVIZFpSc1ZTUi11QU1sY0hUc3dkTFpFM0ktVVpwVDVmRQ?oc=5",
+      "source": "Archinect",
       "feed": "Google News",
       "published": "2026-10-21T07:00:00+00:00",
       "category": "行业动态",
@@ -19069,6 +20891,32 @@ window.ARCH_RADAR_DATA = {
       "summary": "AVLU World Architecture Community",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd05CYm9vcFBrR3hMS0ExeXhSb0VVM3VRenN3YUtsbTQ2NkRGdXVGYjE5bDBiSVBzUWJ6d3Z6WkRYR3d2UlUtekRJdTRkRWJJUlZCMU51YW9UTVA2VjRSMmIzNjRPSTZGZGUzYzlWSXBtTEpnZjF4Y3NJRzBRdHBtQjlGYnVQUmxI?oc=5",
       "source": "World Architecture Community",
+      "feed": "Google News",
+      "published": "2026-10-21T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "4d00b1f4726e6a35",
+      "title": "Intertime",
+      "summary": "Intertime World Architecture Community",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjVjcTJ1T2k3TzNYNDVoRmFEMzdkTU1yZlZZMU5iNjVuS2tMckc5a1pmUlNBV2pUdV9EaUttcGVFdTU4VEdfYW41aGlvZWgwQTNZUjktclEwbDlScFZ3R0ZXbkR3U0o1VE1NUnAtSE5Td1Ztbkh5NXlzcl81SDduY0NTc05JVjJkR0pjR2YyRQ?oc=5",
+      "source": "World Architecture Community",
+      "feed": "Google News",
+      "published": "2026-10-21T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "d0dcb4b629c9342e",
+      "title": "Inside Grimshaw's rammed-earth 12 apostles visitor centre",
+      "summary": "Inside Grimshaw's rammed-earth 12 apostles visitor centre Architecture & Design",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcFFrNmlJVUVlNWVpRzVBSjRzTkdvVTRpOEFZMmJ2Ylg2ZVJlY2p5X2gtVEJ5VG0zMDdQQWhJTUc4ZGFWWVB1bGdzUGVISXNPVHFRUTJ4TlJkamdVaW1KRjl6WGlfTlZlWVNXdjB2VEJPYmxyODBsd25OLWc3M1FYX2c1Ni1EWlk2b29VaTN3cDhjcHVfSm9ZTU16dURuN2pOUGc?oc=5",
+      "source": "Architecture & Design",
       "feed": "Google News",
       "published": "2026-10-21T07:00:00+00:00",
       "category": "行业动态",
@@ -19178,6 +21026,19 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "8baef2f31e2f0f0c",
+      "title": "Frisco approves state incentive agreement for Toyota Stadium mixed-use development",
+      "summary": "Frisco approves state incentive agreement for Toyota Stadium mixed-use development Community Impact",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMGlaY1JjR1B4U2JjUDZRV2o4eFVUb05PVW1lblhYZ3gzcDR2dzRCQ01qOFBOdjRkQ0V5MHl6UmRCbV9WUng0cVcyUHVZVVQ5QWJycHh4RWJ5ck1lY0czX1FBT3RMZmhlR0pIV1psSGd1QmdlcV81X1BoRlN1ZWtmYkg5eVpHSktLM1BZZWNybnhuLWpkb3g3ZWJORTliSUFvTEx3bTZVUGJxQk9KbDBnQWJ6cmtPRWVHR0dTQkpjMTN3bUJUNFFrcW9n?oc=5",
+      "source": "Community Impact",
+      "feed": "Google News",
+      "published": "2026-10-21T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "体育",
       "image": ""
     },
     {
@@ -19308,19 +21169,6 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "交通基础设施",
-      "image": ""
-    },
-    {
-      "id": "267c7c750b5cb486",
-      "title": "Groundbreaking ceremony to be held for Chicago's Foundry Park development",
-      "summary": "Groundbreaking ceremony to be held for Chicago's Foundry Park development CBS News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMTkyanZvYWdsTms2cVVNMi1JakVwbUJMRHBZRmdraGJ4WU9SaGlBcUNSWHZHNGFXWTZndVpKNnpoWHJPRGtVTlM5LXhSRGY4dlFROVlfNHc4bG9UbDd4SUNxaUhNUkdkNlRHZVNRdEY3SVRUQnd6WWNJUDNyOGY1YUxnRmR3TEZTdW42Nmp3amdtc09JMC0zWUVJZ2p0cVQtQzRwRFNIaHBhSXBDMk1kcg?oc=5",
-      "source": "CBS News",
-      "feed": "Google News",
-      "published": "2026-10-21T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "美国中西部",
-      "sector": "综合项目",
       "image": ""
     },
     {
@@ -19519,10 +21367,10 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "684ca8e00d65a123",
+      "id": "e4951c7ff10bf83c",
       "title": "Freeman celebrates groundbreaking of new hospital",
       "summary": "Freeman celebrates groundbreaking of new hospital Dakota News Now",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMHI4ZDJMc1dCLTZRVmhSYUNCQzlhalRYcnlWdnZMYmxJY04wcGxhNEN1TzFUN1dCVm9FRWN0SzBMRnJvWWRRaE02TmR4VkF1TWx5RFJQX3l1VjBjb3JUQkgyTjFWTS0yUUcyMzFpSDZ6X3Q4RzdNZTlXdFduVVRleFFNeDBTaHhhN0VHQlNXcThXUdIBpgFBVV95cUxNM2ZHd0ZHd3ZQRUV3S0lTZXdTY0R3WC01d2JiMVZuMlRDYUVETW5sZ1hKVFN2YWZ3eUxXOUk5WHpZWXk3NExpSnhVQk9ESzVjYjNYdW5ROURhRVdHUVR0X3REekZrNVJ4aEl2SUtpUXc2am9TMEwtZWxEcllBSVdGT0hJX09GX3hYWFRlWnp0QksweU02bjFUY1gxa3ZkQmxvcmV6bzFn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU1A0VG1adjAyaWQtWV9UbHZteTFGQ2JoNUdKWFFmdmx6MmdwVGJnZkI4U2xpejYtV2RTUWtoMnVEZlc1MUc2czNjbUhTbm5UR0lPYl9pdDNxNGMzWmwyWnRVVzI1Sk8tSXNSbVBoTUtZRVB1UXBGaV9xRlJRazVKLWhIZF9wc1pCcTYxdFNRY1BvVTBKai11aElR?oc=5",
       "source": "Dakota News Now",
       "feed": "Google News",
       "published": "2026-10-20T07:00:00+00:00",
@@ -19571,6 +21419,32 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
+      "id": "b9317123514bafdd",
+      "title": "Affordable Housing Program Approved",
+      "summary": "Affordable Housing Program Approved Elk Grove Citizen |",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNjcteXpvNm9mdTZfOV8wSXJIa1BvT3dpNDJXQWg0T0lIM1JZeTlndnd0S1RpdUI0bm9zR3Fxek1LVkxSX0ViRXJOOEozdHBSemFrZnZGZTNOTmNRMHR1V3BzcEhma2NyZWxsZjBMVm85SWtBRk5jOUVVc2pCQUotM05oWW8wUQ?oc=5",
+      "source": "Elk Grove Citizen |",
+      "feed": "Google News",
+      "published": "2026-10-20T07:00:00+00:00",
+      "category": "审批落地",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": ""
+    },
+    {
+      "id": "e407f91af5b9ef8f",
+      "title": "Midway Rising Project Approved by Council Committee But With Condition that Affordable Housing Be ‘New’",
+      "summary": "Midway Rising Project Approved by Council Committee But With Condition that Affordable Housing Be ‘New’ OB Rag",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUmdSX2hVY3pwem4wWVoxRW55NkNYcHU3ZGdOX3QzYjV5ekFaRFJIN3VhQVd6VEljS1BtcVlwVG1iRnBvQy1nRzBzTVIxd0Z4LVlfU2owejR5RTlTRkRDVHUtSk1kMlgwbEY0elVlcW5sZVpGZ0JSdW5GMWpIV2hBWUoyVVJuMWIyaXZVVi1FZ0c4emloRDBEOHdkV001d3NfWGhIekh3T2Z3bDc1aGN0Zm96VmcwUzNZTE0ySkJqdFh6T1FpTlk4cUU3ck96SnprOG9QQTl0d0hIa1U?oc=5",
+      "source": "OB Rag",
+      "feed": "Google News",
+      "published": "2026-10-20T07:00:00+00:00",
+      "category": "审批落地",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": ""
+    },
+    {
       "id": "395db7cffc18b5b8",
       "title": "Rainier Community Center Play Area Playground Renovation",
       "summary": "Rainier Community Center Play Area Playground Renovation Seattle.gov",
@@ -19610,42 +21484,16 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "5d214719d3d6a777",
-      "title": "$22M renovation begins at Griffin Museum of Science and Industry’s historic entrance",
-      "summary": "$22M renovation begins at Griffin Museum of Science and Industry’s historic entrance Chicago Construction News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPanVCWGlPTTRHclluV2VZU090aHVITDdVemtYM2V6cGhJOEIxV0NBMXEwamlPT3hkN3pQdndLWDVINmZFLWRaUzVpRnhaQ3RCODh4MWowYVBhWWJfT0hKVEQ0RnRkdHlzZGNBaUlSc3JtR3FVeC1kNHNueGdqZFp2RGVHOFFHY1M3REEyVzktUFVJWGhXZWdrMTFCZWZqMVZJcjNMZzZSeU5UREQtc1VpelU0d0VvRnNzZnhvc2JUOWs?oc=5",
-      "source": "Chicago Construction News",
+      "id": "2d26e9a2f33ec617",
+      "title": "Construction begins on $164 million flyover bridge at Southwest Mixmaster",
+      "summary": "Construction begins on $164 million flyover bridge at Southwest Mixmaster KCCI",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnU3VFpTcE40SlRzYzlucTlFR0k4ODVJTkhjUzVUdzhCX1lhZFpPREczdGpmRVhoeXVUdjBtUlk5LWllNS1tZVBEZTVtejU0RlZaMlo2cTFyNnl4UTNXRi1Pa1EtT21HeGlEdDVRay13SzgwUXhraU51SGlEclNocmVtR2swWW1mbWlXX0ZTdmF6T051RlZCYVFSVDZSVjd0dEJlVjJ4MEMtZVk?oc=5",
+      "source": "KCCI",
       "feed": "Google News",
       "published": "2026-10-20T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国中西部",
-      "sector": "文化公共",
-      "image": ""
-    },
-    {
-      "id": "b9317123514bafdd",
-      "title": "Affordable Housing Program Approved",
-      "summary": "Affordable Housing Program Approved Elk Grove Citizen |",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNjcteXpvNm9mdTZfOV8wSXJIa1BvT3dpNDJXQWg0T0lIM1JZeTlndnd0S1RpdUI0bm9zR3Fxek1LVkxSX0ViRXJOOEozdHBSemFrZnZGZTNOTmNRMHR1V3BzcEhma2NyZWxsZjBMVm85SWtBRk5jOUVVc2pCQUotM05oWW8wUQ?oc=5",
-      "source": "Elk Grove Citizen |",
-      "feed": "Google News",
-      "published": "2026-10-20T07:00:00+00:00",
-      "category": "审批落地",
+      "category": "开工建设",
       "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "e407f91af5b9ef8f",
-      "title": "Midway Rising Project Approved by Council Committee But With Condition that Affordable Housing Be ‘New’",
-      "summary": "Midway Rising Project Approved by Council Committee But With Condition that Affordable Housing Be ‘New’ OB Rag",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUmdSX2hVY3pwem4wWVoxRW55NkNYcHU3ZGdOX3QzYjV5ekFaRFJIN3VhQVd6VEljS1BtcVlwVG1iRnBvQy1nRzBzTVIxd0Z4LVlfU2owejR5RTlTRkRDVHUtSk1kMlgwbEY0elVlcW5sZVpGZ0JSdW5GMWpIV2hBWUoyVVJuMWIyaXZVVi1FZ0c4emloRDBEOHdkV001d3NfWGhIekh3T2Z3bDc1aGN0Zm96VmcwUzNZTE0ySkJqdFh6T1FpTlk4cUU3ck96SnprOG9QQTl0d0hIa1U?oc=5",
-      "source": "OB Rag",
-      "feed": "Google News",
-      "published": "2026-10-20T07:00:00+00:00",
-      "category": "审批落地",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
+      "sector": "交通基础设施",
       "image": ""
     },
     {
@@ -19662,16 +21510,29 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "2d26e9a2f33ec617",
-      "title": "Construction begins on $164 million flyover bridge at Southwest Mixmaster",
-      "summary": "Construction begins on $164 million flyover bridge at Southwest Mixmaster KCCI",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnU3VFpTcE40SlRzYzlucTlFR0k4ODVJTkhjUzVUdzhCX1lhZFpPREczdGpmRVhoeXVUdjBtUlk5LWllNS1tZVBEZTVtejU0RlZaMlo2cTFyNnl4UTNXRi1Pa1EtT21HeGlEdDVRay13SzgwUXhraU51SGlEclNocmVtR2swWW1mbWlXX0ZTdmF6T051RlZCYVFSVDZSVjd0dEJlVjJ4MEMtZVk?oc=5",
-      "source": "KCCI",
+      "id": "e9ed261a81d257a5",
+      "title": "Six legendary libraries, where architecture and academia meet",
+      "summary": "Six legendary libraries, where architecture and academia meet South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmZWZk9ZbVJsN05zZXE1Wkh3RmxfeTNsQk9pdDEycHJSZHpTUlhKcXNQeVV2ZEQxWlNjRzJxd05QLWNRaVgybUdfeGdIVXdGa3hFLTNqRzAyYUptTlhTY3VQN2JpOTRVaDNQYk4xMGVjaGZ6NUdpdUZqRHdHYjhUWGMyWG92S0FzRUU2UlIzLUVsRWtGcTlkbUdnczJIZFFDMUpqYjMwaFllX3VxQkNKcTB30gGyAUFVX3lxTE9KZGpqSjJpdUlOU3BteWt0Snltb1AxRHgtYjgwdUlZOWxHVFRvYWRIckR5Nzg2RS1LNjRnbmppVFlocXlpblFnXzI2TFluTXA3SlNKTzFJLVNzZkxQazc1by1KY193Y2ZUQ0JQT2FwbGxWRngtajFSSjRQaXNjSVhvN09DbTZtVnVhVGlnYl81ZjRueC0zc3lWczlrMmIxNEZTRGhJYTJyMXF3dmVReHl2b3c?oc=5",
+      "source": "South China Morning Post",
       "feed": "Google News",
       "published": "2026-10-20T07:00:00+00:00",
-      "category": "开工建设",
+      "category": "行业动态",
       "region": "国际 / 未识别",
-      "sector": "交通基础设施",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "a723492e1201cff1",
+      "title": "Top 180 Healthcare Architecture Firms for 2026",
+      "summary": "Top 180 Healthcare Architecture Firms for 2026 Building Design + Construction",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb3Qxek1jQVZ3UGt6S0NZZkI4UzZHVy1mUnVXOG14VkRrRGVldDM1ZUpmeTRrUHJ2UkxVSHRZVVZYNHMySnQ2NEtIREtyLVhjRUlDd0I3Z1JqZnJYMkxCeFJ1QWJYR29sc2tBNm1Pc3doSGxkOF9YVFFyd0xEY3pzU1hBNkFoODh3QzdHUW1KbmF3c29Na1FIbTFEVHZ5bU5xX3hr?oc=5",
+      "source": "Building Design + Construction",
+      "feed": "Google News",
+      "published": "2026-10-20T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "医疗",
       "image": ""
     },
     {
@@ -19727,19 +21588,6 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "0ae47b2a06eef3e7",
-      "title": "Major Projects: The City-Shaping Projects Underway, Approved or Planned in Adelaide",
-      "summary": "Major Projects: The City-Shaping Projects Underway, Approved or Planned in Adelaide Adelaide Economic Development Agency",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VM0VERU91TExJTW9aV213Y3l6RUdrTUhjaS1VcnlYQ2ZwRmtKNE81Z3hwcWh0Y2VULXJ1bWxiYl94V1RySVQxYWxJZzAxQ2oyQmJOSTViY0FKcFRhdHZPZTA0ZDlVZw?oc=5",
-      "source": "Adelaide Economic Development Agency",
-      "feed": "Google News",
-      "published": "2026-10-20T07:00:00+00:00",
-      "category": "审批落地",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
       "id": "464b41054a18e828",
       "title": "Featured architecture jobs this week at EYRC, Spacesmith, Young Projects, FAME, and Parnagian",
       "summary": "Featured architecture jobs this week at EYRC, Spacesmith, Young Projects, FAME, and Parnagian Archinect",
@@ -19750,19 +21598,6 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "a723492e1201cff1",
-      "title": "Top 180 Healthcare Architecture Firms for 2026",
-      "summary": "Top 180 Healthcare Architecture Firms for 2026 Building Design + Construction",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb3Qxek1jQVZ3UGt6S0NZZkI4UzZHVy1mUnVXOG14VkRrRGVldDM1ZUpmeTRrUHJ2UkxVSHRZVVZYNHMySnQ2NEtIREtyLVhjRUlDd0I3Z1JqZnJYMkxCeFJ1QWJYR29sc2tBNm1Pc3doSGxkOF9YVFFyd0xEY3pzU1hBNkFoODh3QzdHUW1KbmF3c29Na1FIbTFEVHZ5bU5xX3hr?oc=5",
-      "source": "Building Design + Construction",
-      "feed": "Google News",
-      "published": "2026-10-20T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "医疗",
       "image": ""
     },
     {
@@ -19792,6 +21627,19 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
+      "id": "0ae47b2a06eef3e7",
+      "title": "Major Projects: The City-Shaping Projects Underway, Approved or Planned in Adelaide",
+      "summary": "Major Projects: The City-Shaping Projects Underway, Approved or Planned in Adelaide Adelaide Economic Development Agency",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VM0VERU91TExJTW9aV213Y3l6RUdrTUhjaS1VcnlYQ2ZwRmtKNE81Z3hwcWh0Y2VULXJ1bWxiYl94V1RySVQxYWxJZzAxQ2oyQmJOSTViY0FKcFRhdHZPZTA0ZDlVZw?oc=5",
+      "source": "Adelaide Economic Development Agency",
+      "feed": "Google News",
+      "published": "2026-10-20T07:00:00+00:00",
+      "category": "审批落地",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
       "id": "095b524d4601ddc8",
       "title": "Public Architecture Symposium 2026",
       "summary": "Public Architecture Symposium 2026 The American Institute of Architects: AIA",
@@ -19805,16 +21653,16 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "d1048894099bb46b",
-      "title": "Six legendary libraries, where architecture and academia meet",
-      "summary": "Six legendary libraries, where architecture and academia meet South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmZWZk9ZbVJsN05zZXE1Wkh3RmxfeTNsQk9pdDEycHJSZHpTUlhKcXNQeVV2ZEQxWlNjRzJxd05QLWNRaVgybUdfeGdIVXdGa3hFLTNqRzAyYUptTlhTY3VQN2JpOTRVaDNQYk4xMGVjaGZ6NUdpdUZqRHdHYjhUWGMyWG92S0FzRUU2UlIzLUVsRWtGcTlkbUdnczJIZFFDMUpqYjMwaFllX3VxQkNKcTB3?oc=5",
-      "source": "South China Morning Post",
+      "id": "5d214719d3d6a777",
+      "title": "$22M renovation begins at Griffin Museum of Science and Industry’s historic entrance",
+      "summary": "$22M renovation begins at Griffin Museum of Science and Industry’s historic entrance Chicago Construction News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPanVCWGlPTTRHclluV2VZU090aHVITDdVemtYM2V6cGhJOEIxV0NBMXEwamlPT3hkN3pQdndLWDVINmZFLWRaUzVpRnhaQ3RCODh4MWowYVBhWWJfT0hKVEQ0RnRkdHlzZGNBaUlSc3JtR3FVeC1kNHNueGdqZFp2RGVHOFFHY1M3REEyVzktUFVJWGhXZWdrMTFCZWZqMVZJcjNMZzZSeU5UREQtc1VpelU0d0VvRnNzZnhvc2JUOWs?oc=5",
+      "source": "Chicago Construction News",
       "feed": "Google News",
       "published": "2026-10-20T07:00:00+00:00",
       "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
+      "region": "美国中西部",
+      "sector": "文化公共",
       "image": ""
     },
     {
@@ -20078,6 +21926,19 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
+      "id": "112bef793daa5779",
+      "title": "Long-delayed Pahokee affordable housing project back under construction, completion targeted for 2027",
+      "summary": "Long-delayed Pahokee affordable housing project back under construction, completion targeted for 2027 WPTV",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTThwV0pzMktrRTZiWlJhOW9uQ1g5TG0zY1FtVkF5RW5iWHBLUDlXWldvZVBlV2ZXVFVFVVZwRGEwRWpYUDB6S3NneFRSa2p4azEzN1N4QlVzNTljV2Q3QzhYa3hRMzBaR3QwOXBqczE1bHVoZGxWODVvbF90aWdXcXppVlRWWlFKQjloQ1V4SmNQcnQ4YXZwVEtwRHVkYUpiOFAzRWpWVVdKQXFhNTQtZko4RnhEengzRlJ2YmZFbDFidHVrbEFJUk9fMDQtN0Z6QW1pS25aVXNTejY2UG9vTTQ5Vlc0SXc?oc=5",
+      "source": "WPTV",
+      "feed": "Google News",
+      "published": "2026-10-19T22:11:04+00:00",
+      "category": "开工建设",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
+      "image": ""
+    },
+    {
       "id": "c7b3685a731e630d",
       "title": "New Building Permit Filed for 22-80 Mott Avenue in , Queens",
       "summary": "New Building Permit Filed for 22-80 Mott Avenue in , Queens Marketproof",
@@ -20169,32 +22030,6 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "a288e252b4e214d0",
-      "title": "Mesa's 1st new library in 30 years wins global design award",
-      "summary": "Mesa's 1st new library in 30 years wins global design award KJZZ",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONW5IZTlCVG44Q1lrc18yTGNMaEpac1R0Z295YzRTQnF4OW40dG90RExqN3N1MG5pQVZRQ1FlV3ZYemc0Q1lFX2lWMGZvckhKSWpTclFYZFFNb0tIOXlnMGRNbzR6WXlNcmduQ1Q4aDZVR2tsZzRwUi05YWd5NVFRd0tORTRWYnJSdlZIdXh4NkpmYXRlaUo1VGJvcllGMGln?oc=5",
-      "source": "KJZZ",
-      "feed": "Google News",
-      "published": "2026-10-19T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "b8a6bcd5023c60ea",
-      "title": "Historic Colfax Hotel gets new life as family leads major renovation",
-      "summary": "Historic Colfax Hotel gets new life as family leads major renovation CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY3lWbTdoNmJ2RnZFTzUtRF9oYUJWcXhPaTItT0VqT2N1WWVWSEhROGs5NVJpR3BMV0xQZFVBVVFWR09QekR1eUhlQm1NaHB4bE9WdFktcWl2bjNWekM0OExQMjk4eklLakZtV2I3cGFzT0lPQzdHZUFDeFdZYmdBOEFuZFF2UQ?oc=5",
-      "source": "CBS News",
-      "feed": "Google News",
-      "published": "2026-10-19T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "商业办公",
-      "image": ""
-    },
-    {
       "id": "4eaf0c307136d0d1",
       "title": "New special school for Northern Gold Coast underway",
       "summary": "New special school for Northern Gold Coast underway Queensland Government",
@@ -20234,6 +22069,19 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
+      "id": "a288e252b4e214d0",
+      "title": "Mesa's 1st new library in 30 years wins global design award",
+      "summary": "Mesa's 1st new library in 30 years wins global design award KJZZ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONW5IZTlCVG44Q1lrc18yTGNMaEpac1R0Z295YzRTQnF4OW40dG90RExqN3N1MG5pQVZRQ1FlV3ZYemc0Q1lFX2lWMGZvckhKSWpTclFYZFFNb0tIOXlnMGRNbzR6WXlNcmduQ1Q4aDZVR2tsZzRwUi05YWd5NVFRd0tORTRWYnJSdlZIdXh4NkpmYXRlaUo1VGJvcllGMGln?oc=5",
+      "source": "KJZZ",
+      "feed": "Google News",
+      "published": "2026-10-19T07:00:00+00:00",
+      "category": "设计发布",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": ""
+    },
+    {
       "id": "d2b1170faed4b46f",
       "title": "Cedar Rapids Veterans Memorial Building to host free holiday meal",
       "summary": "Cedar Rapids Veterans Memorial Building to host free holiday meal KGAN",
@@ -20260,6 +22108,19 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
+      "id": "110aee32bd718a65",
+      "title": "Des Moines schools begins construction on Moulton Arts Academy",
+      "summary": "Des Moines schools begins construction on Moulton Arts Academy Business Record",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWFdKR2EyR0JsLVlsTjgwN3pjb3pfWEVEOXRMcHVJQnhZdi1OcmVjTnc0N05SbUF6S2lhX0tkcXJfR1VYOHFRSlRQR08xVGFYQ0I3ZFFjVGZQOEZZckp3amVaS012c0lhNjRzZ3hCN0ZHZXVwdnNDNncyUGhPb0tDb3dLUWVPWVVKUzVWZF9vYjlKUXkwWUUzNEdn?oc=5",
+      "source": "Business Record",
+      "feed": "Google News",
+      "published": "2026-10-19T07:00:00+00:00",
+      "category": "开工建设",
+      "region": "爱荷华",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
       "id": "085b247483f8bb65",
       "title": "Affordable mixed-use development planned at 18th/Peoria",
       "summary": "Affordable mixed-use development planned at 18th/Peoria Urbanize Chicago",
@@ -20273,15 +22134,15 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "110aee32bd718a65",
-      "title": "Des Moines schools begins construction on Moulton Arts Academy",
-      "summary": "Des Moines schools begins construction on Moulton Arts Academy Business Record",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWFdKR2EyR0JsLVlsTjgwN3pjb3pfWEVEOXRMcHVJQnhZdi1OcmVjTnc0N05SbUF6S2lhX0tkcXJfR1VYOHFRSlRQR08xVGFYQ0I3ZFFjVGZQOEZZckp3amVaS012c0lhNjRzZ3hCN0ZHZXVwdnNDNncyUGhPb0tDb3dLUWVPWVVKUzVWZF9vYjlKUXkwWUUzNEdn?oc=5",
-      "source": "Business Record",
+      "id": "9ef51a640cf84d7c",
+      "title": "Meet the engineers: BD+C 40 Under 40 class of 2026",
+      "summary": "Meet the engineers: BD+C 40 Under 40 class of 2026 Building Design + Construction",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeF9DejhKQmdOa1JRc1duZEZ2R1FaOXpMRlNCWnF0dzFPcHhybGU1bWRTME1CLXdrME0wWlMxcUltbVlTTUtHR3haRGRvTWhWbzlybHlidUZzX21UazZSOHJkelVjb2J4TExPUXI3dS1IMGNhR3l1NWVCbnRHbzNxZlZaRzc5dGZzSWRCZTdqOE5WYzg4RnI3VllPbHMwOG9n?oc=5",
+      "source": "Building Design + Construction",
       "feed": "Google News",
       "published": "2026-10-19T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "爱荷华",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": ""
     },
@@ -20338,15 +22199,15 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "9ef51a640cf84d7c",
-      "title": "Meet the engineers: BD+C 40 Under 40 class of 2026",
-      "summary": "Meet the engineers: BD+C 40 Under 40 class of 2026 Building Design + Construction",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeF9DejhKQmdOa1JRc1duZEZ2R1FaOXpMRlNCWnF0dzFPcHhybGU1bWRTME1CLXdrME0wWlMxcUltbVlTTUtHR3haRGRvTWhWbzlybHlidUZzX21UazZSOHJkelVjb2J4TExPUXI3dS1IMGNhR3l1NWVCbnRHbzNxZlZaRzc5dGZzSWRCZTdqOE5WYzg4RnI3VllPbHMwOG9n?oc=5",
-      "source": "Building Design + Construction",
+      "id": "f7cc11bda2576d36",
+      "title": "City Council approves development at 2648 W. Lawrence",
+      "summary": "City Council approves development at 2648 W. Lawrence Urbanize Chicago",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY2dpUlIwb3BZdk91c2pFMFB6V2RhMXpTMFBjVHRNRUpnWGhPMG5SZUVEaFpvWk9KVG9LRnJNUTdwbE1xT2tIZWtjX2lCQ2lqVTFnYzJBUXp6RVEtckRoM1hfUGhVMXNiNGk1MDJxUUhrNFZON201VDN2bWdzUjQxSnVVcm9YU2Y4TW5NXw?oc=5",
+      "source": "Urbanize Chicago",
       "feed": "Google News",
       "published": "2026-10-19T07:00:00+00:00",
       "category": "行业动态",
-      "region": "国际 / 未识别",
+      "region": "美国中西部",
       "sector": "综合项目",
       "image": ""
     },
@@ -20360,19 +22221,6 @@ window.ARCH_RADAR_DATA = {
       "published": "2026-10-19T07:00:00+00:00",
       "category": "设计发布",
       "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "f7cc11bda2576d36",
-      "title": "City Council approves development at 2648 W. Lawrence",
-      "summary": "City Council approves development at 2648 W. Lawrence Urbanize Chicago",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY2dpUlIwb3BZdk91c2pFMFB6V2RhMXpTMFBjVHRNRUpnWGhPMG5SZUVEaFpvWk9KVG9LRnJNUTdwbE1xT2tIZWtjX2lCQ2lqVTFnYzJBUXp6RVEtckRoM1hfUGhVMXNiNGk1MDJxUUhrNFZON201VDN2bWdzUjQxSnVVcm9YU2Y4TW5NXw?oc=5",
-      "source": "Urbanize Chicago",
-      "feed": "Google News",
-      "published": "2026-10-19T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国中西部",
       "sector": "综合项目",
       "image": ""
     },
@@ -20413,6 +22261,19 @@ window.ARCH_RADAR_DATA = {
       "category": "设计发布",
       "region": "国际 / 未识别",
       "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "b8a6bcd5023c60ea",
+      "title": "Historic Colfax Hotel gets new life as family leads major renovation",
+      "summary": "Historic Colfax Hotel gets new life as family leads major renovation CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY3lWbTdoNmJ2RnZFTzUtRF9oYUJWcXhPaTItT0VqT2N1WWVWSEhROGs5NVJpR3BMV0xQZFVBVVFWR09QekR1eUhlQm1NaHB4bE9WdFktcWl2bjNWekM0OExQMjk4eklLakZtV2I3cGFzT0lPQzdHZUFDeFdZYmdBOEFuZFF2UQ?oc=5",
+      "source": "CBS News",
+      "feed": "Google News",
+      "published": "2026-10-19T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "商业办公",
       "image": ""
     },
     {
@@ -20624,19 +22485,6 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "278369f87547e4a6",
-      "title": "CT elections and affordable housing: What each side is saying and how it impacts you",
-      "summary": "CT elections and affordable housing: What each side is saying and how it impacts you Hartford Courant",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjRCNHRrNFZ5dUZyWGhwSVJsYkhGVlRZQ1ZybjJNSnh6LUg0VDY5YkdHdXlGQk45RTNjTWRwOFZwd2lCTURNVjNRZ0tPZ1pkc1ZTTEdqOWpPQkhfeldrR3N5bFVKTzQtZmpRd1hTV3N4RVVkcVNHdmhlRTg0LUpfRGRJNUZVb3FpZjVyQkR6bm4wSWpkdmJTM005Wk5OTGRFY2ZWTy02dEZ1ZGozUXY4?oc=5",
-      "source": "Hartford Courant",
-      "feed": "Google News",
-      "published": "2026-10-18T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
       "id": "f9fd1f55849bca34",
       "title": "New Plainfield Community Policing Mini Station Opens Downtown Near Train Station",
       "summary": "New Plainfield Community Policing Mini Station Opens Downtown Near Train Station TAPinto",
@@ -20660,6 +22508,19 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "278369f87547e4a6",
+      "title": "CT elections and affordable housing: What each side is saying and how it impacts you",
+      "summary": "CT elections and affordable housing: What each side is saying and how it impacts you Hartford Courant",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjRCNHRrNFZ5dUZyWGhwSVJsYkhGVlRZQ1ZybjJNSnh6LUg0VDY5YkdHdXlGQk45RTNjTWRwOFZwd2lCTURNVjNRZ0tPZ1pkc1ZTTEdqOWpPQkhfeldrR3N5bFVKTzQtZmpRd1hTV3N4RVVkcVNHdmhlRTg0LUpfRGRJNUZVb3FpZjVyQkR6bm4wSWpkdmJTM005Wk5OTGRFY2ZWTy02dEZ1ZGozUXY4?oc=5",
+      "source": "Hartford Courant",
+      "feed": "Google News",
+      "published": "2026-10-18T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
       "image": ""
     },
     {
@@ -20728,16 +22589,16 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "1512e9bd2f196317",
-      "title": "Housing development in Woonton approved despite residents' objections",
-      "summary": "Housing development in Woonton approved despite residents' objections Rayo",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNakZ0dVdHM3NPcVd2SkJyQktoN3plb1ZNVF9HZWJtclk1WmFfckZ1SGRxYk5ZOTFmVVVGSXB6dGFETVhoQjk0NVdpcXExRWZQLWVnRGEtN0VwMkd3N2ZzbDJVS2c5TkR6Mzl3eEdtV3I2RmNua3hCZVgtanp5eUFoWlZFazVTNVo3b2V2Y3VIYkVPRFVqdG96VWZldkgybHgtUV9XZzUxRXRzWEZTX01lMTJhSnN5dw?oc=5",
-      "source": "Rayo",
+      "id": "01a517f16a3081f4",
+      "title": "Entries Open for 2027 Brooklyn Pin Design Competition",
+      "summary": "Entries Open for 2027 Brooklyn Pin Design Competition BKReader",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNWstQ2Q3YTJGcTFUVTFxbXBidzVlWXZNRWFaQ3dBQXVVMnJtMmQyY2Y1RW9ZV2tZMF8zVm50ZndWSlpOc3k1NVlSQUIyZ3RhZUhXSURVc0dzNGZVd1FqNlZ3SlpuNWtfVDV2NXpTVlhrLThvZWVxSy1US2lxVG1oVThlYTlHLTdmOE1BZld1LXIyYXZYc2JnVkswTkJ6RHJrcFQtQ3VaYWViQQ?oc=5",
+      "source": "BKReader",
       "feed": "Google News",
       "published": "2026-10-17T07:00:00+00:00",
-      "category": "审批落地",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
+      "category": "项目竣工",
+      "region": "美国其他",
+      "sector": "综合项目",
       "image": ""
     },
     {
@@ -20832,16 +22693,16 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "01a517f16a3081f4",
-      "title": "Entries Open for 2027 Brooklyn Pin Design Competition",
-      "summary": "Entries Open for 2027 Brooklyn Pin Design Competition BKReader",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNWstQ2Q3YTJGcTFUVTFxbXBidzVlWXZNRWFaQ3dBQXVVMnJtMmQyY2Y1RW9ZV2tZMF8zVm50ZndWSlpOc3k1NVlSQUIyZ3RhZUhXSURVc0dzNGZVd1FqNlZ3SlpuNWtfVDV2NXpTVlhrLThvZWVxSy1US2lxVG1oVThlYTlHLTdmOE1BZld1LXIyYXZYc2JnVkswTkJ6RHJrcFQtQ3VaYWViQQ?oc=5",
-      "source": "BKReader",
+      "id": "1512e9bd2f196317",
+      "title": "Housing development in Woonton approved despite residents' objections",
+      "summary": "Housing development in Woonton approved despite residents' objections Rayo",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNakZ0dVdHM3NPcVd2SkJyQktoN3plb1ZNVF9HZWJtclk1WmFfckZ1SGRxYk5ZOTFmVVVGSXB6dGFETVhoQjk0NVdpcXExRWZQLWVnRGEtN0VwMkd3N2ZzbDJVS2c5TkR6Mzl3eEdtV3I2RmNua3hCZVgtanp5eUFoWlZFazVTNVo3b2V2Y3VIYkVPRFVqdG96VWZldkgybHgtUV9XZzUxRXRzWEZTX01lMTJhSnN5dw?oc=5",
+      "source": "Rayo",
       "feed": "Google News",
       "published": "2026-10-17T07:00:00+00:00",
-      "category": "项目竣工",
-      "region": "美国其他",
-      "sector": "综合项目",
+      "category": "审批落地",
+      "region": "国际 / 未识别",
+      "sector": "住宅",
       "image": ""
     },
     {
@@ -20936,19 +22797,6 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "b6d0c77ddc74089f",
-      "title": "Burbank City Council Approves Progressive Design-Build Contract for New Library and Civic Center Project",
-      "summary": "Burbank City Council Approves Progressive Design-Build Contract for New Library and Civic Center Project MyBurbank.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkIxOF9fNG95T1NUUU8wd29IQ2YweXhsMmxDY1k5aVFESmIzcE81Uk9Mbnl5ZmJrMW9DTzZVVVY5Y3ByNTh5YnJxYVR3WV9NWlEyc3puNHVxV3ZsR0pvRkdjaTZ2UW5SU1VMNzQ5SVZaalRHUDVGeFlpZDUxYnNiZEs0WEN4eDkyQUFHYXJGNjNhcy01Wno1dl9JNC1rbWRTamVRQ1g5MW5SU19sZG5TcGhWU2FlVU5vOWdUamFhR0FGX0ZkNEE?oc=5",
-      "source": "MyBurbank.com",
-      "feed": "Google News",
-      "published": "2026-10-16T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": ""
-    },
-    {
       "id": "d95a981968007f4c",
       "title": "Durant House Renovation by Russel Buchanan",
       "summary": "Durant House Renovation by Russel Buchanan The Architect’s Newspaper",
@@ -20972,6 +22820,19 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "住宅",
+      "image": ""
+    },
+    {
+      "id": "b6d0c77ddc74089f",
+      "title": "Burbank City Council Approves Progressive Design-Build Contract for New Library and Civic Center Project",
+      "summary": "Burbank City Council Approves Progressive Design-Build Contract for New Library and Civic Center Project MyBurbank.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkIxOF9fNG95T1NUUU8wd29IQ2YweXhsMmxDY1k5aVFESmIzcE81Uk9Mbnl5ZmJrMW9DTzZVVVY5Y3ByNTh5YnJxYVR3WV9NWlEyc3puNHVxV3ZsR0pvRkdjaTZ2UW5SU1VMNzQ5SVZaalRHUDVGeFlpZDUxYnNiZEs0WEN4eDkyQUFHYXJGNjNhcy01Wno1dl9JNC1rbWRTamVRQ1g5MW5SU19sZG5TcGhWU2FlVU5vOWdUamFhR0FGX0ZkNEE?oc=5",
+      "source": "MyBurbank.com",
+      "feed": "Google News",
+      "published": "2026-10-16T07:00:00+00:00",
+      "category": "设计发布",
+      "region": "国际 / 未识别",
+      "sector": "教育",
       "image": ""
     },
     {
@@ -21027,16 +22888,16 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "c622391b40342277",
-      "title": "After $15B data center development, what’s next in Ozaukee County? - Milwaukee Business Journal",
-      "summary": "After $15B data center development, what’s next in Ozaukee County? - Milwaukee Business Journal The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHd3MDctbFBFQlFyVjhERTc2dXN4cFhXM0xERmNVNUhZRVBJZVRvUEh1QXptRTFMWG5nVnZWOGhyNDhpb0dYYmJyLTlTaktWX2hPZnYxdTdGakxfalZaRUJ6VU41RVJiOHZoZGROaExQTWdZVE1JTXAyMXZMLWczU0FnWDNVTENmdUp0enFPQk5zUVRaS3piQ2hCY0hJTUQtY2ZiT1BGR3M?oc=5",
-      "source": "The Business Journals",
+      "id": "142feff127feef81",
+      "title": "Office demand is rebounding toward pre-pandemic peaks",
+      "summary": "Office demand is rebounding toward pre-pandemic peaks Building Design + Construction",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSWhORHh3U2p5MlJNYW9LSzRaWkRHMzI2MVpsQndtSXR4cU1lRDRjaEZCVHJvYURCbktBcXlWczI3Q0JOTGI5TVlIX1JKTjN6NEJoQ29iR0E4d3NKQzIyMXlsZTJCbVpwNFBNRS0xMWo4bzZsVngtVmJpTVdFaGliRGNYUGYwMDZZcGdMeXhWa0lhTkt5bVJ3aTFMaExiWVNrN1YxTWF4RllaODNlUE5Ial9KSlllRWZuWGhWLW1iRFV6VXNhd3c1VmNKYlgxMzU1eEM0eQ?oc=5",
+      "source": "Building Design + Construction",
       "feed": "Google News",
       "published": "2026-10-16T07:00:00+00:00",
       "category": "行业动态",
-      "region": "美国中西部",
-      "sector": "综合项目",
+      "region": "国际 / 未识别",
+      "sector": "商业办公",
       "image": ""
     },
     {
@@ -21092,16 +22953,16 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "142feff127feef81",
-      "title": "Office demand is rebounding toward pre-pandemic peaks",
-      "summary": "Office demand is rebounding toward pre-pandemic peaks Building Design + Construction",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSWhORHh3U2p5MlJNYW9LSzRaWkRHMzI2MVpsQndtSXR4cU1lRDRjaEZCVHJvYURCbktBcXlWczI3Q0JOTGI5TVlIX1JKTjN6NEJoQ29iR0E4d3NKQzIyMXlsZTJCbVpwNFBNRS0xMWo4bzZsVngtVmJpTVdFaGliRGNYUGYwMDZZcGdMeXhWa0lhTkt5bVJ3aTFMaExiWVNrN1YxTWF4RllaODNlUE5Ial9KSlllRWZuWGhWLW1iRFV6VXNhd3c1VmNKYlgxMzU1eEM0eQ?oc=5",
-      "source": "Building Design + Construction",
+      "id": "c622391b40342277",
+      "title": "After $15B data center development, what’s next in Ozaukee County? - Milwaukee Business Journal",
+      "summary": "After $15B data center development, what’s next in Ozaukee County? - Milwaukee Business Journal The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHd3MDctbFBFQlFyVjhERTc2dXN4cFhXM0xERmNVNUhZRVBJZVRvUEh1QXptRTFMWG5nVnZWOGhyNDhpb0dYYmJyLTlTaktWX2hPZnYxdTdGakxfalZaRUJ6VU41RVJiOHZoZGROaExQTWdZVE1JTXAyMXZMLWczU0FnWDNVTENmdUp0enFPQk5zUVRaS3piQ2hCY0hJTUQtY2ZiT1BGR3M?oc=5",
+      "source": "The Business Journals",
       "feed": "Google News",
       "published": "2026-10-16T07:00:00+00:00",
       "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "商业办公",
+      "region": "美国中西部",
+      "sector": "综合项目",
       "image": ""
     },
     {
@@ -21326,24 +23187,11 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "9a3fc0b9d0f0036d",
-      "title": "New Royals stadium design keeps the K's fountains and crown. But it will have fewer seats",
-      "summary": "New Royals stadium design keeps the K's fountains and crown. But it will have fewer seats KCUR",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSGdibE9DcEs2d0tsVy1PS3F3TzU5aldvaFpXUE9UNGF3Smw0bGRMZU1pRVJBMEx5ZkRvekVfZnlkV0tIM0F5TEZBSXNYbzNleXlTU2VIa1U1X3dtOGJTc3E5eHkwdUU5eHhrMGk2b2tUdXpIT0g4SXdQYkNyMlVpYWYteElTcXVjNkMtbFRHeXRIQUhiLTB5UFU4OF9lZlpvS21UeS0wdU1yYVI2LXJsX2lCVDBIVU5ndC1WdE44bmtJM1l6b3pBWm5Mb082OHNCTlhLc1ZGRVR0SzVDMnJ4aw?oc=5",
-      "source": "KCUR",
-      "feed": "Google News",
-      "published": "2026-10-15T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "体育",
-      "image": ""
-    },
-    {
-      "id": "64695af874a64214",
+      "id": "295d158e1bd7b7e1",
       "title": "Crescent Heights Academy breaks ground on new school",
-      "summary": "Crescent Heights Academy breaks ground on new school Surrey Now-Leader",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeUZTNGh4Nk1DeEV3YXV0bUtKelo5RDlIMG9ldFBQXzc5NW52Zzh6TGxrQVlfUm5kbmFLLW92NFF1MFRKU1Z6VURFbTBCUkQ2RzZPR3NqaFIycW5YUk9USFNFZGYySThRRWRISHEzVlB5UkJ0U1FoMGhTdlhsVDQ5RzdoejVOZ2VPazJxN3gtSlVCb0Z0dFV3?oc=5",
-      "source": "Surrey Now-Leader",
+      "summary": "Crescent Heights Academy breaks ground on new school Peace Arch News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRXE5VkZzMER2aHVTTGJvZ2dMY1VLZ3p2eGdieU1MVUdwWnZUZnNOWmotSkkybTBRTHk4NGxFSnVKZFlILU5jQ1p4YzNvb0dhY2kweEpEbVVMeE1xQlZaQWEzcDBNNE1OczA1UTRIa3JiQ2xKMEtndzRuanBHY1RDaFlvRTczOVVUQVU0TDh6by0zWWxr?oc=5",
+      "source": "Peace Arch News",
       "feed": "Google News",
       "published": "2026-10-15T07:00:00+00:00",
       "category": "开工建设",
@@ -21417,6 +23265,45 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
+      "id": "1d10356a432c7032",
+      "title": "'Vanishing Japan' by Naomi Pollock Spotlights Architecture of Post-War Japan",
+      "summary": "'Vanishing Japan' by Naomi Pollock Spotlights Architecture of Post-War Japan Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbnVHcmhKT1lCUXpabEFBSk42dTRycFdkQ2xBRWtnMFJkSFBfVWpSZTFoWkliSG15OC10ZnBIc3YzblBpRXJYbENSM3NkclA1SGJ2VjJodVJHMTl1QTd0UFNxSTJwYUhJaVdQYW1DTl90VFpWSFREajRUUVVWNFVWa0FDQzlCYUstcWYtUTMyRXRnQmJvbGFCbUJLaHpTVU9KS09SaGlDM19ENlk1Z3plb1pScDJrSS1YTlBUeXBMOVBpQWtm?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Google News",
+      "published": "2026-10-15T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "a12c6616bbecec0b",
+      "title": "The Architecture of Resilience: Why China's Market Offers Unique Value in a Volatile World",
+      "summary": "The Architecture of Resilience: Why China's Market Offers Unique Value in a Volatile World Alwihda Info",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSElyUjlkUXF6MVhKS3hXN2NJaVBqZEJQUks4S2dfVUFwRjlVZ09mMDdjdEhwc1FFSVN4dUxBSUVfdlNqQk03SGlGZEduS3BvUWVmRmxhWTMwWFdaR2JMZTBwcF9BajJpektMSE1JcDRTbWVBUFRkY3VQaFhESHJoMDlxNTlNa2NZUmItT1U5eGFmSmItUW5Oa0JMdElfU3pKWC1hTG1FWXNJYTRrb2QtTlRQUzNfY2w2?oc=5",
+      "source": "Alwihda Info",
+      "feed": "Google News",
+      "published": "2026-10-15T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "b7fd8759365ecd06",
+      "title": "Meet the architects: BD+C 40 Under 40 class of 2026",
+      "summary": "Meet the architects: BD+C 40 Under 40 class of 2026 Building Design + Construction",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObXRYblJsTFZ1UURtOU9Gc2JfZmZUMkdpQU52bWNpQlFpdjdhZDJuRXlNZFNJYTd1UjBTZDhoaTl1MXp5dWxvQ2VTcE1lTWtjeWJQZUNKS3lsRklDMUxxeXcwM29GVHFpUDZUUWNNemN6ZkRmRTZfeGxvSllIZ3JfYUJ1bndLaHFvUTZfdnp3NWt1N2lKSGdVdVB5Nlh2VV9QblE?oc=5",
+      "source": "Building Design + Construction",
+      "feed": "Google News",
+      "published": "2026-10-15T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
       "id": "5488329fef38eb78",
       "title": "University of Tennessee breaks ground on $350M health studies build",
       "summary": "University of Tennessee breaks ground on $350M health studies build Construction Dive",
@@ -21430,16 +23317,55 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "1d10356a432c7032",
-      "title": "'Vanishing Japan' by Naomi Pollock Spotlights Architecture of Post-War Japan",
-      "summary": "'Vanishing Japan' by Naomi Pollock Spotlights Architecture of Post-War Japan Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbnVHcmhKT1lCUXpabEFBSk42dTRycFdkQ2xBRWtnMFJkSFBfVWpSZTFoWkliSG15OC10ZnBIc3YzblBpRXJYbENSM3NkclA1SGJ2VjJodVJHMTl1QTd0UFNxSTJwYUhJaVdQYW1DTl90VFpWSFREajRUUVVWNFVWa0FDQzlCYUstcWYtUTMyRXRnQmJvbGFCbUJLaHpTVU9KS09SaGlDM19ENlk1Z3plb1pScDJrSS1YTlBUeXBMOVBpQWtm?oc=5",
-      "source": "Bloomberg.com",
+      "id": "5e80d243aacf1e9b",
+      "title": "Turner-FH joint venture breaks ground on Colorado hospital",
+      "summary": "Turner-FH joint venture breaks ground on Colorado hospital Construction Dive",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0JSeFNBdnVPWUk1ZEhXcktUbS1YdW8xZTR4UWdIMkJrRHVCaTRRZFNFeU5LNGc2aGdGOVhzenpzZW9vNnMzTjdmVWd4Y3ptcFFTM3NzV2t2bXFoZnVzTGJoVWF3ckc1X3R4VU5LQURUWks1VmFGRzQtdXNrYUMwbVZwWnlMNFZPUExueC1qSnNQNFV3R0JTN2FpTGpuLU0ydXc?oc=5",
+      "source": "Construction Dive",
       "feed": "Google News",
       "published": "2026-10-15T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
+      "category": "开工建设",
+      "region": "美国其他",
+      "sector": "医疗",
+      "image": ""
+    },
+    {
+      "id": "b334a1759c47517e",
+      "title": "First residential phase at LeClaire Courts breaks ground",
+      "summary": "First residential phase at LeClaire Courts breaks ground Urbanize Chicago",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPalk4d0dhUGhVMUJza0lkZWFSQkU2ampUallUMUhWTjFFdGdWVkNOYzNhVjBuaW1HeFdGYm9aNURrX0l3TVVjV0VHM3J3QzNFbmFFUlE2djI5cGxlc2dBUW1FdFd4T2k2cmM5X01ZNlZfeFBHY1R2Wm02WTZuRFl4Tmh4RjZQRVpyUjVMUUFRVldHQQ?oc=5",
+      "source": "Urbanize Chicago",
+      "feed": "Google News",
+      "published": "2026-10-15T07:00:00+00:00",
+      "category": "开工建设",
+      "region": "美国中西部",
+      "sector": "住宅",
+      "image": ""
+    },
+    {
+      "id": "4d16a6582fdc6f1b",
+      "title": "METROPOLIS Celebrates Sustainable Design and Innovation in San Francisco",
+      "summary": "METROPOLIS Celebrates Sustainable Design and Innovation in San Francisco Metropolis Magazine",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHpMVm1MRDZUckR0aUFIUmZyaHdhQ2ZzdFlxNFNJNTVKQjh6b1lndzNrei05OXI3eWxGdTZxd0JmY2tmaGJ3QjNYYkhiSkRrZXhlNzJtZnJEOGJaSGxuc3l3NU5ZQ1lUSkROMksxcV9vX1B3cEJLQmR5bW1ldkkxUFhBWElLcXF6LVUyNjhBVUUyeXR5THFPeWZDNkFkOEFLN2tPZXpaNjQzT2hP?oc=5",
+      "source": "Metropolis Magazine",
+      "feed": "Google News",
+      "published": "2026-10-15T07:00:00+00:00",
+      "category": "设计发布",
+      "region": "美国其他",
       "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "9a3fc0b9d0f0036d",
+      "title": "New Royals stadium design keeps the K's fountains and crown. But it will have fewer seats",
+      "summary": "New Royals stadium design keeps the K's fountains and crown. But it will have fewer seats KCUR",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSGdibE9DcEs2d0tsVy1PS3F3TzU5aldvaFpXUE9UNGF3Smw0bGRMZU1pRVJBMEx5ZkRvekVfZnlkV0tIM0F5TEZBSXNYbzNleXlTU2VIa1U1X3dtOGJTc3E5eHkwdUU5eHhrMGk2b2tUdXpIT0g4SXdQYkNyMlVpYWYteElTcXVjNkMtbFRHeXRIQUhiLTB5UFU4OF9lZlpvS21UeS0wdU1yYVI2LXJsX2lCVDBIVU5ndC1WdE44bmtJM1l6b3pBWm5Mb082OHNCTlhLc1ZGRVR0SzVDMnJ4aw?oc=5",
+      "source": "KCUR",
+      "feed": "Google News",
+      "published": "2026-10-15T07:00:00+00:00",
+      "category": "设计发布",
+      "region": "国际 / 未识别",
+      "sector": "体育",
       "image": ""
     },
     {
@@ -21469,45 +23395,6 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "b7fd8759365ecd06",
-      "title": "Meet the architects: BD+C 40 Under 40 class of 2026",
-      "summary": "Meet the architects: BD+C 40 Under 40 class of 2026 Building Design + Construction",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObXRYblJsTFZ1UURtOU9Gc2JfZmZUMkdpQU52bWNpQlFpdjdhZDJuRXlNZFNJYTd1UjBTZDhoaTl1MXp5dWxvQ2VTcE1lTWtjeWJQZUNKS3lsRklDMUxxeXcwM29GVHFpUDZUUWNNemN6ZkRmRTZfeGxvSllIZ3JfYUJ1bndLaHFvUTZfdnp3NWt1N2lKSGdVdVB5Nlh2VV9QblE?oc=5",
-      "source": "Building Design + Construction",
-      "feed": "Google News",
-      "published": "2026-10-15T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "4d16a6582fdc6f1b",
-      "title": "METROPOLIS Celebrates Sustainable Design and Innovation in San Francisco",
-      "summary": "METROPOLIS Celebrates Sustainable Design and Innovation in San Francisco Metropolis Magazine",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHpMVm1MRDZUckR0aUFIUmZyaHdhQ2ZzdFlxNFNJNTVKQjh6b1lndzNrei05OXI3eWxGdTZxd0JmY2tmaGJ3QjNYYkhiSkRrZXhlNzJtZnJEOGJaSGxuc3l3NU5ZQ1lUSkROMksxcV9vX1B3cEJLQmR5bW1ldkkxUFhBWElLcXF6LVUyNjhBVUUyeXR5THFPeWZDNkFkOEFLN2tPZXpaNjQzT2hP?oc=5",
-      "source": "Metropolis Magazine",
-      "feed": "Google News",
-      "published": "2026-10-15T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "美国其他",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "b334a1759c47517e",
-      "title": "First residential phase at LeClaire Courts breaks ground",
-      "summary": "First residential phase at LeClaire Courts breaks ground Urbanize Chicago",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPalk4d0dhUGhVMUJza0lkZWFSQkU2ampUallUMUhWTjFFdGdWVkNOYzNhVjBuaW1HeFdGYm9aNURrX0l3TVVjV0VHM3J3QzNFbmFFUlE2djI5cGxlc2dBUW1FdFd4T2k2cmM5X01ZNlZfeFBHY1R2Wm02WTZuRFl4Tmh4RjZQRVpyUjVMUUFRVldHQQ?oc=5",
-      "source": "Urbanize Chicago",
-      "feed": "Google News",
-      "published": "2026-10-15T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "美国中西部",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
       "id": "0d29f2779e2fcbdf",
       "title": "Community pushback delays decision on large Elliston housing development",
       "summary": "Community pushback delays decision on large Elliston housing development Cardinal News",
@@ -21534,37 +23421,11 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "5e80d243aacf1e9b",
-      "title": "Turner-FH joint venture breaks ground on Colorado hospital",
-      "summary": "Turner-FH joint venture breaks ground on Colorado hospital Construction Dive",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0JSeFNBdnVPWUk1ZEhXcktUbS1YdW8xZTR4UWdIMkJrRHVCaTRRZFNFeU5LNGc2aGdGOVhzenpzZW9vNnMzTjdmVWd4Y3ptcFFTM3NzV2t2bXFoZnVzTGJoVWF3ckc1X3R4VU5LQURUWks1VmFGRzQtdXNrYUMwbVZwWnlMNFZPUExueC1qSnNQNFV3R0JTN2FpTGpuLU0ydXc?oc=5",
-      "source": "Construction Dive",
-      "feed": "Google News",
-      "published": "2026-10-15T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "美国其他",
-      "sector": "医疗",
-      "image": ""
-    },
-    {
       "id": "6d0d49b96bc63498",
       "title": "Construction Inclusion Week panel: ‘You can become anything you want’",
       "summary": "Construction Inclusion Week panel: ‘You can become anything you want’ Construction Dive",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOW5jS2VoRzJEV3hqYTlRZ0ptVDlVZWQ4czdSMUZDYVM0bVAtUDljTUtlX2RuVlhxeWJ3MW9oLVRXRDBnakRjVGNpV3NTNTk1b0RhRWc5M2k4c0dRY2RwZ3AwblNkTnU5WWloZUNZcEcwQjFBekZMVVNhR2c0c1hXajlHNkM2ZF9iSXZDMEExWEJZRzF6M0lkaUJjaU5WTkVNUjE2elBrb2d6VUk?oc=5",
       "source": "Construction Dive",
-      "feed": "Google News",
-      "published": "2026-10-15T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "a12c6616bbecec0b",
-      "title": "The Architecture of Resilience: Why China's Market Offers Unique Value in a Volatile World",
-      "summary": "The Architecture of Resilience: Why China's Market Offers Unique Value in a Volatile World Alwihda Info",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSElyUjlkUXF6MVhKS3hXN2NJaVBqZEJQUks4S2dfVUFwRjlVZ09mMDdjdEhwc1FFSVN4dUxBSUVfdlNqQk03SGlGZEduS3BvUWVmRmxhWTMwWFdaR2JMZTBwcF9BajJpektMSE1JcDRTbWVBUFRkY3VQaFhESHJoMDlxNTlNa2NZUmItT1U5eGFmSmItUW5Oa0JMdElfU3pKWC1hTG1FWXNJYTRrb2QtTlRQUzNfY2w2?oc=5",
-      "source": "Alwihda Info",
       "feed": "Google News",
       "published": "2026-10-15T07:00:00+00:00",
       "category": "行业动态",
@@ -21677,19 +23538,6 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "6c2a4070f70403c0",
-      "title": "Berwick Community Hospital construction work to be redone",
-      "summary": "Berwick Community Hospital construction work to be redone BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4ZkE4MkJsb1lFcDJqekhpZ2VfVTQtWWVTWDJVeGxfYTE1dkxXcjduMVpKZGNwcFRtUmRiOEc1Qy1yclRIejRBVFJZUjZCMnQydldfMHAzaThYYXZZV0E?oc=5",
-      "source": "BBC",
-      "feed": "Google News",
-      "published": "2026-10-14T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "医疗",
-      "image": ""
-    },
-    {
       "id": "b8cefad06355c703",
       "title": "Housing Development And New Lidl Store Approved By City Council",
       "summary": "Housing Development And New Lidl Store Approved By City Council Business Eye Magazine",
@@ -21703,16 +23551,42 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "92425196f0078bae",
-      "title": "With stadium still under construction, Norwin teams gear up for postseason on the road",
-      "summary": "With stadium still under construction, Norwin teams gear up for postseason on the road TribLIVE.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdU5KdUQyWG1iYndCNDhPWTZ1dzdJYy1Lay1ubUR5ZGFMRFlBRGdDWjhGU2E5LTNVSkZrX1RRLWN6ZTlPdlhKSGktSGdVZWRZZzJQbS1kRlJvcFFWVnB1eDQyMW9vb3E0ZkQzYjd5NXl4QV8zd3JqVDJkcnMzaGxwVUNlczdLYXBSeHg2Y2ZmWnlqOTFqd3VLZ01zY3k1Z2JZNzl6bWhtQmkzYkl5NDNUd0FEY1k?oc=5",
-      "source": "TribLIVE.com",
+      "id": "6c2a4070f70403c0",
+      "title": "Berwick Community Hospital construction work to be redone",
+      "summary": "Berwick Community Hospital construction work to be redone BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4ZkE4MkJsb1lFcDJqekhpZ2VfVTQtWWVTWDJVeGxfYTE1dkxXcjduMVpKZGNwcFRtUmRiOEc1Qy1yclRIejRBVFJZUjZCMnQydldfMHAzaThYYXZZV0E?oc=5",
+      "source": "BBC",
       "feed": "Google News",
       "published": "2026-10-14T07:00:00+00:00",
-      "category": "开工建设",
+      "category": "行业动态",
       "region": "国际 / 未识别",
-      "sector": "体育",
+      "sector": "医疗",
+      "image": ""
+    },
+    {
+      "id": "d89e32e04570faa3",
+      "title": "PNE Administration Building Renovations – Approaching Completion",
+      "summary": "PNE Administration Building Renovations – Approaching Completion Philadelphia International Airport",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIanN3eVpHd3lPem1YSjBQaFEwR3NuclBIdS1Nckh2QnJLODNaX3M0Q1U1VE9HamRQTDRRQmdQdTBRTS1EOUdhb1FLVVNIUGdUU3JkOFBYRQ?oc=5",
+      "source": "Philadelphia International Airport",
+      "feed": "Google News",
+      "published": "2026-10-14T07:00:00+00:00",
+      "category": "项目竣工",
+      "region": "美国其他",
+      "sector": "交通基础设施",
+      "image": ""
+    },
+    {
+      "id": "8047c9febb0297fd",
+      "title": "UNSW to adaptively reuse Kensington's E25 BioLink building as research and teaching hub",
+      "summary": "UNSW to adaptively reuse Kensington's E25 BioLink building as research and teaching hub Architecture & Design",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYmU2cE1qbHo3Vm80cldFUElPUzR3UGVqak1CRE9jNHVIMFA2TERMSHlBeWF5VG9LanFWVjJKQVNyY2pUN3JBVW1MT2ZhQmhGb04zOXVUQ215ZllQby1fNEdHZDdCX2tfVzJQUDhGVWhaR1lrZjRCVDRseWtDcmdXbm1jZHVzaS1oUmhwQlB0QzBrVm45dUtrU3FPc0VrMkI3Ty1UN1BBMXNxZjlXQkpna3B2bjVBVE93QnpLRA?oc=5",
+      "source": "Architecture & Design",
+      "feed": "Google News",
+      "published": "2026-10-14T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
       "image": ""
     },
     {
@@ -21729,29 +23603,16 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "d98cd8b44bed1b8c",
-      "title": "Gaskin: White Stadium could hurt local businesses",
-      "summary": "Gaskin: White Stadium could hurt local businesses Boston Herald",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOFZtT2RVdlZNdUVieHgyemRyX1FYclliNXo5SWVrN0RwUVlnMXNBX19VUzJhcC1jY2xFclB2YXhyX0I0by10UDNyRE41Z1VXdVg2Nng1cUJMeXNVeUJON0dzelFvSHU2eHZVWTNvRFVYNHNLc3pJOG1zT1BKTkhoX0NQbmlEdUM0bDUyaVdEOHFzVGc?oc=5",
-      "source": "Boston Herald",
+      "id": "92425196f0078bae",
+      "title": "With stadium still under construction, Norwin teams gear up for postseason on the road",
+      "summary": "With stadium still under construction, Norwin teams gear up for postseason on the road TribLIVE.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdU5KdUQyWG1iYndCNDhPWTZ1dzdJYy1Lay1ubUR5ZGFMRFlBRGdDWjhGU2E5LTNVSkZrX1RRLWN6ZTlPdlhKSGktSGdVZWRZZzJQbS1kRlJvcFFWVnB1eDQyMW9vb3E0ZkQzYjd5NXl4QV8zd3JqVDJkcnMzaGxwVUNlczdLYXBSeHg2Y2ZmWnlqOTFqd3VLZ01zY3k1Z2JZNzl6bWhtQmkzYkl5NDNUd0FEY1k?oc=5",
+      "source": "TribLIVE.com",
       "feed": "Google News",
       "published": "2026-10-14T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国其他",
-      "sector": "体育",
-      "image": ""
-    },
-    {
-      "id": "8047c9febb0297fd",
-      "title": "UNSW to adaptively reuse Kensington's E25 BioLink building as research and teaching hub",
-      "summary": "UNSW to adaptively reuse Kensington's E25 BioLink building as research and teaching hub Architecture & Design",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYmU2cE1qbHo3Vm80cldFUElPUzR3UGVqak1CRE9jNHVIMFA2TERMSHlBeWF5VG9LanFWVjJKQVNyY2pUN3JBVW1MT2ZhQmhGb04zOXVUQ215ZllQby1fNEdHZDdCX2tfVzJQUDhGVWhaR1lrZjRCVDRseWtDcmdXbm1jZHVzaS1oUmhwQlB0QzBrVm45dUtrU3FPc0VrMkI3Ty1UN1BBMXNxZjlXQkpna3B2bjVBVE93QnpLRA?oc=5",
-      "source": "Architecture & Design",
-      "feed": "Google News",
-      "published": "2026-10-14T07:00:00+00:00",
-      "category": "行业动态",
+      "category": "开工建设",
       "region": "国际 / 未识别",
-      "sector": "综合项目",
+      "sector": "体育",
       "image": ""
     },
     {
@@ -21846,19 +23707,6 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "1d5c19fdef491b8c",
-      "title": "Contractors’ backlog jumped in September as profit outlook fell",
-      "summary": "Contractors’ backlog jumped in September as profit outlook fell Construction Dive",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOEZwTDl0Ymg4Rlc4aUJXZVJsMkFndUhWR1FQUnBkZW84Q19iZDZDZXpZMXYwX19CUXgzNnJ5bW9uSkdDemVUUkJZUWc1TklBOVRieGZkdURjRVVqVzQ1elNKQlByT1BVZ1NzTC16eGNwRGV4Uk05ZkdPc2pYOGhGNjNLZFZKT3lJVGFkVjhrVlJkdWd0cUlpNzUxQ1MzVVg1X0ZZSw?oc=5",
-      "source": "Construction Dive",
-      "feed": "Google News",
-      "published": "2026-10-14T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
       "id": "5de808882aa9d858",
       "title": "Discover Helsinki’s Evolving Design and Architecture Scene – in Finland and in Japan",
       "summary": "Discover Helsinki’s Evolving Design and Architecture Scene – in Finland and in Japan Cision News",
@@ -21867,19 +23715,6 @@ window.ARCH_RADAR_DATA = {
       "feed": "Google News",
       "published": "2026-10-14T07:00:00+00:00",
       "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "7e66e764452ca3a0",
-      "title": "Penn State begins search for Head of Department of Architecture",
-      "summary": "Penn State begins search for Head of Department of Architecture Archinect",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNjNZOUs0aXNPNzFVQjFIdUZDNUE4Y0Mwb0E1VmhieTBFQkJyVmdMVUdLcGFOTG1JdUgxdTFvMUJ4YURVYzJUNVZMSlBfUjdWaVpTdnhhWkpBQjBpQzhUQnV6LXRhN21DSGtFNWZPNGFyc2IxOV9iMjRNdjZEMXMwb1JYZ3paYTBXNDlVbF9uOG5ER3AzeENuYnFjU2JaUHk3V3habjhJM2JOdGZz?oc=5",
-      "source": "Archinect",
-      "feed": "Google News",
-      "published": "2026-10-14T07:00:00+00:00",
-      "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": ""
@@ -21911,11 +23746,24 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "d12fc4fa863b4374",
-      "title": "Celebrating the Craft of Architecture",
-      "summary": "Celebrating the Craft of Architecture Metropolis Magazine",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdVhscER1MHFjWTRRcDFsb3ZNaXpsM3lacENFTWlCYjhldG9oWFVXekJhRDNublRfaUFJN0RLenQwUXl5RU1pRHZ4YnkxNXZPb2FDMTRkT2RlVVRVRUgtTi1odERrSjNrdUZXLVZXX0hwWXBCUG5lVm9OdDdWa3hIMg?oc=5",
-      "source": "Metropolis Magazine",
+      "id": "1d5c19fdef491b8c",
+      "title": "Contractors’ backlog jumped in September as profit outlook fell",
+      "summary": "Contractors’ backlog jumped in September as profit outlook fell Construction Dive",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOEZwTDl0Ymg4Rlc4aUJXZVJsMkFndUhWR1FQUnBkZW84Q19iZDZDZXpZMXYwX19CUXgzNnJ5bW9uSkdDemVUUkJZUWc1TklBOVRieGZkdURjRVVqVzQ1elNKQlByT1BVZ1NzTC16eGNwRGV4Uk05ZkdPc2pYOGhGNjNLZFZKT3lJVGFkVjhrVlJkdWd0cUlpNzUxQ1MzVVg1X0ZZSw?oc=5",
+      "source": "Construction Dive",
+      "feed": "Google News",
+      "published": "2026-10-14T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "7e66e764452ca3a0",
+      "title": "Penn State begins search for Head of Department of Architecture",
+      "summary": "Penn State begins search for Head of Department of Architecture Archinect",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNjNZOUs0aXNPNzFVQjFIdUZDNUE4Y0Mwb0E1VmhieTBFQkJyVmdMVUdLcGFOTG1JdUgxdTFvMUJ4YURVYzJUNVZMSlBfUjdWaVpTdnhhWkpBQjBpQzhUQnV6LXRhN21DSGtFNWZPNGFyc2IxOV9iMjRNdjZEMXMwb1JYZ3paYTBXNDlVbF9uOG5ER3AzeENuYnFjU2JaUHk3V3habjhJM2JOdGZz?oc=5",
+      "source": "Archinect",
       "feed": "Google News",
       "published": "2026-10-14T07:00:00+00:00",
       "category": "行业动态",
@@ -21950,6 +23798,19 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
+      "id": "d12fc4fa863b4374",
+      "title": "Celebrating the Craft of Architecture",
+      "summary": "Celebrating the Craft of Architecture Metropolis Magazine",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdVhscER1MHFjWTRRcDFsb3ZNaXpsM3lacENFTWlCYjhldG9oWFVXekJhRDNublRfaUFJN0RLenQwUXl5RU1pRHZ4YnkxNXZPb2FDMTRkT2RlVVRVRUgtTi1odERrSjNrdUZXLVZXX0hwWXBCUG5lVm9OdDdWa3hIMg?oc=5",
+      "source": "Metropolis Magazine",
+      "feed": "Google News",
+      "published": "2026-10-14T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
       "id": "169e30041d78c12d",
       "title": "AIA Speaker Series: Regenerative Cities",
       "summary": "AIA Speaker Series: Regenerative Cities The American Institute of Architects: AIA",
@@ -21973,6 +23834,19 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "爱荷华",
       "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "d98cd8b44bed1b8c",
+      "title": "Gaskin: White Stadium could hurt local businesses",
+      "summary": "Gaskin: White Stadium could hurt local businesses Boston Herald",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOFZtT2RVdlZNdUVieHgyemRyX1FYclliNXo5SWVrN0RwUVlnMXNBX19VUzJhcC1jY2xFclB2YXhyX0I0by10UDNyRE41Z1VXdVg2Nng1cUJMeXNVeUJON0dzelFvSHU2eHZVWTNvRFVYNHNLc3pJOG1zT1BKTkhoX0NQbmlEdUM0bDUyaVdEOHFzVGc?oc=5",
+      "source": "Boston Herald",
+      "feed": "Google News",
+      "published": "2026-10-14T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "美国其他",
+      "sector": "体育",
       "image": ""
     },
     {
@@ -22054,19 +23928,6 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "d89e32e04570faa3",
-      "title": "PNE Administration Building Renovations – Approaching Completion",
-      "summary": "PNE Administration Building Renovations – Approaching Completion Philadelphia International Airport",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIanN3eVpHd3lPem1YSjBQaFEwR3NuclBIdS1Nckh2QnJLODNaX3M0Q1U1VE9HamRQTDRRQmdQdTBRTS1EOUdhb1FLVVNIUGdUU3JkOFBYRQ?oc=5",
-      "source": "Philadelphia International Airport",
-      "feed": "Google News",
-      "published": "2026-10-14T07:00:00+00:00",
-      "category": "项目竣工",
-      "region": "美国其他",
-      "sector": "交通基础设施",
-      "image": ""
-    },
-    {
       "id": "481cb3de0f116ffe",
       "title": "3D-printing giant Icon raises $200M",
       "summary": "3D-printing giant Icon raises $200M Construction Dive",
@@ -22129,6 +23990,32 @@ window.ARCH_RADAR_DATA = {
       "category": "项目竣工",
       "region": "国际 / 未识别",
       "sector": "交通基础设施",
+      "image": ""
+    },
+    {
+      "id": "5baf19d4e932431c",
+      "title": "Cedar Rapids neighborhood counts down to casino opening in November, city wraps up street projects",
+      "summary": "Cedar Rapids neighborhood counts down to casino opening in November, city wraps up street projects KCRG",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUDg3cVJlZmliRk5rV1loaWo3WW1mYmxUWVR4Q01QMmk2bDFUSFJXZDU2a3B4NkJlN21sWkZPR3pnd3NzQXNLeF95ZU01Y29LNWlFZ1kwd2VBa0ROeW10WVlOelZXcDlUUEpKcEFFMDRaRFpCSllrLU5hU0NCRnY0VFZqTElKenMxM3dGX3hrM1JFZTV3eDZJZDhFdTBBeEZDbXFrUTFxMXFsQ3hERE9rWlVRVVNvTHhOWWlGRXBObWczd9IB1gFBVV95cUxOQUhDVDhuSnNTc01yVjZTajVlbmFNSU81bHV2eTVGRU1ZRmJaMkVvUlhwUjRDYWlLQ1JNZVJaWUN2S3JBSW8yN1RaZDVXUWE4STJNekhicTVXTXVOMGxQRkFZRUd0bGd4T29LeGx2Y2NkeUo5T1I5MWxhZF9ITlVhUHlaZUJtczRsVlBxazJPZmRYUDBmSVI2WmRQSVhDM2dDaDRYUUwzYUNVQ2pySFNiOW4zd1dqcjJDMS1YWnBjX0hIZG11c004SDZRcUU5V0gwOUtiMm5n?oc=5",
+      "source": "KCRG",
+      "feed": "Google News",
+      "published": "2026-10-13T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "爱荷华",
+      "sector": "综合项目",
+      "image": ""
+    },
+    {
+      "id": "84101cb8c3945e29",
+      "title": "Morningside University to expand nursing training and support with federal grant funds",
+      "summary": "Morningside University to expand nursing training and support with federal grant funds Iowa Capital Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRHJzWWtqUEEwb0J1bE02WWgwaGVBMVVXSzR5UkUxWkRtV3lrYW1LaHBBc3JRN3I2ZVFpSjAwbGxaNGNEeTM0YzhUemRMZUF2ZWprUmdzUDhFR3RnLWZZdm5VQjlZbVpWZ3ZhWlFjQkcydHl2NXZsT3RzVE1jM3BvTk5vS3FVSm91YTc0TTNfSFhSNTdhb3FocEg5djVpR2xna3FkTktGYVFWX1V3V3pHMmlYMDRwOVFXd3ZXa1FIbkJrRHUyX1A5YW5n?oc=5",
+      "source": "Iowa Capital Dispatch",
+      "feed": "Google News",
+      "published": "2026-10-13T07:00:00+00:00",
+      "category": "行业动态",
+      "region": "爱荷华",
+      "sector": "教育",
       "image": ""
     },
     {
@@ -22311,19 +24198,6 @@ window.ARCH_RADAR_DATA = {
       "category": "项目竣工",
       "region": "美国其他",
       "sector": "交通基础设施",
-      "image": ""
-    },
-    {
-      "id": "5baf19d4e932431c",
-      "title": "Cedar Rapids neighborhood counts down to casino opening in November, city wraps up street projects",
-      "summary": "Cedar Rapids neighborhood counts down to casino opening in November, city wraps up street projects KCRG",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUDg3cVJlZmliRk5rV1loaWo3WW1mYmxUWVR4Q01QMmk2bDFUSFJXZDU2a3B4NkJlN21sWkZPR3pnd3NzQXNLeF95ZU01Y29LNWlFZ1kwd2VBa0ROeW10WVlOelZXcDlUUEpKcEFFMDRaRFpCSllrLU5hU0NCRnY0VFZqTElKenMxM3dGX3hrM1JFZTV3eDZJZDhFdTBBeEZDbXFrUTFxMXFsQ3hERE9rWlVRVVNvTHhOWWlGRXBObWczd9IB1gFBVV95cUxOQUhDVDhuSnNTc01yVjZTajVlbmFNSU81bHV2eTVGRU1ZRmJaMkVvUlhwUjRDYWlLQ1JNZVJaWUN2S3JBSW8yN1RaZDVXUWE4STJNekhicTVXTXVOMGxQRkFZRUd0bGd4T29LeGx2Y2NkeUo5T1I5MWxhZF9ITlVhUHlaZUJtczRsVlBxazJPZmRYUDBmSVI2WmRQSVhDM2dDaDRYUUwzYUNVQ2pySFNiOW4zd1dqcjJDMS1YWnBjX0hIZG11c004SDZRcUU5V0gwOUtiMm5n?oc=5",
-      "source": "KCRG",
-      "feed": "Google News",
-      "published": "2026-10-13T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "爱荷华",
-      "sector": "综合项目",
       "image": ""
     },
     {
@@ -22522,19 +24396,6 @@ window.ARCH_RADAR_DATA = {
       "image": ""
     },
     {
-      "id": "84101cb8c3945e29",
-      "title": "Morningside University to expand nursing training and support with federal grant funds",
-      "summary": "Morningside University to expand nursing training and support with federal grant funds Iowa Capital Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRHJzWWtqUEEwb0J1bE02WWgwaGVBMVVXSzR5UkUxWkRtV3lrYW1LaHBBc3JRN3I2ZVFpSjAwbGxaNGNEeTM0YzhUemRMZUF2ZWprUmdzUDhFR3RnLWZZdm5VQjlZbVpWZ3ZhWlFjQkcydHl2NXZsT3RzVE1jM3BvTk5vS3FVSm91YTc0TTNfSFhSNTdhb3FocEg5djVpR2xna3FkTktGYVFWX1V3V3pHMmlYMDRwOVFXd3ZXa1FIbkJrRHUyX1A5YW5n?oc=5",
-      "source": "Iowa Capital Dispatch",
-      "feed": "Google News",
-      "published": "2026-10-13T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "爱荷华",
-      "sector": "教育",
-      "image": ""
-    },
-    {
       "id": "d7862b54bf0d1e3c",
       "title": "JOIN US TOMORROW: Key Trends in the U.S. Commercial Architecture Market for 2027",
       "summary": "JOIN US TOMORROW: Key Trends in the U.S. Commercial Architecture Market for 2027 Building Design + Construction",
@@ -22688,1761 +24549,6 @@ window.ARCH_RADAR_DATA = {
       "category": "竞赛招标",
       "region": "国际 / 未识别",
       "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "0f1278aaab580638",
-      "title": "Dedham Housing Development Breaks Ground Near Legacy Place",
-      "summary": "Dedham Housing Development Breaks Ground Near Legacy Place Patch",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObnpybXEzY3AtSkhiSlMxVFJtNDh3bFVjTjNzOHZFcG5Oa3B1VWpqWkhsWmlrbVdDd28xdkF0aVllVGxNUmt1eEVTdHpQYTFFUVl3dG56SXdjeGczM3BRMlcyV0lYTGcwMWxkT0RYR2lydktlelFXSWkxNldZVmh3WTZ4MjFEQ2lXR19lWUhDbkJKb0JqdU9HSE9SZVZlUQ?oc=5",
-      "source": "Patch",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "630f8c60ae0c92f5",
-      "title": "Next phase of work begins at Berwick's new hospital",
-      "summary": "Next phase of work begins at Berwick's new hospital Northumbria Healthcare NHS Foundation Trust",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSnpTTUNkcUV1emtueWk0V18yRGdaMnp5NmxOWTVfTW5FTUZYQ2VlUjFUU3QyUExpSl9jaTZYQ2N6ZHFZNUxpeXVsWDZxLUlEeVNGaWd2QlpOZE5EUkFvTlRQaXhGS2c3SUcyaGdtUzJkTWxhVGJMbHhBaTdTQ2VMZVdJSGZSVFhZdkM0UlVrTWtnQnVBdHBkM2NadUZpV3VNaG4zS25UUUhwZHJRTDFGZmlvb0pBYmM?oc=5",
-      "source": "Northumbria Healthcare NHS Foundation Trust",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "医疗",
-      "image": ""
-    },
-    {
-      "id": "440da1ac75b8e017",
-      "title": "Lessons from the first New Hospital Programme scheme: A consultant’s view",
-      "summary": "Lessons from the first New Hospital Programme scheme: A consultant’s view Planning, Building & Construction Today",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObTlldGVQbnZsTEVZVnVmT2FDQW0tRHQwRWxMNUE3dmtzRlo0NVlMel9ydWdNZDFrUi1ZZ3VpR3dCdVVzNFFuZ3hBQ2o5MmIyaEc2MjV3REljZ3NXblg2SDZ0UlZqVUZKWmdMQ1JrNFc0OFZTaXp2M3Y2MkRHbk9uYmF2SWRLOUp4dW5RUzFpcU56QlE5Mm1qM1ZNRTctUlVqNlY4RFUyd1BqX0pwX21kRHRkeXE?oc=5",
-      "source": "Planning, Building & Construction Today",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "医疗",
-      "image": ""
-    },
-    {
-      "id": "cf8b41e58e58427a",
-      "title": "Groundbreaking set this week for new school field house",
-      "summary": "Groundbreaking set this week for new school field house WKBN.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbGdVUjJ4aEZoUlV1TUQ2dzEyZDFXRWp5SGtKaGUxSUQwb0NJS1VWWlg0bW9YQm9wdVB2a0lSanNYalptVjhuTXRDNWp1YS1VamJ3czN4TTN6OXdBdUVkcFdsTl9leUJlU1ZpaE9KOGwyV0J1dTZ6REZjaEJXTmlKUUIyUXg0ZHlMS2hQNkJIWmwza0pVX2dOSFRhZS1mblpqemFvdGpUOGlRR01aQUxYbDZzbC3SAboBQVVfeXFMTVZ3bTg4bEF2R004ZXE0aFg1TXVfU1RnbU9DQnVVU2QtMzFueUhIMlVPUWI1Z19HRFF3Njl5Q2pydTMyYk1iNEJUQU5sT0hHSlR5YTEwQW9QaEZ2cUJ6bnBybThHTmNBR01uMWo4dmo2Vmdpa2lvcm5pbTdrRm5wOENPLUJFWE9hMFA2WVNKaV9WazBnSzdhaTE3NUp6U1RRZDlrUVJFMHRBVVNweE96enhEU0FzSlNiQm9n?oc=5",
-      "source": "WKBN.com",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "90064912cdc3bc2e",
-      "title": "Addition of child care, athletic field approved for Hybla Valley Community Center",
-      "summary": "Addition of child care, athletic field approved for Hybla Valley Community Center FFXnow",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXg5ajRsV08welhsODBNbTUxSlRhel9nWDRDUGNrMFhEOG9EREhCaXh1bnQyUjFfZUZNaHRvd25RNmZQdFpneFNBR0ZoWTRrR3hNM3JaZGZKdE1wSml6cVFKbWZuUTIwMDM5M3lMRC1kYWFyc0U3Mm1rbF9tcC01eUwxbktYc0FrT25uVU04d0hNbnRIamtSNnBRZWhyajQ5VEdaaG9WZ21oNTU5dVVKdWhiRHdyQQ?oc=5",
-      "source": "FFXnow",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "审批落地",
-      "region": "国际 / 未识别",
-      "sector": "文化公共",
-      "image": ""
-    },
-    {
-      "id": "eb3daf86a31b0aff",
-      "title": "How You Can Help Design Hyattsville’s New Community Center",
-      "summary": "How You Can Help Design Hyattsville’s New Community Center Hyattsville Wire",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaC1WX0czREtwTmljTlZkWjNhYzd0ZjJaUEZMWmRWeDRXSEVMSW1yUFFES3BDLTkxcHVNMFZHUHNZS3pjSE1nd0JaVm5iM3c1WWxBZGt4eWRwSDZubkFuakt0SHJRcUJKX1p1Q3FNWGJ2Rm9RVHJReF9pNnpZUllqZmtB?oc=5",
-      "source": "Hyattsville Wire",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "文化公共",
-      "image": ""
-    },
-    {
-      "id": "5fa24ccccbdb0033",
-      "title": "Yanqing Li Commercial Renovation / Mix Architecture",
-      "summary": "Yanqing Li Commercial Renovation / Mix Architecture ArchDaily",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWZ6Y1EwM182SDltNG5GYWFpZWJ3RTNVUUtQSnRRWjgySHZFZnF3ZWhPTUFWQjI3aUFydnluMUdNNlJObDItY1FDTzlhdkxoa3I3Sk1jc1JCYVZISGJDM01ZN3dpRUdUVHRZLWRoaEtPQzBzWGN5RW9ZQlBnSUR1Ui1Lajl2Wl83VWdV?oc=5",
-      "source": "ArchDaily",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "商业办公",
-      "image": ""
-    },
-    {
-      "id": "d554a5ca0625b66b",
-      "title": "State agency regularly exceeds benchmark for affordable-housing construction costs",
-      "summary": "State agency regularly exceeds benchmark for affordable-housing construction costs Lookout Eugene-Springfield",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQnRrdEN5YkdWRDBZck04TkdaalllQXNvbWN6b3pGcF9JWkE5TUJ4b1JmUGY1eG5RREhNdUhHd1J4NTVwV2F4U29PWkJlWmZva2kxWmFwOUptbkFZVHpQTGpRM2VEYms0OHB2akFjekxYS3B0XzdGTUhuRWE4QTBEU2YwYV9vQUx1VEgwMlROaVJvSmI5NV9SNVpwWGpnYjhEY2VQMF8wQnRIQ1hwVUt4MjhkcmNVX3VkVTZwMXZFb0NuRDFBd3FWSGE4TkY1VWI5bVcwRlYwTUNuTTdrbnV1RDRRNVdxdDFYem8tc1daNA?oc=5",
-      "source": "Lookout Eugene-Springfield",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "8179db887e03cf9e",
-      "title": "Cleveland Heights to celebrate opening of affordable housing development on Noble Road",
-      "summary": "Cleveland Heights to celebrate opening of affordable housing development on Noble Road Cleveland.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWWlYcEVlbWxaUWhmeGh5RGZiX3FTOGlycGU5WWJRYUFac19fR2pVa0xoSFJlVGMtRWdscXRvTU1tYjFoWHRjUnhfZTk0Nk5rbHZsR2Q2TGI4VTdoc3Q3Tko1TDJQcHVjV180NDFwMGp0OEZRMGNtUEVDNnBsdnV3RlBEZmtKTlBTNW90Ni1pMzExanJBU1RuT001T2NlcWZURDJqTVZTQjZnR1lpcjBQU2NsQXdia2NYOFRKRFFQUFBJVVFPbFVqUFF30gHeAUFVX3lxTE40Y1RQQk52TUtqd0V1U2NtX0hqeFVYWWllQXZFRWp0QmRQc0NSZEphcVpDcmpGQzlxRUwxbFIwZkd2ZVJkRFc3bDVoYkh0WnlpbDVpZVZnbEZHMllkWnprRXVhRkQyR1RWck5IaWJSY3RsamVqTW9YZkkteXVJV29GSDBXakppY2ZXcENYX3pIRUJXWWdlR2hHcnd5WjZNTHpjdmFFN0RxQ3RyVE5aeS1zaFRlenMzemVFMmI4STEyVmVLSmZ5R1Y2UnN4MmZSQnNmTVlpdkNGT1VTZUpBQQ?oc=5",
-      "source": "Cleveland.com",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "a58205bf52f043e6",
-      "title": "Affordable housing law expected to prevent foreclosures",
-      "summary": "Affordable housing law expected to prevent foreclosures Stocktonia",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnk2d1RZa0xWd1kyb1NMcjlyZXlZc1B5YUtBd01UalJrMXBuT25odm00N01XNEVNU0JqUGgwLURNRU8ydmxKazl6dXJvUGRMbUg4OG9ib25xb2NmZVk0R3RQX3BZYXgzYk1sUkY5bDlVcm1oOGhRZWhSUThxVEppQkNwTHgtWmo2ZWQzdWtzZThJeVJ3WVRWeEZfdWJKNU02T1BUX2pR?oc=5",
-      "source": "Stocktonia",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "ee8132e7cfcca9bb",
-      "title": "China’s CXMT makes progress in chip design pursued by Samsung, SK Hynix",
-      "summary": "China’s CXMT makes progress in chip design pursued by Samsung, SK Hynix South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZmZHS080emE3cTZyaHozcTJmTTBYUk1GZEhNX3drTUh1S29LZWJRaWpUMlplQWd4STZzZFRNWFZkeEp4UVdiSHdaZlZPWVdHUnFHUDRrTDlWbzIzTU9LeUpoTDZ4ZjNxY1FBemZaVnRaOFlxNjJWcm9RaVR2ZWtldTlQWWhUczc4LUxmTG8tMGpUNTNvQ2lDUHd1RGZ5b3IyYzd5MUZqcU16NnN0aUIycmVIdlhZT2NseFBCaDFhdW_SAcABQVVfeXFMTU1TVTBjV2xjdGFob3d3R3VVTE0tczZyLXA3elItTmN3OVNHUm5OeER4SUxNVVdCNEZESTBzUE41dGNqWWd2SGt3czNTUW5kcWxZN3RIblpGQWtfTHZ3UnNzYm1QWUdVckUzYkp5ZkpyMUxLLXdDNFZROHdjMGFST0tsLVcxWlVETUkyMjVZaHpkTkZEN01URzUyRjZlOWV6T1hVX0FvaHVVTVM2ME45QWI5QXdHYzQ1b1dJVElDZGNG?oc=5",
-      "source": "South China Morning Post",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "855f647b62144b3f",
-      "title": "CXMT’s Advance in New DRAM Architecture Sparks Market Concerns as Elon Musk Says China’s Scaled Manufacturing May Reshape DRAM Landscape",
-      "summary": "CXMT’s Advance in New DRAM Architecture Sparks Market Concerns as Elon Musk Says China’s Scaled Manufacturing May Reshape DRAM Landscape TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWFNZaDlEYVJlc0Y5azNjeU5zT3puWjFRdlRfNWhzQW9DbWFzWG04dW5ncTRRN0tDS0tCWjBUSmt5eVhmcjdOTmpLZEVvZ3pPUDgyalA4d3k4cUotdHFJSXRKcEdFOW9lY0RRa0RJUExOWnZXaU9FRTkxSFRRTFZSR0U3WGxxaEEycDBTcVhma2ROX2ZtaV9tWkFhMUhDNkItQ2dVaEtOb3pKOW9JMUExV09jdFpTOS1xZG5vMHN6S09lTVVkaTlLZ3VDYWhrb3R4?oc=5",
-      "source": "TradingKey",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "175b4c11716702d2",
-      "title": "DPR breaks ground on $230M Kaiser Permanente project in Colorado",
-      "summary": "DPR breaks ground on $230M Kaiser Permanente project in Colorado Construction Dive",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVTJFVnkzeEg1dVVUa3BvdngycjVRNzBDSG42LURBSEFVTHJ0WExqZW5uLUZuSVBud1owWU5Ha01jbEpJTWN2eFZROTc2aTJuSEtTcWlQY08tZERfM1pWYXlmeHcxeUhVOENKc0VZaDJ3N095OVFubDdfMWZVa01BcjNGWm11TWRNNUhESWJmWUNBZEVCQnAtbTFJaGtTN0E?oc=5",
-      "source": "Construction Dive",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "美国其他",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "2e358ef65bd35828",
-      "title": "JE Dunn-Alberici JV breaks ground on $3.2B Texas shipyard",
-      "summary": "JE Dunn-Alberici JV breaks ground on $3.2B Texas shipyard Construction Dive",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONzVBOXl2bmR1cS1fNk94WmI5OE9sWUFpTkVnS3VlTl92VlRtYmVTRThoTmlwU0ZTb2RVWWNlamhKNjVwWlZrMkF6bWpBQmFPcDdITFNEZmo1TUFjYi1jNUVDTWxfeDduQnJVd2VmamgxRkw5VW53bkg5Y3c4bDg2ZGl1OGh0RTZrZ1BPM1NfZkgwLTJTQjViS1RR?oc=5",
-      "source": "Construction Dive",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "美国其他",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "d6aa183deea653c2",
-      "title": "The future of the construction trades depends on what employers do next",
-      "summary": "The future of the construction trades depends on what employers do next Construction Dive",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOemRFNjlEU2lxdXdiZi1uaGRtcGVfaG0wbXo0ajFDaTNuN2pfd3N5bmJ4YXA3cjVHcXRPLWdtbXVKbTlBaEFRYkt3ZTRid296aDljemc0QWhXRnNwVFlaT29Gc3hYbFFMdVhNcUFYdDhlRjQtRzdfS0EzUU5zRlBaRzM5RXppSlg2aGVfZDMwY0p0UHRsZHVFbFk5aTNoM28?oc=5",
-      "source": "Construction Dive",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "7cd8777c91a75153",
-      "title": "Grimshaw completes rammed-earth visitor centre for Twelve Apostles in Australia",
-      "summary": "Grimshaw completes rammed-earth visitor centre for Twelve Apostles in Australia Dezeen",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSHVfSS1tbTlpa0lSLUVIdTBWa09NaEFqNEQ2WDc1UFdvT2prU3dvc0xoNFRKeWFwVEN0UVNNclA4M2N3UEJvRC1PQTZuRl9lVW5wc0cxT05INjZkcGNIQXpTUEZGUE1hRnBIaV9YajFiZ0ZjOXBRZ3BRUWpDM3F3eUZObWVfREJCbmNiag?oc=5",
-      "source": "Dezeen",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "项目竣工",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "f0b49fb0ec15e59f",
-      "title": "Winners of the 2026 Australian Good Design Awards revealed",
-      "summary": "Winners of the 2026 Australian Good Design Awards revealed ArchitectureAu",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObDRBNlZsZ2lUYXBuR29HU3NzalF5N1ZmVEpqN3NtWDlaNW8xUHRlc2V5YUhsMGU3QmRmcGlLc1JIWk9aZ0pXVzd6X1F0amZLMVRScHUwelhLTllKZ1BRSkNEaDRSakgtSnByeDRtVTNMT0N3QmhreGZJOFRxU2VxaE5Pblo3MmVJTUtHci1pbTNmNWl0aDk4Q1JUcw?oc=5",
-      "source": "ArchitectureAu",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "4b5804e951f3dee5",
-      "title": "Art and Architecture in Montreal’s Casino Resorts: Designed to Impress",
-      "summary": "Art and Architecture in Montreal’s Casino Resorts: Designed to Impress Cult MTL",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc3NzUkMyV1ZYUlFrQXphY3JFeWRONnNuRTBLY0pGcVE3bXhCdHJnbmZTWHA0VmhfSXpseXZZbnNWQjRWeF9rUHZ1cXhfck1yakRqODk5dEQwOUxvaElhZVctdWs0WjVoX19lcVpaeU5tSlN6RlRGRTFFOTJtcFVtbGZkQm5JZjJnT085bHVLQVFfdEZtY1ZNY2lSLVVnQQ?oc=5",
-      "source": "Cult MTL",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "7b81a30045860682",
-      "title": "OMA to convert historic Houston coffee plant into music and arts school",
-      "summary": "OMA to convert historic Houston coffee plant into music and arts school Archinect",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOXMtb2FJVXZhRHg3LUtrcGpSWnpSbDhXZVM4a3lJOW9DVGRyYlBMTDB0amE2UndYcFkzT1pLZzZzQW5FRE1VbUV6NzJPQWJsbGdHajNNeXk1cnZldTUzS2xsemlUNmpDZy1hYkJPQUJaSFFIZ3RndFVoMFRyaXhRYjM2eGdaQXRLZUZJbERySnVjYVhZVEtvQzRIbXFRbHowVHRhOUtybXlTQW8wUHV5cW02QVRNSmc?oc=5",
-      "source": "Archinect",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国其他",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "2d924a4832c95544",
-      "title": "Four timber-clad projects by Parnagian Architects: Your Next Employer? | News",
-      "summary": "Four timber-clad projects by Parnagian Architects: Your Next Employer? | News Archinect",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRm9MT2tQSWVvdlpwNWZ6a2NsbnpWZUZ2Z1FVRGlKOGNteUJtXzhMTVZsMGg1VUJNTWhJSUNiTGxXR3ZPU3dQTExmaDFRYm5NdnpEal9xbHpJb0FiUnpKRWdYLTVzWHpBQmpsYVhYRDJ3cy1CQmNqNTB0LVFjZTVaYTdRQjNMUVF2aGx3ZHIzRl9EYU5zSk5yMW9BZTNQUmFJUlBkR25MYU5EcHh1LWdMTzZhcw?oc=5",
-      "source": "Archinect",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "a1fef1aa4c7c2f14",
-      "title": "AI needs standardized data to be useful",
-      "summary": "AI needs standardized data to be useful Building Design + Construction",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX2dvdkh5TEltRzI0Qzcya1doV0xadzlCV2dnNlJPbzM2RGNaZXhEc0s5Q1NzcnRIR3VoZkc3NmFJT3FTVzFOVmdSSVlVOGRSM0I5Z0ttVDlZcllRQ21DRXd0alExMkpKVGJleW45U1BXVGQwMWJ0VTBXQjNXLXlWeGl4NE5nd2FjUXpoNHNZY19qY1BzZl9R?oc=5",
-      "source": "Building Design + Construction",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "1c13ec1fbd0784d7",
-      "title": "Meet the 40 Under 40 class of 2026",
-      "summary": "Meet the 40 Under 40 class of 2026 Building Design + Construction",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVGY1WERIeVZOc0xRMzdYUG5rTGFRUzlTMlp0ZEhZZEQxNFB5cXg5dUl4RXRqWVRJQW5VdTM2Rlh2ZGYxNVVYdGZNaEpOWFRZbWlGUnJOLXQzdzYzb3VibnVDbGF4SzFLOEo1ZWdnb2NoUlNLOTdLLV8yOUsyc3N0VHNSUHVad3MtWTRmTFRqMV9ZMkx3aVEzUEx4STBoRk5IUXJ4V0xoQmw2QQ?oc=5",
-      "source": "Building Design + Construction",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "1a91a5bde8313d0b",
-      "title": "Demo permit issued for development at 6929 N. Sheridan",
-      "summary": "Demo permit issued for development at 6929 N. Sheridan Urbanize Chicago",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONkNwQTNNOUhPekNycXpRMmo1UFM3cGFzaEtkTFZkSVQ1amozUjZtSlU2VEpvdV8xU09TaU95STBVS1VyM0NRazlkXzItOFNqcXBqeG9IaHM2c2h4emt6MFdPSnJkM2xtaEVuRFZmRGZIeHpRTHJtNFd1MzFrcWdEMlhPNnRHazlT?oc=5",
-      "source": "Urbanize Chicago",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "审批落地",
-      "region": "美国中西部",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "b1d76a4bb2258d19",
-      "title": "Tower crane permit issued for development at 7 W. Elm",
-      "summary": "Tower crane permit issued for development at 7 W. Elm Urbanize Chicago",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYW13bFVIcy1SSjNuMWp6eWlfSjdEVXZQMXM2dGg4aThSazNEcUJBRzNEQkJmQ0ZKUWJjWVBpdlhnalg2SEFBcmc5aklTc0RZbFBLVWk5YUtiMGE0V1VoaTVUQzVoWEthVG9oMmJMVzVUMEp1Q1lXMTBMeXJOQW9wRlFDR0g3Ylk?oc=5",
-      "source": "Urbanize Chicago",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "审批落地",
-      "region": "美国中西部",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "0e0d139e88274d38",
-      "title": "In Oregon, an Elegant Mass-Timber Library by Holst Architecture Makes a Grand Civic Statement",
-      "summary": "In Oregon, an Elegant Mass-Timber Library by Holst Architecture Makes a Grand Civic Statement Architectural Record",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQanlCRTBHUERBZ1dPdmkxNmthLTN4MXhJWUNPaWs3eGlUbGFKbnFJQm1hdGJ4RlZmOEVfbDlDdklDN1NESzJFNjNHbUo5cHlxUDlZekdLSmhwa1N6SlpFOUJEYmExZklOeVJNNVFNdFFqUHJUeFowNkxSMC1sZzFXNGhSZXVwakJkb1ZyemI5dEEtZktQVjlQckM2WkpQMjhhS3pVWGhESHZzVXJOWmQ5MGhtMkpEOXJRWUc4SWIxWDhoT2xDeUxFelBFaVBmLUUxWHJVQ2hLbW5lNlk?oc=5",
-      "source": "Architectural Record",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国其他",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "267f259fe4eb05b2",
-      "title": "Slade Architecture Realizes a Near–Net Zero House in the Berkshires for a Couple and Their Children",
-      "summary": "Slade Architecture Realizes a Near–Net Zero House in the Berkshires for a Couple and Their Children Architectural Record",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQX0FjSFhIOUtrcXRGSGdoNmhJUDllWlZ0UE96UTRDNDlqcDRHOURQZnMyQm96VEUzakhrWV9OcFFvYk9BVEVhMmM0NjFfcjMzNW96RG5wV3BXcDc3d0JBMnB6RDlpNlZyQUNfZjJjdlkwX0N3T1VuWElpNHQzR0VFMGFoNWhkRE4wdUloTEo4UU1WTkJxb2ZVdjJWdGk1UDZSWjJwTHk1NVI0Y1dJdkhPZklvd2xtTm9hRHNkUjVpQUhzMXNVb3FoZmJiZGhkNnRBWnF6cU5WV1lKVmp2ZmtNazlZUQ?oc=5",
-      "source": "Architectural Record",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "cabd406a48201b3c",
-      "title": "The Ellis-Beauregard Foundation Campus is a Model in Place-Driven Design",
-      "summary": "The Ellis-Beauregard Foundation Campus is a Model in Place-Driven Design Metropolis Magazine",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWFNET0QteVRhVDRFWVhydkR4eUwtMzVhMk8xVHppc2I2Q2dhaGoxMkdNRGl3UWtqZV82QVJINlVEOEQ0T2tXYnBYN0JmZXRiYWR2MzZCT05vOWxfZzM3ODNYUWRmQXNKdFBXV0J3bzRJVmg4VmptT2g5aTFtcnBCRFhkLUVDeHM?oc=5",
-      "source": "Metropolis Magazine",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "376902a51833100a",
-      "title": "Creating a Better World Together: Financing and Building Regenerative Design",
-      "summary": "Creating a Better World Together: Financing and Building Regenerative Design The American Institute of Architects: AIA",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGlrZUhHd3A1dVVwUnJ1aU1KZzltNUZrbFRCaG83clJjZG52N0tnOUo5VXcya0R4YTV0Sm1YZDBtajVuNkxDQW5NM0lqcUF2U08tckx2OUVFaEZCYmVNdmNvbnU1SzEwTk83aTc5TmdtbHN2cHNQYTRwZUxwQUlOamtPMWE1cktkOFBVQmdzZzFBUWFDdy1WWlVhQnBkSllIcjN1SWRlc3FwWExYeVE?oc=5",
-      "source": "The American Institute of Architects: AIA",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "35eba5c5bfda11a3",
-      "title": "Building in the open: AIA's President-elect on the meaning of Hispanic Heritage Month",
-      "summary": "Building in the open: AIA's President-elect on the meaning of Hispanic Heritage Month The American Institute of Architects: AIA",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnk4QXl5U0dzSExXY1J5SWVUblJQVlVNZFFjenBabUZqdGZrUGxLbzMxMWpLMXFjRzd0c250UVMzLVlCRlpVd3hBdDRObHBsMlZCTVZNMEczc2REQ3BTNENyc3ZVczJoTGd6alJnY2VraXVHLWgweV9hU04wa3c3eGVlLVFfYUQ5dHAycE9fUGZZb0V3ME9kdHpPYTNOaDNjaGpUV0pqRG1uVGhn?oc=5",
-      "source": "The American Institute of Architects: AIA",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "项目竣工",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "574b611aebae3a99",
-      "title": "Living on the edge: Sustainability along the Texas-Mexico border",
-      "summary": "Living on the edge: Sustainability along the Texas-Mexico border The American Institute of Architects: AIA",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbjVHT3VRY2N4RjQyWEZnd09NWWdZUE9ZTW5TSnljeFVPSl9nQ2U4WTFYb0ZKRW1YbmdXRWZ6NXI0eGp5aEFsZ3JrckdyTFN0UGVScTlQbDBGZXFwNmxzYWZuY1A1V3duUnFpWVNZLU1kN0xmaG53OGo4TjZZMFVTbm9CV2RDNXhqSnktZFlyT1dBeENWRnhxdmF3?oc=5",
-      "source": "The American Institute of Architects: AIA",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国其他",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "9e1654820140dfd8",
-      "title": "Potential Settlement Agreement Approved Pending Appeal in Case of Affordable Housing Property Planned at Cornell Boulevard",
-      "summary": "Potential Settlement Agreement Approved Pending Appeal in Case of Affordable Housing Property Planned at Cornell Boulevard TAPinto",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOVmRhd1lIRXgyYXVLRThQRlZTb0RuMEZEd0h0Q0YyLWhwNTBsNXhuT01rby1WMVJvdS1yZ3RyU1NMWkpGOHdib0d1NjhKRWJvc21Xc1kyUG9nTGRzaUVtQXk2NVVfZk1ndFozWnZMSVVlaG1WckFYSFMzT09QeHB5RnJRVG03RE9wVlJtR0o5YVlEVVVmeF9kVkZwRWRtZkZSa2NNQmVfbVpTRXVoOHg5Um0xUzZRZFBsZW9rU1I4VmxXb0dZcUoxYWRtLUVXQTZWOFFFOHZobzZzRHNCWVFFeTVmR1NLTFFIeGpVc1EzT2VfX3d1Z0o5d1JuMTdNOVp4Y2lQLVdnMGJYX25ZQ3JYR2JHUjN3ZklfWEQ5MVdmSUJ0dnB6RVk0dEdWdm85V3Uw?oc=5",
-      "source": "TAPinto",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "审批落地",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "8b24e250dc5331a6",
-      "title": "Today In Hip Hop History: Leaders Of The New School Released Their Sophomore Album ‘T.I.M.E.’ 33 Years Ago",
-      "summary": "Today In Hip Hop History: Leaders Of The New School Released Their Sophomore Album ‘T.I.M.E.’ 33 Years Ago The Source Magazine",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU2FQTmNOU2I1MjJBZl9fejRNQmp2UEs0d05SVUdlaFFLdzZRNFJLMmtIbFZNM2p1SVMzcko1TE0wc3lXUUpjWkhNSEVUMG5vUkkwYzhsa3pheWp4amptS1laZkhjQjFqYU5zejNJUDJKY3pILUhOZnpJZTBuQzlQNld0VXBualVUVjZST0RXTVBFUF96NEhheC03RlMtdU54enFRem1zd2t0dVRBelFaNFRUTjc4OUthbk5YcFNsSFB2dWFldHVYYTNDTmgxaThETmc?oc=5",
-      "source": "The Source Magazine",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "b8f3dc7d85fdb869",
-      "title": "A new Middle East security architecture?",
-      "summary": "A new Middle East security architecture? Modern Ghana",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XY1NIX2ZXb1ZvU0h1MnJkNkdMQU9xTlNIZldlWEdpWmdwbVZaYmhOTHJvZTRObkFPSDdMWmlxbVYxcWE1STF3Ti10QTVTTFUwZXdGMVUzaVVCWHI1WGlja9IBXEFVX3lxTE8tcGhsc19rMXo5Y09fSHhKUUliZ0xmeGhOQ2h0WXNRaDlxS3JOVHg4My0zbThwTVZQeXRGOXRZbm5ESHJSSlVITThkeHhacjFCV1ptdlV2Z2FDSVlu?oc=5",
-      "source": "Modern Ghana",
-      "feed": "Google News",
-      "published": "2026-10-12T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "d64fec4eb966ec66",
-      "title": "Renderings Revealed for Chrysler Building Renovations in Midtown East, Manhattan",
-      "summary": "Renderings Revealed for Chrysler Building Renovations in Midtown East, Manhattan New York YIMBY",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUHY4ZFJwVHNjMndvWUlvUmEtTVpSR1Q1TVlWREFyYzlkWkxjRldaMHF5R1gzTWp6dkQ1QUo0ektialdmU2p5ejd5eWdzcF9Ubm9WNHZ0QW1KNXhhUjIyRGx5ZndEdEplR19tOEFpQXQ4cUhJMEFhN0FHZmZsOG1lajh2ZWJxQmJidWVBUDY5UkJ3LVVjZFY3QUJ1OVZZRFZlMUY0WUdxMnk2anhaTjZySGVxYlNaQ0gx?oc=5",
-      "source": "New York YIMBY",
-      "feed": "Google News",
-      "published": "2026-10-11T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "美国其他",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "7179a9371b30d5a6",
-      "title": "Construction Starts For 1020 Terra Bella Avenue, Mountain View",
-      "summary": "Construction Starts For 1020 Terra Bella Avenue, Mountain View San Francisco YIMBY",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdjRLeUktQ0xYdmRSMFBNTW1acE5BMkcxLV9wd0MtU2JuLWVFWWNkZm5EMG9pdDhTQlFQcE53SWNsbUd0ZUNhSUlfT2ZXcU0tSERQSzM4aG9QUzRwNHUwcHRvdWRxZ3BhSlBwTEVWZWw2R3p1dmxjd2tvdWZGZlBPZkpfM2x2b01VTFJaQmlVdXVuUkRSRERvTThn?oc=5",
-      "source": "San Francisco YIMBY",
-      "feed": "Google News",
-      "published": "2026-10-11T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "美国其他",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "d46ca7173e6eb579",
-      "title": "5 Things To Know In Windsor Locks & East Windsor: New Train Station, Main Street Groundbreaking And More",
-      "summary": "5 Things To Know In Windsor Locks & East Windsor: New Train Station, Main Street Groundbreaking And More Patch",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSjJqM2NUbVVzQmZlMER0X0ZEWTBoRFpfMmtPeGhMTWs5VGxxY3FNX0lfU29WSVF0OWlqVC1CWU55UTFRZWM5LTU4VkZLd0tkajFMQlF2anNwVUZVMzNFcmR3XzcxSHBmenNXUEFESTRObGZaUWh4ZUN4YWxrUmVGZ3Vrd0FOZE9TdjQyVV9vdDhoQllLdWMwcUc5VWVvMzExLWVrVFkwWTBVZjR1LVN2U0IyVQ?oc=5",
-      "source": "Patch",
-      "feed": "Google News",
-      "published": "2026-10-11T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "交通基础设施",
-      "image": ""
-    },
-    {
-      "id": "46847206e547044a",
-      "title": "Affordable Development Moves Forward In Edgewater",
-      "summary": "Affordable Development Moves Forward In Edgewater Chicago YIMBY",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0xlTjZFTnRMdVNSMjRmVVBiQVRhODM4RFZnZ0o2dElpY2JibUJ2NmdaWGFpZ0NmUzUxdno3MTEyamhMUEwwQ1MyUl9RdW15V2duUXB2RHcta3FTcTdhYVNicmp0YVRMYkJvYm9zTk9JaGNSRTIzdHpxeG1nUWhBQU42Z0RXaVFaY3hrV1JUcE8?oc=5",
-      "source": "Chicago YIMBY",
-      "feed": "Google News",
-      "published": "2026-10-11T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国中西部",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "b2d517f2ff3ce7b2",
-      "title": "Retro Japan: Former Taisha Station in Izumo boasts finest Japanese-style architecture",
-      "summary": "Retro Japan: Former Taisha Station in Izumo boasts finest Japanese-style architecture 毎日新聞",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5blhjQ3V0VVo2MlZDVmJnbkhDZmZ0RFpMMk1YSzhJZVprbW9DdXpqeXVlMkVvQXdtQ0VQSVlPcmJSNlhxZnJUYVZLNDRQVVpvM3c5eUpvMXlzdEx3OGVkcDU1WXU5QWlHczRsa1RJelFXazQ?oc=5",
-      "source": "毎日新聞",
-      "feed": "Google News",
-      "published": "2026-10-11T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "交通基础设施",
-      "image": ""
-    },
-    {
-      "id": "24998ba88862e40e",
-      "title": "Griffin MSI starting construction on $22 million South Portico renovation",
-      "summary": "Griffin MSI starting construction on $22 million South Portico renovation Chicago Sun-Times",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRVl2NDdGa1hsYkw1LTlJb2dhOWJWQVd5RUhua3BuOVlYOERpTUpkS2ZBX3paT0RZZHUydnR6SHBibWZKMmxFX2lEenpfYVI0cmFtSmRIZ1l3a21DV1c3SkxNcWFLeWNBamxmMmx0RV9sZ3VNdXlxcVpCWml3MjUySGc4VWUxNnpWTlJhNjFnZENMeWV4cVhSMENSVnk3LXM1SnlMZzBlTEhuUGxOZ3JWYXZzYnJpMmxKWjV3Qw?oc=5",
-      "source": "Chicago Sun-Times",
-      "feed": "Google News",
-      "published": "2026-10-11T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国中西部",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "0ae462c7b1955425",
-      "title": "First phase of planned new hospital would be emergency room",
-      "summary": "First phase of planned new hospital would be emergency room Vero News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQXy1UWDhrRlBSMkJjOU1xc1p1SExsclJPQlV5QkNDNmp0UmwyenNMOTM1NUh1LTAtR25zc0gtUWVSTWZsQ0swcFFZdWFWTk1teTFFZjRmcEpyMUZSS2pQSENjMnJEOHBGMmRlNGN2RXdfek16MF9LbVJ1Vi03dDg1ZENrWXlIWlBtbUNEN2lpOVMteDEzb0lF?oc=5",
-      "source": "Vero News",
-      "feed": "Google News",
-      "published": "2026-10-10T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "医疗",
-      "image": ""
-    },
-    {
-      "id": "0974176eef3feab7",
-      "title": "A look inside the construction site of the new Browns stadium: I-Team",
-      "summary": "A look inside the construction site of the new Browns stadium: I-Team WKBN.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2NCbVk3cnNZaURpbk9SVFVnWXZhQ3FpTEMyZmdLOGs3Zi1MM3BHOHpBTHZjeTNZV2puNEZhMTI4TTVpNkhabEE0emV0SjRrNTVoeWtJUmt0LWV4aU1WRnNhWjZlcUowUDNyMXB1YWdQT21LNFo0c094NHBWTTl6dHIzLUl6Mk5FeDdLSDBpbHRRd2MxTHRaeUtZVlFFamVuNFHSAacBQVVfeXFMTlU4NzhxcEJscXV5a3FpZE9GMTNSOGhqNnFfMHIxT3JfcGZxQUlHQkJmNmg3OVNIeTZiQlBMLUVzeGRPYi04NjlMT0lVYXdfUndBSjgxX1RUOXBrQmduS2pKUmFtcjE3b2lfZ294TkY2MGhha3c3b3VOVmhFUjFoUzg2NGYzQXJiVHhHV0ZQSlRxTjhUd0Z3a3hFQ2lkdkt3aGFkeDhwZmM?oc=5",
-      "source": "WKBN.com",
-      "feed": "Google News",
-      "published": "2026-10-10T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "体育",
-      "image": ""
-    },
-    {
-      "id": "0c527f6ac94b2941",
-      "title": "Mosque construction draws questions at Madison Planning Board meeting",
-      "summary": "Mosque construction draws questions at Madison Planning Board meeting New Jersey Hills Media Group",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZXZWb2VWTHBRQnNDMk41clVkNHMxREVsQ1dGSGFYUW5ZS2RXckt3RkZqTGdVNTNOWlRCMkRWdXJSLUd5ZGVOc3c1WGY4R3ZMNXJ1T05DSXlPQmx6UnpLUnBJZUVKQTBqVFpNTmptVEFEZUdOLWdOb2FCTXZIUVZXRnJjU0NBS0k5YmV0SVI4ZGdnQU54MlJYRXVLbjNoVTNHakxLd0RsZUNJN0pDLVBsLWF4UVhVazJKd052LURsMk9idWFwRjJ3dFJJU3hPallpSlF6RXFSX1MtNkp5SDhVMWVVSGhYR0FPOHMxLUY3eTEzbXdvX0lmdElic0I2Zw?oc=5",
-      "source": "New Jersey Hills Media Group",
-      "feed": "Google News",
-      "published": "2026-10-10T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "美国中西部",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "15b76ee3f09093ef",
-      "title": "10 modern home designs that stood out this week",
-      "summary": "10 modern home designs that stood out this week Archinect",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd3ZNbjcxd1UzVXhFblpmNlg3MkJta1VXeWY0V0hTd1Z4MTNXa1hyZlBhc0dvT3liWFJDQ0tWUkxkeUYzNFlfQ284NFktWktlaXlTWElRRkJBNWNFc1l0blZ6MW02MW1VUTdhRHZFUldmZUxZWC1HWjhKUlBkbVltY3R5Y3pPZlpGOE9kd1E1a0xDTVlaNV9j?oc=5",
-      "source": "Archinect",
-      "feed": "Google News",
-      "published": "2026-10-10T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "b3ce1621f71cc501",
-      "title": "Full building permit issued for City Church Chicago",
-      "summary": "Full building permit issued for City Church Chicago Urbanize Chicago",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOenlYS19rTWJqNDJnN1FqR25vZUxUejFvWUpaSzE1YkVQRmtvRWNYYlJfYzZwU1hiTWpPTm1VTWNHTEdBaTNsaS1fZzFrNVJWV3hTTms2ZzBxQ3ZpUlpNV05KQ1ZTbHM1TjRJYlRTN2ZUT1AwRE9qZzY0WkoySEkzSHdsckh1SC0tZmc?oc=5",
-      "source": "Urbanize Chicago",
-      "feed": "Google News",
-      "published": "2026-10-10T07:00:00+00:00",
-      "category": "审批落地",
-      "region": "美国中西部",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "b4c7c6055737f215",
-      "title": "Photo 9 of 16 in This Country Home in Australia Almost Burned Down Before It Was Even Completed",
-      "summary": "Photo 9 of 16 in This Country Home in Australia Almost Burned Down Before It Was Even Completed Dwell",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNekRyRWllcHR1TlZuMXR3YVRTX2FseVRGUVBpYlJoVnFJR0JTcExSSExfZGt2MFRzeFBiQ212WC0tTnFXTmFNVXJaaUFydTNTcVB5NDZPRWRzdVZTNDBpZWJxcWN6dl9RZzc3ZXM1bDZ2RWRFRG5hQnVPVC1PYXdid2FtNGRnU2NUd1VpNG9xVkZsVGZLWnFuUy1pTGxkSURXZTVJOWNObUx4OGc?oc=5",
-      "source": "Dwell",
-      "feed": "Google News",
-      "published": "2026-10-09T17:29:20+00:00",
-      "category": "项目竣工",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "bdbd1b52a7914897",
-      "title": "Greater Cedar Rapids Housing & Building Association previews the Fall 2026 Parade of Homes",
-      "summary": "Greater Cedar Rapids Housing & Building Association previews the Fall 2026 Parade of Homes KCRG",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMGY2RVJYX3JrV0RqZUdhVkV3RFZRUjNjZzZ3dFMzRnZ0eVlOV1hZYm90YWUteU1NSVJ3OXhtVUNMVlVRLUIwNTc3VnVjM1llX3VxU055QTJiN01GQkoyQlVTa3NGN3JFdEJ3T0dJUUdvQ1Z4YjNaT19pLVp4X044RGhJYWFyeTl5TWdkSzctWUV6TlVwU0Npa1Ntdmt6bGVSbEFaNHpTVGM3eXZfenJzNXhZNy1qc1ZveUlELQ?oc=5",
-      "source": "KCRG",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "爱荷华",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "9fc66c3e649bb47e",
-      "title": "Google moving ahead on proposed Palo data center, sets public meeting to discuss plan",
-      "summary": "Google moving ahead on proposed Palo data center, sets public meeting to discuss plan Corridor Business Journal",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNV9HbVEya2t6VlJBb2dYVGVkN2pTMndBVGx0bmtSNWlnWmoybzBXeTN2SDhxR2R1VVV5VnM4Q09VMUpuZngxLURlVTlGZlJuVkdabWhhY0hZSHQtQ3VFZDFkQkxvenYzbndrenIyOTlOUTlIX0tWRzJLcWwtRmc4UFJOYmYxMm9TUG9BVWdfVlBONm82S2tXUmxlbE5hS2ZiWTNtaUt1Z0FTZU9kblBKb0xWV2o?oc=5",
-      "source": "Corridor Business Journal",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "cda644fa3d37f86e",
-      "title": "University of Northern Iowa fundraising campaign ends with more than $340 million",
-      "summary": "University of Northern Iowa fundraising campaign ends with more than $340 million Iowa Capital Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUXYtdEJ3RnlmRnZfdHdlZnJ4TG41SU1zVVlpNkt5UVMxTmVWVHVHY211Nm9NT25obHpzWnhZeVdCb2NxbVB5a3luallSRmN5MVlIdUVIVHYwQ3Nnd1NFN0V4MGVfaERTaUNKNnJwQkI5Z2VMMGxJWllPZDRIblA4RnBMNjBmTkF1ajZZc1dqVDI1aUZQRk1TVnJZaTZEWDkwVHNZWDFqZF9BOW9PbEloT3kxdTc1ZzBoRmxlOGZVWDZPZw?oc=5",
-      "source": "Iowa Capital Dispatch",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "爱荷华",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "f378b402bdbf8a73",
-      "title": "Huntsville City Council approves key leadership appointments in mayor's reorganization plan",
-      "summary": "Huntsville City Council approves key leadership appointments in mayor's reorganization plan rocketcitynow.com",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPYkRRQmdEQVdpdmJfMTVHQ1BvaWxBQ09uM05nRl9tT0pLTFgtano1NVhRMEJEMEtkRE9FU0x4LXlFSmtsNmdxZDJaaEhkMDlTWlM1N2xRY3o2Z1J4R1dfM19CcEpYbmdHV2xFeGQ4aTZMN1VGTjlndGxERGZnSDdjV1V2WG9IWEN2MVlRNjAtZ0tkZmtzSml5SUtnNHNvamdtSmY3eklqVExDME12dzZNbjllQTh2V2RYM2xrd3dyb2QyREpUbHhoWmpPMVRDTHd0ZHNnbHlnaWpHcExRMGFvdXNDSDh4ZVdzN3pTWXlrTHYwcWg4RHU4bnAtQkFGWi1KODRhV0x3?oc=5",
-      "source": "rocketcitynow.com",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "8a8ac56b9357f247",
-      "title": "Goodwin Living breaks ground on new 257-unit senior housing development in Alexandria",
-      "summary": "Goodwin Living breaks ground on new 257-unit senior housing development in Alexandria ALXnow",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTkZ1MmZMbWZIbUxMS3E0LS12Q2ZBNHBVaFN6YU54QXlJMGVra2lQS2ZmeVk3UFVHVUdHYkU0eW1ubV9TazdZek9MWTdxaWVGczE5dmd1VmpEUmtMc3FjOUFWN3VBWXJMZmE2bkRBNU4xOVR4eHViWVROODFfekV2TXh0R3ZFT1hRMTQ3RXloci1mZm50ZkhTV1dQUDN4bnBXLUZ4UmFuQ3c1dG9iWmxrT2NmczFoTFR6alM5NQ?oc=5",
-      "source": "ALXnow",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "9985afac169433a3",
-      "title": "Major mixed-use development in Pearland one step closer to reality",
-      "summary": "Major mixed-use development in Pearland one step closer to reality KHOU",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQk9NVGhqTV9nWjExUFJzOXJWVDhjQmR3VmZPUHY1a1o3MUg1MHdTcUNXSHYtTVRJY2JUTDMwdTliekU2M1QzU3VNS0N4cnNBV1F6VGJZMzE3MzNIQ1hHeEVNdlI2Z0k5VUpId2dHX1V4MjU3WXpab1J0VF9qYXBDTXZ3WEUyNy12S0Q0VUdncDZIWjQ0OXcwRWdPZDJReXNjMVpvY3pYS2VWSk05RDhqbldlZ3d3SlhsR05sbHdOR2lYUTRGZzhOcUg4Q0E2VmpYcUxz?oc=5",
-      "source": "KHOU",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "城市更新",
-      "image": ""
-    },
-    {
-      "id": "e175fbeee128dad3",
-      "title": "Groundbreaking marks next phase of 103-unit housing development in downtown Bracebridge",
-      "summary": "Groundbreaking marks next phase of 103-unit housing development in downtown Bracebridge South Muskoka Doppler",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKSGpVbnJhVktJSThFMkNkOGpvS0Z4d0NyZXlhNUlabDc5V0p5azBSM2tTZXg3YlJkWS1CMFZGSWVBc0VFdFdjRVNHcm0ybHhZYkRXS1h3amtKeVE?oc=5",
-      "source": "South Muskoka Doppler",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "7d40832dfa0a7b53",
-      "title": "Major Galway city housing development approved with 321 homes after units cut",
-      "summary": "Major Galway city housing development approved with 321 homes after units cut Irish Independent",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV21qOXZwUnJCYTlHd1ptcndZNVg0QmJRWk9JdWlocEZlcHZFQVVHNHFJUVNsOTRxOS1YdEV3UEluWjBQVE8zTG5HUmtoWVM5WTNKZ2NvVWp3bTgwdGc3R3d4bGdENFdyaWVITWJwVnowMGhaMEdUemNmZTNQdFlnZkpoQWxid0t0eERidzlPakVmUlpNaG1saURqOXlmMDVYM0RHbFNSZzk1cUYxXy1HcXctNks1dGRhN3lxYXBBTW5WV25RUUNldDMwUzkyS2cx?oc=5",
-      "source": "Irish Independent",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "审批落地",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "1ccf94a031a55534",
-      "title": "Temora Hospital Redevelopment reaches major construction milestone",
-      "summary": "Temora Hospital Redevelopment reaches major construction milestone NSW Government",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeTM4aHZFZ3gyX0Qtb19ZajRLM29YYjRSMzVWZlBuQ1VKM2xhazk5UndBamh2TlVDTXdLQkxPR25MUTZGQTFONlN6eTI1V1RoX2V5dGJMbGROTk5Eell6T2FMR29UVlZELWNLYzJueS1aNlVNWHl0Tm1DWmMyMjlKbGFEYnU5TklTNEFwZThoTjJUU2g3RFV0dEFmMXhvV1pLU2RVcUpBOFFlVlZlaFVpdzFTWW9IejRINGcyQmNIajl5STlaTGY0cm9kcGxkZXdtVmJNdmJQbGc?oc=5",
-      "source": "NSW Government",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "医疗",
-      "image": ""
-    },
-    {
-      "id": "c0bbfe341ffe6e45",
-      "title": "Prep bags 2027 design competition",
-      "summary": "Prep bags 2027 design competition Vic Gov",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EZk1KMklvN282VWYzYXFlaEtWeFhHNy1jbVlWZVpFUF9EeHpnWndaNWhlbGhqaVlKOU81MzdOQ0hsRFlHR1I5dE1wdExVemtKUVg3SDJQdXV5eUUtWVhEeW5vRXRqZWM?oc=5",
-      "source": "Vic Gov",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "竞赛招标",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "07ae3f4a5c2895be",
-      "title": "Vice-Chancellor launches 2026 Christmas Card Design Competition",
-      "summary": "Vice-Chancellor launches 2026 Christmas Card Design Competition Loughborough University",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbmhpQ1VpTUowb3ZfSkNLbENHeTBsekZVUURJbnlmTV9XWjZNekFSR2FoZmt6RDJnWEpyLTVKYy1CM0ZXU1VWWmdxNnJBanhCUXJGcVozREdnZ3RCOU0ySUFFdDhDWUROR0hyenQtdlA5T3pyVHBKNXZ5cUlUSGl6WmpheFFBZlVy?oc=5",
-      "source": "Loughborough University",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "竞赛招标",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "3d65216d0e058a95",
-      "title": "Historic Spokane Parkade undergoes major renovation to revitalize downtown | News",
-      "summary": "Historic Spokane Parkade undergoes major renovation to revitalize downtown | News KXLY.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU0NlQ2J5SDNvX3FaN1FMWlB3bUVkZmNjM0xnV0JaMVd4NXItQmIxQk1hMTVCU3d0aFBCZFZKVWR0RFc4VjVZNXVvZHRnVFZqeWZLSlQwejRIS0ltS3hrc0ZxUDMxWEtQY0tSa2FnNFVwU0R2TFB4dmJ4QlNMUmRHRGw4V2pxa1dUX0FmLVo3ZkFQUVZLRmJrVGtUQmhLbHBNRldWVUctcm9IOWR2bklJc29scl9qVUViYWtBSURDRVhYbC1KV0J3OF9YeTVNYldKRFdua012SzMzUWRQdzM2Zl8wQjc?oc=5",
-      "source": "KXLY.com",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "125900a1169ecf1b",
-      "title": "Viral video shows stadium construction in Uganda, not Kenya as social media posts claim",
-      "summary": "Viral video shows stadium construction in Uganda, not Kenya as social media posts claim Africa Check",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNmNMMk9ETUh2czBjd1NDTzhNQVBsb213R2VIVGFkX1I2N3FXcHZWcmdKSUhpYUYtYTZaaHNiUGV5OEl0RXdsNDMzYUVDNmZrTHhGMW1qTU95Q1hmU3lRZzR5ZWNHcXhyd1hrcE05ZVNkWU5pOEctWFp0a0tGWGs0aGZUWkpxSDI4YzJac1NVQldtZXFiNTZLdkdDOE1VSWx2QkxsX2I4U0F4SjVRdXVCTnlRM0d4T3lFQkE?oc=5",
-      "source": "Africa Check",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "体育",
-      "image": ""
-    },
-    {
-      "id": "318fbfbced6377c8",
-      "title": "Construction begins on new affordable housing in Burlington",
-      "summary": "Construction begins on new affordable housing in Burlington WCAX",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORkUtVy1nblRLWTdxVlJ4MGFfUTdtRnR4U2VlNjU2NUd2Q0VxaFhTVlh2OTl0R09hczVkaFMwcmJZWFRseldpRHJhRU1WQnM0MFdpUUZyUGplOXVMRzA3dW1xMFZXQUxIeWxpcmZ1dDQxV2xyMW5OcWZpNGVVWjlaTTgweEdmanhWS1ZKc3JpV0ljdllWVFRn?oc=5",
-      "source": "WCAX",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "899cff7a45ae9cd8",
-      "title": "Houston City Council approves affordable housing development in southwest Houston",
-      "summary": "Houston City Council approves affordable housing development in southwest Houston ABC13 Houston",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZXI2bzhDemJWVUpqclVSQjJmbTFXSXd4Wkhud0xkS2ZFOEhyVm9CcC04a3AtZEFwOEVhXzlQcy1kcl9LUmpycFgwNjJ0N2VOZlY5UlZLdHRQVDRoU3JxNHRkb0lVR0hwSlVUTDI3VEg2Y1NLQk9mcXEzUjN6XzFuR255ZTRSaUtuWUFpYkRMMnNheFlxSVg2THM4dkZnbXh2eUdyRmVNUQ?oc=5",
-      "source": "ABC13 Houston",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国其他",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "5b35532a81b25b75",
-      "title": "Top 75 Airport Facility Architecture Firms for 2026",
-      "summary": "Top 75 Airport Facility Architecture Firms for 2026 Building Design + Construction",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOWlzaU9MVHVsNFFpSGpwbnYxRkJwY2hCeE15SE5NVlBuU0U1RXVQMmFHV1NxTkFWbC1zclNZdEN4RFpXdmF5WWFvTC1QQUYteFVZLWJnTWxBQlpOay1PR2hYQzlibVNiMWlnNllFZDBlN0tpYlhsNVQwdUxzeWZrUzRoVzY4NHNuOXNBV01UMUFLTE02Znk3ckZoNm5BbGJSY3QzcGlnbWZGZw?oc=5",
-      "source": "Building Design + Construction",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "交通基础设施",
-      "image": ""
-    },
-    {
-      "id": "870556abd0d25921",
-      "title": "New automated lane gates coming to I-94 construction in Milwaukee",
-      "summary": "New automated lane gates coming to I-94 construction in Milwaukee Milwaukee Journal Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcjlFOGNMaTNvYVMzbGxtNEp6Y25nQzN6eGxSMUhRRTBYZ2VhUmdMYWVVMWphY3NCQzM3WEFwWDViQjhhcXhpU3RDZlotZ3ZneVJiejNtTDUwZmc5dWctVUZ0R0pSbEdpSllralU2WFViVTBhLTZWSmtzcHJtNGgtMmJlNUxTaDZJdXlTWTJwT1F2XzlNNjFYdE9SNlhBRVBtNnZlZlY5dk51bjdTTnJQMlhwV2w2dWdLLTlLTjI3MW45SFRqOU40WVZVWUdrdmVkZkJyQVhZbm9RbkU1T0xj?oc=5",
-      "source": "Milwaukee Journal Sentinel",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国中西部",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "237629fe94decc3c",
-      "title": "Milwaukee freeway construction continues as Brewers playoff traffic takes center stage",
-      "summary": "Milwaukee freeway construction continues as Brewers playoff traffic takes center stage WTMJ",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHpYN3pTcEc4R0NUb2hyT2RoTFBYUFVPbzVxOGRNYzBrOUF4UG4waUhLMGg1Vlh4VElzX2toYlI1ZjUtSDN2S2JsMFJ2a2FhYmhFV2ZxWG9OcHFNZy1vSWhKVFRKVmhma0lrMFMzeG9jMVlZbXh2S1lmcmlyeEw3WHZDbm4wZk1PWWV4M2hvcHFmU0xHMHh5Wg?oc=5",
-      "source": "WTMJ",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国中西部",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "d164b8ed38962643",
-      "title": "Arnett Street construction resumes in downtown Madison",
-      "summary": "Arnett Street construction resumes in downtown Madison rocketcitynow.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSG50Qk5LLWJKZ0tUYnBNVWZZSVY2aFdxc0FobFBDV1VXRkxxVjhzMlFVQ2lDX191Tk1iV2ZvRnRoRXl4LXRXQ28xdHQtNWE1dzk2QTR5R1dWRzctbHVoX2RoQklNZlZZN3BpbEFRRC1ra0NRYjhMRWlsNnd4c09lNE5TWjhYTVF2RVdBcVVWOUNnSG1ockc0em5Jd2NvSU5scTBTY0tVUUFrQk5CS1JFbEhnWHhMY2NvRjNhZjFodlVsNzBQYVUyZ1NvOUJQa2JkemlV?oc=5",
-      "source": "rocketcitynow.com",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国中西部",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "36b5f112c6b942b5",
-      "title": "Madison County seeks resident input on economic development",
-      "summary": "Madison County seeks resident input on economic development Rome Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR29jMTBzdXVhcE1OUW5mQzdDT0N3UURLVDVrYUFJQTVLYW1DSllkTUNORXA1SHVDUzdpQll0dTNSYUdrUHhQSFF6MzNlcEh3X2J0eTg4ZHo4bEp1UU9wYXlXanFEWFpTLUdXRlRQM2RySVVobnFab3R5ajBJYnh3ZHhwOXp4ekVDTTBoVlNfVlpHbjhhNDhWdlN6S0lHT0EybmZ5MzBDSzVIR2Z0TnZvbWtZcnhqb0JJZGs3bjVvd1UycXo3S0wtcTVrdUZPUHBEN3dobDFQcnVVZ3M?oc=5",
-      "source": "Rome Sentinel",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国中西部",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "30c4ecf75adcddd8",
-      "title": "Century-old Madison golf course to get $9M renovation",
-      "summary": "Century-old Madison golf course to get $9M renovation The Daily Reporter",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWExyRXhVYk83dkg1aDhBSlMtUXFNczZteXRUWnVGeElKYjcxMURTeUNVTUJ2UlU3akRGUHNQUU1FY1NZTFEwcWlVY1NvZHk0ZzZaaktGdlVjbHpuZnhKMElBNVRYZHR6ZWktSkZ6ejNHcWhJMVRlc1J2cUhMTWs1azYtX0x6ODhNczNRWHh3MA?oc=5",
-      "source": "The Daily Reporter",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国中西部",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "2ccc40ae3c2f87b5",
-      "title": "Punch List: Bechtel teams with Ted Danson, Hensel Phelps breaks ground on new HQ",
-      "summary": "Punch List: Bechtel teams with Ted Danson, Hensel Phelps breaks ground on new HQ Construction Dive",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORmh3ZUhUTXdEUkEzN3BBaC1URTF1Qm5OaDdQREZKbS1iNWhoTkVOamR3eGMwMW9NUE9OQ0pkWHBRc2FucGQyM0RjYTM1d2NtUGVFQmZnc0hVTlg4Ry12aVdEQ1JnUW1iSU1LUXUwWmNrYl8wRHQtcjFUZ0tpWGZRSkVjaGk1S01JN1M2cXVWbGlqMmtoRUhj?oc=5",
-      "source": "Construction Dive",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "672e4feae31293df",
-      "title": "Fisk Electric wins $24M modular contract for Houston data center",
-      "summary": "Fisk Electric wins $24M modular contract for Houston data center Construction Dive",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaVpJdEk4VUV1N01pNG1jNFVIZzBqb183bDdIN1lDZlQzLUFFMllRSnlwMDBVVWc0Sm5qWXo2RlFmTzB4RzExWGh5ZnAxMWZXVFZ0M21HM3R4aFYyalRzSlJSenhPM1RhR2hDMWFfSVl2WVNJc19UTGZMWmFNN0lHeG1meUpVdmVzLXB5M1FqenUzQnhmR2Rr?oc=5",
-      "source": "Construction Dive",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国其他",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "47120409e80f20ee",
-      "title": "ODA completes NYC residential tower with cascading aluminum facade | News",
-      "summary": "ODA completes NYC residential tower with cascading aluminum facade | News Archinect",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYkE3X1c5bFQzemgyV3VNS1lJLTVyVkVrQTI5d0FYTkdqTTZkZjlEUFNuN29hZkpIdUlQS29HdTFjN2RRWmdYaGZWU0dfNTRtOFVjWk9McjVYLTVXdURwVXhyYy1rdFBPaVlITUdneHRDczc5bk0zdHhJdlV0YmtUdWF2aU1DWFFMY0Jka295aVFqc3drNGxJOTFETjhDQnhXZkVITnh2SC1HOW5WRWs0RQ?oc=5",
-      "source": "Archinect",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "项目竣工",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "c6188e382fa7af5e",
-      "title": "Top 400 Building Design Firms for 2026",
-      "summary": "Top 400 Building Design Firms for 2026 Building Design + Construction",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTmpVeTRRS0xwMC05d0NTR01FZkp4WEN3bDBYNkd3WVh5RWJVN1NqMTNMT1ItTmM3dHVfSmtrUjlabjJiM1huUlVEUEkzN3pUMHJ6S0xxaDhaSmwyVEdQcUdiTHRMOTZETENVU1JwcWdodGRLdXFKZ2l4aVVCYllBWWI2ZWFSaW5aSVlMWmE4T0x4SDBONkhIQw?oc=5",
-      "source": "Building Design + Construction",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "834a1338eec1e499",
-      "title": "Frank Gehry | Buildings, Architecture, Buildings, Guggenheim Museum Bilbao, Pritzker Pavilion, Style, & Facts",
-      "summary": "Frank Gehry | Buildings, Architecture, Buildings, Guggenheim Museum Bilbao, Pritzker Pavilion, Style, & Facts Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rQ2pqckdTWU1EMW5qSmdiazgxUHJPMS10cHlqX0xfWHhOYjBlcUJHM0xYbUQ0ZXF0Qnozb2pmN2ZyaDhjRTVaYnc0cmVxenE0WVU4ZUFJU0dlLWUw?oc=5",
-      "source": "Britannica",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "文化公共",
-      "image": ""
-    },
-    {
-      "id": "43de1868e8e60778",
-      "title": "Carl Abbott, the Youngest Member of the ‘Sarasota School,’ Dies at 90",
-      "summary": "Carl Abbott, the Youngest Member of the ‘Sarasota School,’ Dies at 90 Architectural Record",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWU9YX3VKQWRHTEV3am9xMkptaFY5dW9MV1JiSXdnMnRhNHpvRFNVZXMwbUZoV1N0T1h5ZTQ4M3I1c3JoeklJWkd0OWo0Qkp3bDg1aVFDYnZlNmlQem5mVWpCXzhYTkFKcDdUN19nV3ZSTHl5QkRsX0cwY2d3dnJheVlOaXVTR0Q1cVE3TVg4OXVQTENmaFR0Y2hfVm9qS0dmRlg2WXVoUmswNHlxdjRLbDZDdVJYWnc?oc=5",
-      "source": "Architectural Record",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "8300937f665d800f",
-      "title": "A Robotic Storage System Makes Room for Expanded Programs at HDR’s New Main Library in Omaha",
-      "summary": "A Robotic Storage System Makes Room for Expanded Programs at HDR’s New Main Library in Omaha Architectural Record",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZHZuSUwxWFhSdG8tV1VZeHNXZXRLTjlKVjFVXzdsM1dYZXNrdVdJem1SR3VHMkRrNzJkMmhGZ0NkaXE3QzY4b0lRWW04aUZ2bWpRS0ZKMDVHeC1QeFFfcGlWdGpaaVJFTjdHZ3YxbEh5SmJTamZFaXpvSzVITndDelEwa2RjbjdUSHZHc3J6ajQ2Zmx2blBCNElCbDhuT2hyVDBhMXZORFpXNkcxM1JiSXl3RHpMRmYxbjVPWVd2UUx2SnpkUm9TM1pXWGx5aE5pNFdFUjRCdzlvVndjN2dsYUw1aw?oc=5",
-      "source": "Architectural Record",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "21bff247d6469214",
-      "title": "AIA Next to Lead",
-      "summary": "AIA Next to Lead The American Institute of Architects: AIA",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BcjVsc2JRSnZ4N192YjlRYUZzTXVCRDkzNmczNV8tVkthcDZ1cDdyOHFJTDVLemhnWHJUOUpNVnk1czV2TDN0R0RrSlFrOWREQWVETzFtckU?oc=5",
-      "source": "The American Institute of Architects: AIA",
-      "feed": "Google News",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "8f9eb8baf2261981",
-      "title": "Levy approved for new hospital in West Dayton",
-      "summary": "Levy approved for new hospital in West Dayton WDTN.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZlVfSmRldV85TWo5bzFvdmpsbGNTOGhzR3V2U1VXdUx3LThoRnJqN1JSbGFiNVpJNl9udDlIZmFBY05CYVBkQzhnRVlmZktLMXdaRUp4azJfeGN5SXRWcl9seE82Nm5McURZWFQ0eXV3MTZzSVUtcmp1c3VzMVRnWVVOS1A3c2loTVE?oc=5",
-      "source": "WDTN.com",
-      "feed": "Google News",
-      "published": "2026-10-08T09:59:08+00:00",
-      "category": "审批落地",
-      "region": "国际 / 未识别",
-      "sector": "医疗",
-      "image": ""
-    },
-    {
-      "id": "43cf1a5e3ad3b533",
-      "title": "Marion County men face charges for dumping construction debris, deputies say",
-      "summary": "Marion County men face charges for dumping construction debris, deputies say WCJB",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSTJETnlfQ3pfOWx4d0FNZDBzQ0l4LTVnSGpJWF9EQi1xM0o0Z3BhU2h5RGNjS2I5ZmpGaUZ6RjRub3g4LUlJU2tqYnRfVE5xLUlpeWU5Q2t2SWxNbTVHRDExd0JKTWx5ellrYmMyYUJGZlljcUpxdHpabzI4NGxXT3lEU3c5UDFucXRVS3ZSY2ZUdmtyR09DSGF4OHdjWHVVQzhSWkFZYy05b19Id0hld2dCcHd2a3RsR0I0eW5jNVA0Q1nSAdcBQVVfeXFMTkk0ZWt5ekYzTWdvLTR2SzFTWHBxd08weVBLZV9nRG5FUk03bmd6Vkt0VUlsTU1ZQy1COElJTEU1Rl9Yb1VXNDlPcmZQbEE0T19EbDRqQlNucHRmUHpMbU9uRU9Nd2hHY0JRVGktb0xldFpTYVhPZVZtdFcwZ0tDMjNkOEtwQk5RZmkxYWxrUG9QVjh0N0V2R05NOXJQNUd3NTRneVB1LW0xOUNLVlFKdE81ZmJfdUlsZkZkY2p2NFlFeGNBWjA2Q2U3OEQxOFc0ZzZ0V1hSYzA?oc=5",
-      "source": "WCJB",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "爱荷华",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "6f4680bb4bc99050",
-      "title": "How highway construction and urban renewal broke up the Center Street neighborhood",
-      "summary": "How highway construction and urban renewal broke up the Center Street neighborhood Iowa Public Radio",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX0p4eW5HMW5CVnJjNXBDWC1tM3NlM3BoWlhSUUR1Q2s5OW9nbEVGSUtWU3FtU281eEl1TlQxb29DS0o5TUlVZk1mYmpWRXFtOXVqeVIza0pUUVk0TVZqMlhocjB2aERfNXFWbE9ScGFBTU5KOWxLMGlaZFkxQU1PZjdaMS1Ua3hKSmZrZ2RpWjkxVjM4WHlCbHA3TkJQbDNNT19Ud1IwRnZvZk9IN20zajY4a1FrZjhwc0lDR0M3VXAxeGthclBkQ1JUVFFTYjQ?oc=5",
-      "source": "Iowa Public Radio",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "爱荷华",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "42b3b8510223c5f4",
-      "title": "Kendall Square Construction Projects",
-      "summary": "Kendall Square Construction Projects the City of Cambridge (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1o3Q0JQZmZEM1RIRDExM3dGWGRhUWhlRU9wa0p4ODBhNDFOWVNQcGp4ZlEyX2t6RXZvODZrb3IwUFdIOHpvZEtLZERIVnBlc2Jqb3h3a0dHSWkwQ0E4cXYzckRrZXo2cmY2a2gtdFhRU1RlbGJ5SEhLUTBWaUZTMm84c0gzSHZScGlNTGRsSkhNZkVsY2VWLVVPeWRudU0?oc=5",
-      "source": "the City of Cambridge (.gov)",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "99c5f2aa549280a1",
-      "title": "Construction begins on Studebaker Elementary expansion",
-      "summary": "Construction begins on Studebaker Elementary expansion Business Record",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDBNbExaTFNNN3o5aEg5cjBLUG9ZekV1QUdmeVJWZGplaHlXdEVuVjhUTXFyel9Ca183TXpiSl9WTHZiVWJvSHNQWUVOYXMyV3ZmR0tBUGg0Qnd1WHRnMHZoallzZmlfVmhwczlRcTExWm1JdnRhbGNtSUdDLTBqaHByTmVMbElkdEdmRWQxZw?oc=5",
-      "source": "Business Record",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "e8042e790fdaa3d7",
-      "title": "Kansas City council approves financing plan for downtown Royals stadium development",
-      "summary": "Kansas City council approves financing plan for downtown Royals stadium development FOX4KC.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOektwSEVQRlFuQ1FVbW5FLVF2Z3VWckt5RzhuVFYyQW1WY01tNGZTUnpOcDdPYjZfVW91XzlSRXJwQ0hUOWt2MTd0S3JzLVB1RVlGSUhCbXdXRkZkdnZyVmFnbDNCRXRZZExSR3RjRTlfckNJc0xmVWFjUTY5TDQwVEdvOHY5YVlQdzZ6MzlWcVVxNnNlcEhEN1VYbjUtMGtCRnNaQTZlcGphMWdwX0d6ZW53MlpPVm5wZ0E?oc=5",
-      "source": "FOX4KC.com",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国中西部",
-      "sector": "体育",
-      "image": ""
-    },
-    {
-      "id": "7b69b4668d2587e6",
-      "title": "2026 Metal Building Manufacturers Association Student Design Competition is now open",
-      "summary": "2026 Metal Building Manufacturers Association Student Design Competition is now open The Architect’s Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb1AwR3NYcmxqYWsxOFVuVGdUWnIwSk5uR0R3Nnp3ZUlLN1lRNmpkaGhCSUV5Q3NMbmFYNEJWU3hWUVhad255ZG41dDM4Nk1la01vcWdwenhROXN2c0tKOG1wYjc2blRadWswTWxzNnVXbnFRdjQ2X0E4LVZJUU80WUZLN2VlU1ZyQXpMS1hhcjQ4Szk5cmc0ZV9DZXNRVnV5eDZDMUEzbVhkZXVmTEJxSFc2Yk0?oc=5",
-      "source": "The Architect’s Newspaper",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "项目竣工",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "3a15910ecc80309a",
-      "title": "KU aerospace engineering student wins first place in international aircraft design competition",
-      "summary": "KU aerospace engineering student wins first place in international aircraft design competition KU News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdjg4SjFKYmF2LXZCQTlPMXN3WDdicl9fVURKX2tlRHFod0ZJbURjeElmWVktQmxieFBiVEdLSTJBTWxtY1AxMEpQVDMtRVdBUTdsa3VxM2JQa19PN0ZtX1dwZ0tuaU1rT19UanRuQlpIMVFnZFFOdXRPUFRpX0JSR3g4Yk1IMkxLZ1FsMC1UdDkwRS1hQUFLRFcyV05fX1FGNmRiY0xUdi1veGhVeXFqemZGbFBLQVkxOHBTbWd6UDgzS2J6TkE?oc=5",
-      "source": "KU News",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "竞赛招标",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "8a67d3666edfa6b1",
-      "title": "Wilson Landing attainable housing development will bring 37 homes to Fernley",
-      "summary": "Wilson Landing attainable housing development will bring 37 homes to Fernley KOLO | 8 News Now",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVDZ2X19GWXFOV0lhSmdVejhZa01HWmdyZjRJLUFlSEgzYnRVLVNzWkZuOE41MmRzZ3FiRlhFcTNlM3VIYjZCNmo5aldNZ0dsNXdfcGpJelZiS2tZa3NZQVctRXl0LUpubEhmTFJpNWJmemlLdm1nUC1Ta3BRdVV1Z1pab0V4ZTNVOFRRcmtwZDR6MkRaTFQzaWVMWDVfN0h5VUl6cVYxandqcFdS0gHAAUFVX3lxTE1nNkxfZ0hGa0l6M0V2ZE9faHpsTjloemhlVWxCa3RmLTgtdTFQVmEtRGplb0tZSEpuaG5JTnBoTWtwam53c3BPN0lsQXFsOW45c0Fhb1VqXy1FbmRZdzFqOGJMTDV5MEFubjhmZ0ZJUnFWQkFpc2M2YzlRZHdSd1k2c2VPVXdRcHV6NjJCb1k5RjZPTW54ZWZ6RUxpWno3OGMtd2RFYzZONjBZX2pLX1ZKVEtheElOM2RubHhIM3ZKZQ?oc=5",
-      "source": "KOLO | 8 News Now",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "5e1c86ce75b02bf8",
-      "title": "Plans advance for Washington Park healthcare campus bringing jobs and training for in-demand careers",
-      "summary": "Plans advance for Washington Park healthcare campus bringing jobs and training for in-demand careers UChicago Medicine",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTTZKSVZRVk9TZDhhUkpWZldzZlJVUFpINTZBVlBjTGVZOGRseGtfUnRiRThITld1UTJfRGNpeW9uYXBvZ1VLMGp2b09NclpJVWtQUGRUZ3ZjMk9ZR3NHYjVNZVpGMXEwY2hWckh6RGJ0RHoxN2NMYzFvS1A4bjF2MXNZNlZEUlc3anZxTXBGZTRnQk1LYUFLbDY4R3JMSEc5dTU1SkdNV3YtNmZQa0ZzcmVR?oc=5",
-      "source": "UChicago Medicine",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国其他",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "25c61f34e90667f6",
-      "title": "First phase of housing and healthcare campus commences at 800 N. Main St. in Chinatown",
-      "summary": "First phase of housing and healthcare campus commences at 800 N. Main St. in Chinatown Urbanize LA",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNF80U0xPWVA4cy1DUG1XYmNkZlJvaTdYVjRMcU9ZT2Jjc2RjNUJidzVqNmI3aW1RU3BFZENPTm9CVExsZFV0SnBqVTlOU3ppaHFQdWFBRmk5V0lTdzZzSlcyVzctMVdmN0N5S3YwS2xCN1JPUlRGNFgycTROZ2V2OXBibGhrU2kxVTBTWXJuYVRob1BPQWdlQTNBelVKVUZOaWp0ZXJ2LWI?oc=5",
-      "source": "Urbanize LA",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "58792329eaf85a41",
-      "title": "New hospital in West Dayton could take next step this month",
-      "summary": "New hospital in West Dayton could take next step this month WDTN.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iQkV3ZDYxclhNYWJfbTAyZVFqb1VTQnBUa29mX2h6QmtMcW1XZU52bFI2a3VLYU5NUzNDWVFBTHBlTEFlVFFzTTR3M2dlaXhDTXRGTTRLcFA4dGhQeHh5TWdwb2U1U3ZJQlBpZ1lhS3JtaVoyMEF0TllxYkbSAYIBQVVfeXFMTWR0ekdzSTFQdERWdlg5VTFQNGV5QnZNTnNJeE92UHg4cVdTZmg1aUhsZEd3VjUxbnR4OVhlLXVMcFotaVhOYm5oWnJPVFNNUlRuTVladHUwaE81Nm1TbnJ6bTZDSktIYVoxeVJhcWpGYVFYb1YycjM0aXQ5UThzYnRTdw?oc=5",
-      "source": "WDTN.com",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "医疗",
-      "image": ""
-    },
-    {
-      "id": "8ed9589756f8c5fe",
-      "title": "Why is Austin's $22 million Barton Springs bathhouse renovation taking so long?",
-      "summary": "Why is Austin's $22 million Barton Springs bathhouse renovation taking so long? KUT",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ2wzb2FaM2V3MzlIcVE5Sm1zNG9mOERweHFIUlZTNWNaLUFCdERoYmN4WExlSVBWbmZqcUlSazdYSkJILV9xS0swd2VXaXNvY2lCeDJDdllrWnE5djZPc01oRzBBWmFOWkZNdUVsWUNGRE0tek5EMXVmSGlFQ0tXeUJuVThwNFNyM3FxR2xjeU12azJ2ZHIxT3FIdHo0SFhJQ0E?oc=5",
-      "source": "KUT",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国其他",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "321778c3c9227f71",
-      "title": "Tishman Speyer and The Cooper Union finalize Chrysler Building ground lease agreement and revitalization plan",
-      "summary": "Tishman Speyer and The Cooper Union finalize Chrysler Building ground lease agreement and revitalization plan The Architect’s Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVE9fR2p2YS14a2Jsc1JNLVlPeURIdFQ4OFpFZTJpYW9TeThycktrMnNmZ0ZJMUVjN1hkYkhRbEZOSERyU21iSTd6Y0piMzl3dGM5cHVEMDkyWFNhWVY3ajc4Z0Z1eEt2WExvLXNmaG5MZkpxSzFCUnpKZ2ctQ1ZPcVVHbzBubTA?oc=5",
-      "source": "The Architect’s Newspaper",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "e7a5f990dfd3bc00",
-      "title": "Helena’s Kessler Elementary breaks ground on new school",
-      "summary": "Helena’s Kessler Elementary breaks ground on new school KTVH",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWIwTkM2RERPdE5LTHlBenVaNlVhRjdkZ1VLejlWbXRqOWJ0OU9nQUtXR1RlYlc2NDVuYW5aaEZ5b3NRYll4VWdwRjVrbURQRVBMTHYybnV0QXp2bzRJQXc4cG5kYXRyZ2dhTjdNNFZ6eUdQQWpsTnZUa2V6ckpDN0U4eUgzSDQ?oc=5",
-      "source": "KTVH",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "340d6d41081f73e2",
-      "title": "Education Minister Stands By Changes Limiting New School Enrollment to Residents of Kenmount Terrace",
-      "summary": "Education Minister Stands By Changes Limiting New School Enrollment to Residents of Kenmount Terrace VOCM",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HZUpmbk9vVHNYcEFkenZnWnFDb2JObTNBa2hKclhkVFR3WkM3T0RhdWFaLUM0NHdCQUhJN2J4QjhFSWhIVy1UVTNyMA?oc=5",
-      "source": "VOCM",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "34d7abe7b101e484",
-      "title": "New School Build For Roddensvale Moves To Pre-Tender Stage",
-      "summary": "New School Build For Roddensvale Moves To Pre-Tender Stage 4ni",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObmIzLUEwLVdrMEJiQmdHS0FhNUZNMFRFT1NTWDZieUJsN3RPMUVPUDRReHZ5dzc1aFRGSXNwQUFBRy0tZDNtUWg0ZE1zSWFCNmJvc1J6TGNra3B1eHlyMFhsRm93RVEtQ1BVSlZoZXlsQ2lPWGpyS1N6dGkxQ0ttTmszbF83OXBjTDA4NzlBc1ZZTzQzNmVadlNYdmp1RlM2RTRxLU1JVFR4RzRQVEE?oc=5",
-      "source": "4ni",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "bc3615ff162c66f6",
-      "title": "Kansas City will tap 30 years of tax growth to repay Royals stadium construction",
-      "summary": "Kansas City will tap 30 years of tax growth to repay Royals stadium construction KCUR",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbU5Lem9GTkxJc2EzeVB5ZmFyUFJuX2ZlMGRfeDNuelRnNGJUOW9HcUdreFZjbUl1MWxtLTZMQmQ1cXdxVG01WmljbTdlWDM3RjJVaURLVUpBdU5oVUtKUDliaVEtRWR4ZHd4SzBsMzY2TGRSWXpfS2JxZTkyamljMXZUQ3BkckVGYUp6T09tY0VQcl95cC05eEpDY05XY0pLS3RlTzFPSk5DWGh1dFRodlF6NE9tVkJaNUo4SXhsOWFVNEJCRXZKVVNJbTlvcjljME85TFRETzhabm9fcXRn?oc=5",
-      "source": "KCUR",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国中西部",
-      "sector": "体育",
-      "image": ""
-    },
-    {
-      "id": "b8fa464071152390",
-      "title": "Crews install tallest roof arch for Athletics stadium in Las Vegas",
-      "summary": "Crews install tallest roof arch for Athletics stadium in Las Vegas KSNV",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa0pzV0VlOENObU1CcHMxdXgzSFVlRkhzZS0zWlFxUTRrZW1qWm9PazJnOHZLN0NlTEx5dGgxZ1BnWVpwbHc3VXMxTzJPZlloYmtmWEMyRkhRV0NNZy1QVE04cjhCVlBmV3NOSE9jaFlFaVFRU1lVb1pMY0ZIYjVpOERPREZJX1V6ZmFFZF9ZS2FucXN4VklDS242TUVrVWtnajNmQ3JDSTFDNjdtUTJKdXpOZXpldlBUMUVWWTRCUGttQ2dPVmhnS1hkWnZLY2FCc255cmdB?oc=5",
-      "source": "KSNV",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "体育",
-      "image": ""
-    },
-    {
-      "id": "57df85a7fb23a00e",
-      "title": "Project officials for new Nissan Stadium share construction update",
-      "summary": "Project officials for new Nissan Stadium share construction update News Channel 5 Nashville",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWWpzSHVMQXpkenoybTB6ZUlEdnZiaEswNjV2LVRxSVVNMzcxcEpSWHU1cUs4ODhPUGM2SjdNSWM5OVpsZDRpOWs3cW1rcWRIVTNGUkhBdHpjTVE3SXZObVhWbXdMbVhkcjlySTVoWnJpV0cta0RMczg0YUJmMXJUUUxuaEs1Z3NQNkZmamJWeWhKWUt2SklDcUxXTzYybFkwUGc?oc=5",
-      "source": "News Channel 5 Nashville",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "体育",
-      "image": ""
-    },
-    {
-      "id": "6be6110c8477a37b",
-      "title": "Kansas City council to vote on Royals half-billion in stadium bonds, taxes and zoning",
-      "summary": "Kansas City council to vote on Royals half-billion in stadium bonds, taxes and zoning KCTV",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMlMzQVJmSFFpS2JiTnh6YW9zNUkzSUtSSXYxdXV4eURZMElRM0xzMDg4RHdjQThkVnlaU2Nxd0NWdWZHU1c5MWVMZzNyMjFvSVc3czRWRlJUN01GUEZWVF9rV1NscjlIZG84Nm8zeEVtRFI0VzU2SGNZYU9RX2c3UU4xeHNaV1lWRVNiVjVndm5XWlVQbTN3VDZGSWg1YmRqZFBCVXpRSHhGX1U4anfSAcIBQVVfeXFMT0IwQWswUlM1Zy1kOVZwOWpKY0hkRG8tZmVqZ0NycUszM3NWa2xCMHFHT05fd2ZyN1pOMXNNcnZFY0F6TE5mUXJXalEtVVlqajFFM2RSbUVBVFpIdzM1VWhVWHlpZFE5bmVrcUgtbDgxZDU0RDd1cFBCaGlTczV4Y2tiWFpIX0xVQS1MQzRkUWt2UlFsWW1PNWNvZGFyUW1yclpmZmN1bU5IWmFKcWc2ZnR4V25HNlRNTnJvVGJKUWJEa3c?oc=5",
-      "source": "KCTV",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国中西部",
-      "sector": "体育",
-      "image": ""
-    },
-    {
-      "id": "d9a180936610bfd7",
-      "title": "Full building permit issued for development at 315 S. Jefferson",
-      "summary": "Full building permit issued for development at 315 S. Jefferson Urbanize Chicago",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR1NxSWN5WVFaeGxlTzNOODRmaTlJY291YVl0aGpGcmN5N055OVNKc21nbFpiY0JXTUh2dFduZXhCS3Y0aFZmMHVKb3llbUg3cHN6Sk9YY2Ytd0VITkZOTktiNk9qVmlBQTFvWUVncHhZV00td2pyakVlV0ZuRG1lYmoxMWpnUXI1aHVTMjVMMXcyX05r?oc=5",
-      "source": "Urbanize Chicago",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "审批落地",
-      "region": "美国中西部",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "d5d15f90980cb237",
-      "title": "Wave Cube / Scenic Architecture Office",
-      "summary": "Wave Cube / Scenic Architecture Office ArchDaily",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwUlJFSi1JanFzd29xNDVTUzlOTGt1QzRnX0lBeEQwV240d1UzU3ZPVWI1ZFY1WXlUZmtqZGROeFZGbGg0SGtnaExadFppRk96VnBxbkRSUkhhamo5NEx1TjhaN1dtMHhMWVE2MkZsTHBseG1MN0diNmF3?oc=5",
-      "source": "ArchDaily",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "商业办公",
-      "image": ""
-    },
-    {
-      "id": "6decb7b9d91f93db",
-      "title": "The design story behind the breathtaking Shenzhen Natural History Museum",
-      "summary": "The design story behind the breathtaking Shenzhen Natural History Museum Wallpaper*",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaExHR3dkaWloQVNyODVZdDE1b2ZsRVIyZFZvUi1vd1EtLWRqZWVFb1FXQmZqYlQzRUdnekpkWGlhVnZOQXJtcWZPeUFpRnIxNnBzd2Vmb05OOXd2ZktoUHV6ZmhaSFdYbmdHYVh5OXFyaXR6bFJKczN1UGhnVjZzMDlPT0g4a2M?oc=5",
-      "source": "Wallpaper*",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "文化公共",
-      "image": ""
-    },
-    {
-      "id": "c87acf7190756866",
-      "title": "The Next World’s Tallest Building Just Surpassed an Iconic New York City Skyscraper",
-      "summary": "The Next World’s Tallest Building Just Surpassed an Iconic New York City Skyscraper People.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2dhSm5DTG1ud1BGRDAxWHltbnM0aTlxT3JNUXgzOW04ZEpIc016U0NZMy1WVGRJOE54aG43YUVaUFhpb3hXMnp3UFVhcGxwcnBRSHNYQ0FwRll0cUVpWXdDa05ra2dPb3k4YlhUNHpxNHVCdzB2WkNCVXhHT1Q0aGhhUXVhdXNsQW05VC1Nem1nRC0wTmVEVm1Qb0x4aTI5OTgwYzA1Z1Y?oc=5",
-      "source": "People.com",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国其他",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "c071fc1eb88ac954",
-      "title": "HITT breaks ground on $500M solid rocket motor manufacturing site",
-      "summary": "HITT breaks ground on $500M solid rocket motor manufacturing site Construction Dive",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oZTM4NjQ5QXBZbnJ5Ml8xRXBpOW0tSkRRM2VxMEgzdnh4cHpyZFpRU0pxaHVRVnVDcWliOEVVWERFU3ZJb0xfcnFVOVo0VTFXd3ZwUllqRzdRYlU1bnA1akNIWlotTmxWTU11d25RQkViekZVVlNuMldycExhM2M?oc=5",
-      "source": "Construction Dive",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "ea141e650526d997",
-      "title": "A $6 trillion question hangs over the AI construction boom",
-      "summary": "A $6 trillion question hangs over the AI construction boom Construction Dive",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRDB4MFBPMVZQYXhCSEQtbjZTbnJyc05rN2VDeXJpUEpJLXVMV0tacjBEZHRaODhUNTZRVzZwdHdVbVBHbHpkSU13VWJKS0V0alpfR3o3a3ZrdWhsWWxobGtWUFJVaE51dEdxdkZtVWwtZXl5XzF6QUVzRWRILW5IRDNIcThvbUJOZTc1Vjl4dmlIdw?oc=5",
-      "source": "Construction Dive",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "892d8eb312cc3e20",
-      "title": "Education, healthcare projects boosted construction planning in September",
-      "summary": "Education, healthcare projects boosted construction planning in September Construction Dive",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVFNmUTBOelgwQ3R3alNhTzNrTHRxNEtLa1lxQXo4dVlXYy1Qc21vMTQwRmgzRWFPQVRKTUJ3OVBRbko3Ml9YRTBodThwNmlHNWdGU3pBbzdwZUdRRzFUaFVYMXlsRVFQQkVCYW4tN0Jvd0FZT2tBVnZqOElheVlXQ0hQSjZjRFlQMFIwOFMzdUV1b2FhR3pQWmU5cnhKbEpoX1UwYm1ZTEVXSTVXS1cwQ0tDY1V3QQ?oc=5",
-      "source": "Construction Dive",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "26c3bbde682a97ff",
-      "title": "Top 80 Apartment and Condominium Engineering Firms for 2026",
-      "summary": "Top 80 Apartment and Condominium Engineering Firms for 2026 Building Design + Construction",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUXYxLWgtdG1zSmpyR3A4eXdJV09QNnY1enptUklrbkNPZjJ1UVVtby1lTFB4V1FMSjNmSWsteG53cDZzUnJuRUlLVGc2X1lwX1J2cVZYMVEycThEUUZOT05CMTZmZ1ZBOUdQMERrdEFzdks1MVJpOEh2bFVYdVBmZ0NGZTNmTXhad2pXb1M3Vkh0dW1SeFJnR3pDbkZONkhuZmNBcmJrWmF3YW8zWHhtM251cVI?oc=5",
-      "source": "Building Design + Construction",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "f8e3e222f94b029c",
-      "title": "Top 170 Apartment and Condominium Architecture Firms for 2026",
-      "summary": "Top 170 Apartment and Condominium Architecture Firms for 2026 Building Design + Construction",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTG5DbkZfWXlDTWVIaVZxQXluQl96eTBVUDFWTXgtVkNwTTdXRmpuLUFkaFo0dW1fR3NIc0VydFFKcHROUVlhZnh2dl9BY3Z2M0NpSW13d2ZFV2ZYLUEycUpKa0ZYM2dvb0lnZ1RFaHBFYWtJZ3VGVW04ZUd4N0hseUVWTWFxZjlQNGc1c1RRdTVma0hvZFY0aG1mdjFSNG9wa0hSby1ra3A3eVRqaDhxOVlZLTVKelU?oc=5",
-      "source": "Building Design + Construction",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "948c4be2996fd88e",
-      "title": "Top 100 Apartment and Condominium Construction Firms for 2026",
-      "summary": "Top 100 Apartment and Condominium Construction Firms for 2026 Building Design + Construction",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaXdVQmJRTmNqeWxTWFd1cUtnX3VoSzY0U3VueVF3Z1FLWHczMUx2Q2syajJPMXRDZmpTWEd6eVdtZUxTTnk1NnVzSUpJbTJ4NXNMRUg5enFpNmczSDY3cDRuWVUxUy0xeU1nVFA4WVVWNUd1SFZmVlNkS0tDN1RndTdMQnVFRXdZQ1kxc1VrMDdIS0M2Y0hBVXFMeVJia1dRTlFsdEpvRTVERzVSMGR2bTBQZWpBVDg?oc=5",
-      "source": "Building Design + Construction",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "689c98bef3b4f8e6",
-      "title": "NOTA unveils new designs by Tadao Ando and Herzog & de Meuron",
-      "summary": "NOTA unveils new designs by Tadao Ando and Herzog & de Meuron Archinect",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN2x6Rk1tUEZjdGNDdGdHOHpWSHU0bzl5MjZtMGxtbF9GNGNueThMRXFXTzA1aDN1YVNVb2ZQaWZRdzNORUtnU0NVYmdkNHpabzBBZksyM3pKTEEtNnVCcmprSEZCOEhMMG95WGJVRU1BM3dCN1N4ZFcyWklUQ0pGZnJ0akVkSTNRdXkzZnJkTTZ1enpFTG5lbkNRQlRZYTBPOE1xT2VQbw?oc=5",
-      "source": "Archinect",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "78fd92022e1e057e",
-      "title": "Explore 20+ intermediate-level architecture & design positions in New York City",
-      "summary": "Explore 20+ intermediate-level architecture & design positions in New York City Archinect",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOWFSWEFIRW9MNFZnaHpCbDQwZXpBbHNmcFdESFJROWx2SkktTGZCbjNKUjVrVEx4WTZmRnZKNFZ1OGItTlNLZC00WVVOMk1VSWZ0R1Y1MmZlOC1sZFZIdlI1amJnN1pRTEhvcldERkN1WDA0aXYxODA2OG92MnVSTEVNUmNYa3BxZ3R2M0MyVGFZOFFFZWN0U3hySWExaF8tV3FKSnlfbkFJNFA3QUxtM21INzJlOWFhblJwQlFn?oc=5",
-      "source": "Archinect",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "美国其他",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "8cd19c9ea28dc987",
-      "title": "Details emerge for Washington Park mixed-use campus",
-      "summary": "Details emerge for Washington Park mixed-use campus Urbanize Chicago",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUx3U05RRXhlM1M3eUstSnhkNTF0dWNTcjk4Qkh3Y1Z4Vkc5OUpzNFVmdk5DNzFFOHZzdlRGVGlTNVdtaWdmQ211dURNUVEzcndTS2Z4ZWhXYW5XRmhqcjdHZWFwc2k1TlBlNUpCZkstcnhtNzluTFJEaWt6T2ZTM3RoUWpQcjA2Vnc?oc=5",
-      "source": "Urbanize Chicago",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国中西部",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "e81a79c2946f0d84",
-      "title": "In the Sonoran Desert, a Market Hall–Inspired Library by Richärd Kennedy Architects is Designed for Flexibility",
-      "summary": "In the Sonoran Desert, a Market Hall–Inspired Library by Richärd Kennedy Architects is Designed for Flexibility Architectural Record",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRDZ2Yk1qTS1oVmplRy1iRjB3UndtY3RwOFJoMGdnN0xYWEZCMjJRZXZ4TGIySTVfNjBkRUpYQ3dtVzdScFBPQWhPUWppd1FXRWxJVTMwR0Zid1hyMHFOcjJ1bDJtelRFclBaY0VxOU8tYk5lMzlCb1dSTWR4dXQ1Y3RyS1g5NHpFXzNFOV9qSDExbm4wdkpsTjlIY2hCWjROZDJRX2wtaHdneDZvekFiV0xzeXVxNkVoRDcwUXRyNmg3QWpOWVVlbnNBbVRWcnJFTXNMYTlDREFubWVuTlRwTUE2SjZHYW50b0Jwb214TDRHdw?oc=5",
-      "source": "Architectural Record",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "e0eaf21d78370364",
-      "title": "UC Berkeley’s Newest Building Is All About Human Interactions",
-      "summary": "UC Berkeley’s Newest Building Is All About Human Interactions Metropolis Magazine",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzV4MlpPMHNSWW02V01wQmswbldkdDNiRkZ5ZGFlWF8zVUl4RU5uVDdhYnFOMjZva19hX2R2aFV1ZE1mOVpuV0FCUjhHZ1JaaXdpMDY0Z2NyRU5DUGU1ak9wUUdDLU5RemFVRkVJVDJNdk9kS1ZualhZVVNpb0RQdG9WX3hPN3RubFA2dmViUmJ2RVFzT3hzSmZvWHA?oc=5",
-      "source": "Metropolis Magazine",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "3ff980b8758d39eb",
-      "title": "Director of Client Development (Multifamily) – Northern California",
-      "summary": "Director of Client Development (Multifamily) – Northern California AIA Career Center",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGc2xZTm1HaVdQTThWbF9XcGlNWlB1THZSVXlnRFlJUmc2NGxCTlRTY1ZOR1hsbFdlenFSek4tblYwM1JZTXJVRG0td1dHMmVxN1pRdWxxREd3QTQ4b2FPYXIzdXA2b2tIanZr?oc=5",
-      "source": "AIA Career Center",
-      "feed": "Google News",
-      "published": "2026-10-08T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国其他",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "4ca4834b0b6bb86e",
-      "title": "Photo 14 of 16 in This Country Home in Australia Almost Burned Down Before It Was Even Completed",
-      "summary": "Photo 14 of 16 in This Country Home in Australia Almost Burned Down Before It Was Even Completed Dwell",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVmRWUHp3eXA2eXkySm51WEM0di0zNFI4Zy1yWE9KY0p5TG9HUkU0dTh6VHJuN3Y2WlNMeS1OM1BsQ3pNZkZ2b1hoeGE4eHZWcHFEcE9mZk10UHhqcm9halZWOFBwMzBFeGhSYzhmcGs3MTRyWTM1Y0hqODRULWpKV2F4cHRLcFpENFlUM3lmelZreDlRYXBTRXROd3BadEpsWHJSSlNXRG5qUWc?oc=5",
-      "source": "Dwell",
-      "feed": "Google News",
-      "published": "2026-10-07T22:51:35+00:00",
-      "category": "项目竣工",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "48f08aa99da3e056",
-      "title": "Construction begins on Abilene Regional Airport terminal expansion, set to finish in 2028",
-      "summary": "Construction begins on Abilene Regional Airport terminal expansion, set to finish in 2028 KTXS",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSmhUbG5QcW04MmtxVV9tRWdVYWpkSEJmNjQtVkZmTHI5ZGFxOGc1d2NzNG10YkMxZUJhLUdBOFh6R0owTVhGemdZdWFtZmdxYlZjUVlPWGFyOFBCWHY4M1pKb0xpaDd4OERmeHgwRnF2ZW5QaVl5eVdVNFZVRGNSUlBHM3BCRXVNbnk3RDR5NHJmZU90Yk92V0FEa045azk3cFItcTdVV1FNMnJiMzhySExsY0lfcEZ0Z2dpcXd1TVhodTZkcU1CZkdRS0k?oc=5",
-      "source": "KTXS",
-      "feed": "Google News",
-      "published": "2026-10-07T08:03:06+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "交通基础设施",
-      "image": ""
-    },
-    {
-      "id": "812312de1c269c23",
-      "title": "Marion County Commission reluctantly clears way for residential development",
-      "summary": "Marion County Commission reluctantly clears way for residential development Ocala StarBanner",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUEhYQXRNdnh4c0d3YmdxLUxCQTRVZ1lMeERyMk9MWkFVNWd2YVMzRGpOVGlHY21haVFDRTE3YzVwZ0t6dlBfOUdaR2U1U0VETFBKcTRLaHBET2p3U0lvaDZpNnhHdW9uVjVTQlp4LWNDUUdFSi12bmhiSno3SVBpUjBHTEdxS3U0eS0zdUxaaDZtTmFZOTFNSDVxaWtBV18zbUpfVTRxbzJua2FlMnphNDlHaDVDN0o0bUtqdUVOejF5bjVEc0JIWkFlczRlZw?oc=5",
-      "source": "Ocala StarBanner",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "爱荷华",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "40bd8ce77c3e7f54",
-      "title": "See where MLS wants to build $65M downtown Des Moines soccer stadium",
-      "summary": "See where MLS wants to build $65M downtown Des Moines soccer stadium The Des Moines Register",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSXdLdVZHWmh1ZTMzYjA1bHJ3anlYQjd5ZzlEUGw1Z3dzZGxtODRpdUt1XzJoUlpYOVNBcXVlUHlGRGxKTGIyaWJxSUg3V0JNN3FiUlJOQ0tBNHBxVjU5cUhDLXhNMGVmV2s5SE1lWi1vTnZmX0EtOUlfWnpxR1g0VFcwbkVMZjQ4NXpuXzZySnkza0xncGVZNFduQzhHUVY0NTFoclB6VGtYcWdKWlllbzNSakpqZUpEczJ3SDR0Y3ctWURpalBZOExKS2NiaUZyajJIZkdzQ1JWbDZrX05j?oc=5",
-      "source": "The Des Moines Register",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "爱荷华",
-      "sector": "体育",
-      "image": ""
-    },
-    {
-      "id": "612c72b191d629c9",
-      "title": "DMACC partners with Ankeny school district to offer on-site early childhood education training",
-      "summary": "DMACC partners with Ankeny school district to offer on-site early childhood education training Iowa Capital Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZmFVbmZlSmU0UUxFRWdOOW9NbGppNXpxeVFSYjdqNHE0OHBkS3NvR19CdTQ5UUtjTEVaRkpROEVwWmFYWFFCSTRkMDFMakE2NkJMSVdRcUVCZTBRZEkzTDNBU2tpNzJwQUpaQl85dUtZUlpPcFI0Q3dzM0ExSlEyX3dDeDJsZ2lJUnVvb0hReG91NWs5UzJ4dmQyS2NsampEV1d1SHhrc3lTOGYtREVjQzBQSW1veVAwWGR0YnNCVDJWdG9HNmNIanRXZVctT1B0R1JrSg?oc=5",
-      "source": "Iowa Capital Dispatch",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "爱荷华",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "51f4a3493795c065",
-      "title": "Lakeway City Council approves Lakeway Town Center expansion | Lake Travis - Westlake",
-      "summary": "Lakeway City Council approves Lakeway Town Center expansion | Lake Travis - Westlake Community Impact",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTDhNRlFsd1hRRVp1enV6TzRsRWxjOC1FejhUTFZSTkNLckdMdkZ2djNVaGxRYThTQS1DLUpMLVNabVdhanpPekNYQ2NKaERBZFRfTHVqQTZ6eUZjb1ZqeDYtaERUVGJlM01nUUhSdnlBdnVkRXhJdG91Y0tyMnFadWprTkV2QlZwajNOOVRCeFFVajJLUDE4bWFLbV8zT3lhLVlnOW9hNXA3ekp1WjU0ekVQWFB5d3lIOWN5d1hn?oc=5",
-      "source": "Community Impact",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "e45ff5ea26f72517",
-      "title": "Housing development approved at corner of Maple St. and 580th Ave.",
-      "summary": "Housing development approved at corner of Maple St. and 580th Ave. Pierce County Journal",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQTlLbWhaM2hHTkVCZk5VQzI4TnNpTWw2ZVdFOG45UVl1RFhrZ2lhXzNNNjhHaktTM2l0YkotQmJIMjhlWWJVaV85c1c1N3FMV2Q4NmVHNFVLYV94bEI2alpKd1hTZDlCaEZ0TTZPLUh1TDUzdEVGYXB4dllKV09uYTJsRjk5eUw2dE12eG5PeEl3eVkyVjhMOHlPT3hCakZCdWFVZFctekZkbXVYQ3hyLTdtNFpGS1U?oc=5",
-      "source": "Pierce County Journal",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "审批落地",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "2a3b8c336c7f0437",
-      "title": "Charleston board approves removal of 25 grand trees for West Ashley housing project",
-      "summary": "Charleston board approves removal of 25 grand trees for West Ashley housing project WCIV",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNdFRWVnprYTJ2SmtZdDh5SnhuYjFkYzhGTFBidGExVmFtb2J1N3ljZjhscG8tcTVBYmdNZ24zWUFoVF8xeUlYdmRPWENJaXNOaTQyeklNY1VmcUNxZVc0UUFIQ201eUhnenJVVkNFdEF6NWdKTFBpei1ubmRGd195b045WFhmZVIyeUo2eWtxWFhBRzJYdHlDWktqaG1odXhmdEN2N3hUbFhCdklodFpZcHltWXVxLW5aTHAwR0ktVnFaZzR3THlERHBtQzQ1RFFQZ2NuWEVoVTk4MHVqOHl6ZmNnelg0M2NqMjRIM3ZvR0RFUmotekZ6S2FZY1lPX2MzS1lRWTJsOUtmZXdCSnVMSzBHQ0FvT3dUXzNPbTEyV3Q1eDVJSXlGaQ?oc=5",
-      "source": "WCIV",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "住宅",
-      "image": ""
-    },
-    {
-      "id": "d2f5dac91cbb14ee",
-      "title": "USU Prepares for Animal Science Building Renovation",
-      "summary": "USU Prepares for Animal Science Building Renovation Utah State University",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY3V2Ny0zdlJFeXFvcEwtNHhNTDVYbnV3enNNSm85VHo5OXo0eUZHMGU4ZVhHY0tpRV9ZZkZjOWpVc2FWS0c4Q3BDNUZMZzBCTVNackVySnZqV2tld21ieVFHamwzbVc2UVEtTmduY0M1bldjaGZVRFAwN1lyVWp1TThjckhtZE02UURR?oc=5",
-      "source": "Utah State University",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国其他",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "ab5ae52263a12248",
-      "title": "Downtown Architecture Programs in Calgary and Birmingham Are a Lesson in Urban Renewal",
-      "summary": "Downtown Architecture Programs in Calgary and Birmingham Are a Lesson in Urban Renewal Architectural Record",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeHlsSW4wcnB4azU0STBnaUk3LXR5SENPUFNpNThlNmM4NDRLZ3FtRng5ZmVkSk11RnljN0VGRWhOckNGcDRRWXV2ZHRSWjhYeWZtQy1FVVdvTTh6dnZfYjBzU0tSdzhDS1Q0YVBnODhoNnRtdldrZDlIWlJnTHhEUDVuc0VzcFRpTC1ZMlBMOUJXTWduSjYyNXZGLWFWRXkwaDJiQnQ3WnJNazdaMnh5Nzh3bHJUMG9Ia0ZpUE1oaXpSNlZPeURqWVNPaGkzNU9VWkxv?oc=5",
-      "source": "Architectural Record",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "557f4f84437a4143",
-      "title": "Tishman Speyer Takes Over Chrysler Building With Big Renovation Plans",
-      "summary": "Tishman Speyer Takes Over Chrysler Building With Big Renovation Plans The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ2dpXzNuWTVoN2hEZm9yV2kzUGNpcV9HMVpORWRxMW8xdEs2RC1qTEpvS0xTeTJsa2pxUjFVVVRGY01lTkRFbjdXWjYwbW15TDNlYlhucktWenhPZlNjOTh0ajhrSU43ZlRNa0ZTVkh4dllBT00xbU9YQk1jWHNKRk14R0wzVG1T?oc=5",
-      "source": "The New York Times",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "美国其他",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "5114a2f2767b99a7",
-      "title": "Best Real Estate Projects: Former Resources Building Renovation",
-      "summary": "Best Real Estate Projects: Former Resources Building Renovation The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdlA3dEcxWi0wMWpXdkNqZ0FRZE02LUxQdzlZemtmUEM1cWhyTVkxeVdpWmg2YmZUV3JNNXo1a2pGUzVZRE5RZUp1S2FqZXZoMzMydF9NMVRqcTVfeVdfY0pCSnBXWkluc0dybGJoLWJReE1kay1xNmRnc0dUTFZUbFBLTGRVNDd5WW9namYwaVZ3enhIaGNrbno0WVZLV0xSdzkwTg?oc=5",
-      "source": "The Business Journals",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "7b0a9638cb26c5ec",
-      "title": "Logan’s skyline transforms with new hospital car park underway",
-      "summary": "Logan’s skyline transforms with new hospital car park underway Metro South Health",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSFJWQzJhbUtLbVFTZEI0alhkQVFMdnR4TXBHZXhHcEduS1YyRGVMN1J6eFZ4MEFFVTZzdlJhQXhTdHl1SWVHNkQxM2JHZW1jUUt6amxjVVZoWWlyaUE4VHBKZ3NTUWZDenV2U3ROb0xWaHJUWl9VV0dMQjYyZmtERk9HZDByV0tHeEFGdUxQY29wdC1EanVMdFh3SjZGSUtxOVFvZlNnOUJscXRvUW01aW5ycDRZQjBxY1QySWRwY04tOUdPT1FyN09xOA?oc=5",
-      "source": "Metro South Health",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "医疗",
-      "image": ""
-    },
-    {
-      "id": "d3b82c4a62041750",
-      "title": "New School of Social Work Building Recognized for Design Excellence",
-      "summary": "New School of Social Work Building Recognized for Design Excellence The University of Maryland, Baltimore",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTWpPZ0NYNktBYmFpZmZmX0R5eUxHRHppVTl3eVN4U2VYQ1kwelJmM29QZ2dfd3cydWI4em1uclVPWTM5Y2djOHk2elY4bG12ZlgyVFJ2X2xLWl94UmZRTUw3dWxDeGtuTHhfN1ZSTzNzZzAtUzhIYXNsUWd4djdhd3V4WEpQckNLX3dVTm9aWWx0U3dfcExPMzNiS0RoY0VuLUlzbEk0dEk4eU1jUjNLZ0ZDVnkzdVk?oc=5",
-      "source": "The University of Maryland, Baltimore",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "设计发布",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "bc1c24ba5088d16b",
-      "title": "Ascension Parish School Board breaks ground on new office",
-      "summary": "Ascension Parish School Board breaks ground on new office Gonzales Weekly Citizen",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcDlIcFJIaDZEZl9OcGxaLUlqZFJZM0dFUHRrc1NfY0dOYmRWa2tyNnBhNEVNVVNieWxjS1RseTZoNGpFLTJXTFdEcHZsMG5vNWoxRkdHbkFFMGlSaTRIbTJOMU1zOUxGWnpyLXJmY0QyYkVFNU9UNGFodjNHVjlhaTdubzlnVXZlLWFIUG12bFlnMEJHRUpFWHdGWFBJQ1FlbTJXczVSYkRMR0E2UmJHMElPcHZsTndTeG15bkNsSF9Zc2V6d19IdXlaNktnZmREaXZkZTdB?oc=5",
-      "source": "Gonzales Weekly Citizen",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": ""
-    },
-    {
-      "id": "f6cec557f97be29c",
-      "title": "Inside look: A’s Las Vegas Strip ballpark dome rises as construction advances",
-      "summary": "Inside look: A’s Las Vegas Strip ballpark dome rises as construction advances KSNV",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWFiVkNTYkt4OF85SFI0TGpBaG1lQjJvZy05Z3o5cXI5ZXpkU2hteHFRNmNtcWpKNkZNa2F6Uk42ZkVuc3ZQSFBHckxkczV6eUZLZUk3cEJUNklXZWluNVhWRWpiWnB2R05HVDdnN0xtOWFwU01jYXZXZzdNaURaeXdzeVFTNS1WS1dnQnQ2ZDdvOG5tUTd4RzBoZlNTNjlUeUxQNG5UaVpodw?oc=5",
-      "source": "KSNV",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "综合项目",
-      "image": ""
-    },
-    {
-      "id": "e3826b3e204af444",
-      "title": "Odessa Sports Complex reaches construction milestone",
-      "summary": "Odessa Sports Complex reaches construction milestone CBS7",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZDFtTkc0SElTTEVSdW5jWW1XTUpGZXBORVlhdGRwOWNCRFdkeEMydFJDLXFFZmRyaEpFUk1uLWVnM01pWUNoaTNTY3R4NXlTNmRGeU11TXhvUUpFNUk3RlhQWURKejlTYlZpNHdWT1lwRy1MTE43TXllRnh6VGVHMXc0Q3JlR1g4RUhuV2VuczNlTmhGb1pJ0gGrAUFVX3lxTE9EbEN2UUhZSldYVV9TMkJoazRqbl9fZ29PSE9Zb1VvaU9yT1hfekVUSC01SWlBVnNDeU9KWFhJbTdPcGlReUVwU0RDeEViWG1xZmhUbTdNM3NxQW5zRWVNNUc3ZGVTNGNURXhnRGNHaHd3MjBTR0MwMmNNaDBROW5SenZWRTVzcEFTRVFCdUJCZ3dFS3BncXNJTGtSQkxxNHhnR3pWdE9iZEtiWQ?oc=5",
-      "source": "CBS7",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "体育",
-      "image": ""
-    },
-    {
-      "id": "7a10ee6df4e65ee1",
-      "title": "‘Spherical Armadillo’ Of The Strip Taking Shape: Construction Of A’s Stadium Halfway Complete In Las Vegas",
-      "summary": "‘Spherical Armadillo’ Of The Strip Taking Shape: Construction Of A’s Stadium Halfway Complete In Las Vegas LVSportsBiz",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcnI2eXlsRkU3cUpCRlVuVk5adFpUQWNrY0VZaGFvX1k4b250WXVJNjJicWxYZk9wQVhmWWx3bXZieFlLUlltMEpxVktqcE5EbE9OYVdCcDNHYnJLNDc3MjJfVmZJOGVZOTROdzdlTTgzRi02cWxHSnJablQ5RXloYnJSUGJmOEVGbXAwR2tCRVEwQllDbEdVMG1GLVJHa19Cb09FQURuNnpiUlM5OC1NWExWb1g4c09NdFRoRDMydWpISy1GYXgwRXl4dVNmQ3NabjZJLdIB2gFBVV95cUxPdHFWdXFPZ3VveDViaFJzMnhMQTRoOGZrMW1WMXdVeWh1aFd3MF9NV2hfekJOYlVJNXp0b040Z0thN1F0aTNieVdsSmF5QjlOLU1qZGtLWEdIQXZlb0x2OEJUd3dVSWRhbUNETG5MYzdUem5NV1JhVlpERlVjV1RLRUgzY2Q4aXdQczFvRlpMejRQcGRmTjgydXRRN1BMR21fNUtuZW9YSVlEd2pMU0Z0Z0tBT1BRQmVpUEJ1RHZXMlhVRXdOQk9tX0ZGTUNfUUdPai1XVDNyN1BKdw?oc=5",
-      "source": "LVSportsBiz",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "体育",
-      "image": ""
-    },
-    {
-      "id": "7df134e00a7ff46c",
-      "title": "Odessa celebrates major milestone in construction of $145M sports complex",
-      "summary": "Odessa celebrates major milestone in construction of $145M sports complex newswest9.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSHJNUXRuaVRROUpORjQ5S0kxLWp5bGpRbGNDcVJVX1N5dDBCanNOM2tRcXdYUFlUTEFKeTFBSkMwRVVnOXJMb2VwdTNENnl4R1VZc2FwaGtwam9ycTU3YzI3VjZWRVlrcndKd2dwU2RnSWd4Tk5JbkMyZ3dLV21GVGktMER1MzZFdXdnZDdnRW1JeW1iZXQ3dkg2c0JlM1psUDI1Y1ZBei1ub0p2bzd5WjhRd092NmRFazMxdlJ4YklRZFRCaU5zMkptZWtQajhFbGc?oc=5",
-      "source": "newswest9.com",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "体育",
-      "image": ""
-    },
-    {
-      "id": "17bc9f3b2d73544f",
-      "title": "Rays' Experience Center will offer fans, team partners previews of new Tampa stadium",
-      "summary": "Rays' Experience Center will offer fans, team partners previews of new Tampa stadium WUSF",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM0QyQ2E5SXJEUkdRcUxiMW5TMWpnX1dVSUYtNU9mT2h6Ni1keFhNaXctcU9PeWpHeTdNTVIwcXJhNm9nazJhMDlyYWlZX2Q1eTJabHNyQnZzSUNuVG9Ncmw5SVE0SkVXbWNsVmtpenlfcDIzZkw0QVdOdml6Y2NyTWdlNFVGWUxLSEF1Y05BZ1RuVVprN3N1cjB0QUdzYVhjQXpGMjB3WG9RTjJPRGtGbmwyZ1F2YjRGalE?oc=5",
-      "source": "WUSF",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "体育",
-      "image": ""
-    },
-    {
-      "id": "e8029c79635309ad",
-      "title": "New Jewish Community Center Approved for Construction in Ulyanovsk",
-      "summary": "New Jewish Community Center Approved for Construction in Ulyanovsk The Federation of Jewish Communities of the CIS",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMURWd1J1TzRVSDVCb2dnOHlsOFBBUmttMVpfM3UwQmpwTFdwaV9CQlFINTlUeE5idEM3ZFlBaS1VQUhYN1F1MkthbVk2cDd6Z050U3Jva05aYnpPUTQ4cUNZS0ZXajNYcHpZWnhxWEFjMXduT2Nnb18tN2tCUXBSZnRzZHEtbHlhbkJiN1BsaXk?oc=5",
-      "source": "The Federation of Jewish Communities of the CIS",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "审批落地",
-      "region": "国际 / 未识别",
-      "sector": "文化公共",
-      "image": ""
-    },
-    {
-      "id": "73993643e57c2383",
-      "title": "La Mott Community Center construction to begin mid-October",
-      "summary": "La Mott Community Center construction to begin mid-October Glenside Local",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa242bVJJeGJHSzdKUkZMSXI3QmZDbTdHaFNZUUY5N3lueERRem9yLTNoSG1KWFo5Wksxa3htSzBLZWlyZ0xDODIzbU90YzdZRGN2czhUNnhiYXJzMzRsek1PMVU1aWxSM2RHY0J2YVlpM3FXNVpxR1JteWU5c2NXRE1HUnQ2c2JfbzF3OWdB?oc=5",
-      "source": "Glenside Local",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "文化公共",
-      "image": ""
-    },
-    {
-      "id": "e80f9da78d5328d8",
-      "title": "Franklin County Regional Airport Aviation Community Center gets $2.7M for construction",
-      "summary": "Franklin County Regional Airport Aviation Community Center gets $2.7M for construction ABC27",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORWZtTURxUXV3eEZjLXdxcDRXNm5RNVJWZHlhR2ctZjlDR0NjRHhET0l5OUxPb3FkeHo2UEc4VVlDMU1HR1h3U2E0WS1PZ3JIZ2NhWERBdEs1eGREeFByaC1WdEZITXctdTFBRjZGb25Jay1LQUd5TWd6Sk1GdExyRmh5cld6WFM1R3dSTzR4MFBzcTd5MDROWWU1TWNNLXVGZEFaUVlwOG5IYUxHVkg2VXl6NNIBuAFBVV95cUxNMmhnV2w5WWkwNjRLemxndE1ic2EyaDBGc3p1alRjNVExYVBGV29ybzl5VF92dnB5cUZxN2J2QWlXNnVNNS12X2Y1MmphZ0NVdUQtNHpLLUNiUWR3dU45aE4ySGE2d2pwRXlYQlFya0xfUDNSR1FBRXU5dnZNRG1ua1lpUm1NeVBzQThxeDREYVF2b0ttR25hQ3ljU3BaeFlSWUpiYWMyQjd1RVhYbEdhX2V3cjhJcTU3?oc=5",
-      "source": "ABC27",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "文化公共",
-      "image": ""
-    },
-    {
-      "id": "fb352a71b6db9a9d",
-      "title": "Airport terminal building gaining momentum",
-      "summary": "Airport terminal building gaining momentum Stuff.co.nz",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXRKRFdPQTd6aFYxWG03MUg0clczcENWMThuZzdCbW1VeHJnWUp2VW5EQldjZzZsak90X0hRM3Y0YnZ3aFFnYVpJSWxNREx3OEhfaEtrMkt2NFpjNEh6cWVPNzRvNnFTUTVka1pORm9PUTdUVmNkcGJ2WS11RC1hRFA1Umg?oc=5",
-      "source": "Stuff.co.nz",
-      "feed": "Google News",
-      "published": "2026-10-07T07:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "交通基础设施",
       "image": ""
     }
   ]
