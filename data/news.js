@@ -1,10 +1,36 @@
 window.ARCH_RADAR_DATA = {
-  "updated_at": "2026-11-27T15:09:41+00:00",
+  "updated_at": "2026-11-28T14:59:14+00:00",
   "total": 1800,
-  "feed_count": 42,
+  "feed_count": 6,
   "feed_attempted": 44,
-  "source_count": 918,
+  "source_count": 916,
   "articles": [
+    {
+      "id": "5b733c98693bca82",
+      "title": "Nuuk Airport / ZESO Architects",
+      "summary": "Nuuk Airport is both architecturally and functionally a response to the beautiful yet harsh Arctic Climate.",
+      "url": "https://www.archdaily.com/1187745/nuuk-airport-zeso-architects",
+      "source": "ArchDaily",
+      "feed": "ArchDaily",
+      "published": "2026-11-28T06:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "交通基础设施",
+      "image": "https://images.adsttc.com/media/images/6ae3/2e44/3271/8400/01d0/fba0/newsletter/AD_Nuuk_1.jpg?1793273441"
+    },
+    {
+      "id": "6f7ed15a0dc19aa0",
+      "title": "Shenzhen UDC Multifunctional Space / of gaaarden design",
+      "summary": "Traditionally, offices, retail spaces, and places for social activities have had clear boundaries. As lifestyles change, however, we are seeing these boundaries gradually become less distinct. Located in a high-rise office buildin",
+      "url": "https://www.archdaily.com/1189267/shenzhen-udc-multifunctional-space-of-gaaarden-design",
+      "source": "ArchDaily",
+      "feed": "ArchDaily",
+      "published": "2026-11-28T02:00:00+00:00",
+      "category": "设计发布",
+      "region": "国际 / 未识别",
+      "sector": "商业办公",
+      "image": "https://images.adsttc.com/media/images/6b07/ceab/62b6/4801/886c/41f7/newsletter/shenzhen-udc-multifunctional-space-of-gaaarden-design_24.jpg?1795673787"
+    },
     {
       "id": "1a9aed047259317e",
       "title": "Architecture News",
@@ -216,6 +242,19 @@ window.ARCH_RADAR_DATA = {
       "image_checked_at": "2026-11-27T15:09:41+00:00"
     },
     {
+      "id": "f2a2242ddfd7fcfc",
+      "title": "Villa Dellago / JM Architecture",
+      "summary": "Villa Dellago is a private villa located in the natural landscape of the east shore of Garda Lake, in Italy.",
+      "url": "https://www.archdaily.com/1032631/villa-dellago-jm-architecture",
+      "source": "ArchDaily",
+      "feed": "ArchDaily",
+      "published": "2026-11-27T11:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "综合项目",
+      "image": "https://images.adsttc.com/media/images/688a/0ab7/cb12/3801/8612/d588/newsletter/villa-dellago-jm-architecture_1.jpg?1753877202"
+    },
+    {
       "id": "1155f0fe5c5cf309",
       "title": "Work to turn ex-Post Office into arts hub completed",
       "summary": "Work to turn ex-Post Office into arts hub completed Yahoo News Canada",
@@ -284,6 +323,19 @@ window.ARCH_RADAR_DATA = {
       "sector": "体育",
       "image": "https://s.yimg.com/lo/mysterio/api/65bcd31cc1fedbb7100e7e46684fea1dd2ef36b42c15aeb698a85edf7b8a98c7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F5d8d8d57edbee774090f3db6e91a9684.jpg",
       "image_checked_at": "2026-11-27T15:09:41+00:00"
+    },
+    {
+      "id": "3e78222ea0afbe6e",
+      "title": "Argentine Media Library / CONTINUO ARCHITECTURE",
+      "summary": "Located in the Argentine neighbourhood of Beauvais , France, the new Argentine Media Library is part of a major urban regeneration programme. Designed by CONTINUO ARCHITECTURE, the project aims to create a new cultural landmark, s",
+      "url": "https://www.archdaily.com/1189058/argentine-media-library-continuo-architecture",
+      "source": "ArchDaily",
+      "feed": "ArchDaily",
+      "published": "2026-11-27T10:00:00+00:00",
+      "category": "行业动态",
+      "region": "国际 / 未识别",
+      "sector": "教育",
+      "image": "https://images.adsttc.com/media/images/6b04/3611/94d7/ea00/019d/0140/newsletter/DSCF11000_11.jpg?1795438112"
     },
     {
       "id": "71218f0c2649614e",
@@ -2194,7 +2246,7 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "综合项目",
-      "image": "https://www.enr.com/ext/resources/2026/11/24/resizedConcrete-and-steel-plate-composite.webp?t=1795617105"
+      "image": "https://www.enr.com/ext/resources/2026/11/24/resizedConcrete-and-steel-plate-composite.webp?t=1795877638"
     },
     {
       "id": "8ea024c1fbbc54d1",
@@ -2553,7 +2605,7 @@ window.ARCH_RADAR_DATA = {
       "category": "项目竣工",
       "region": "国际 / 未识别",
       "sector": "文化公共",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/11/kanal-centre-pompidou-brussels-restored-1930s-citroen-garage-em2n-noaarchitecten-sergison-bates-designboom-700-500x400-22b08q85r450.jpg"
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/kanal-centre-pompidou-brussels-restored-1930s-citroen-garage-em2n-noaarchitecten-sergison-bates-designboom-700-500x400-22b08q85r636.jpg"
     },
     {
       "id": "e241700f0b785b6e",
@@ -3874,7 +3926,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "医疗",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "f9ad19371197a9ab",
@@ -3972,7 +4024,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "73170151abcf1305",
@@ -4098,7 +4150,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "e9ed64c16e43d635",
@@ -4168,7 +4220,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "文化公共",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "1d09ef212e2f7596",
@@ -4182,7 +4234,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "体育",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "7ab954a2166016a9",
@@ -4210,7 +4262,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "4c187cc0e3e0f9e9",
@@ -4224,7 +4276,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "b323ece82f517985",
@@ -4308,7 +4360,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "体育",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "bd0f2406cdbfe975",
@@ -4336,7 +4388,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "a06f2d8a144953fc",
@@ -4364,7 +4416,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "2c83f2d6f0bb3e11",
@@ -4405,7 +4457,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "交通基础设施",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "50ba458d9926579b",
@@ -4473,7 +4525,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "e315b50a67ad2e6b",
@@ -4529,7 +4581,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "5e3c7406686352b3",
@@ -4721,7 +4773,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "950000102c6f4adc",
@@ -4749,7 +4801,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "252f8ff966264098",
@@ -4927,7 +4979,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "7f87f94dbe4fc808",
@@ -4983,7 +5035,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "27cbf7d88c8db1f5",
@@ -5011,7 +5063,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "0beda754b7a4cb5b",
@@ -5122,7 +5174,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "文化公共",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "7291d1e6e076b751",
@@ -5275,7 +5327,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "b261654607e47a1a",
@@ -5303,7 +5355,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "7917d09dc7770855",
@@ -5331,7 +5383,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "文化公共",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "1ff8b79ed824e993",
@@ -5401,7 +5453,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "城市更新",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "e59c5821dfc1ccbe",
@@ -5415,7 +5467,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "交通基础设施",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "8b10a021161ae5ec",
@@ -5457,7 +5509,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "fd4bf893fe60a9aa",
@@ -5499,7 +5551,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "1d4a97c4b5e57ce7",
@@ -5554,7 +5606,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "医疗",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "a2774608f5a299ad",
@@ -5582,7 +5634,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "fe69c2320a462329",
@@ -5734,7 +5786,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "659e3f6f1dbdf68a",
@@ -5761,7 +5813,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "2ea5770c341563b6",
@@ -5803,7 +5855,7 @@ window.ARCH_RADAR_DATA = {
       "region": "爱荷华",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "a1af77a9be294a54",
@@ -5817,7 +5869,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "8d86a39c154612d7",
@@ -5914,7 +5966,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "0fd87418e805bd8d",
@@ -6982,7 +7034,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "d19d0bce1b11ba05",
@@ -7175,7 +7227,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "0f7ac3e209cfea35",
@@ -7564,7 +7616,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "da9a00bd82b946ee",
@@ -7578,7 +7630,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "医疗",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "ee9f44b3e4892e36",
@@ -7855,7 +7907,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "46e07e75f1f9a4f4",
@@ -7925,7 +7977,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "医疗",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "3ae4af55d08b2393",
@@ -7981,7 +8033,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "3bc69f3df87cb30b",
@@ -8191,7 +8243,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "38e04988ff371ac0",
@@ -8219,7 +8271,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "d82fe7c6b5aa56ff",
@@ -8261,7 +8313,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "城市更新",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "c5923b34f1bc1fa9",
@@ -8275,7 +8327,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "02790212d055ea68",
@@ -8317,7 +8369,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "f93d77509b6187c3",
@@ -8331,7 +8383,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "7f519e229d66cbc9",
@@ -8415,7 +8467,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "体育",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "4ffb1a7d4da0f262",
@@ -8443,7 +8495,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "e662309ffb37bb21",
@@ -8667,7 +8719,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "商业办公",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "ba1f09aa3b252aab",
@@ -8681,7 +8733,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "dece2cfa3611e2cc",
@@ -8863,7 +8915,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "692f4d6186c4c598",
@@ -8891,7 +8943,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "b8f9530cc8b77430",
@@ -8960,7 +9012,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "13a69ac66f67912e",
@@ -9235,7 +9287,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "20b20ac96a44285c",
@@ -9359,7 +9411,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "09ed39577d9487ce",
@@ -9539,7 +9591,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "aebc2e74b4292dbd",
@@ -9859,7 +9911,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "7e5e62986e3f984e",
@@ -10571,7 +10623,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "4fe2f22af9f37b80",
@@ -10851,7 +10903,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "体育",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "b1195af68f2590f7",
@@ -10975,7 +11027,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "83e8adec4974c83b",
@@ -11786,7 +11838,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "体育",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "1e074acfd8f27606",
@@ -12150,7 +12202,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "0fed34934ab3a8ee",
@@ -13628,7 +13680,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "444c11634639222b",
@@ -13712,7 +13764,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "0bb57c6e946138e9",
@@ -13893,7 +13945,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "1fb069614647af94",
@@ -15286,7 +15338,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "1cf07abebe6d8f60",
@@ -15579,7 +15631,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "3ade67094bb807ae",
@@ -15635,7 +15687,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "商业办公",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "b0eb4666eed39120",
@@ -15858,7 +15910,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "07f842832f7e0a9a",
@@ -15872,7 +15924,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "50007be4b64e992a",
@@ -15942,7 +15994,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "5aa48d90454a476d",
@@ -16012,7 +16064,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "2f6bef6a7428ef5a",
@@ -16165,7 +16217,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "bb3713fa330d1046",
@@ -16179,7 +16231,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "商业办公",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "3174396ea90eaeeb",
@@ -16207,7 +16259,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "75e7f8d01c2b345b",
@@ -16275,7 +16327,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "705eb19dc5c41a56",
@@ -16373,7 +16425,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "276a0ca9067faada",
@@ -16455,7 +16507,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "c8f17db0cce2a3ec",
@@ -16511,7 +16563,7 @@ window.ARCH_RADAR_DATA = {
       "region": "爱荷华",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "76cbf7b621ab850f",
@@ -16524,7 +16576,8 @@ window.ARCH_RADAR_DATA = {
       "category": "项目竣工",
       "region": "国际 / 未识别",
       "sector": "商业办公",
-      "image": ""
+      "image": "",
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "488ced65e190acd8",
@@ -16677,7 +16730,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "体育",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "18c71e5babec079c",
@@ -16704,7 +16757,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "257e234ae5798508",
@@ -16718,7 +16771,7 @@ window.ARCH_RADAR_DATA = {
       "region": "爱荷华",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "b6242d3503708919",
@@ -16787,7 +16840,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "04e38941bd3db125",
@@ -16829,7 +16882,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "交通基础设施",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "694fa74ce55d5675",
@@ -16926,7 +16979,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "44c123e85d0f8dbe",
@@ -17051,7 +17104,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "交通基础设施",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "3c9f979cfb665b67",
@@ -17065,7 +17118,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "bb69684133e86492",
@@ -17093,7 +17146,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "bd82464e9042ed1e",
@@ -17134,7 +17187,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "1ff7c70ce5ada9a1",
@@ -17148,7 +17201,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "85c90df26ebad662",
@@ -17428,7 +17481,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "b1992b199372a1c9",
@@ -17511,7 +17564,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "2ac2c5629c196bce",
@@ -17525,7 +17578,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "文化公共",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "243ee8b386bc05fa",
@@ -17623,7 +17676,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "医疗",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "83e92996cc6af2c7",
@@ -17665,7 +17718,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "2efcb3bffe6ce2cd",
@@ -17707,7 +17760,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "7c8668c630f1e692",
@@ -17721,7 +17774,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "4f16567f84da9819",
@@ -17805,7 +17858,7 @@ window.ARCH_RADAR_DATA = {
       "region": "爱荷华",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "0844ac4000c2b3cc",
@@ -18111,7 +18164,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-23T15:18:14+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "a8abb30775c39461",
@@ -18181,7 +18234,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "596f3eb3b8152796",
@@ -18223,7 +18276,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "768da5460df98c83",
@@ -18265,7 +18318,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-24T15:14:47+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "a6595ebed87491f6",
@@ -18665,7 +18718,8 @@ window.ARCH_RADAR_DATA = {
       "category": "竞赛招标",
       "region": "国际 / 未识别",
       "sector": "综合项目",
-      "image": ""
+      "image": "",
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "34b7dbe3b9c76745",
@@ -20994,7 +21048,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "179944eb2465988b",
@@ -21049,7 +21103,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "d079f0613701ad9b",
@@ -21147,7 +21201,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "093e819d58086e98",
@@ -21161,7 +21215,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-22T14:58:10+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "0b4e0ae5fee0dde0",
@@ -21245,7 +21299,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-22T14:58:10+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "4546681cfbb4c70a",
@@ -21301,7 +21355,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-22T14:58:10+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "d364eebcd499aa74",
@@ -21343,7 +21397,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "8d4da6ad0959d368",
@@ -21357,7 +21411,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "28b3e0647c83a0b9",
@@ -21413,7 +21467,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "医疗",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "3c67afeb2a2ad040",
@@ -21427,7 +21481,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-19T15:08:55+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "c12b54cd96338a6f",
@@ -21441,7 +21495,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "城市更新",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "78e34a37abb1b9ef",
@@ -21595,7 +21649,7 @@ window.ARCH_RADAR_DATA = {
       "region": "爱荷华",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "08ee30ec5eef3af1",
@@ -21609,7 +21663,7 @@ window.ARCH_RADAR_DATA = {
       "region": "爱荷华",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "1d9f9c914f8fe326",
@@ -21623,7 +21677,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-22T14:58:10+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "e988b6fedad7d389",
@@ -21664,7 +21718,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-19T15:08:55+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "6f58afce984469a8",
@@ -21692,7 +21746,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "3d4bfd34a2572e71",
@@ -21761,7 +21815,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "商业办公",
       "image": "",
-      "image_checked_at": "2026-11-22T14:58:10+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "e779406623bba91c",
@@ -21858,7 +21912,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "9ab4dd16b0e88bc6",
@@ -21968,7 +22022,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-22T14:58:10+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "856d454e42534d0f",
@@ -21996,7 +22050,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "医疗",
       "image": "",
-      "image_checked_at": "2026-11-22T14:58:10+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "137276db7e0091b8",
@@ -22009,7 +22063,8 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "住宅",
-      "image": ""
+      "image": "",
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "4fbe393369b29f95",
@@ -22022,7 +22077,8 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "综合项目",
-      "image": ""
+      "image": "",
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "cea7fab98da8a1fb",
@@ -22036,7 +22092,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "b7fb388abe5cb9eb",
@@ -22050,7 +22106,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "1f9b3a5db63d0ebe",
@@ -22076,7 +22132,8 @@ window.ARCH_RADAR_DATA = {
       "category": "设计发布",
       "region": "国际 / 未识别",
       "sector": "综合项目",
-      "image": ""
+      "image": "",
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "3b51f7df40da7895",
@@ -22103,7 +22160,8 @@ window.ARCH_RADAR_DATA = {
       "category": "开工建设",
       "region": "国际 / 未识别",
       "sector": "综合项目",
-      "image": ""
+      "image": "",
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "9174768dfb5d2df9",
@@ -22116,7 +22174,8 @@ window.ARCH_RADAR_DATA = {
       "category": "竞赛招标",
       "region": "国际 / 未识别",
       "sector": "交通基础设施",
-      "image": ""
+      "image": "",
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "55a35073a345ef2c",
@@ -22129,7 +22188,8 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "教育",
-      "image": ""
+      "image": "",
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "e146fd9f30f6e1f9",
@@ -22142,7 +22202,8 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "综合项目",
-      "image": ""
+      "image": "",
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "8b9802a8f18b6203",
@@ -22155,7 +22216,8 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "教育",
-      "image": ""
+      "image": "",
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "bba9d5d9788029ea",
@@ -22168,7 +22230,8 @@ window.ARCH_RADAR_DATA = {
       "category": "设计发布",
       "region": "国际 / 未识别",
       "sector": "商业办公",
-      "image": ""
+      "image": "",
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "4b5945764f7d6ea1",
@@ -22182,7 +22245,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-22T14:58:10+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "9e3984d1870f84aa",
@@ -22195,7 +22258,8 @@ window.ARCH_RADAR_DATA = {
       "category": "审批落地",
       "region": "国际 / 未识别",
       "sector": "综合项目",
-      "image": ""
+      "image": "",
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "a46dd545f0f65181",
@@ -22223,7 +22287,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-22T14:58:10+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "bb373e7636290afd",
@@ -22251,7 +22315,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-22T14:58:10+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "c9b0b6b063ed0326",
@@ -22279,7 +22343,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "体育",
       "image": "",
-      "image_checked_at": "2026-11-22T14:58:10+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "48a0e2432362fd35",
@@ -22293,7 +22357,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "5e2c183490611f07",
@@ -22404,7 +22468,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "b0e5123b7311b239",
@@ -22418,7 +22482,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "f25ad40c57d9e053",
@@ -22445,7 +22509,8 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "体育",
-      "image": ""
+      "image": "",
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "c1fa4d7a84302ac6",
@@ -22459,7 +22524,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "facbe68542266481",
@@ -22499,7 +22564,8 @@ window.ARCH_RADAR_DATA = {
       "category": "开工建设",
       "region": "国际 / 未识别",
       "sector": "教育",
-      "image": ""
+      "image": "",
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "ec69867417f42a6b",
@@ -22527,7 +22593,7 @@ window.ARCH_RADAR_DATA = {
       "region": "爱荷华",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "9866afaa20a8f957",
@@ -22597,7 +22663,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "e5dd42fdc879f390",
@@ -22625,7 +22691,7 @@ window.ARCH_RADAR_DATA = {
       "region": "爱荷华",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "0dbe3d75e8e07494",
@@ -22748,7 +22814,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "e91a34a25dfb5a31",
@@ -22832,7 +22898,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "7691154470a3a386",
@@ -22845,7 +22911,8 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "综合项目",
-      "image": ""
+      "image": "",
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "a354bc52b841147c",
@@ -22872,7 +22939,8 @@ window.ARCH_RADAR_DATA = {
       "category": "设计发布",
       "region": "国际 / 未识别",
       "sector": "教育",
-      "image": ""
+      "image": "",
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "e3347d0669274b33",
@@ -22942,7 +23010,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "体育",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "d273fd4996c4040d",
@@ -22956,7 +23024,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "ae6cb73564becb35",
@@ -23012,7 +23080,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "cc0a620594e3d11a",
@@ -23026,7 +23094,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "体育",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "7d96ad5319c49d73",
@@ -23040,7 +23108,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "2bfd59bb95e1ef8c",
@@ -23054,7 +23122,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "e5c83a5a090f65c0",
@@ -23096,7 +23164,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "体育",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "6b23337dab296d51",
@@ -23110,7 +23178,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "体育",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "f243a412ddb2079f",
@@ -23138,7 +23206,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "d3c63291ec1a5e32",
@@ -23165,7 +23233,8 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "医疗",
-      "image": ""
+      "image": "",
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "0dedcc4299719e84",
@@ -23206,7 +23275,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国中西部",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "dd1bce7d60436568",
@@ -23248,7 +23317,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "体育",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "b18ffc284c9c77f0",
@@ -23317,7 +23386,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "医疗",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "6aab935ee514d389",
@@ -23331,7 +23400,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "6b9e99d5d7d46053",
@@ -23441,7 +23510,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "deac2ff58066b26f",
@@ -23469,7 +23538,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "fc1af052f735a569",
@@ -23483,7 +23552,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "住宅",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "a7948de628cd8f88",
@@ -23510,7 +23579,8 @@ window.ARCH_RADAR_DATA = {
       "category": "设计发布",
       "region": "国际 / 未识别",
       "sector": "商业办公",
-      "image": ""
+      "image": "",
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "e9814071ec1a0eb1",
@@ -23524,7 +23594,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "教育",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "52bfb165de6dd524",
@@ -23551,7 +23621,8 @@ window.ARCH_RADAR_DATA = {
       "category": "竞赛招标",
       "region": "国际 / 未识别",
       "sector": "综合项目",
-      "image": ""
+      "image": "",
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "4fd83c74c10e2d00",
@@ -23621,7 +23692,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "96cab5a8ae164e62",
@@ -23662,7 +23733,8 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "美国其他",
       "sector": "文化公共",
-      "image": ""
+      "image": "",
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "9950ceb532605fa3",
@@ -23704,7 +23776,7 @@ window.ARCH_RADAR_DATA = {
       "region": "爱荷华",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-22T14:58:10+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "a37eb803d335984d",
@@ -23746,7 +23818,7 @@ window.ARCH_RADAR_DATA = {
       "region": "美国其他",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "221075ee33e8a22e",
@@ -23788,7 +23860,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "713dababfbf7d46f",
@@ -23802,7 +23874,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "综合项目",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "24cdd90d805b7a30",
@@ -23830,7 +23902,7 @@ window.ARCH_RADAR_DATA = {
       "region": "国际 / 未识别",
       "sector": "体育",
       "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
+      "image_checked_at": "2026-11-28T14:59:14+00:00"
     },
     {
       "id": "fd5354a70f5d9a8a",
@@ -24911,61 +24983,6 @@ window.ARCH_RADAR_DATA = {
       "category": "行业动态",
       "region": "国际 / 未识别",
       "sector": "住宅",
-      "image": "",
-      "image_checked_at": "2026-11-21T14:59:24+00:00"
-    },
-    {
-      "id": "67eb81a4ffa9613b",
-      "title": "Navajo Code Talker Museum groundbreaking announced",
-      "summary": "Navajo Code Talker Museum groundbreaking announced Tri City Record",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTWpLSWl2dTJUdy1LVVVQWnBPbWJBa0ZJXy1NMXFETlBuR2Z3N2lOLTRhcC1KT0U0cEM3bE05Z1NNbUN5amxzd2prLV9KZTcyTXNvd3RNc1RSajVkeFgwcE5HbjAwODVlTnpad0RlWEU1VktEUExURnA4WTJxU0FSNy1TNC1RRWNZWWN2YnRvSVNGeks4YkcySDRjZHUtV0ZDd0ExNmRR?oc=5",
-      "source": "Tri City Record",
-      "feed": "Google News",
-      "published": "2026-11-12T00:12:30+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "文化公共",
-      "image": "https://imengine.public.prod.dur.navigacloud.com/?uuid=9679965A-324A-561B-84E5-E52781F0CE0A&function=cover&type=preview&source=false&width=1280&height=853",
-      "image_checked_at": "2026-11-12T15:05:57+00:00"
-    },
-    {
-      "id": "17b9794c1f39edc4",
-      "title": "Tsuyama Hotel I & II Renovation / NAAD + studio tata",
-      "summary": "Hotel I & II, Tsuyama is a pair of small hotels created through the renovation of two machiya townhouses in the Joto area of Tsuyama, Okayama Prefecture, Japan. The district is a historic townscape where traditional townhouses lin",
-      "url": "https://www.archdaily.com/1187432/tsuyama-hotel-i-and-ii-renovation-naad-plus-studio-tata",
-      "source": "ArchDaily",
-      "feed": "ArchDaily",
-      "published": "2026-11-12T00:00:00+00:00",
-      "category": "行业动态",
-      "region": "国际 / 未识别",
-      "sector": "商业办公",
-      "image": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e54a/newsletter/Hotel-I_room202_01_Yosuke-Ohtake.jpg?1792769470"
-    },
-    {
-      "id": "1f22dcfeaed180d6",
-      "title": "Downtown Fresno school breaks ground on $1.7M playground with $100K donation",
-      "summary": "Downtown Fresno school breaks ground on $1.7M playground with $100K donation The Business Journal",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNzlfWjVWTlczSGFMT2RlMlU3TDd2TlZxelUwZTNtbkJ3QXM5SHI4U3pQYWFrNWV6OUR0QnJNRjBSazNEVWtaZzFMRnVrMjZYX0FlTVlKcU1YRXRubFBtMUNlM0JuZVRwQzl1UXBRbVlBY2FoUER4dVpjbjNDcVk2TDRB?oc=5",
-      "source": "The Business Journal",
-      "feed": "Google News",
-      "published": "2026-11-11T23:59:32+00:00",
-      "category": "开工建设",
-      "region": "国际 / 未识别",
-      "sector": "教育",
-      "image": "https://thebusinessjournal.com/wp-content/uploads/2026/11/IMG_1860.jpg",
-      "image_checked_at": "2026-11-12T15:05:57+00:00"
-    },
-    {
-      "id": "1050772b1d2fdf1f",
-      "title": "A modest proposal for finishing O’Hare on time",
-      "summary": "A modest proposal for finishing O’Hare on time Crain's Chicago Business",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWnk5cFdSUTA0WXpneUoxMjdGWndKWWJCRU1XbllCbVF0UklMalNyUzVZUzFkSmpsR3VjYy1nSUFLMkRaSWNIcFIzMDcwM3pQNzdZQy1oYmRkWDdFZUthcEFfMHhKVU5yamtzVkQxa2lfNUdRTHA5aEF0NEZUSEwzb044OGYzV2pEc0kyTUxPQ29EZGlpcWZVOEZ3?oc=5",
-      "source": "Crain's Chicago Business",
-      "feed": "Google News",
-      "published": "2026-11-11T23:29:03+00:00",
-      "category": "设计发布",
-      "region": "美国中西部",
-      "sector": "综合项目",
       "image": "",
       "image_checked_at": "2026-11-21T14:59:24+00:00"
     }
